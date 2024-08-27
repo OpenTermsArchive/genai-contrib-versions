@@ -21,12 +21,12 @@ PLEASE READ THIS PRIVACY POLICY CAREFULLY AS IT AFFECTS YOUR RIGHTS AND LIABILIT
 
 Please be advised that any Information procured by us, shall be:
 
-* processed fairly and lawfully for rendering the Services;
-* obtained only for specified and lawful purposes;
-* adequate, relevant and not excessive in relation to the purpose for which it is required;
-* able to be reviewed by the User, from time to time and updated-if need arises; and
-* not kept longer than for the time which it is required or the purpose for which it is required or as required by the applicable law
-* shall be used only for providing and improving user-facing features that are prominent in our Platform’s interface. 
+*   processed fairly and lawfully for rendering the Services;
+*   obtained only for specified and lawful purposes;
+*   adequate, relevant and not excessive in relation to the purpose for which it is required;
+*   able to be reviewed by the User, from time to time and updated-if need arises; and
+*   not kept longer than for the time which it is required or the purpose for which it is required or as required by the applicable law
+*   shall be used only for providing and improving user-facing features that are prominent in our Platform’s interface. 
 
 If you do not agree with this Privacy Policy, you may refuse or withdraw your consent any time, or alternatively choose to not provide us with any Personal Information, you understand that under such circumstance, we may be unable to render Services. Any such intimation to withdraw your consent can be sent to help@rephrase.in.
 
@@ -34,9 +34,9 @@ WE SHALL NOT BE LIABLE FOR ANY LOSS OR DAMAGE SUSTAINED BY REASON OF ANY DISCLOS
 
 ##### **2\. TYPES OF INFORMATION COLLECTED BY US**
 
-* **“Personal Data”** means and includes any Information that relates to a natural person through which an individual is identified, such as the name, email id, country of origin or any other information relevant to product choice and preferences provided by a User, including but not limited to information gathered through availing Services.
-* **“Technical Information”** means and includes any Information gathered through various technologies that may employ cookies or similar technologies to automatically record certain information from your device through which you use the Platform. This technical information may include your Internet Protocol(IP) address.
-* **"Non-Personal Information”** means and includes any information that does not reveal your specific identity, such as, browser information, information collected through Cookies (as defined below), pixel tags and other technologies, demographic information, etc. As is true with most websites, our Company gathers some information automatically when you visit the Platform. When you use the Platform, we may collect certain information about your computer or mobile to facilitate, evaluate and verify your use of the Platform. For example, we may store environmental variables, such as browser type, operating system, speed of the central processing unit (CPU), referring or exit web pages, click patterns. This information is generally collected in aggregate form, without identifying any User individually.
+*   **“Personal Data”** means and includes any Information that relates to a natural person through which an individual is identified, such as the name, email id, country of origin or any other information relevant to product choice and preferences provided by a User, including but not limited to information gathered through availing Services.
+*   **“Technical Information”** means and includes any Information gathered through various technologies that may employ cookies or similar technologies to automatically record certain information from your device through which you use the Platform. This technical information may include your Internet Protocol(IP) address.
+*   **"Non-Personal Information”** means and includes any information that does not reveal your specific identity, such as, browser information, information collected through Cookies (as defined below), pixel tags and other technologies, demographic information, etc. As is true with most websites, our Company gathers some information automatically when you visit the Platform. When you use the Platform, we may collect certain information about your computer or mobile to facilitate, evaluate and verify your use of the Platform. For example, we may store environmental variables, such as browser type, operating system, speed of the central processing unit (CPU), referring or exit web pages, click patterns. This information is generally collected in aggregate form, without identifying any User individually.
 
 (The Personal Data, Technical Information, and Non-Personal Information are collectively referred to as **“Information"**).
 
@@ -54,22 +54,22 @@ WE SHALL NOT BE LIABLE FOR ANY LOSS OR DAMAGE SUSTAINED BY REASON OF ANY DISCLOS
 
 ‍
 
-1. to render Services and facilitate your use of the Platform;
-2. to respond to your inquiries or fulfill your requests for information about the various Services offered on the Platform;
-3. to provide you with information about Services available on the Platform and to send you information, materials, and offers;
-4. to send you important information regarding the Platform, changes in terms and conditions, user agreements, and policies and/or other administrative information;
-5. to send you surveys and marketing communications;
-6. to improve user experience
-7. to help you address your problems incurred on the Platform including addressing any technical problems;
-8. to protect the integrity and for proper administering of the Platform;
-9. to conduct academic research, surveys, analytical studies on various aspects including user behavior, user preferences etc.;
-10. to respond to legal, judicial, quasi-judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law;
-11. to implement information security practices;
-12. to determine any security breaches, computer contaminant or computer virus;
-13. to investigate, prevent, or take action regarding illegal activities and suspected fraud;
-14. to enable a potential buyer or investor to evaluate the business of the Company.
-15. Business or Research Purposes: The Information saved and except Sensitive Personal Information, is used for business or research purposes, including improving and customizing the Platform for ease of use and the products and services offered by us. We may archive this information to use it for future communications for providing updates and/or surveys.
-16. Aggregating Information/ Anonymized data: We may aggregate Information and analyze it in a manner to further accentuate the level of services that we offer to our customers. This Information includes average number of Users of the Platform, the average clicks of the services/, the features used, the response rate, etc.  and other such statistics regarding groups or individuals. In doing so, we shall not be making disclosures of any Sensitive Personal Information as defined above.
+1.  to render Services and facilitate your use of the Platform;
+2.  to respond to your inquiries or fulfill your requests for information about the various Services offered on the Platform;
+3.  to provide you with information about Services available on the Platform and to send you information, materials, and offers;
+4.  to send you important information regarding the Platform, changes in terms and conditions, user agreements, and policies and/or other administrative information;
+5.  to send you surveys and marketing communications;
+6.  to improve user experience
+7.  to help you address your problems incurred on the Platform including addressing any technical problems;
+8.  to protect the integrity and for proper administering of the Platform;
+9.  to conduct academic research, surveys, analytical studies on various aspects including user behavior, user preferences etc.;
+10.  to respond to legal, judicial, quasi-judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law;
+11.  to implement information security practices;
+12.  to determine any security breaches, computer contaminant or computer virus;
+13.  to investigate, prevent, or take action regarding illegal activities and suspected fraud;
+14.  to enable a potential buyer or investor to evaluate the business of the Company.
+15.  Business or Research Purposes: The Information saved and except Sensitive Personal Information, is used for business or research purposes, including improving and customizing the Platform for ease of use and the products and services offered by us. We may archive this information to use it for future communications for providing updates and/or surveys.
+16.  Aggregating Information/ Anonymized data: We may aggregate Information and analyze it in a manner to further accentuate the level of services that we offer to our customers. This Information includes average number of Users of the Platform, the average clicks of the services/, the features used, the response rate, etc.  and other such statistics regarding groups or individuals. In doing so, we shall not be making disclosures of any Sensitive Personal Information as defined above.
 
 \[Individually and collectively referred to as ("**Legitimate** Purposes")\]
 
@@ -81,15 +81,15 @@ WE SHALL NOT BE LIABLE FOR ANY LOSS OR DAMAGE SUSTAINED BY REASON OF ANY DISCLOS
 
 5.3.       We may disclose any Information provided by you on the Platform as may be deemed to be necessary or appropriate:
 
-* under applicable law, including laws outside your country of residence;
-* to comply with legal process;
-* to respond to requests from public and government authorities including those outside your country of residence;
-* to protect our operations or those of any of our affiliates;
-* to protect our rights, privacy, safety or property, and/that of our affiliates, you or others;
-* to allow us to pursue available remedies or limit the damages that we may sustain; or
-* to protect against legal liability;
-* to protect the personal safety of Users of the Platform;
-* to prevent or investigate possible wrongdoing in connection with the Platform.
+*   under applicable law, including laws outside your country of residence;
+*   to comply with legal process;
+*   to respond to requests from public and government authorities including those outside your country of residence;
+*   to protect our operations or those of any of our affiliates;
+*   to protect our rights, privacy, safety or property, and/that of our affiliates, you or others;
+*   to allow us to pursue available remedies or limit the damages that we may sustain; or
+*   to protect against legal liability;
+*   to protect the personal safety of Users of the Platform;
+*   to prevent or investigate possible wrongdoing in connection with the Platform.
 
 5.4.       Merger or Acquisition: We may share Information upon merger or acquisition of Company with another company. We shall transmit and transfer the Information upon acquisition or merger of Company with another company.
 
@@ -147,10 +147,10 @@ Your Information will primarily be stored in electronic form; provided, however,
 
 You agree, acknowledge and consent that we shall not be transferring any data, except for in the following scenarios:
 
-1.  Where such transfer of data is to provide or improve our appropriate access or user-facing features that are visible and prominent in the Platform’s interface.
-2. Where such transfer of data is for security purposes.
-3. Where such transfer of data is necessary to comply with applicable laws..
-4. Where such transfer is part of a merger, acquisition, or sale of assets of the developer after obtaining consent from the user.
+1.   Where such transfer of data is to provide or improve our appropriate access or user-facing features that are visible and prominent in the Platform’s interface.
+2.  Where such transfer of data is for security purposes.
+3.  Where such transfer of data is necessary to comply with applicable laws..
+4.  Where such transfer is part of a merger, acquisition, or sale of assets of the developer after obtaining consent from the user.
 
 ##### **10\. COOKIES AND OTHER TRACKING TECHNOLOGIES**
 
@@ -168,10 +168,10 @@ You agree and accept that your Information may be stored in third-party cloud se
 
 Your information will not be in readable format except in the following cases:
 
-1. It is necessary that we view specific messages, files, or other data to provide Services;
-2. It is necessary for security purposes (for example, investigating a bug or abuse);
-3. It is necessary to comply with applicable law; or
-4. The data (including derivations) is aggregated and used for internal operations in accordance with applicable privacy and other jurisdictional legal requirements.
+1.  It is necessary that we view specific messages, files, or other data to provide Services;
+2.  It is necessary for security purposes (for example, investigating a bug or abuse);
+3.  It is necessary to comply with applicable law; or
+4.  The data (including derivations) is aggregated and used for internal operations in accordance with applicable privacy and other jurisdictional legal requirements.
 
 ‍
 
