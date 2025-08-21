@@ -22,13 +22,13 @@ We use cookies to operate and provide the Service. For example, we use cookies f
 
 Cookies may be set by the website you access (i.e. first-party cookies) or by a third party (i.e. third-party cookies).
 
-* **First-party cookies**. We may use cookies to automatically collect information about you so that you may use the Service more easily.
-* **Third-party cookies**. Our use of cookies also contain cookie files stored on your device by third parties. For example, we may use third-party cookies to prevent cyber-attack activity on websites.
+*   **First-party cookies**. We may use cookies to automatically collect information about you so that you may use the Service more easily.
+*   **Third-party cookies**. Our use of cookies also contain cookie files stored on your device by third parties. For example, we may use third-party cookies to prevent cyber-attack activity on websites.
 
 In addition, cookies may be automatically deleted when you quit your browser (i.e., session cookies) or saved on your device even after you close your browser (i.e., persistent cookies).
 
-* **Session cookies** are temporary cookies. We use session cookies to remember you during the course of your visit, and they expire or will be removed when you close the web browser.
-* **Persistent cookies** are used to remember your preferences. They will remain on your device after you close your browser or restart your computer. We use persistent cookies for security purposes. Persistent cookies contain expiration dates. After the expiration date, the cookie will be removed from your device.
+*   **Session cookies** are temporary cookies. We use session cookies to remember you during the course of your visit, and they expire or will be removed when you close the web browser.
+*   **Persistent cookies** are used to remember your preferences. They will remain on your device after you close your browser or restart your computer. We use persistent cookies for security purposes. Persistent cookies contain expiration dates. After the expiration date, the cookie will be removed from your device.
 
 How We Use Cookies
 ------------------
