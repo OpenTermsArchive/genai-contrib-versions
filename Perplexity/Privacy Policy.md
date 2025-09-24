@@ -21,7 +21,7 @@ Please read this Privacy Policy carefully. By using any of the Services, you agr
 
   
 
-1. CHANGES TO THIS PRIVACY NOTICE
+1.  CHANGES TO THIS PRIVACY NOTICE
     ------------------------------
     
 
@@ -31,7 +31,7 @@ We may modify this Privacy Policy from time to time, in which case we will updat
 
   
 
-2. COLLECTION AND USE OF YOUR INFORMATION
+2.  COLLECTION AND USE OF YOUR INFORMATION
     --------------------------------------
     
 
@@ -47,22 +47,22 @@ When you use or access the Services, we collect certain categories of informatio
 
 Some features of the Services may require you to directly provide us with certain information about yourself. You may elect not to provide this information, but doing so may prevent you from using or accessing these features. Information that you directly submit through our Services includes:
 
-* Basic contact details, such as name, address, phone number, and email (“**Contact Information**”). We use this information where necessary to perform our contract with you to provide the Services, and to communicate with you (including, with your consent where required, to tell you about certain promotions or products or services that may be of interest to you).
+*   Basic contact details, such as name, address, phone number, and email (“**Contact Information**”). We use this information where necessary to perform our contract with you to provide the Services, and to communicate with you (including, with your consent where required, to tell you about certain promotions or products or services that may be of interest to you).
     
 
-* Account information, such as name, username, email and password (“**Account Information**”). We use this information where necessary to perform our contract with you to provide the Services and to maintain and secure your account with us. If you choose to register an account, you are responsible for keeping your account credentials safe. We recommend you do not share your access details with anyone else. If you believe your account has been compromised, please contact us immediately at support@perplexity.ai.
+*   Account information, such as name, username, email and password (“**Account Information**”). We use this information where necessary to perform our contract with you to provide the Services and to maintain and secure your account with us. If you choose to register an account, you are responsible for keeping your account credentials safe. We recommend you do not share your access details with anyone else. If you believe your account has been compromised, please contact us immediately at support@perplexity.ai.
     
 
-* Payment information, such as credit or debit card information and billing address, which we collect using a third party payment processor (“**Payment Information**”). We use this information where necessary to perform our contract with you to process your payment and provide the Services.
+*   Payment information, such as credit or debit card information and billing address, which we collect using a third party payment processor (“**Payment Information**”). We use this information where necessary to perform our contract with you to process your payment and provide the Services.
     
 
-* Applicant details, such as information included in your resume or CV, references, and job history (“**Applicant Information**”). We use applicant details in our legitimate interests to process your application for employment and to evaluate your candidacy. For Singapore, we use this information for evaluative purposes and for the purposes of entering into an employment relationship with you. 
+*   Applicant details, such as information included in your resume or CV, references, and job history (“**Applicant Information**”). We use applicant details in our legitimate interests to process your application for employment and to evaluate your candidacy. For Singapore, we use this information for evaluative purposes and for the purposes of entering into an employment relationship with you. 
     
 
-* Your input and output, such as questions, prompts and other content that you input, upload or submit to the Services, and the output that you create, and any collections or pages that you generate using the Services (“**Service Interaction Information**”). This content may constitute or contain personal information, depending on the substance and how it is associated with your account. We use this information where necessary to perform our contract with you to generate and output new content as part of the Services. If you make content publicly available or share content with third parties, please note that it may be stored, displayed, reproduced, published, or otherwise used or disclosed without your permission, and may or may not be attributed to you.
+*   Your input and output, such as questions, prompts and other content that you input, upload or submit to the Services, and the output that you create, and any collections or pages that you generate using the Services (“**Service Interaction Information**”). This content may constitute or contain personal information, depending on the substance and how it is associated with your account. We use this information where necessary to perform our contract with you to generate and output new content as part of the Services. If you make content publicly available or share content with third parties, please note that it may be stored, displayed, reproduced, published, or otherwise used or disclosed without your permission, and may or may not be attributed to you.
     
 
-* Any other information you choose to include in communications with us when necessary to perform our contract with you, for example, when sending a message through the Services or providing your size when purchasing certain products (“**Other Information You Provide**”).
+*   Any other information you choose to include in communications with us when necessary to perform our contract with you, for example, when sending a message through the Services or providing your size when purchasing certain products (“**Other Information You Provide**”).
     
 
   
@@ -73,13 +73,13 @@ Some features of the Services may require you to directly provide us with certai
 
 We and certain third parties also automatically collect certain information about your interaction with the Services (“**Usage Data**”) through the use of cookies, pixels, tags and other tracking technologies (“**Tracking Technologies**”). Usage Data includes:
 
-* Device information, such as device type, operating system, unique device identifier, and internet protocol (IP) address.
+*   Device information, such as device type, operating system, unique device identifier, and internet protocol (IP) address.
     
 
-* Location information, such as approximate location.
+*   Location information, such as approximate location.
     
 
-* Other information regarding your interaction with the Services, such as browser type, log data, date and time stamps, clickstream data, interactions with marketing emails, and ad impressions.
+*   Other information regarding your interaction with the Services, such as browser type, log data, date and time stamps, clickstream data, interactions with marketing emails, and ad impressions.
     
 
   
@@ -94,22 +94,22 @@ We use Usage Data in our legitimate interests to tailor features and content to 
 
 We may obtain information about you from outside sources, including information that we collect directly from third parties and information from third parties that you choose to share with us. Such information includes:
 
-* Analytics data we receive from analytics providers such as Google Analytics (“**Analytics Information**”), which we use in our legitimate interests to understand your interaction with, and improve, our Services.
+*   Analytics data we receive from analytics providers such as Google Analytics (“**Analytics Information**”), which we use in our legitimate interests to understand your interaction with, and improve, our Services.
     
 
-* Information we receive from career websites, such as LinkedIn, Monster, or Indeed, which we use in our legitimate interests to process your application for employment (“**Employment Information**”). For Singapore, we use this information for evaluative purposes and for the purposes of entering into an employment relationship with you.
+*   Information we receive from career websites, such as LinkedIn, Monster, or Indeed, which we use in our legitimate interests to process your application for employment (“**Employment Information**”). For Singapore, we use this information for evaluative purposes and for the purposes of entering into an employment relationship with you.
     
 
-* Information we receive from consumer marketing databases or other data enrichment companies, which we use in our legitimate interests to better customize advertising and marketing to you (“**Advertising Information**”).
+*   Information we receive from consumer marketing databases or other data enrichment companies, which we use in our legitimate interests to better customize advertising and marketing to you (“**Advertising Information**”).
     
 
-* Information we receive from business partners and other companies that we partner with to provide you with free or discounted access to the Services or other offers or promotions, which we use in our legitimate interests to provide you with free or discounted access to the Services (“**Partner Information**”).
+*   Information we receive from business partners and other companies that we partner with to provide you with free or discounted access to the Services or other offers or promotions, which we use in our legitimate interests to provide you with free or discounted access to the Services (“**Partner Information**”).
     
 
-* Information we receive when you choose to link any third-party platforms to your account, such as when you sign into your account through Google or Apple (“**Third Party Platform Information**”). We use this information only where necessary to perform our contract with you, to maintain your account and login information and to provide you with the Services, including to generate and output new content.  Third Party Platform Information may includes your name, profile picture and email address.
+*   Information we receive when you choose to link any third-party platforms to your account, such as when you sign into your account through Google or Apple (“**Third Party Platform Information**”). We use this information only where necessary to perform our contract with you, to maintain your account and login information and to provide you with the Services, including to generate and output new content.  Third Party Platform Information may includes your name, profile picture and email address.
     
 
-* Information from publicly accessible sources, such as information that’s publicly available online (like articles, websites, and journals) or from other public sources, which we use where necessary to perform our contract with you (“**Public Information**”).
+*   Information from publicly accessible sources, such as information that’s publicly available online (like articles, websites, and journals) or from other public sources, which we use where necessary to perform our contract with you (“**Public Information**”).
     
 
   
@@ -130,7 +130,7 @@ Any information we receive from outside sources will be treated in accordance wi
 
   
 
-3. COOKIES AND OTHER TRACKING TECHNOLOGIES
+3.  COOKIES AND OTHER TRACKING TECHNOLOGIES
     ---------------------------------------
     
 
@@ -148,7 +148,7 @@ Your browser settings may allow you to transmit a ‘do not track’ signal. Lik
 
   
 
-4. DISCLOSURE OF YOUR INFORMATION
+4.  DISCLOSURE OF YOUR INFORMATION
     ------------------------------
     
 
@@ -156,25 +156,25 @@ Your browser settings may allow you to transmit a ‘do not track’ signal. Lik
 
 We may disclose your information to third parties subject to this Privacy Policy, including the following categories of third parties: 
 
-* **Company Group:** Our affiliates or others within our corporate group, in accordance with our contract with you, and for internal administration or support purposes, in our legitimate interest to run a successful business and in order to provide our Services.
+*   **Company Group:** Our affiliates or others within our corporate group, in accordance with our contract with you, and for internal administration or support purposes, in our legitimate interest to run a successful business and in order to provide our Services.
     
 
-* **Service Providers:** Vendors or other service providers who help us provide the Services, including for system administration, cloud storage, generative AI and content creation, security, customer transaction facilitation and relationship management, marketing communications, web analytics, payment networks, and payment processing.
+*   **Service Providers:** Vendors or other service providers who help us provide the Services, including for system administration, cloud storage, generative AI and content creation, security, customer transaction facilitation and relationship management, marketing communications, web analytics, payment networks, and payment processing.
     
 
-* **Business Partners:** Third parties through whom you receive access to our Services, including via use of a promotion code or other method provided by such business partners, in our legitimate interest to provide you with free or discounted access to our Services.
+*   **Business Partners:** Third parties through whom you receive access to our Services, including via use of a promotion code or other method provided by such business partners, in our legitimate interest to provide you with free or discounted access to our Services.
     
 
-* **Other Third Parties, including other users:** Third parties to whom you request or direct us to disclose information, such as through your use of social media widgets or login integrations, when you purchase third-party goods through the Services, send an email or interact with your third party email or calendar account through the Services, or otherwise choose to share or make output or other information visible to others, including other users. We do this as necessary for the performance of a contract, or in our legitimate interest to provide you with access to the Services and integrations with third parties, or with your consent.
+*   **Other Third Parties, including other users:** Third parties to whom you request or direct us to disclose information, such as through your use of social media widgets or login integrations, when you purchase third-party goods through the Services, send an email or interact with your third party email or calendar account through the Services, or otherwise choose to share or make output or other information visible to others, including other users. We do this as necessary for the performance of a contract, or in our legitimate interest to provide you with access to the Services and integrations with third parties, or with your consent.
     
 
-* **Advertising Partners:** Third parties who display advertising information on our Services or otherwise assist with the delivery of ads.
+*   **Advertising Partners:** Third parties who display advertising information on our Services or otherwise assist with the delivery of ads.
     
 
-* **Professional Advisors:** As necessary, we will share your personal data with professional advisors such as auditors, law firms, or accounting firms. 
+*   **Professional Advisors:** As necessary, we will share your personal data with professional advisors such as auditors, law firms, or accounting firms. 
     
 
-* **Business Transactions:** We will share personal information with a prospective buyer, seller, new owner, or other relevant third party as necessary while negotiating or in relation to a change of corporate control such as a restructuring, merger, asset sale or purchase, bankruptcy or other business transaction or re-organization. We do this in our legitimate interest to run a successful and compliant business, and as required by applicable law.
+*   **Business Transactions:** We will share personal information with a prospective buyer, seller, new owner, or other relevant third party as necessary while negotiating or in relation to a change of corporate control such as a restructuring, merger, asset sale or purchase, bankruptcy or other business transaction or re-organization. We do this in our legitimate interest to run a successful and compliant business, and as required by applicable law.
     
 
   
@@ -183,7 +183,7 @@ We may also disclose your information as needed to comply with applicable law or
 
   
 
-5. SOCIAL FEATURES 
+5.  SOCIAL FEATURES 
     ----------------
     
 
@@ -193,7 +193,7 @@ Certain features of the Services may allow you to initiate interactions between 
 
   
 
-6. THIRD PARTY WEBSITES AND LINKS
+6.  THIRD PARTY WEBSITES AND LINKS
     ------------------------------
     
 
@@ -203,7 +203,7 @@ We may provide links to third-party websites or platforms, such as Discord and X
 
   
 
-7. CHILDREN’S PRIVACY
+7.  CHILDREN’S PRIVACY
     ------------------
     
 
@@ -217,7 +217,7 @@ If we become aware that we have unknowingly collected information about a child 
 
   
 
-8. DATA SECURITY AND RETENTION
+8.  DATA SECURITY AND RETENTION
     ---------------------------
     
 
@@ -230,7 +230,7 @@ Despite our reasonable efforts to protect your information, no security measures
 We retain your information for as long as is reasonably necessary for the purposes specified in this Privacy Policy. When determining the length of time to retain your information, we consider various criteria, including whether we need the information to continue to provide you the Services, resolve a dispute, enforce our contractual agreements, prevent harm, promote safety, security and integrity, or protect ourselves, including our rights, property or products.  
   
 
-9. U.S. RESIDENTS
+9.  U.S. RESIDENTS
     --------------
     
 
@@ -246,23 +246,23 @@ This section supplements the other sections of this Privacy Policy and applies t
 
 In the preceding 12 months, we collected and disclosed for a business purpose the following categories of personal information and sensitive personal information (denoted by \*) about residents:
 
-* Identifiers, such as name, e-mail address and IP address
+*   Identifiers, such as name, e-mail address and IP address
     
-* Personal information categories listed in the California Customer Records statute such as name, address and telephone number
+*   Personal information categories listed in the California Customer Records statute such as name, address and telephone number
     
-* Commercial information such as records of products or services purchased
+*   Commercial information such as records of products or services purchased
     
-* Internet or other similar network activity such as Usage Data
+*   Internet or other similar network activity such as Usage Data
     
-* Geolocation data such as IP address
+*   Geolocation data such as IP address
     
-* Professional or employment-related information such as title of profession, employer, professional background and other information provided by you when you apply for a job with us
+*   Professional or employment-related information such as title of profession, employer, professional background and other information provided by you when you apply for a job with us
     
-* Non-public education information collected by certain federally funded institutions such as education records that you provide when you apply for a job with us
+*   Non-public education information collected by certain federally funded institutions such as education records that you provide when you apply for a job with us
     
-* Account access credentials\* for the Services
+*   Account access credentials\* for the Services
     
-* The contents of email messages in the email inboxes that you connect to your Perplexity account, and the content of email messages you send through Perplexity\*
+*   The contents of email messages in the email inboxes that you connect to your Perplexity account, and the content of email messages you send through Perplexity\*
     
 
   
@@ -287,9 +287,9 @@ Any California residents under the age of eighteen (18) who have registered to u
 
   
 
-10. DATA TRANSFERS
-    --------------
-    
+10.  DATA TRANSFERS
+     --------------
+     
 
   
 
@@ -317,33 +317,33 @@ We commit to resolve DPF Principles-related complaints about our collection and 
 
   
 
-11. YOUR RIGHTS AND CHOICES
-    -----------------------
-    
+11.  YOUR RIGHTS AND CHOICES
+     -----------------------
+     
 
   
 
 Depending on where you live, you may have some or all of the rights listed below in relation to personal information that we have collected about you. However, these rights are not absolute, and in certain cases, we may decline your request as permitted by law. 
 
-* **Right to Access / Know.** You may have a right to request access to personal information that we hold about you, or to request information about our collection, use and disclosure of your personal information, such as the categories of personal information we have collected or disclosed for a business purpose. 
+*   **Right to Access / Know.** You may have a right to request access to personal information that we hold about you, or to request information about our collection, use and disclosure of your personal information, such as the categories of personal information we have collected or disclosed for a business purpose. 
     
 
-* **Right to Delete**.  You may have a right to request that we delete personal information we maintain about you.
+*   **Right to Delete**.  You may have a right to request that we delete personal information we maintain about you.
     
 
-* **Right to Correct.** You may have a right to request that we correct inaccurate personal information we maintain about you. 
+*   **Right to Correct.** You may have a right to request that we correct inaccurate personal information we maintain about you. 
     
 
-* **Right of Portability**. You may have the right to receive a copy of the personal information we hold about you and to request that we transfer it to a third party.
+*   **Right of Portability**. You may have the right to receive a copy of the personal information we hold about you and to request that we transfer it to a third party.
     
 
-* **Restriction of Processing**. You may have the right to ask us to stop, suspend or restrict our processing of personal information.
+*   **Restriction of Processing**. You may have the right to ask us to stop, suspend or restrict our processing of personal information.
     
 
-* **Objection**. You may have the right to object to our processing of personal information.
+*   **Objection**. You may have the right to object to our processing of personal information.
     
 
-* **Withdrawal of Consent**. Where we rely on consent to process your personal information, you may have the right to withdraw this consent at any time by contacting us at [support@perplexity.ai](mailto:support@perplexity.ai). Please note that the withdrawal of consent does not affect the lawfulness of processing based on consent before its withdrawal, and that where you withdraw your consent, we may not be able to deliver the expected service to you.
+*   **Withdrawal of Consent**. Where we rely on consent to process your personal information, you may have the right to withdraw this consent at any time by contacting us at [support@perplexity.ai](mailto:support@perplexity.ai). Please note that the withdrawal of consent does not affect the lawfulness of processing based on consent before its withdrawal, and that where you withdraw your consent, we may not be able to deliver the expected service to you.
     
 
   
@@ -356,9 +356,9 @@ You may exercise any of these rights by contacting us using the information prov
 
   
 
-12. COMPLAINTS
-    ----------
-    
+12.  COMPLAINTS
+     ----------
+     
 
   
 
@@ -370,9 +370,9 @@ If you think we have infringed data protection laws, you can file a claim with t
 
   
 
-13. HOW TO CONTACT US
-    -----------------
-    
+13.  HOW TO CONTACT US
+     -----------------
+     
 
   
 
@@ -380,9 +380,9 @@ Should you have any questions about our privacy practices or this Privacy Policy
 
   
 
-14. LANGUAGE
-    --------
-    
+14.  LANGUAGE
+     --------
+     
 
   
 
