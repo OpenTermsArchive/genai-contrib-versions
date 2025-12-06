@@ -1,9 +1,9 @@
 Terms of Service
 ================
 
-December 19, 2024
+December 19, 2024  
 
-#### **1\. Introduction**
+**1\. Introduction**
 
 **1.1 User Agreement**
 
@@ -11,25 +11,25 @@ You agree that by registering, accessing or using our Services (described below)
 
 **1.2 Services**
 
-This User Agreement applies to [https://murf.ai/](https://murf.ai/) (“**Site**”) and any Murf-related sites, apps and communications (“**Services**”).
+This User Agreement applies to [https://murf.ai/](https://murf.ai/) (“**Site**”) and any Murf-related sites, apps and communications (“**Services**”).
 
 **1.3 Murf**
 
-You are entering into this User Agreement with Murf Inc. (also referred to as “**we**” and “**us**”). The collection, use and sharing of your personal data is subject to our [Privacy Policy](https://murf.ai/resources/privacy_policy/).
+You are entering into this User Agreement with Murf Inc. (also referred to as “**we**” and “**us**”). The collection, use and sharing of your personal data is subject to our [Privacy Policy](https://murf.ai/legal/privacy-policy/).
 
 **1.4 Change**
 
 We may modify the User Agreement and Privacy Policy from time to time and will provide you notice to review material changes to them before they become effective. We agree that changes cannot be retroactive. Your continued use of our Services after we notify you of the changes means that you agree to the updated User Agreement / Privacy Policy as of their effective date.
 
-#### **2\. Obligations**
+**2\. Obligations**
 
 **2.1 Who**
 
-To use the Services, you agree that: 
+To use the Services, you agree that:
 
-2.1.1 you must be at least the Minimum Age (described below); 
+2.1.1 you must be at least the Minimum Age (described below);
 
-2.1.2 you will only have one Murf account, which must be in your real name; 
+2.1.2 you will only have one Murf account, which must be in your real name;
 
 2.1.3 you are not already restricted by Murf from using the Services; and
 
@@ -39,13 +39,13 @@ To use the Services, you agree that: 
 
 **2.2 Your Account**
 
-You agree to: 
+You agree to:
 
-2.2.1 provide accurate information to us and keep it updated; 
+2.2.1 provide accurate information to us and keep it updated;
 
-2.2.2 use a strong password and keep it confidential; and 
+2.2.2 use a strong password and keep it confidential; and
 
-2.2.3 not transfer any part of your account. You are responsible for your account unless you close it or immediately report misuse by contacting us at [legal@murf.ai](mailto:legal@murf.ai).
+2.2.3 not transfer any part of your account. You are responsible for your account unless you close it or immediately report misuse by contacting us at [legal@murf.ai](mailto:legal@murf.ai).
 
 Please note that as between you and others (including your employer), your account belongs to you. However, if the Services were purchased by another party for you to use (e.g. enterprise accounts), the party paying for such Service has the right to control access to and get reports on your use of such paid Service.
 
@@ -73,13 +73,13 @@ You agree that:
 
 2.5.2 If you choose to cancel your Subscription during a Subscription period, you may use the Subscription until the end of your then-current Subscription period or renewal period, but will not be issued a refund for the most recently charged fees.
 
-2.5.3 Payments made against one-time packs or Subscriptions that have been: (i) bought more than 24 hours ago, or (ii) used for more than 10 minutes of [text to speech](https://murf.ai/text-to-speech) conversion are not eligible for refunds. If you have bought a Subscription or a one-time pack within the last 24 hours and your account usage is less than 10 minutes of voice generation time, you can write to us with a refund request at [support@murf.ai](mailto:support@murf.ai).
+2.5.3 Payments made against one-time packs or Subscriptions that have been: (i) bought more than 24 hours ago, or (ii) used for more than 10 minutes of [text to speech](https://murf.ai/text-to-speech) conversion are not eligible for refunds. If you have bought a Subscription or a one-time pack within the last 24 hours and your account usage is less than 10 minutes of voice generation time, you can write to us with a refund request at [support@murf.ai](mailto:support@murf.ai).
 
 **2.6 Notices and Messages**
 
 We will provide notices and messages to you: (a) within the Service, or (b) using the contact information you provide us (e.g., email).
 
-#### **3\. Rights and Limits**
+**3\. Rights and Limits**
 
 **3.1. Your License to the Service**
 
@@ -91,7 +91,7 @@ You own the content and information that you submit to the Services (“**Conten
 
 3.1.3 As you own Content and we only have non-exclusive rights to it, you may choose to make it available to others, including under the terms of a Creative Commons license.
 
-3.1.4 You agree that the Content does not violate the law or any third party rights. 
+3.1.4 You agree that the Content does not violate the law or any third party rights.
 
 **3.2 Service Availability**
 
@@ -107,7 +107,7 @@ Murf reserves the right to restrict, suspend, or terminate your account if you b
 
 Murf reserves all of its intellectual property rights in the Services. Trademarks and logos used in connection with the Services are the trademarks of their respective owners.
 
-#### **4\. Confidentiality and Special Features**
+**4\. Confidentiality and Special Features**
 
 **4.1 Confidentiality**
 
@@ -121,7 +121,7 @@ We treat Content submitted in accordance with this User Agreement (“**Your Inf
 
 **4.2 Voice Cloning**
 
-[Voice cloning](https://murf.ai/voice-cloning) is a feature of Murf that allows you to use Cloning Voices to synthesize voice recordings that sound like a Consenting Speaker. A “**Cloning Voice**” is an AI model trained on voice recordings of a Consenting Speaker. A “**Consenting Speaker**” is a person (including you) who has given explicit written consent to use recordings of their voice to train a Cloning Voice and to synthesize their voice.
+[Voice cloning](https://murf.ai/voice-cloning) is a feature of Murf that allows you to use Cloning Voices to synthesize voice recordings that sound like a Consenting Speaker. A “**Cloning Voice**” is an AI model trained on voice recordings of a Consenting Speaker. A “**Consenting Speaker**” is a person (including you) who has given explicit written consent to use recordings of their voice to train a Cloning Voice and to synthesize their voice.
 
 You may create new Cloning Voices by submitting voice recordings of a Consenting Speaker as training audio (“**Training Audio**”). By submitting Training Audio to Murf, you consent (and represent and warrant that you have obtained the explicit written consent of any third-party Consenting Speakers) to our use and storage of the audio recordings and voices you consent:
 
@@ -135,9 +135,9 @@ You may create new Cloning Voices by submitting voice recordings of a Consenting
 
 4.2.5 The submission of a third party's unauthorized voice recordings as training audio is prohibited, and you agree that you will not submit any recording to Murf that contains the voice of any speakers that have not explicitly consented in writing to have their Cloning Voice created and to have their voices synthesized.
 
-#### **5\. Commercial Rights; Third-Party Content and Services; and Publicity**
+**5\. Commercial Rights; Third-Party Content and Services; and Publicity**
 
-**5.1 Commercial Rights**
+**5.1 Commercial Rights**
 
 You can use Murf created voices for commercial purposes. You can also make available to third parties who intend to use Murf created voices for commercial purposes. You however agree that Commercial Rights (defined below) are not resell rights and you cannot resell or offer to resell Murf's offerings (including the library of voices available on Murf Studio) to any third-party. You further agree not to use Murf created voices for training any AI model or to synthesize Murf created voices in any way or for any purpose.
 
@@ -153,19 +153,17 @@ If You connect, install or enable Third Party Products for use with the Services
   
 You grant Murf the right to identify Yourself or Your organization as Murf's customer on the Site and Murf's marketing collateral and to include You or Your organization's use of the Services in its case studies.
 
-#### **6\. Indemnification,Disclaimer and Limit of Liability**
+**6\. Indemnification,Disclaimer and Limit of Liability**
 
 **6.1 Indemnification  
   
-**To the fullest extent permitted by applicable law, you will indemnify, defend (at our  
-option), and hold harmless Murf and our officers, directors, partners, licensors,  
-employees and agents from and against any losses, liabilities, claims, demands,  
-damages, expenses or costs (Claims) arising out of or related to:  
-(a) your access to or use of the Services  
-(b) the Content  
-(c) your violation of these Terms  
-(d) your violation,misappropriation, or infringement of any rights of another (including intellectual property rights or privacy rights) or  
-(e) your conduct in connection with the Services or the Content. You will cooperate with Murf in defending such Claims, and pay all fees, costs, and expenses associated with defending such Claims (including attorneys fees). Murf will have control of the defense or settlement, at Murf’s sole option, of any third-party Claims. This indemnity is in addition to, and not in lieu of, any other indemnities set forth in a written agreement between you and Murf.
+**To the fullest extent permitted by applicable law, you will indemnify, defend (at our option), and hold harmless Murf and our officers, directors, partners, licensors, employees and agents from and against any losses, liabilities, claims, demands, damages, expenses or costs (Claims) arising out of or related to:
+
+*   your access to or use of the Services
+*   the Content
+*   your violation of these Terms
+*   your violation,misappropriation, or infringement of any rights of another (including intellectual property rights or privacy rights) or
+*   your conduct in connection with the Services or the Content. You will cooperate with Murf in defending such Claims, and pay all fees, costs, and expenses associated with defending such Claims (including attorneys fees). Murf will have control of the defense or settlement, at Murf’s sole option, of any third-party Claims. This indemnity is in addition to, and not in lieu of, any other indemnities set forth in a written agreement between you and Murf.
 
 **6.2 Disclaimer**
 
@@ -177,12 +175,7 @@ For users with a Subscription: we will notify you in advance of making changes t
 
 You agree that we have no liability whatsoever for any loss, damage, or inconvenience caused by your inability to access or use the Site or the Services during any downtime or discontinuance of the Site or the Services. Nothing in this User Agreement will be construed to obligate us to maintain and support the Site or to supply any corrections, updates, or releases in connection with our Services
 
-Murf further disclaims all warranties, whether express, implied, statutory or otherwise,  
-including warranties of merchantability, fitness for a particular purpose, title and  
-noninfringement. Outputs are generated through machine learning processes and are  
-not tested, verified, endorsed or guaranteed to be accurate, complete or current by  
-Murf. You should independently review and verify all outputs as to appropriateness for  
-any or all Your use cases or applications.
+Murf further disclaims all warranties, whether express, implied, statutory or otherwise, including warranties of merchantability, fitness for a particular purpose, title and noninfringement. Outputs are generated through machine learning processes and are not tested, verified, endorsed or guaranteed to be accurate, complete or current by Murf. You should independently review and verify all outputs as to appropriateness for any or all Your use cases or applications.
 
 **6.3 Limitation of Liability**
 
@@ -194,37 +187,35 @@ MURF AND ITS AFFILIATES WILL NOT BE LIABLE TO YOU IN CONNECTION WITH THIS USER A
 
 The limitations of liability in this Section 6 are part of the basis of the bargain between you and Murf and shall apply to all claims of liability (e.g., warranty, tort, negligence, contract and law) even if Murf or its affiliates have been told of the possibility of any such damage, and even if these remedies fail their essential purpose.
 
-#### **7\. Termination**
+‍
+
+**7\. Termination**
 
 Both you and Murf may terminate this User Agreement at any time. On termination, you lose the right to access or use the Services. The following shall survive termination:
 
-* Sections 6, 8, 10 and 11.2 of this User Agreement; and
-* Any amounts owed by either party prior to termination remain owed after termination.
+*   Sections 6, 8, 10 and 11.2 of this User Agreement; and
+*   Any amounts owed by either party prior to termination remain owed after termination.
 
-#### **8\. Governing Law and Dispute Resolution**
+**8\. Governing Law and Dispute Resolution**
 
 Except to the extent they are preempted by United States federal law, the laws of Delaware, other than its conflict-of-laws principles, govern this User Agreement and any claims and disputes (whether contract, tort, or otherwise) arising out of or relating to this User Agreement or their subject matter.
 
 Both you and Murf agree that all claims and disputes (whether contract, tort, or otherwise), including statutory claims and disputes, arising out of or relating to this User Agreement or the use of the Site or the Services will be litigated exclusively in federal and state courts in the state of Delaware, United States of America. You and Murf consent to the personal jurisdiction of courts in the state of Delaware, United States of America.
 
-#### **9\. Product Specific Terms  
+**9\. Product Specific Terms  
 **
 
-Refer to our [Product-Specific Terms](https://murf.ai/resources/product-specific-terms/) for detailed information.
+Refer to our [Product-Specific Terms](https://murf.ai/legal/product-specific-terms/) for detailed information
 
-#### **10\. General Terms**
+**10\. General Terms**
 
 10.1 If a court with authority over this User Agreement finds any part of it unenforceable, you and Murf agree that the court should modify the terms to make that part enforceable while still achieving its intent. If the court cannot do that, you and Murf agree to ask the court to remove that unenforceable part and enforce the rest of this User Agreement.
 
 10.2 This User Agreement (including additional terms that may be provided by us when you engage with a feature of the Services) is the only agreement between us regarding the Services and supersedes all prior agreements for the Services.
 
-10.3 No conduct by Murf shall be deemed to constitute an acceptance of any terms put  
-forward by You unless such terms are explicitly accepted by signing the document  
-containing such terms. For the avoidance of doubt, Murf does not accept any terms or  
-provisions included by reference in any of the documents provided by You, even if  
-signed by Murf, unless Murf also signs such referenced documents.
+10.3 No conduct by Murf shall be deemed to constitute an acceptance of any terms put forward by You unless such terms are explicitly accepted by signing the document containing such terms. For the avoidance of doubt, Murf does not accept any terms or provisions included by reference in any of the documents provided by You, even if signed by Murf, unless Murf also signs such referenced documents.
 
-10.4 If we don't act to enforce a breach of this User Agreement, that does not mean that Murf has waived its right to enforce this User Agreement. 
+10.4 If we don't act to enforce a breach of this User Agreement, that does not mean that Murf has waived its right to enforce this User Agreement.
 
 10.5 You may not assign or transfer this User Agreement (or your membership or use of Services) to anyone. There are no third-party beneficiaries to this User Agreement.
 
@@ -232,7 +223,7 @@ signed by Murf, unless Murf also signs such referenced documents.
 
 10.7 Murf may offer optional trials and betas. Use of trials and betas is permitted only for User's self-evaluation during the period designated by Murf. Murf may terminate User's use of trials and betas at any time for any reason. Trials and betas may be inoperable, incomplete or include features never released. Notwithstanding anything else in this User Agreement, Murf offers no warranty, SLA or support for trials and betas and its liability for trials and betas will not in the aggregate exceed USD $1,000.
 
-#### **11\. Do’s and Don’ts**
+**11\. Do’s and Don’ts**
 
 **11.1 Do’s**
 
@@ -244,7 +235,7 @@ You agree that you will not:
 
 11.2.1 Create a false identity on Murf, misrepresent your identity, create a profile for anyone other than yourself (a real person), or use or attempt to use another’s account;
 
-11.2.2 Develop, support or use software, devices, scripts, robots or any other means or processes (including crawlers, browser plugins and add-ons or any other technology) to scrape the Services or the Site  or otherwise copy profiles and other data from the Services or the Site;
+11.2.2 Develop, support or use software, devices, scripts, robots or any other means or processes (including crawlers, browser plugins and add-ons or any other technology) to scrape the Services or the Site or otherwise copy profiles and other data from the Services or the Site;
 
 11.2.3 Override any security feature or bypass or circumvent any access controls or use limits of the Service or the Site;
 
@@ -264,7 +255,7 @@ You agree that you will not:
 
 11.2.11 Stalk, threaten, impersonate, dox, harass or defraud anyone through use of the Services or the Site;
 
-11.2.12 Create, upload or transmit material through the Services or the Site that is illegal, obscene, defamatory,  pornographic or is otherwise inappropriate;
+11.2.12 Create, upload or transmit material through the Services or the Site that is illegal, obscene, defamatory, pornographic or is otherwise inappropriate;
 
 11.2.13 Send, distribute or post spam, unsolicited or bulk commercial electronic communications, chain letters, or pyramid schemes through the Services or the Site;  
 
@@ -280,21 +271,10 @@ You agree that you will not:
 
 11.2.19 Interfere with the operation of, or place an unreasonable load on, the Services or the Site (e.g., spam, denial of service attack, viruses, gaming algorithms).
 
-#### **12\. Claims regarding copyright infringement**
+**12\. Claims regarding copyright infringement**
 
-Pursuant to the Digital Millennium Copyright Act (17 U.S.C. § 512), Murf has implemented procedures for receiving written notification of claimed infringements. Murf has also designated an agent to receive notices of claimed copyright infringement. If you believe in good faith that your copyright has been infringed, please provide a written communication which contains:
+Please refer to our [Copyright Policy](https://murf.ai/legal/copyright-policy).
 
-* An electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest;
-* A description of the copyrighted work that you claim has been infringed;
-* A description specifying the location on our website of the material that you claim is infringing;
-* Your email address and your mailing address and/or telephone number;
-* A statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law; and
-* A statement by you, made under penalty of perjury, that the information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner’s behalf.
+**13\. Contact Us**
 
-Please note that any notice you submit must be truthful and must be submitted under penalty of perjury. A false notice or counter-notice may give rise to personal liability. You may therefore want to seek the advice of legal counsel before submitting a notice.
-
-Please submit your notice to Murf Inc.’s Designated Agent at: [legal@murf.ai](mailto:legal@murf.ai).
-
-#### **13\. Contact Us**
-
-For general inquiries, you may contact us at [support@murf.ai](mailto:support@murf.ai). For legal notices or service of process, you may write to us at [legal@murf.ai](mailto:legal@murf.ai).
+For general inquiries, you may contact us at [support@murf.ai](mailto:support@murf.ai). For legal notices or service of process, you may write to us at [legal@murf.ai](mailto:legal@murf.ai).
