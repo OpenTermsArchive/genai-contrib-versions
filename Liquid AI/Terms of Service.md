@@ -78,6 +78,8 @@ Upon termination, (i) your right to use the Service will immediately cease and y
 
 7.4 You may not assign or transfer any rights or obligations under these Terms of Service without our prior written consent.
 
+- - -
+
 LFM License
 ===========
 
@@ -88,41 +90,41 @@ The LFM Open License v1.0 sets out the terms under which you can use our models.
 Summary
 -------
 
-* **Apache Based.** The license text is based on Apache 2.0 (with only a few changes), granting broad, royalty-free, and perpetual rights to use, modify, and distribute the model and its derivatives subject to thresholds on free use by large businesses.
-* **Commercial Use Threshold.** Rights to use the model for commercial purposes end if your company's annual revenue exceeds $10 million USD.  
+*   **Apache Based.** The license text is based on Apache 2.0 (with only a few changes), granting broad, royalty-free, and perpetual rights to use, modify, and distribute the model and its derivatives subject to thresholds on free use by large businesses.
+*   **Commercial Use Threshold.** Rights to use the model for commercial purposes end if your company's annual revenue exceeds $10 million USD.  
       
     We want to incentivize free use for research and projects, even projects that attract a lot of FREE users (so no user threshold). BUT: preserve ability to charge (1) enterprises and (2) projects that use our models to generate significant revenue ($10 million or more).
 
-* Once you cross the revenue threshold, you must contact Liquid AI, Inc. to purchase a commercial license to continue using the model. Contact [sales@liquid.ai](mailto:sales@liquid.ai).
-* **Research and Nonprofit Usage** is specifically allowed with no thresholds.
-* **No "Copyleft" Requirement.** Not required to open-source modifications or derivative models. Can keep your fine-tuned models proprietary.
-* **Attribution Required.** Must retain all original copyright and license notices when distributing the model or derivative versions.
-* **Ownership.** Liquid AI retains ownership of the original base model. Users own the modifications and contributions to create derivative models, but use of those derivatives is still governed by the terms of this license.
+*   Once you cross the revenue threshold, you must contact Liquid AI, Inc. to purchase a commercial license to continue using the model. Contact [sales@liquid.ai](mailto:sales@liquid.ai).
+*   **Research and Nonprofit Usage** is specifically allowed with no thresholds.
+*   **No "Copyleft" Requirement.** Not required to open-source modifications or derivative models. Can keep your fine-tuned models proprietary.
+*   **Attribution Required.** Must retain all original copyright and license notices when distributing the model or derivative versions.
+*   **Ownership.** Liquid AI retains ownership of the original base model. Users own the modifications and contributions to create derivative models, but use of those derivatives is still governed by the terms of this license.
 
 Frequently Asked Questions (FAQ)
 --------------------------------
 
 Here are some common questions and answers about our LFM Open License.
 
-1. **What are the basic permissions granted by the license?**  
+1.  **What are the basic permissions granted by the license?**  
     Our license is based on Apache 2.0 and grants you broad, royalty-free, and perpetual rights to use, modify, and distribute the model and its derivatives. The license grants for both copyright and patent rights are conditioned on the commercial use limitation in Section 5 - this limitation is the key difference between our license and the standard Apache 2.0 text.
-2.  **Can I use this model for my business or a commercial product?**   
+2.   **Can I use this model for my business or a commercial product?**   
     Yes. You are free to use the model for commercial purposes. However, this right is conditioned on your company's annual revenue. If your company's revenue exceeds $10 million USD, your right to use the model for commercial purposes under this free license ends.
-3. **What happens if my company's revenue exceeds the $10 million threshold?**  
+3.  **What happens if my company's revenue exceeds the $10 million threshold?**  
     Once you cross the revenue threshold, your use of the model for commercial purposes is no longer licensed under this agreement. You should contact Liquid AI at sales@liquid.ai to obtain a commercial license to continue using our models.
-4. **If I fine-tune the model with my own data, do I have to release my new model publicly?**   
+4.  **If I fine-tune the model with my own data, do I have to release my new model publicly?**   
     No. The license does not have a "copyleft" requirement. You can keep your fine-tuned models proprietary.
-5. **What about non-profits, universities, or researchers?**   
+5.  **What about non-profits, universities, or researchers?**   
     Our license specifically exempts qualified non-profits. They are free to use the models for non-commercial or research purposes, with no thresholds on revenue.
 
 ### How is the LFM Open License different from the standard Apache 2.0 License?
 
 The LFM Open License is based directly on the text of the Apache 2.0 license. Other than the key differences listed below, the licenses are identical.
 
-* Conditional License Grants (Sections 2 & 3): The grants for both copyright and patent rights are explicitly made "subject to" the commercial use limitation.
-* Commercial Use Limitation (Section 5): This is the most significant change. The LFM Open License adds a condition that limits free commercial use to companies with less than $10 million in annual revenue. 
-* Specific Licensor: The "Licensor" is explicitly defined as "Liquid AI, Inc." for clarity.
-* Termination Clause (Section 11): The license terminates automatically if you fail to comply with its terms (namely the commercial use restriction).
+*   Conditional License Grants (Sections 2 & 3): The grants for both copyright and patent rights are explicitly made "subject to" the commercial use limitation.
+*   Commercial Use Limitation (Section 5): This is the most significant change. The LFM Open License adds a condition that limits free commercial use to companies with less than $10 million in annual revenue. 
+*   Specific Licensor: The "Licensor" is explicitly defined as "Liquid AI, Inc." for clarity.
+*   Termination Clause (Section 11): The license terminates automatically if you fail to comply with its terms (namely the commercial use restriction).
 
 LFM Open License v1.0 
 ----------------------
