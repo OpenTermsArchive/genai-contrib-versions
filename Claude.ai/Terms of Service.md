@@ -46,15 +46,15 @@ You may access and use our Services only in compliance with our Terms, including
 
 You may not access or use, or help another person to access or use, our Services in the following ways:
 
-1. In any manner that violates any applicable law or regulation—including, without limitation, any laws about exporting data or software to and from any countries in the European Economic Area, Switzerland, or other countries.
-2. To develop any products or services that compete with our Services, including to develop or train any artificial intelligence or machine learning algorithms or models or resell the Services.
-3. To decompile, reverse engineer, disassemble, or otherwise reduce our Services to human-readable form, except when these restrictions are prohibited by applicable law.
-4. To crawl, scrape, or otherwise harvest data or information from our Services other than as permitted under these Terms.
-5. To use our Services, the Materials, or the Actions to obtain unauthorized access to any system or information or to deceive any person.
-6. To infringe, misappropriate, or violate intellectual property or other legal rights (including the rights of publicity or privacy).
-7. Except when you are accessing our Services via an Anthropic API Key or where we otherwise explicitly permit it, to access the Services through automated or non-human means, whether through a bot, script, or otherwise.
-8. To engage in any other conduct that restricts or inhibits any person from using or enjoying our Services, or that we reasonably consider exposes us—or any of our users, affiliates, or any other third party—to any liability, damages, or detriment of any type, including reputational harms.
-9. To rely upon the Services, the Materials, or the Actions to buy or sell securities or to provide or receive advice about securities, commodities, derivatives, or other financial products or services, as Anthropic is not a broker-dealer or a registered investment adviser under the securities laws of the United States or any other jurisdiction.”
+1.  In any manner that violates any applicable law or regulation—including, without limitation, any laws about exporting data or software to and from any countries in the European Economic Area, Switzerland, or other countries.
+2.  To develop any products or services that compete with our Services, including to develop or train any artificial intelligence or machine learning algorithms or models or resell the Services.
+3.  To decompile, reverse engineer, disassemble, or otherwise reduce our Services to human-readable form, except when these restrictions are prohibited by applicable law.
+4.  To crawl, scrape, or otherwise harvest data or information from our Services other than as permitted under these Terms.
+5.  To use our Services, the Materials, or the Actions to obtain unauthorized access to any system or information or to deceive any person.
+6.  To infringe, misappropriate, or violate intellectual property or other legal rights (including the rights of publicity or privacy).
+7.  Except when you are accessing our Services via an Anthropic API Key or where we otherwise explicitly permit it, to access the Services through automated or non-human means, whether through a bot, script, or otherwise.
+8.  To engage in any other conduct that restricts or inhibits any person from using or enjoying our Services, or that we reasonably consider exposes us—or any of our users, affiliates, or any other third party—to any liability, damages, or detriment of any type, including reputational harms.
+9.  To rely upon the Services, the Materials, or the Actions to buy or sell securities or to provide or receive advice about securities, commodities, derivatives, or other financial products or services, as Anthropic is not a broker-dealer or a registered investment adviser under the securities laws of the United States or any other jurisdiction.”
 
 You also must not abuse, harm, interfere with, or disrupt our Services, including, for example, introducing viruses or malware, spamming or DDoSing Services, or bypassing any of our systems or protective measures.
 
@@ -67,11 +67,11 @@ You also must not abuse, harm, interfere with, or disrupt our Services, includin
 
 **Reliance on Outputs and Actions.** Artificial intelligence and large language models are frontier technologies that are still improving in accuracy, reliability and safety. When you use our Services, you acknowledge and agree:
 
-1. Outputs may not always be accurate and may contain material inaccuracies even if they appear accurate because of their level of detail or specificity.
-2. Actions may not be error free or operate as you intended.
-3. You should not rely on any Outputs or Actions without independently confirming their accuracy.
-4. The Services and any Outputs may not reflect correct, current, or complete information.
-5. Outputs may contain content that is inconsistent with Anthropic’s views.
+1.  Outputs may not always be accurate and may contain material inaccuracies even if they appear accurate because of their level of detail or specificity.
+2.  Actions may not be error free or operate as you intended.
+3.  You should not rely on any Outputs or Actions without independently confirming their accuracy.
+4.  The Services and any Outputs may not reflect correct, current, or complete information.
+5.  Outputs may contain content that is inconsistent with Anthropic’s views.
 
 **Our use of Materials.** We may use Materials to provide, maintain, and improve the Services and to develop other products and services, including training our models, unless you opt out of training through your account settings. Even if you opt out, we will use Materials for model training when: (1) you provide Feedback to us regarding any Materials, or (2) your Materials are flagged for safety review to improve our ability to detect harmful content, enforce our policies, or advance our safety research.
 
@@ -111,11 +111,11 @@ You agree that we will not be held liable for any errors caused by third-party p
 
 **f. Additional cancellation rights.** You have a legal right to change your mind and cancel the Subscription within 14 days of entering into the Subscription without giving a reason.
 
-1. To exercise the right to cancel in the 14-day cancellation period, you must inform us of your decision to cancel the Subscription by making a clear statement to us of such decision before the cancellation period has expired. The easiest way to do this is by cancelling your subscription in the customer portal, or you may contact us at [support@anthropic.com](mailto:support@anthropic.com). You may also use the model cancellation form in Appendix 1 of these Terms, but it is not obligatory. For further details on how to cancel, please see support.anthropic.com. We will acknowledge your cancellation, e.g., through our online customer portal or console.
-2. If you cancel the Subscription under Section 6(f)(1), we will reimburse you all payments received from you for the cancelled Subscription. We will make the reimbursement without undue delay, and not later than 14 days after the day on which we are informed about your decision to cancel the Subscription. We will make the reimbursement using the same means of payment as you used for the initial transaction; you will not incur any fees as a result of the reimbursement.
-3. If you would like to use the Services during the 14-day cancellation period, you may do so. If you have used the Services during the 14-day cancellation period, and wish to cancel the Subscription, you can still do so by following the process in Section (f)(1) above, but we may retain an amount which is in proportion to what has been provided until you have communicated us your withdrawal from these Terms, in comparison with the full coverage of the Subscription.
-4. The 14-day cancellation period will not reset if you change subscription tiers or cancel and then resubscribe, as you have already had an opportunity to test the Services.
-5. If you are not paying under a subscription billing model, you do not have a right to a refund of unused tokens.
+1.  To exercise the right to cancel in the 14-day cancellation period, you must inform us of your decision to cancel the Subscription by making a clear statement to us of such decision before the cancellation period has expired. The easiest way to do this is by cancelling your subscription in the customer portal, or you may contact us at [support@anthropic.com](mailto:support@anthropic.com). You may also use the model cancellation form in Appendix 1 of these Terms, but it is not obligatory. For further details on how to cancel, please see support.anthropic.com. We will acknowledge your cancellation, e.g., through our online customer portal or console.
+2.  If you cancel the Subscription under Section 6(f)(1), we will reimburse you all payments received from you for the cancelled Subscription. We will make the reimbursement without undue delay, and not later than 14 days after the day on which we are informed about your decision to cancel the Subscription. We will make the reimbursement using the same means of payment as you used for the initial transaction; you will not incur any fees as a result of the reimbursement.
+3.  If you would like to use the Services during the 14-day cancellation period, you may do so. If you have used the Services during the 14-day cancellation period, and wish to cancel the Subscription, you can still do so by following the process in Section (f)(1) above, but we may retain an amount which is in proportion to what has been provided until you have communicated us your withdrawal from these Terms, in comparison with the full coverage of the Subscription.
+4.  The 14-day cancellation period will not reset if you change subscription tiers or cancel and then resubscribe, as you have already had an opportunity to test the Services.
+5.  If you are not paying under a subscription billing model, you do not have a right to a refund of unused tokens.
 
 **g. Subscriptions purchased through an App Distributor.** Where you have purchased your Subscription through an App Distributor, your right to cancel under Section 6(f) above will be as set out in the App Distributor's terms and Section 6(f) will not apply. The App Distributor's terms will set out how to notify the App Distributor that you want to cancel and how any fees will be refunded.
 
@@ -156,9 +156,9 @@ Our team works hard to provide great services, and we’re continuously working 
 
 **No limitation**. Nothing in these Terms excludes or limits our liability for:
 
-1. death or personal injury caused by our negligence;
-2. fraud or fraudulent misrepresentation; and
-3. any matter in respect of which it would be unlawful for us to exclude or restrict our liability. This includes your rights that the Services are of satisfactory quality, fit for purpose and as described.
+1.  death or personal injury caused by our negligence;
+2.  fraud or fraudulent misrepresentation; and
+3.  any matter in respect of which it would be unlawful for us to exclude or restrict our liability. This includes your rights that the Services are of satisfactory quality, fit for purpose and as described.
 
 **Foreseeable loss.** Except as set out in _No Limitation_ above, we and our Providers are not responsible for any loss or damage that is not foreseeable. Loss or damage is foreseeable if it was an obvious consequence of our breach or if it was contemplated by you and us at the time that you accessed our Services, or if you have a Subscription, at the time that the agreement between you and us related to your Subscription become binding (i.e., when the confirmation email for that Subscription was issued).
 
@@ -177,10 +177,10 @@ You may write to us in accordance with your legal rights and ask to switch to an
 
 We will initiate your Switching Request after the Notice Period and the switching process will be completed within 30 days after the end of the Notice Period (the “Transitional Period”). However, where there is technical unfeasibility, we may notify you within 14 days of the Switching Request of an extension to the Transitional Period which may be up to seven months. You can also extend the Transitional Period once for a reasonable and appropriate period. During the Transitional Period these Terms shall continue to comply and we will:
 
-1. provide you and your authorised representatives with reasonable assistance in the switching process including supporting your exit strategy in relation to the Services;
-2. take due care to maintain business continuity and continue providing the Services in accordance with the Terms;
-3. provide information on known risks to the continuation of the Services; and
-4. ensure a high level of security during the switching process.
+1.  provide you and your authorised representatives with reasonable assistance in the switching process including supporting your exit strategy in relation to the Services;
+2.  take due care to maintain business continuity and continue providing the Services in accordance with the Terms;
+3.  provide information on known risks to the continuation of the Services; and
+4.  ensure a high level of security during the switching process.
 
 These Terms shall automatically terminate upon the successful completion of the switching process or at the end of the Notice Period where you instruct us to erase your exportable data and digital assets upon termination, whichever is sooner. We will notify you of the termination.
 
@@ -203,16 +203,16 @@ If you do not wish to continue using our Services following any changes to the T
 
 **Termination.** You may stop accessing the Services at any time. We may suspend or terminate your access to the Services at any time without notice to you if:
 
-1. we believe that you have materially breached these Terms;
-2. we must do so in order to comply with applicable law; or
-3. immediate suspension or termination is necessary for security reasons and therefore we cannot provide notice.
+1.  we believe that you have materially breached these Terms;
+2.  we must do so in order to comply with applicable law; or
+3.  immediate suspension or termination is necessary for security reasons and therefore we cannot provide notice.
 
 We may also terminate your Account if you have been inactive for over a year and you do not have a paid Account. If we decide to terminate your Account due to inactivity, we will give you advance notice before doing this.
 
 If we terminate your access to the Services due to a material breach of these Terms and you have a Subscription:
 
-1. you will not be entitled to any refund; and
-2. we may take further legal action against you and you may be responsible for our losses in relation to the violation of these Terms.
+1.  you will not be entitled to any refund; and
+2.  we may take further legal action against you and you may be responsible for our losses in relation to the violation of these Terms.
 
 If you have a Subscription, we may terminate the Subscription at any time by giving you at least 30 days’ notice in writing (email is sufficient). If we exercise this right, we will refund you on a pro rata basis the fees paid by you for the remaining portion of your Subscription after termination.
 
@@ -254,10 +254,10 @@ To: Anthropic Ireland, Limited ([support@anthropic.com](mailto:support@anthropic
 
 Subject: Cancellation Request
 
-* I/We \[\*\] hereby give notice that I/We \[\*\] cancel my/our \[\*\] contract of sale for the following goods \[\*\] for the provision of the following service \[\*\]:
-* Ordered on \[\*\]/Received on \[\*\]:
-* Name of Consumer(s):
-* Email address of Consumer(s) used to process the order:
-* Address of Consumer(s):
-* Signature of Consumer(s): (only if this form is notified on paper)
-* Date:
+*   I/We \[\*\] hereby give notice that I/We \[\*\] cancel my/our \[\*\] contract of sale for the following goods \[\*\] for the provision of the following service \[\*\]:
+*   Ordered on \[\*\]/Received on \[\*\]:
+*   Name of Consumer(s):
+*   Email address of Consumer(s) used to process the order:
+*   Address of Consumer(s):
+*   Signature of Consumer(s): (only if this form is notified on paper)
+*   Date:
