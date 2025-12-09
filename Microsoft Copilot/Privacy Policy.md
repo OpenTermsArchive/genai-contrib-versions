@@ -564,15 +564,11 @@ Other criteria used to determine the retention periods include:
 
 #### U.S. State Data Privacy
 
-If you are a U.S. resident, we process your personal data in accordance with applicable U.S. state data privacy laws, including the California Consumer Privacy Act (CCPA). This section of our privacy statement contains information required by the CCPA and other U.S. state data privacy laws and supplements our privacy statement.
-
-Please note that rules implementing some of these laws have not yet been finalised. We will update our processes, disclosures and this notice as these implementing rules are finalised, and as otherwise necessary.
-
-Please also see our [U.S. State Data Privacy Laws Notice](https://aka.ms/USStatePrivacyNotice) and our [Consumer Health Data Privacy Policy](https://privacy.microsoft.com/microsoft-consumer-health-data-privacy-policy) for additional information about the data we collect, process, share and disclose, and your rights under applicable U.S. state data privacy laws.
+If you are a U.S. resident, we process your personal data in accordance with applicable U.S. state data privacy laws, including the California Consumer Privacy Act (CCPA). This section of our privacy statement contains information required by the CCPA and other U.S. state data privacy laws and supplements our privacy statement. Please also see our  [U.S. State Data Privacy Laws Notice](https://aka.ms/USStatePrivacyNotice%22%20/t%20%22_blank)  and our  [Consumer Health Data Privacy Policy](https://privacy.microsoft.com/microsoft-consumer-health-data-privacy-policy%22%20/t%20%22_blank)  for additional information about the data we collect, process, share and disclose, and your rights under applicable U.S. state data privacy laws.
 
 **Sale**. We do not sell your personal data. So, we do not offer an opt-out to the sale of personal data.
 
-**Profiling**.  We do not engage in “profiling” that utilises your personal data for automated decision-making that produces legal or similarly significant effects.  So, we do not offer an opt-out for this type of profiling.
+**Profiling**. We do not engage in “profiling” that utilises your personal data for automated decision-making that produces legal or similarly significant effects.  So, we do not offer an opt-out for this type of profiling.
 
 **Share**. We may “share” your personal data, as defined under California and other applicable US state laws, for personalised advertising purposes. As noted in our [Advertising](https://privacy.microsoft.com/privacystatement#mainadvertisingmodule) section, we do not deliver personalised advertising to children whose birthdate in their Microsoft account identifies them as being under 18 years of age.
 
@@ -595,17 +591,17 @@ Categories of Personal Data
 
 Please see the [Advertising](https://privacy.microsoft.com/privacystatement#mainadvertisingmodule) section for more information about our advertising practises, and our [US State Data Privacy Laws Notice](https://aka.ms/USStatePrivacyNotice) for more information on “sharing” for personalised advertising purposes under applicable US state laws.
 
-**Rights.** You have the right to (i) know what personal data we collect, use, disclose, “share” and sell, (ii) delete your personal data, (iii) correct your personal data, (iv) restrict the use and disclosure of your sensitive data, (v) receive a copy of your personal data, and (vi) opt-out of “sharing” your personal data with third parties for personalised advertising purposes on third-party sites. You may make these requests yourself or through an authorised agent. If you use an authorised agent, we provide your agent with [detailed guidance](https://privacy.microsoft.com/ccpa-guidance) on how to exercise your privacy rights. Please see our [U.S. State Data Privacy Laws Notice](https://aka.ms/USStatePrivacyNotice) for additional information on how to exercise these rights.
+**Rights.** You have the right to (i) know what personal data we collect, use, disclose, “share” and sell, (ii) delete your personal data, (iii) correct your personal data, (iv) restrict the use and disclosure of your sensitive data, (v) receive a copy of your personal data, and (vi) opt-out of “sharing” your personal data with third parties for personalised advertising purposes on third-party sites. You may have the right to know how we may provide your data to certain third parties (if any). You can make these requests yourself or through an authorised agent. If you use an authorised agent, we provide your agent with [detailed guidance](https://privacy.microsoft.com/ccpa-guidance) on how to exercise your privacy rights. Please see our [U.S. State Data Privacy Laws Notice](https://aka.ms/USStatePrivacyNotice) for additional information on how to exercise these rights.
 
-**Universal Opt-Outs.** Microsoft receives and responds to the Global Privacy Control (GPC) browser opt-out signal. Microsoft will turn off sharing your data with third parties for personalised ads if we receive a GPC signal from you when you visit our sites.
+You may indicate your choice to opt-out of the sharing of your personal data with third parties for personalised advertising on third party sites by visiting our [sharing opt-out page](https://aka.ms/yourcaliforniaprivacychoices%22%20/t%20%22_blank). You can also control the personalised advertising you see on Microsoft properties by visiting our opt-out page.
 
-You may have additional rights related to your consumer health data as defined by applicable state consumer health privacy laws. Please see our  [Consumer Health Data Privacy Policy](https://privacy.microsoft.com/microsoft-consumer-health-data-privacy-policy) for information on the rights available under Washington State’s My Health My Data Act (MHMDA) and other applicable U.S. consumer health privacy laws.
-
-If you have a Microsoft account, you can exercise your rights through the [Microsoft privacy dashboard](https://account.microsoft.com/privacy), which requires you to log in to your Microsoft account. If you have an additional request or questions after using the dashboard, you may contact Microsoft at the address in the [How to contact us](https://privacy.microsoft.com/privacystatement#mainhowtocontactusmodule) section, visit our [privacy support and requests](https://go.microsoft.com/fwlink/?linkid=2126612) page, or call our US toll free number +1 (844) 931 2038. If you do not have an account, you may exercise your rights by contacting us as described above. To further protect your personal data, we may ask for additional information, such as your country of residence, email address, and phone number to validate your identity and request before honoring the request.
-
-You may indicate your choice to opt-out of the sharing of your personal data with third parties for personalised advertising on third party sites by visiting our [sharing opt-out page](https://aka.ms/yourcaliforniaprivacychoices). You can also control the personalised advertising you see on Microsoft properties by visiting our [opt-out page](http://go.microsoft.com/fwlink/?LinkID=286759).
+**Universal Opt-Outs.** Microsoft receives and responds to the Global Privacy Control (GPC) browser opt-out signal. Microsoft will turn off sharing your data with third parties for personalised ads and turn off the “Share my data with third parties for personalised ads” toggle if we receive a GPC signal from you when you visit our sites.
 
 We do not use or disclose your sensitive data for purposes other than those listed below, without your consent, or as permitted or required under applicable laws. So, we do not offer an ability to limit the use of sensitive data.
+
+You may have additional rights related to your consumer health data as defined by applicable state consumer health privacy laws. Please see our [Consumer Health Data Privacy Policy](https://privacy.microsoft.com/microsoft-consumer-health-data-privacy-policy) for information on the rights available under Washington State’s My Health My Data Act (MHMDA) and other applicable U.S. consumer health privacy laws.
+
+If you have a Microsoft account, you can exercise your rights through the [Microsoft privacy dashboard](https://account.microsoft.com/privacy), which requires you to log in to your Microsoft account. If you have an additional request or questions after using the dashboard, you may contact Microsoft at the address in the [How to contact us](https://privacy.microsoft.com/privacystatement#mainhowtocontactusmodule) section, visit our [privacy support and requests](https://go.microsoft.com/fwlink/?linkid=2126612) page, or call our US toll free number +1 (844) 931 2038. If you do not have an account, you may exercise your rights by contacting us as described above. To further protect your personal data, we may ask for additional information, such as your country of residence, email address, and phone number to validate your identity and request before honoring the request.
 
 If you have made a request to Microsoft to know, delete, correct, or receive your personal information and believe your request was denied by Microsoft, you can exercise your right to appeal the results of your request by contacting our privacy support team via our [privacy support and requests](https://go.microsoft.com/fwlink/?linkid=2126612) page. If your appeal is unsuccessful and depending upon the state where you live, you may have the right to raise a concern or lodge a complaint with your state attorney general.
 
@@ -1870,6 +1866,6 @@ View Summary Learn more
 Microsoft Privacy Statement
 ===========================
 
-Last Updated: November 2025
+Last Updated: December 2025
 
 [What's new?](https://go.microsoft.com/fwlink/p/?LinkId=780766)
