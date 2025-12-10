@@ -9,14 +9,14 @@ Thank you for choosing to be part of our community at Exafunction, Inc. ("**Comp
 
 This Privacy Policy describes how we might use your information if you:
 
-* Visit our website at windsurf.com or use any of our other Services, as described further below
-* Engage with us in other related ways ― including any sales, marketing, or events
+*   Visit our website at windsurf.com or use any of our other Services, as described further below
+*   Engage with us in other related ways ― including any sales, marketing, or events
 
 In this Privacy Policy, if we refer to:
 
-* "**Personal Information**," we are referring to information that alone or in combination with other information in our possession could be used to identify you
-* "**Website**," we are referring to any website of ours that references or links to this policy, including [www.windsurf.com](http://www.windsurf.com/)
-* "**Services**," we are referring to our Website, and other related services, including our downloadable extension, application programming interfaces ("**APIs**"), associated software, tools, developer services, data and documentation
+*   "**Personal Information**," we are referring to information that alone or in combination with other information in our possession could be used to identify you
+*   "**Website**," we are referring to any website of ours that references or links to this policy, including [www.windsurf.com](http://www.windsurf.com/)
+*   "**Services**," we are referring to our Website, and other related services, including our downloadable extension, application programming interfaces ("**APIs**"), associated software, tools, developer services, data and documentation
 
 The purpose of this Privacy Policy is to explain to you in the clearest way possible what Personal Information we collect, how we use it, and what rights you have in relation to it. If there are any terms in this Privacy Policy that you do not agree with, please discontinue use of our Services immediately. **By using our Services, you agree to the collection, use, disclosure and procedures this Privacy Policy describes.** Beyond this Privacy Policy, your use of our Services is also subject to our [Terms of Service](https://windsurf.com/terms-of-service-individual).
 
@@ -28,22 +28,22 @@ If you do not provide your Personal Information when requested, you may not be a
 
 **TABLE OF CONTENTS**
 
-1. WHAT PERSONAL INFORMATION DO WE COLLECT?
-2. HOW DO WE USE YOUR PERSONAL INFORMATION?
-3. LEGAL BASES FOR PROCESSING EUROPEAN PERSONAL INFORMATION
-4. WILL YOUR PERSONAL INFORMATION BE DISCLOSED TO ANYONE?
-5. TO WHOM WILL YOUR PERSONAL INFORMATION BE DISCLOSED?
-6. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?
-7. IS YOUR PERSONAL INFORMATION TRANSFERRED INTERNATIONALLY?
-8. HOW LONG DO WE KEEP YOUR PERSONAL INFORMATION?
-9. THIRD PARTIES
-10. HOW DO WE KEEP YOUR PERSONAL INFORMATION SAFE?
-11. DO WE COLLECT PERSONAL INFORMATION FROM MINORS?
-12. WHAT ARE YOUR PRIVACY RIGHTS?
-13. CONTROLS FOR DO-NOT-TRACK FEATURES
-14. DO WE MAKE UPDATES TO THIS NOTICE?
-15. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
-16. HOW CAN YOU REVIEW, UPDATE OR DELETE THE DATA WE COLLECT FROM YOU?
+1.  WHAT PERSONAL INFORMATION DO WE COLLECT?
+2.  HOW DO WE USE YOUR PERSONAL INFORMATION?
+3.  LEGAL BASES FOR PROCESSING EUROPEAN PERSONAL INFORMATION
+4.  WILL YOUR PERSONAL INFORMATION BE DISCLOSED TO ANYONE?
+5.  TO WHOM WILL YOUR PERSONAL INFORMATION BE DISCLOSED?
+6.  DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?
+7.  IS YOUR PERSONAL INFORMATION TRANSFERRED INTERNATIONALLY?
+8.  HOW LONG DO WE KEEP YOUR PERSONAL INFORMATION?
+9.  THIRD PARTIES
+10.  HOW DO WE KEEP YOUR PERSONAL INFORMATION SAFE?
+11.  DO WE COLLECT PERSONAL INFORMATION FROM MINORS?
+12.  WHAT ARE YOUR PRIVACY RIGHTS?
+13.  CONTROLS FOR DO-NOT-TRACK FEATURES
+14.  DO WE MAKE UPDATES TO THIS NOTICE?
+15.  HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
+16.  HOW CAN YOU REVIEW, UPDATE OR DELETE THE DATA WE COLLECT FROM YOU?
 
 **1\. WHAT PERSONAL INFORMATION DO WE COLLECT?**
 
@@ -93,28 +93,28 @@ We use Personal Information collected via our Services for a variety of business
 
 We may use the information we collect or receive:
 
-* **To provide and maintain our Services.** We may use any of the categories of Personal Information described in Section 1 above to provide our Service and troubleshoot technical issues.
-* **To facilitate account creation and logon process.** We use Communications Information to facilitate account creation and logon process for the performance of the contract. If you choose to link your account with us to a third-party account (such as your Google or Facebook account), we also use the Information from Third-Party Services and Registration Information for this purpose.
-* **To train, develop, and improve the artificial intelligence, machine learning, and models that we use to support our Services.** We may use your Log and Usage Information and Prompts and Outputs Information for this purpose.
-* **To post testimonials.** We post testimonials on our Website that may contain Testimonial Information. Prior to posting such a testimonial, we will obtain your consent to use your name and the content of the testimonial. We also post on our Website or social media accounts testimonials collected as Information from Third-party Community-Driven Platforms. If you wish to update or delete your testimonial, please contact us at [privacy@windsurf.com](mailto:privacy@windsurf.com) and be sure to include your name, testimonial location, and contact information.
-* **Request feedback.** We may use your Communications Information to request feedback and to contact you about your use of our Website or Services.
-* **To manage user accounts.** We may use your Registration Information, Communications Information, and Information from Third-party Services for the purposes of managing your account and keeping it in working order.
-* **To send administrative information to you.** We may use your Registration Information Communications Information, and Log and Usage Information to send you product, service and new feature information and/or information about changes to our terms, conditions, and policies.
-* **To protect our Services.** We may use any of the categories of your Personal Information described in Section 1 as part of our efforts to keep our Services safe and secure (for example, for fraud monitoring and prevention).
-* **To enforce our terms, conditions and policies for business purposes, to comply with legal and regulatory requirements or in connection with our contract.** We may use any of the categories of your Personal Information described in Section 1 for this purpose.
-* **To respond to legal requests and prevent harm.** If we receive a subpoena or other legal request, we may need to inspect the data we hold to determine how to respond. We may use any of the categories of your Personal Information described in Section 1 for this purpose.
-* **To respond to user inquiries/offer support to users.** We may use your Registration Information, Communications Information, Log and Usage Information, Prompts and Outputs Information, and Information from Third-party Services to respond to your inquiries and solve any potential issues you might have with the use of our Services.
-* **To send you marketing and promotional communications.** We and/or our third-party marketing partners may use Registration Information, Communications Information, Log and Usage Information, and Information from Third-party Services for our marketing purposes, if this is in accordance with your marketing preferences. For example, when expressing an interest in obtaining information about us or our Website, subscribing to marketing or otherwise contacting us, we will collect Personal Information from you. You can opt-out of our marketing emails at any time (see the "WHAT ARE YOUR PRIVACY RIGHTS?" below).
-* **For other business purposes.** We may use your Registration Information, Communications Information, Log and Usage Information, Information from Third-party Services, and Information from Third-party Community-Driven Platforms for other business purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Services, marketing and your experience. We may use and store this information in aggregated and anonymized form so that it is not associated with individual end users and does not include Personal Information.
+*   **To provide and maintain our Services.** We may use any of the categories of Personal Information described in Section 1 above to provide our Service and troubleshoot technical issues.
+*   **To facilitate account creation and logon process.** We use Communications Information to facilitate account creation and logon process for the performance of the contract. If you choose to link your account with us to a third-party account (such as your Google or Facebook account), we also use the Information from Third-Party Services and Registration Information for this purpose.
+*   **To train, develop, and improve the artificial intelligence, machine learning, and models that we use to support our Services.** We may use your Log and Usage Information and Prompts and Outputs Information for this purpose.
+*   **To post testimonials.** We post testimonials on our Website that may contain Testimonial Information. Prior to posting such a testimonial, we will obtain your consent to use your name and the content of the testimonial. We also post on our Website or social media accounts testimonials collected as Information from Third-party Community-Driven Platforms. If you wish to update or delete your testimonial, please contact us at [privacy@windsurf.com](mailto:privacy@windsurf.com) and be sure to include your name, testimonial location, and contact information.
+*   **Request feedback.** We may use your Communications Information to request feedback and to contact you about your use of our Website or Services.
+*   **To manage user accounts.** We may use your Registration Information, Communications Information, and Information from Third-party Services for the purposes of managing your account and keeping it in working order.
+*   **To send administrative information to you.** We may use your Registration Information Communications Information, and Log and Usage Information to send you product, service and new feature information and/or information about changes to our terms, conditions, and policies.
+*   **To protect our Services.** We may use any of the categories of your Personal Information described in Section 1 as part of our efforts to keep our Services safe and secure (for example, for fraud monitoring and prevention).
+*   **To enforce our terms, conditions and policies for business purposes, to comply with legal and regulatory requirements or in connection with our contract.** We may use any of the categories of your Personal Information described in Section 1 for this purpose.
+*   **To respond to legal requests and prevent harm.** If we receive a subpoena or other legal request, we may need to inspect the data we hold to determine how to respond. We may use any of the categories of your Personal Information described in Section 1 for this purpose.
+*   **To respond to user inquiries/offer support to users.** We may use your Registration Information, Communications Information, Log and Usage Information, Prompts and Outputs Information, and Information from Third-party Services to respond to your inquiries and solve any potential issues you might have with the use of our Services.
+*   **To send you marketing and promotional communications.** We and/or our third-party marketing partners may use Registration Information, Communications Information, Log and Usage Information, and Information from Third-party Services for our marketing purposes, if this is in accordance with your marketing preferences. For example, when expressing an interest in obtaining information about us or our Website, subscribing to marketing or otherwise contacting us, we will collect Personal Information from you. You can opt-out of our marketing emails at any time (see the "WHAT ARE YOUR PRIVACY RIGHTS?" below).
+*   **For other business purposes.** We may use your Registration Information, Communications Information, Log and Usage Information, Information from Third-party Services, and Information from Third-party Community-Driven Platforms for other business purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Services, marketing and your experience. We may use and store this information in aggregated and anonymized form so that it is not associated with individual end users and does not include Personal Information.
 
 **3\. LEGAL BASES FOR PROCESSING EUROPEAN PERSONAL INFORMATION**
 
 If you are located in the European Economic Area (“EEA”), Switzerland, or the United Kingdom (“UK”), we only process your Personal Information when we have a valid “legal basis”, including as set forth below.
 
-* **Consent.** You have consented to the use of your Personal Information.
-* **Contractual Necessity.** We need your Personal Information to provide you with our Services. For example, we may need to process your Personal Information to respond to your inquiries or requests, and to otherwise manage and provide our Services.
-* **Compliance with a Legal Obligation.** We may have a legal obligation to use your Personal Information. For example, we may process your Personal Information to comply with tax, labor and accounting obligations, governmental requests, a judicial proceeding, court order, or legal process, such as in response to a court order or a subpoena (including in response to public authorities to meet national security or law enforcement requirements).
-* **Legitimate Interests.** We or a third party have a legitimate interest in using your Personal Information. Specifically, we have a legitimate interest in using your Personal Information for product development and internal analytics purposes, and otherwise to improve the safety, security, and performance of our Services, to prevent fraud and potential illegal or offensive activities, and to establish, exercise or defend legal claims. We only rely on our or a third party’s legitimate interests to process your Personal Information when these interests are not overridden by your rights and interests.
+*   **Consent.** You have consented to the use of your Personal Information.
+*   **Contractual Necessity.** We need your Personal Information to provide you with our Services. For example, we may need to process your Personal Information to respond to your inquiries or requests, and to otherwise manage and provide our Services.
+*   **Compliance with a Legal Obligation.** We may have a legal obligation to use your Personal Information. For example, we may process your Personal Information to comply with tax, labor and accounting obligations, governmental requests, a judicial proceeding, court order, or legal process, such as in response to a court order or a subpoena (including in response to public authorities to meet national security or law enforcement requirements).
+*   **Legitimate Interests.** We or a third party have a legitimate interest in using your Personal Information. Specifically, we have a legitimate interest in using your Personal Information for product development and internal analytics purposes, and otherwise to improve the safety, security, and performance of our Services, to prevent fraud and potential illegal or offensive activities, and to establish, exercise or defend legal claims. We only rely on our or a third party’s legitimate interests to process your Personal Information when these interests are not overridden by your rights and interests.
 
 **4\. WILL YOUR PERSONAL INFORMATION BE DISCLOSED TO ANYONE?**
 
@@ -122,14 +122,14 @@ If you are located in the European Economic Area (“EEA”), Switzerland, or th
 
 More specifically, we may process your data or disclose your personal information in the following situations:
 
-* **Partners and Affiliates**. We may disclose any categories of Personal Information described in Section 1 above to our current or future partners and affiliates for any of the purposes described in this Privacy Policy.
-* **Business Transfers.** We may disclose or transfer any categories of Personal Information described in Section 1 above in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
-* **Vendors, Consultants and Other Third-Party Service Providers.** We may disclose any categories of Personal Information described in Section 1 above with third-party vendors, service providers, contractors or agents who perform services for us or on our behalf and require access to such information to do that work. For more information, see “TO WHOM WILL YOUR PERSONAL INFORMATION BE DISCLOSED?” below. We may allow selected third parties to use tracking technology on the Website, which will enable them to collect data on our behalf about how you interact with our Website over time. This information may be used to, among other things, analyze and track data, determine the popularity of certain content, pages or features, and better understand online activity. Unless described in this notice, we do not disclose, sell, rent or trade any of your information with third parties for their promotional purposes.
-* **Third-Party App Integrations.** If you connect a third-party application to our Services, we may disclose your Registration Information to that third party.
-* **Analytics Partners**. We use analytics services such as Google Analytics to collect and process certain analytics data. These services may also collect information about your use of other websites, apps, and online resources. You can learn more about Google’s practices by visiting [https://www.google.com/policies/privacy/partners/](https://www.google.com/policies/privacy/partners/). We may disclose Log and Usage Data to these providers.
-* **As Required By Law and Similar Disclosures**. We may access, preserve, and disclose any categories of Personal Information described in Section 1 if we believe doing so is required or appropriate to comply with law enforcement requests and legal process, such as a court order or subpoena, respond to your requests, or protect your, our, or others’ rights, property, or safety.
-* **Consent**. We may also disclose any categories of Personal Information described in Section 1 with your permission.
-* **Your employer or related organization** - If you create an account using an email address belonging or relating to your employer or another organization, we may share the fact that you have an account and certain Registration Information (such as your email address) with your employer or organization to, for example, enable you to be added to their business or enterprise account. In addition, administrators of any enterprise or business account may be able to access certain information associated with your account, including your Prompts and Output Information, and be able to control your account and such information.
+*   **Partners and Affiliates**. We may disclose any categories of Personal Information described in Section 1 above to our current or future partners and affiliates for any of the purposes described in this Privacy Policy.
+*   **Business Transfers.** We may disclose or transfer any categories of Personal Information described in Section 1 above in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
+*   **Vendors, Consultants and Other Third-Party Service Providers.** We may disclose any categories of Personal Information described in Section 1 above with third-party vendors, service providers, contractors or agents who perform services for us or on our behalf and require access to such information to do that work. For more information, see “TO WHOM WILL YOUR PERSONAL INFORMATION BE DISCLOSED?” below. We may allow selected third parties to use tracking technology on the Website, which will enable them to collect data on our behalf about how you interact with our Website over time. This information may be used to, among other things, analyze and track data, determine the popularity of certain content, pages or features, and better understand online activity. Unless described in this notice, we do not disclose, sell, rent or trade any of your information with third parties for their promotional purposes.
+*   **Third-Party App Integrations.** If you connect a third-party application to our Services, we may disclose your Registration Information to that third party.
+*   **Analytics Partners**. We use analytics services such as Google Analytics to collect and process certain analytics data. These services may also collect information about your use of other websites, apps, and online resources. You can learn more about Google’s practices by visiting [https://www.google.com/policies/privacy/partners/](https://www.google.com/policies/privacy/partners/). We may disclose Log and Usage Data to these providers.
+*   **As Required By Law and Similar Disclosures**. We may access, preserve, and disclose any categories of Personal Information described in Section 1 if we believe doing so is required or appropriate to comply with law enforcement requests and legal process, such as a court order or subpoena, respond to your requests, or protect your, our, or others’ rights, property, or safety.
+*   **Consent**. We may also disclose any categories of Personal Information described in Section 1 with your permission.
+*   **Your employer or related organization** - If you create an account using an email address belonging or relating to your employer or another organization, we may share the fact that you have an account and certain Registration Information (such as your email address) with your employer or organization to, for example, enable you to be added to their business or enterprise account. In addition, administrators of any enterprise or business account may be able to access certain information associated with your account, including your Prompts and Output Information, and be able to control your account and such information.
 
 **5\. TO WHOM WILL YOUR PERSONAL INFORMATION BE DISCLOSED?**
 
@@ -137,9 +137,9 @@ More specifically, we may process your data or disclose your personal informatio
 
 We only disclose your Personal Information to the following categories of third parties. If we have disclosed your Personal Information based on your consent and you wish to revoke your consent, please contact us using the contact details provided in the section below titled "HOW CAN YOU CONTACT US ABOUT THIS NOTICE?".
 
-* Website Hosting Service Providers
-* Cloud Computing Services
-* Customer Intelligence Platforms
+*   Website Hosting Service Providers
+*   Cloud Computing Services
+*   Customer Intelligence Platforms
 
 **6\. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?**
 
@@ -149,9 +149,9 @@ We may use cookies and similar tracking technologies (like web beacons and pixel
 
 We and our third-party partners collect information using cookies, pixel tags, or similar technologies. Our third-party partners, such as analytics partners, may use these technologies to collect information about your online activities over time and across different services. Cookies are small text files containing a string of alphanumeric characters. We may use both session cookies and persistent cookies. A session cookie disappears after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to our Services. Cookies can be used for performance management or collecting information on how our Services are being used for analytics purposes. They can also be used for functionality management, enabling us to make your visit more efficient by, for example, remembering language preferences, passwords, and log-in details. We may also use pixel tags and web beacons on our Services. These are tiny graphic images placed on web pages or in our emails that allow us to determine whether you have performed a specific action. Below is an overview of the types of cookies we and third parties may use to collect Personal Information.
 
-* **Strictly Necessary Cookies.** Some cookies are strictly necessary to make our Services available to you. We cannot provide you with our Services without this type of cookies.
-* **Functional Cookies.** Functional cookies are used to recognize you when you return to our Services. This enables us to adapt our content for you and remember your preferences.
-* **Analytical or Advertising Cookies.** Analytical or advertising cookies can be used for website analytics purposes in order to operate, maintain and improve our Services, and to promote our Services.
+*   **Strictly Necessary Cookies.** Some cookies are strictly necessary to make our Services available to you. We cannot provide you with our Services without this type of cookies.
+*   **Functional Cookies.** Functional cookies are used to recognize you when you return to our Services. This enables us to adapt our content for you and remember your preferences.
+*   **Analytical or Advertising Cookies.** Analytical or advertising cookies can be used for website analytics purposes in order to operate, maintain and improve our Services, and to promote our Services.
 
 Please review your web browser’s “Help” file to learn how you may modify your cookie settings. Please note that if you delete or choose not to accept cookies from our Services, you may not be able to utilize the features of our Services to their fullest potential.
 
@@ -197,13 +197,13 @@ Your U.S. State Privacy Rights
 
 Some U.S. states provide consumers certain rights regarding their Personal Information. Depending on where you live and subject to certain exceptions, you may exercise the following rights:
 
-* The right to confirm whether we process your Personal Information and access Personal Information, including the right to obtain a copy of your Personal Information provided by you to us in a portable and readily usable format.
-* The right to correct inaccurate Personal Information that we maintain about you.
-* The right to delete Personal Information about or concerning you.
-* The right to opt out of the “sale” of your Personal Information and the processing of your Personal Information for targeted advertising.
-* The right to be free from discriminatory treatment for the exercise of your privacy rights.
-* The right to appeal any decision with regard to your privacy request.
-* The right to opt out of profiling in furtherance of producing legal or significant decisions concerning a consumer. We do not engage in such profiling.
+*   The right to confirm whether we process your Personal Information and access Personal Information, including the right to obtain a copy of your Personal Information provided by you to us in a portable and readily usable format.
+*   The right to correct inaccurate Personal Information that we maintain about you.
+*   The right to delete Personal Information about or concerning you.
+*   The right to opt out of the “sale” of your Personal Information and the processing of your Personal Information for targeted advertising.
+*   The right to be free from discriminatory treatment for the exercise of your privacy rights.
+*   The right to appeal any decision with regard to your privacy request.
+*   The right to opt out of profiling in furtherance of producing legal or significant decisions concerning a consumer. We do not engage in such profiling.
 
 **Submitting Requests**. You can submit access, correction, deletion, and appeal requests by sending us an email to [data-subject-request@windsurf.com](mailto:data-subject-request@windsurf.com).
 
@@ -227,8 +227,8 @@ If you have questions or comments about your privacy rights, you may email us at
 
 If you would at any time like to review or change the information in your account or terminate your account, you can:
 
-* Log in to your account settings and update your user account.
-* Contact us using the contact information provided.
+*   Log in to your account settings and update your user account.
+*   Contact us using the contact information provided.
 
 Upon your request to terminate your account, we will deactivate or delete your account and information from our active databases. However, we may retain some information in our files to prevent fraud, troubleshoot problems, assist with any investigations, enforce our Terms of Service and/or comply with applicable legal requirements.
 
@@ -236,7 +236,7 @@ Upon your request to terminate your account, we will deactivate or delete your a
 
 **Opting out of email marketing:** You can unsubscribe from our marketing email list at any time by clicking on the unsubscribe link in the emails that we send or by contacting us using the details provided below. You will then be removed from the marketing email list — however, we may still communicate with you, for example to send you service-related emails that are necessary for the administration and use of your account, to respond to service requests, or for other non-marketing purposes. To otherwise opt-out, you may:
 
-* Contact us using the contact information provided.
+*   Contact us using the contact information provided.
 
 **13\. CONTROLS FOR DO-NOT-TRACK FEATURES**
 
