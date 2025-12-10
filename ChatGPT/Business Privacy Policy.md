@@ -11,35 +11,35 @@ Ownership
 
 You own and control your data
 
-* We do not train our models on your business data by default
+*   We do not train our models on your business data by default
     
-* You own your inputs and outputs (where allowed by law)
+*   You own your inputs and outputs (where allowed by law)
     
-* You control how long your data is retained (ChatGPT Enterprise)
+*   You control how long your data is retained (ChatGPT Enterprise)
     
-* You control which internal sources are connected (ChatGPT Business and Enterprise)
+*   You control which internal sources are connected (ChatGPT Business and Enterprise)
     
 
 Control
 
 You decide who has access within your organization
 
-* Enterprise-level authentication through SAML SSO (ChatGPT Enterprise and API)
+*   Enterprise-level authentication through SAML SSO (ChatGPT Enterprise and API)
     
-* Fine-grained control over access and available features
+*   Fine-grained control over access and available features
     
-* [Custom models⁠](https://platform.openai.com/docs/guides/fine-tuning) are yours alone to use and are not shared with anyone else
+*   [Custom models⁠](https://platform.openai.com/docs/guides/fine-tuning) are yours alone to use and are not shared with anyone else
     
 
 Security
 
 Comprehensive compliance
 
-* Successfully completed a SOC 2 audit, confirming that our controls align with industry standards for security and confidentiality
+*   Successfully completed a SOC 2 audit, confirming that our controls align with industry standards for security and confidentiality
     
-* Data encryption at rest (AES-256) and in transit between our customers and us, and between us and our service providers (TLS 1.2+)
+*   Data encryption at rest (AES-256) and in transit between our customers and us, and between us and our service providers (TLS 1.2+)
     
-* Visit our [Trust Portal⁠](https://trust.openai.com/) to understand more about our security measures
+*   Visit our [Trust Portal⁠](https://trust.openai.com/) to understand more about our security measures
     
 
 #### General FAQ
