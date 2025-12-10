@@ -27,8 +27,8 @@ xAI, the developer of Grok, owns trademark rights, intellectual property rights,
 
 If you used Grok to generate text or images, please attribute them to xAI and Grok by displaying one of the following phrases in a legible and noticeable manner wherever the Grok-generated material is published or distributed:
 
-* Written with Grok
-* Created with Grok
+*   Written with Grok
+*   Created with Grok
 
 [**Press Releases**](#press-releases)
 -------------------------------------
@@ -42,16 +42,16 @@ Please contact us at [legal@x.ai](mailto:legal@x.ai) before mentioning us in you
 
 ### [**Do:**](#do)
 
-* Use our Marks only to accurately refer to us or our services.
-* Follow and observe these xAI Brand Guidelines, other guidelines we issue, and any updates.
-* Make any changes to your use of our Marks that we may require after review.
+*   Use our Marks only to accurately refer to us or our services.
+*   Follow and observe these xAI Brand Guidelines, other guidelines we issue, and any updates.
+*   Make any changes to your use of our Marks that we may require after review.
 
 ### [**Don’t:**](#dont)
 
-* Use our Marks in any way that is unrelated to us or that could misrepresent your relationship with xAI, mislead, or imply our endorsement, approval, or sponsorship of you or your goods or services.
-* Use our Marks in any app title, domain name, or the name of any product or service not made or provided by us.
-* Add anything in close proximity to our Marks in a way that creates an impression of a new mark.
-* Use our Marks in or as part of your marks.
+*   Use our Marks in any way that is unrelated to us or that could misrepresent your relationship with xAI, mislead, or imply our endorsement, approval, or sponsorship of you or your goods or services.
+*   Use our Marks in any app title, domain name, or the name of any product or service not made or provided by us.
+*   Add anything in close proximity to our Marks in a way that creates an impression of a new mark.
+*   Use our Marks in or as part of your marks.
 
 We may grant others the right to use our Marks, but you are not permitted to. And we may terminate your permission to use our Marks at any time, in which case you must stop using them promptly.
 
