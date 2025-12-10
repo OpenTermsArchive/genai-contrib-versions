@@ -27,25 +27,25 @@ Information you provide us when you create an account: To ensure the details men
 
 When you sign up for or use our Services, you voluntarily give us certain Personal Data, including:
 
-* **Your username, email address, and contact and language preferences**. If you log into Speechify with a social networking credential, such as with your Facebook or Google account, we will ask permission to access basic information from that account, such as your name and email address. You can stop sharing that information with us at any time by removing Speechify’s access to that account.
-* **Your payment information, if you are a paying customer**. This is required to complete a commercial transaction on the Site. We use this information to enable and fulfill your transaction. If you choose to use PayPal® to finalize and pay for your order, you will provide your credit card number directly to PayPal®. The privacy policy of PayPal® will apply to the information you provide on the PayPal® website.
+*   **Your username, email address, and contact and language preferences**. If you log into Speechify with a social networking credential, such as with your Facebook or Google account, we will ask permission to access basic information from that account, such as your name and email address. You can stop sharing that information with us at any time by removing Speechify’s access to that account.
+*   **Your payment information, if you are a paying customer**. This is required to complete a commercial transaction on the Site. We use this information to enable and fulfill your transaction. If you choose to use PayPal® to finalize and pay for your order, you will provide your credit card number directly to PayPal®. The privacy policy of PayPal® will apply to the information you provide on the PayPal® website.
 
 #### Other Information we collect
 
 We collect this information as you use the Site, Software, and/or Services:
 
-* **User Content**. This consists of all text, documents, or other content or information uploaded, entered, or otherwise transmitted by you in connection with your use of the Services and/or Software.
-* **Names of user contacts in Speechify Keyboard (on-device storage only)**. To make appropriate spelling suggestions, the Speechify Keyboard may request or obtain access to your contacts’ names on your device. For instance, Speechify will not try to autocorrect names that are in your contacts. These names will be stored solely on your device within the Speechify Keyboard app and are never sent to Speechify servers.
+*   **User Content**. This consists of all text, documents, or other content or information uploaded, entered, or otherwise transmitted by you in connection with your use of the Services and/or Software.
+*   **Names of user contacts in Speechify Keyboard (on-device storage only)**. To make appropriate spelling suggestions, the Speechify Keyboard may request or obtain access to your contacts’ names on your device. For instance, Speechify will not try to autocorrect names that are in your contacts. These names will be stored solely on your device within the Speechify Keyboard app and are never sent to Speechify servers.
 
 #### Automatically collected Information
 
 Certain data about the devices you use to connect with Speechify and your use of the Site, Software, and/or Services are automatically logged in our systems, including:
 
-* Location information. This is the geographic area where you use your computer and mobile devices (as indicated by an Internet Protocol (IP) address or similar identifier) when interacting with our Site, Software, and/or Services.
-* Log data. As with most websites and technology services delivered over the internet, our servers automatically collect data when you access or use our Site, Software, and/or Services and record it in log files. This log data may include IP address, browser type and settings, date and time of use, information about browser configuration, language preferences, and cookie data.
-* Usage information. This is information about the Speechify Site, Software, and/or Services you use and how you use them. We may also obtain data from our third-party partners and service providers to analyze how users use our Site, Software, and/or Services. For example, we will know how many users access a specific page on the Site and which links they clicked on. We use this aggregated information to better understand and optimize the Site.
-* Device information. This is data from your computer or mobile device, such as the type of hardware and software you are using (for example, your operating system and browser type), as well as unique device identifiers for devices that are using Speechify Software.
-* Cookies. Data obtained from cookies is described in the “[Does Speechify use cookies?](https://speechify.com/privacy/)” section and in our [Cookie Policy](https://speechify.com/privacy/).
+*   Location information. This is the geographic area where you use your computer and mobile devices (as indicated by an Internet Protocol (IP) address or similar identifier) when interacting with our Site, Software, and/or Services.
+*   Log data. As with most websites and technology services delivered over the internet, our servers automatically collect data when you access or use our Site, Software, and/or Services and record it in log files. This log data may include IP address, browser type and settings, date and time of use, information about browser configuration, language preferences, and cookie data.
+*   Usage information. This is information about the Speechify Site, Software, and/or Services you use and how you use them. We may also obtain data from our third-party partners and service providers to analyze how users use our Site, Software, and/or Services. For example, we will know how many users access a specific page on the Site and which links they clicked on. We use this aggregated information to better understand and optimize the Site.
+*   Device information. This is data from your computer or mobile device, such as the type of hardware and software you are using (for example, your operating system and browser type), as well as unique device identifiers for devices that are using Speechify Software.
+*   Cookies. Data obtained from cookies is described in the “[Does Speechify use cookies?](https://speechify.com/privacy/)” section and in our [Cookie Policy](https://speechify.com/privacy/).
 
 #### Information collected from other sources
 
@@ -55,12 +55,12 @@ We may collect information about you from third parties, such as marketing partn
 
 We use, process, and store your Information as necessary to perform our contract with you and for our legitimate business interests, including:
 
-* To help us provide and administer our Site, Software, and/or Services, authenticate users for security purposes, provide personalized user features and access, process transactions, conduct research, develop new features, and improve the features, algorithms, and usability of our Site, Software, and/or Services.
-* To communicate with you about your use of our Site, Software, and/or Services, product announcements, and software updates, as well as respond to your requests for assistance, including providing account verification support if you’re having difficulty accessing your account.
-* To send you direct marketing emails and special offers about Speechify, from which you can unsubscribe at any time. For more information, please see the section titled, “[Will Speechify send me emails?](https://speechify.com/privacy/)” If you are located in the European Economic Area (EEA), Switzerland, or the UK, we will only send you marketing information if you consent to us doing so at the time you create your account or any point thereafter.
-* To display User Content associated with your account and make sure it is available to you when you use our Services.
-* To provide human proofreading services for users who submit User Content in connection with this specific service.
-* To calculate aggregate statistics on the number of unique devices using our Site, Software, and/or Services, and to detect and prevent fraud and misuse of those.
+*   To help us provide and administer our Site, Software, and/or Services, authenticate users for security purposes, provide personalized user features and access, process transactions, conduct research, develop new features, and improve the features, algorithms, and usability of our Site, Software, and/or Services.
+*   To communicate with you about your use of our Site, Software, and/or Services, product announcements, and software updates, as well as respond to your requests for assistance, including providing account verification support if you’re having difficulty accessing your account.
+*   To send you direct marketing emails and special offers about Speechify, from which you can unsubscribe at any time. For more information, please see the section titled, “[Will Speechify send me emails?](https://speechify.com/privacy/)” If you are located in the European Economic Area (EEA), Switzerland, or the UK, we will only send you marketing information if you consent to us doing so at the time you create your account or any point thereafter.
+*   To display User Content associated with your account and make sure it is available to you when you use our Services.
+*   To provide human proofreading services for users who submit User Content in connection with this specific service.
+*   To calculate aggregate statistics on the number of unique devices using our Site, Software, and/or Services, and to detect and prevent fraud and misuse of those.
 
 #### Does Speechify review User Content?
 
@@ -72,11 +72,11 @@ As a rule, Speechify employees do not monitor or view your User Content stored i
 
 We only disclose Personal Data to third parties when…
 
-* …we use service providers who assist us in meeting business operations needs, including hosting, delivering, and improving our Services. We also use service providers for specific services and functions, including email communication, customer support services, and analytics. These service providers may only access, process, or store Personal Data pursuant to our instructions and to perform their duties to us.
-* …we have your explicit consent to share your Personal Data.
-* …we believe it is necessary to investigate potential violations of the Terms of Service, to enforce those Terms of Service, or to investigate, prevent, or take action regarding illegal activities, suspected fraud, or potential threats against persons, property, or the systems on which we operate our Site, Software, and/or Services.
-* …we determine that the access, preservation, or disclosure of your Personal Data is required by law to protect the rights, property, or personal safety of Speechify and users of our Site, Software, and/or Services, or to respond to lawful requests by public authorities, including national security or law enforcement requests.
-* …we need to do so in connection with a merger, acquisition, bankruptcy, reorganization, sale of some or all of our assets or stock, public offering of securities, or steps in consideration of such activities (e.g., due diligence). In these cases some or all of your Personal Data may be shared with or transferred to another entity, subject to this Privacy Policy.
+*   …we use service providers who assist us in meeting business operations needs, including hosting, delivering, and improving our Services. We also use service providers for specific services and functions, including email communication, customer support services, and analytics. These service providers may only access, process, or store Personal Data pursuant to our instructions and to perform their duties to us.
+*   …we have your explicit consent to share your Personal Data.
+*   …we believe it is necessary to investigate potential violations of the Terms of Service, to enforce those Terms of Service, or to investigate, prevent, or take action regarding illegal activities, suspected fraud, or potential threats against persons, property, or the systems on which we operate our Site, Software, and/or Services.
+*   …we determine that the access, preservation, or disclosure of your Personal Data is required by law to protect the rights, property, or personal safety of Speechify and users of our Site, Software, and/or Services, or to respond to lawful requests by public authorities, including national security or law enforcement requests.
+*   …we need to do so in connection with a merger, acquisition, bankruptcy, reorganization, sale of some or all of our assets or stock, public offering of securities, or steps in consideration of such activities (e.g., due diligence). In these cases some or all of your Personal Data may be shared with or transferred to another entity, subject to this Privacy Policy.
 
 We may disclose Non-Personal Data publicly and to third parties—for example, in public reports about word usage, to partners under agreement with us, or as part of progress reports we may provide to users.
 
@@ -162,10 +162,10 @@ When Speechify transfers the personal data of EEA, Swiss, and UK residents outsi
 
 Individuals located in the European Economic Area (EEA), Switzerland, and the UK have certain rights in respect to their personal information, including the right to access, correct, or delete Personal Data we process through your use of the Site, Software, and/or Services. If you’re a user based in the EEA, Switzerland, or the UK, you can:
 
-* Request a Personal Data report by submitting a support ticket through [this link](https://help.speechify.com/en). This report will include the Personal Data we have about you, provided to you in a structured, commonly used, and portable format. You must be signed into your Speechify account to submit this request. Please note that Speechify may request additional information from you to verify your identity before we disclose any information.
-* Have your Personal Data corrected or deleted. Some Personal Data can be updated by you: You can update your name and email address, as well as language preference, through your Speechify account settings. If you registered for Speechify using Google or Facebook, or if you otherwise have problems updating this information, please [submit a support ticket](https://help.speechify.com/en). You can remove your Personal Data from Speechify by [deleting your account](https://speechify.com/privacy/).
-* Object to us processing your Personal Data. You can ask us to stop using your Personal Data, including when we use your Personal Data to send you marketing emails. We only send marketing communications to users located in the EEA, Switzerland, and the UK with your prior consent, and you may withdraw your consent at any time by clicking the “unsubscribe” link found within Speechify emails and changing your contact preferences. Please note that you will continue to receive transactional messages related to our Services, even if you unsubscribe from marketing emails.
-* Complain to a regulator. If you’re based in the EEA, Switzerland, or the UK and think that we haven’t complied with data protection laws, you have a right to lodge a complaint with your local supervisory authority.
+*   Request a Personal Data report by submitting a support ticket through [this link](https://help.speechify.com/en). This report will include the Personal Data we have about you, provided to you in a structured, commonly used, and portable format. You must be signed into your Speechify account to submit this request. Please note that Speechify may request additional information from you to verify your identity before we disclose any information.
+*   Have your Personal Data corrected or deleted. Some Personal Data can be updated by you: You can update your name and email address, as well as language preference, through your Speechify account settings. If you registered for Speechify using Google or Facebook, or if you otherwise have problems updating this information, please [submit a support ticket](https://help.speechify.com/en). You can remove your Personal Data from Speechify by [deleting your account](https://speechify.com/privacy/).
+*   Object to us processing your Personal Data. You can ask us to stop using your Personal Data, including when we use your Personal Data to send you marketing emails. We only send marketing communications to users located in the EEA, Switzerland, and the UK with your prior consent, and you may withdraw your consent at any time by clicking the “unsubscribe” link found within Speechify emails and changing your contact preferences. Please note that you will continue to receive transactional messages related to our Services, even if you unsubscribe from marketing emails.
+*   Complain to a regulator. If you’re based in the EEA, Switzerland, or the UK and think that we haven’t complied with data protection laws, you have a right to lodge a complaint with your local supervisory authority.
 
 If you have other questions or do not have a Speechify account, contact us by [submitting a support ticket](https://help.speechify.com/en?landing_url=https%3A%2F%2Fspeechify.com%2Fvoiceover-new%2F).
 
@@ -175,11 +175,11 @@ Where we rely on your consent to process personal data—such as for sending mar
 
 You can withdraw your consent in the following ways:
 
-* **Marketing emails**: Click the “unsubscribe” link at the bottom of any marketing email, or update your preferences through your Speechify account settings.
-* **Cookies and analytics**: Adjust your cookie preferences at any time by selecting Cookie Settings in the website footer. This will reopen our consent tool and allow you to disable non-essential cookies, including analytics from Google Analytics, Segment, and Amplitude.
-* **Product and support communications**: To stop receiving in-app messages or support notifications powered by Intercom, adjust your in-app notification settings or contact us directly.
-* **Email marketing platform**: For messages delivered through Customer.io, your unsubscribe or account preference changes will automatically update your consent status in that system.
-* **Direct requests**: You may also contact us at [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection) if you wish to withdraw consent for any other processing activities.
+*   **Marketing emails**: Click the “unsubscribe” link at the bottom of any marketing email, or update your preferences through your Speechify account settings.
+*   **Cookies and analytics**: Adjust your cookie preferences at any time by selecting Cookie Settings in the website footer. This will reopen our consent tool and allow you to disable non-essential cookies, including analytics from Google Analytics, Segment, and Amplitude.
+*   **Product and support communications**: To stop receiving in-app messages or support notifications powered by Intercom, adjust your in-app notification settings or contact us directly.
+*   **Email marketing platform**: For messages delivered through Customer.io, your unsubscribe or account preference changes will automatically update your consent status in that system.
+*   **Direct requests**: You may also contact us at [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection) if you wish to withdraw consent for any other processing activities.
 
 You can also manage or withdraw consent for non-essential cookies directly through your browser or device settings. For example, you can block or delete cookies, clear local storage, or limit ad tracking on mobile devices. For cookies or tracking controlled by third parties, you may also use the opt-out links provided in their privacy policies or in our [Cookie Policy](https://speechify.com/cookies/).
 
@@ -205,22 +205,22 @@ Throughout this Privacy Policy, we discuss in detail the specific pieces of pers
 
 Those categories are:
 
-* Identifiers (such as name, email address, or social network account and profile data);
-* Commercial information (such as transaction data for a paid account);
-* Financial data (such as payment method or financial account information);
-* Internet or other network or device activity (such as IP address and usage information);
-* Location information (e.g., the general location where you use your device when interacting with the Site, Software, and/or Services);
-* Sensory information (such as audio recordings if you call our customer service);
-* Inference data about you;
-* Other information that identifies or can be reasonably associated with you. We collect these categories of personal information from different sources, as described in the section titled, “What Information does Speechify collect about me?” above.
+*   Identifiers (such as name, email address, or social network account and profile data);
+*   Commercial information (such as transaction data for a paid account);
+*   Financial data (such as payment method or financial account information);
+*   Internet or other network or device activity (such as IP address and usage information);
+*   Location information (e.g., the general location where you use your device when interacting with the Site, Software, and/or Services);
+*   Sensory information (such as audio recordings if you call our customer service);
+*   Inference data about you;
+*   Other information that identifies or can be reasonably associated with you. We collect these categories of personal information from different sources, as described in the section titled, “What Information does Speechify collect about me?” above.
 
 We collect and use your personal information for the following business and commercial purposes:
 
-* To provide and maintain our services
-* To communicate with you and respond to your inquiries
-* To improve our website and services
-* To detect, prevent, and address security or technical issues
-* To comply with legal obligations
+*   To provide and maintain our services
+*   To communicate with you and respond to your inquiries
+*   To improve our website and services
+*   To detect, prevent, and address security or technical issues
+*   To comply with legal obligations
 
 We and our service providers may use the categories of personal information we collect from and about you consistent with the various business and commercial purposes we discuss throughout this Privacy Policy. Please see the section titled “[How does Speechify use my Information?](https://speechify.com/privacy/)” above for more information. We share this information with the categories of third parties described in the section titled, “[Does Speechify share my Information?](https://speechify.com/privacy/)”
 
@@ -230,18 +230,18 @@ We may also use the categories of personal information for compliance with appli
 
 If you’re a California resident, you may have certain rights. California law may permit you to request that we:
 
-* Provide access to and/or a copy of certain information we hold about you.
-* Provide you a summary of the categories of personal information we have collected or disclosed about you in the last twelve months; the categories of sources of such information; the business or commercial purpose for collecting or selling your personal information; and the categories of third parties with whom we shared personal information.
-* Delete certain information we have about you.
+*   Provide access to and/or a copy of certain information we hold about you.
+*   Provide you a summary of the categories of personal information we have collected or disclosed about you in the last twelve months; the categories of sources of such information; the business or commercial purpose for collecting or selling your personal information; and the categories of third parties with whom we shared personal information.
+*   Delete certain information we have about you.
 
 You may have the right to receive information about the financial incentives that we offer to you (if any). You also have the right not to be discriminated against (as provided for in applicable law) for exercising certain of your rights. Certain information may be exempt from such requests under applicable law. For example, we need certain types of information so that we can provide the Site, Software, and Services to you. If you ask us to delete it, you may no longer be able to access or use the Site, Software, and Services.
 
 To exercise these rights, you can:
 
-* Request a personal data report by submitting a support ticket through [this link](https://help.speechify.com/en). You must be signed into your Speechify account to submit this request, and you may be required to log into your account to access the summary or the report.
-* Request the summary described above by submitting a support ticket or emailing [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection).
-* Delete your personal information from Speechify by deleting your account. You must be signed into your Speechify account to submit this request, and you will be required to provide your password to confirm that you want to delete your account.
-* You can also submit requests by submitting a [support ticket](https://help.speechify.com/en) or emailing [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection).
+*   Request a personal data report by submitting a support ticket through [this link](https://help.speechify.com/en). You must be signed into your Speechify account to submit this request, and you may be required to log into your account to access the summary or the report.
+*   Request the summary described above by submitting a support ticket or emailing [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection).
+*   Delete your personal information from Speechify by deleting your account. You must be signed into your Speechify account to submit this request, and you will be required to provide your password to confirm that you want to delete your account.
+*   You can also submit requests by submitting a [support ticket](https://help.speechify.com/en) or emailing [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection).
 
 You’ll need to provide us with information sufficient to verify your identity before we can satisfy your request. To do so, you’ll need to log into your account or provide us with certain information regarding yourself and/or your usage of the Site, Software, and Services. You can also designate an authorized agent to make a request on your behalf. To do so, you need to provide us with written authorization for the agent to act on your behalf. You will still need to verify your identity directly with us.
 
@@ -265,15 +265,15 @@ This Brazil Privacy Notice (“Notice”) applies to personal data processing ac
 
 If you’re a resident of Brazil, you may have certain rights. Brazilian law may permit you to request that we:
 
-* Confirm whether we process your data.
-* Provide access to and/or a copy of certain information we hold about you.
-* Correct incomplete, inaccurate, and outdated data.
-* Anonymize, block, or delete data that is unnecessary, excessive, or not being processed in accordance with Brazilian data protection law.
-* Port your personal data to another service or product vendor.
-* Delete personal data processed with your consent, when applicable.
-* Provide you with information regarding the public and private entities with which we share data.
-* Provide you with information about the possibility of withdrawing consent and the consequences of such withdrawal, where applicable.
-* Withdraw your consent.
+*   Confirm whether we process your data.
+*   Provide access to and/or a copy of certain information we hold about you.
+*   Correct incomplete, inaccurate, and outdated data.
+*   Anonymize, block, or delete data that is unnecessary, excessive, or not being processed in accordance with Brazilian data protection law.
+*   Port your personal data to another service or product vendor.
+*   Delete personal data processed with your consent, when applicable.
+*   Provide you with information regarding the public and private entities with which we share data.
+*   Provide you with information about the possibility of withdrawing consent and the consequences of such withdrawal, where applicable.
+*   Withdraw your consent.
 
 You can exercise some of these rights by logging in and visiting the My Account page. For example, you can download a copy of your Personal Data, delete your Personal Data by deleting your account, or correct your Personal Data in your Speechify account settings. You can also submit requests by submitting a support ticket or emailing [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection). You will be required to verify your identity before we fulfill your request. To do so, you’ll need to log into your account or provide us with certain information regarding yourself and/or your usage of the Site, Software, and Services.
 
@@ -297,10 +297,10 @@ For the purposes of this Policy, when we say “Speechify,” “we,” or “us
 
 We use cookies, pixels, SDKs, and similar technologies (“cookies”) to operate our services (essential cookies) and—where required by law, with your consent—to measure usage and improve features (analytics) and to support communications and product messaging (marketing).
 
-* Essential cookies (strictly necessary). These are needed to provide core site/app functionality, security, fraud prevention, and your preferences. They are set on the basis of our legitimate interests and/or contract with you and cannot be switched off in our systems.
-* Analytics cookies. With your consent, we use analytics to understand how our services are used and to improve performance and features. Providers include Google Analytics, Segment, and Amplitude.
-* Support/communications cookies. With your consent, we use technologies that enable customer support and in-product messaging, such as Intercom.
-* Email marketing technologies. With your consent, our email provider (Customer.io) may use cookies or similar technologies to measure email deliverability and engagement (e.g., opens, clicks).
+*   Essential cookies (strictly necessary). These are needed to provide core site/app functionality, security, fraud prevention, and your preferences. They are set on the basis of our legitimate interests and/or contract with you and cannot be switched off in our systems.
+*   Analytics cookies. With your consent, we use analytics to understand how our services are used and to improve performance and features. Providers include Google Analytics, Segment, and Amplitude.
+*   Support/communications cookies. With your consent, we use technologies that enable customer support and in-product messaging, such as Intercom.
+*   Email marketing technologies. With your consent, our email provider (Customer.io) may use cookies or similar technologies to measure email deliverability and engagement (e.g., opens, clicks).
 
 For full details—including cookie types, purposes, typical retention periods, and all providers—please see our [Cookie Policy](https://speechify.com/cookies/). You can change or withdraw your cookie preferences at any time via Cookie Settings (link in our site footer). Withdrawing consent does not affect the lawfulness of processing based on consent before its withdrawal.
 
