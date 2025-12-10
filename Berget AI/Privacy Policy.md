@@ -17,20 +17,20 @@ Berget AI AB, org. no. 559504-7522, is responsible for the processing of The Per
 
 We may collect the following types of personal data:
 
-* **Identity Data:** Name, username, or similar identifiers.
-* **Contact Data:** Email address, phone number, mailing address.
-* **Technical Data:** IP address, browser type, operating system, referring URLs, and device identifiers.
-* **Usage Data:** Information about how you use our website (e.g., pages visited, time spent).
-* **Marketing Data:** Preferences for receiving communications from us.
+*   **Identity Data:** Name, username, or similar identifiers.
+*   **Contact Data:** Email address, phone number, mailing address.
+*   **Technical Data:** IP address, browser type, operating system, referring URLs, and device identifiers.
+*   **Usage Data:** Information about how you use our website (e.g., pages visited, time spent).
+*   **Marketing Data:** Preferences for receiving communications from us.
 
 3\. How We Collect Your Data
 ----------------------------
 
 We collect data through:
 
-* **Direct interactions:** When you fill out forms, subscribe to newsletters, or contact us.
-* **Automated technologies:** Cookies, analytics tracking, and log files.
-* **Third-party sources:** Payment processors, analytics providers, or advertising networks.
+*   **Direct interactions:** When you fill out forms, subscribe to newsletters, or contact us.
+*   **Automated technologies:** Cookies, analytics tracking, and log files.
+*   **Third-party sources:** Payment processors, analytics providers, or advertising networks.
 
 4\. Purpose of Data Processing
 ------------------------------
@@ -59,9 +59,9 @@ We use cookies and similar tracking technologies to improve user experience. You
 
 We do not sell your data. However, we may share data with:
 
-* **Service Providers:** Hosting, analytics, and marketing partners.
-* **Legal Authorities:** If required by law or to protect our rights.
-* **Business Transfers:** In case of mergers, acquisitions, or asset sales.
+*   **Service Providers:** Hosting, analytics, and marketing partners.
+*   **Legal Authorities:** If required by law or to protect our rights.
+*   **Business Transfers:** In case of mergers, acquisitions, or asset sales.
 
 All third parties are contractually required to comply with GDPR and maintain data security.
 
@@ -70,9 +70,9 @@ All third parties are contractually required to comply with GDPR and maintain da
 
 We retain personal data only as long as necessary for the purposes outlined in this policy. Retention periods depend on the type of data:
 
-* Customer inquiries: **Up to 1 year**
-* Marketing data: **Until consent is withdrawn**
-* Website analytics: **Up to 26 months**
+*   Customer inquiries: **Up to 1 year**
+*   Marketing data: **Until consent is withdrawn**
+*   Website analytics: **Up to 26 months**
 
 When no longer needed, data is securely deleted or anonymized.
 
@@ -81,23 +81,23 @@ When no longer needed, data is securely deleted or anonymized.
 
 We implement technical and organizational security measures to protect your data, including:
 
-* Encrypted data storage
-* Access controls and authentication
-* Regular security audits
-* Secure communication via HTTPS
+*   Encrypted data storage
+*   Access controls and authentication
+*   Regular security audits
+*   Secure communication via HTTPS
 
 9\. Your Rights Under GDPR
 --------------------------
 
 As an **EU resident**, you have the following rights:
 
-* **Right to Access:** Request a copy of your personal data.
-* **Right to Rectification:** Correct inaccurate or incomplete data.
-* **Right to Erasure:** Request deletion of your data (“right to be forgotten”).
-* **Right to Restriction:** Limit how we process your data.
-* **Right to Data Portability:** Receive your data in a structured, machine-readable format.
-* **Right to Object:** Object to data processing for marketing or legitimate interests.
-* **Right to Withdraw Consent:** If processing is based on consent, you can withdraw it anytime.
+*   **Right to Access:** Request a copy of your personal data.
+*   **Right to Rectification:** Correct inaccurate or incomplete data.
+*   **Right to Erasure:** Request deletion of your data (“right to be forgotten”).
+*   **Right to Restriction:** Limit how we process your data.
+*   **Right to Data Portability:** Receive your data in a structured, machine-readable format.
+*   **Right to Object:** Object to data processing for marketing or legitimate interests.
+*   **Right to Withdraw Consent:** If processing is based on consent, you can withdraw it anytime.
 
 **To exercise your rights**, contact us at [gdpr@berget.ai](mailto:gdpr@berget.ai). We will respond within **one month**.
 
@@ -106,8 +106,8 @@ As an **EU resident**, you have the following rights:
 
 We see no reason whatsoever to transfer data outside of the EEA, but in the case that we should be ordered by a customer to transfer personal data outside the **European Economic Area (EEA)**, we ensure appropriate safeguards, such as:
 
-* **Standard Contractual Clauses (SCCs)** approved by the European Commission.
-* **Adequacy decisions** for countries recognized by the EU as providing sufficient protection.
+*   **Standard Contractual Clauses (SCCs)** approved by the European Commission.
+*   **Adequacy decisions** for countries recognized by the EU as providing sufficient protection.
 
 11\. Complaints & Supervisory Authority
 ---------------------------------------
