@@ -5,28 +5,28 @@ Anthropic PBC discloses account records solely in accordance with our Terms of S
 
 Please include the following information with your request:
 
-* Law Enforcement Agency Country
+*   Law Enforcement Agency Country
     
-* City
+*   City
     
-* State/Province
+*   State/Province
     
-* Zip/Postal Code
+*   Zip/Postal Code
     
-* Law Enforcement Address
+*   Law Enforcement Address
     
-* Name of Court/Policy Department/Authority/Agency
+*   Name of Court/Policy Department/Authority/Agency
     
-* Name of Contact Person Handling this Matter (Detective, Investigator, etc.)
+*   Name of Contact Person Handling this Matter (Detective, Investigator, etc.)
     
-* Official Law Enforcement Agency Request Email Address
+*   Official Law Enforcement Agency Request Email Address
     
-* Contact Person’s Phone Number
+*   Contact Person’s Phone Number
     
-* Description of legal Inquiry
+*   Description of legal Inquiry
     
-* Matter Type of legal Inquiry
+*   Matter Type of legal Inquiry
     
-* Attach Any Relevant Documentation (e.g., Subpoena, Warrant)
+*   Attach Any Relevant Documentation (e.g., Subpoena, Warrant)
     
-* NCMEC Report Identifier (If Applicable)
+*   NCMEC Report Identifier (If Applicable)
