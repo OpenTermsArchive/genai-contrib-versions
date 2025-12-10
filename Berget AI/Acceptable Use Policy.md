@@ -23,14 +23,14 @@ Below are examples of actions and content which Berget considers to be illegal, 
 
 1.7 **Undermine System Integrity**: Conduct activities that compromise the security, performance, or availability of the Service or related infrastructure. This includes intentional or careless use of the Service in excess of a typically expected server load, such as continuously high CPU or I/O use rate,
 
-* intentional or careless configuration of servers that enables unauthorised third-party access or otherwise lacks adequate security requirements,
-* measures aimed to circumvent, or interfere with the limitations or restrictions in the Service, or monitoring, controlling or charging of the Service by Berget.
+*   intentional or careless configuration of servers that enables unauthorised third-party access or otherwise lacks adequate security requirements,
+*   measures aimed to circumvent, or interfere with the limitations or restrictions in the Service, or monitoring, controlling or charging of the Service by Berget.
 
 1.8 **Harmful use of AI:** Development or deployment of AI applications that break the EU AI act regulations
 
-* “Unacceptable” risk level Use Cases are not allowed on Berget
-* “High” risk level use cases require specific controls (security, transparency, data, logging) to be in place - you are welcome to contact Berget for guidance on how to set this up
-* “Limited” and “Minimal” risk levels are permitted as long as you comply with what is stipulated in regulations on transparency towards end users, GDPR and other items
+*   “Unacceptable” risk level Use Cases are not allowed on Berget
+*   “High” risk level use cases require specific controls (security, transparency, data, logging) to be in place - you are welcome to contact Berget for guidance on how to set this up
+*   “Limited” and “Minimal” risk levels are permitted as long as you comply with what is stipulated in regulations on transparency towards end users, GDPR and other items
 
 2\. User Responsibilities
 -------------------------
