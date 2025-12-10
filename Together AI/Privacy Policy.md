@@ -14,7 +14,7 @@ Applicability: This Policy applies to personal data that the Company collects, u
 
 This Policy does not apply to the following information:
 
-* Personal Data about the Company employees, and certain contractors and  
+*   Personal Data about the Company employees, and certain contractors and  
     agents acting in similar roles.
 
 Changes: We may update this Policy from time-to-time to reflect changes in legal, regulatory, operational requirements, our practices, and other factors. Please check this Policy periodically for updates. If any of the changes are unacceptable to you, you should cease interacting with us. When required under applicable law, we will notify you of any changes to this Policy.
@@ -28,45 +28,45 @@ Definitions: Through this Policy, You, or Your means the individual accessing or
 2.1.1 Personal Data  
 While interacting with the Services, You may provide certain personally identifiable information that could be used to contact or identify You. Personally identifiable information may include, but is not limited to:
 
-* Your username for the Services
-* Your IP address
-* Usage Data
-* Tracking Technologies and Cookies
-* Contact Information
-* Organizational Information like your company title
-* Your Email
-* Cookies
-* Other data that you elect to send to the Company
+*   Your username for the Services
+*   Your IP address
+*   Usage Data
+*   Tracking Technologies and Cookies
+*   Contact Information
+*   Organizational Information like your company title
+*   Your Email
+*   Cookies
+*   Other data that you elect to send to the Company
 
 2.2 Use of Your Personal Data
 
 **Data that we collect, including your Personal Data, will not be used to train the Company’s models without your explicit opt-in and consent.** The Company may use Personal Data for the following purposes:
 
-* To provide, maintain, and improve our Service, including to monitor the usage of our Service.
-* To manage Your account: to manage Your registration as a user of the Service. The Personal Data You provide can give You access to different functionalities of the Service that are available to You as a registered user.
-* For the performance of a contract: the development, compliance and undertaking of the purchase contract for the products, items or services You have purchased or of any other contract with Us through the Service.
-* To contact You: To contact You by email, telephone calls, SMS, or other equivalent forms of electronic communication, such as a mobile application's push notifications regarding updates or informative communications related to the functionalities, products or contracted services, including the security updates, when necessary or reasonable for their implementation.
-* To provide You with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless You have opted not to receive such information.
-* To manage Your requests: To attend and manage Your requests to Us.
-* For business transfers: We may use Your information to evaluate or conduct a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which Personal Data held by Us about our Service users is among the assets transferred.
-* For other purposes: We may use Your information for other purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Service, products, services, marketing and your experience.
+*   To provide, maintain, and improve our Service, including to monitor the usage of our Service.
+*   To manage Your account: to manage Your registration as a user of the Service. The Personal Data You provide can give You access to different functionalities of the Service that are available to You as a registered user.
+*   For the performance of a contract: the development, compliance and undertaking of the purchase contract for the products, items or services You have purchased or of any other contract with Us through the Service.
+*   To contact You: To contact You by email, telephone calls, SMS, or other equivalent forms of electronic communication, such as a mobile application's push notifications regarding updates or informative communications related to the functionalities, products or contracted services, including the security updates, when necessary or reasonable for their implementation.
+*   To provide You with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless You have opted not to receive such information.
+*   To manage Your requests: To attend and manage Your requests to Us.
+*   For business transfers: We may use Your information to evaluate or conduct a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which Personal Data held by Us about our Service users is among the assets transferred.
+*   For other purposes: We may use Your information for other purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Service, products, services, marketing and your experience.
 
 2.3 Sharing of Your Personal Data
 ---------------------------------
 
 We may share Your personal information in the following situations:
 
-* With Service Providers, Third Party Vendors, Consultants, and other Business Partners: We may share Your personal information with these parties in order to provide services on our behalf, monitor and analyze the use of our services, contact You, and for the reasons stated in the Agreement. 
-* For business transfers: We may share or transfer Your personal information in connection with, or during negotiations of, any merger, sale of Company assets, financing, or acquisition of all or a portion of Our business to another company.
-* With Your consent: We may disclose Your personal information for any other purpose with Your consent.
-* With Law Enforcement: Under certain circumstances, the Company may be required to disclose Your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency). To the extent we receive a request from Law Enforcement for Your personal data, we will promptly notify You and provide You with a copy of the request, unless we are legally prohibited from doing so.
-* With Other Parties in order to:
+*   With Service Providers, Third Party Vendors, Consultants, and other Business Partners: We may share Your personal information with these parties in order to provide services on our behalf, monitor and analyze the use of our services, contact You, and for the reasons stated in the Agreement. 
+*   For business transfers: We may share or transfer Your personal information in connection with, or during negotiations of, any merger, sale of Company assets, financing, or acquisition of all or a portion of Our business to another company.
+*   With Your consent: We may disclose Your personal information for any other purpose with Your consent.
+*   With Law Enforcement: Under certain circumstances, the Company may be required to disclose Your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency). To the extent we receive a request from Law Enforcement for Your personal data, we will promptly notify You and provide You with a copy of the request, unless we are legally prohibited from doing so.
+*   With Other Parties in order to:
 
-1. Comply with a legal obligation
-2. Protect and defend the rights or property of the Company
-3. Prevent or investigate possible wrongdoing in connection with the Service
-4. Protect the personal safety of Users of the Service or the public
-5. Protect against legal liability
+1.  Comply with a legal obligation
+2.  Protect and defend the rights or property of the Company
+3.  Prevent or investigate possible wrongdoing in connection with the Service
+4.  Protect the personal safety of Users of the Service or the public
+5.  Protect against legal liability
 
 2.4 Retention of Your Personal Data
 -----------------------------------
@@ -129,10 +129,10 @@ The Company may share information internally or with third parties, as further d
 
 Additionally You have the following data protection rights:
 
-* You can request access, correction, updates or deletion of your Personal Data.
-* You can object to our processing of your Personal Data, ask us to restrict processing of your Personal Data or request portability of your Personal Data.
-* If we have collected and processed your Personal Data with your consent, then you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your Personal Data conducted in reliance on lawful processing grounds other than consent.
-* You have the right to complain to a data protection authority about our collection and use of your Personal Data.
+*   You can request access, correction, updates or deletion of your Personal Data.
+*   You can object to our processing of your Personal Data, ask us to restrict processing of your Personal Data or request portability of your Personal Data.
+*   If we have collected and processed your Personal Data with your consent, then you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your Personal Data conducted in reliance on lawful processing grounds other than consent.
+*   You have the right to complain to a data protection authority about our collection and use of your Personal Data.
 
 Some of these rights may be exercised through Your account settings, as described in the Summary Table. In order to exercise any other privacy rights not specifically enumerated here you may contact security-privacy@together.ai.
 
