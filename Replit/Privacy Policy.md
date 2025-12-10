@@ -28,9 +28,9 @@ When you use the Services, we use a variety of electronic tools, such as cookies
 
 **What are Cookies?** Cookies are small files of letters and numbers that we store on your browser or the hard drive of your computer, or small graphic images placed on web pages or in emails. They can be stored either for a single browser session or more permanently. We use cookies to collect information about your browsing activities, distinguish you from other users, provide functionality, and analyze use of the Services. Our third-party partners, such as analytics and advertising partners, may use these technologies to collect information about your online activities over time and across different services. The types of cookies we and third parties may use to collect information are as follows:
 
-* **Strictly necessary cookies.** Some cookies are strictly necessary to make the Services available to you. We cannot provide you with the Services without this type of cookies.
-* **Functional cookies.** These are used to recognize you when you return to the Services. This enables us to adapt our content for you, and remember your preferences (for example, your choice of language or region).
-* **Analytical or Performance cookies.** We also use cookies for analytics purposes in order to operate, maintain and improve our Services. We may use our own analytics cookies or use third party analytics providers such as Google Analytics to collect and process certain analytics data on our behalf. These providers may also collect information about your use of other websites, apps, and online resources. You can opt out of Google Analytics by installing Google’s browser plug-in located [here](https://tools.google.com/dlpage/gaoptout).
+*   **Strictly necessary cookies.** Some cookies are strictly necessary to make the Services available to you. We cannot provide you with the Services without this type of cookies.
+*   **Functional cookies.** These are used to recognize you when you return to the Services. This enables us to adapt our content for you, and remember your preferences (for example, your choice of language or region).
+*   **Analytical or Performance cookies.** We also use cookies for analytics purposes in order to operate, maintain and improve our Services. We may use our own analytics cookies or use third party analytics providers such as Google Analytics to collect and process certain analytics data on our behalf. These providers may also collect information about your use of other websites, apps, and online resources. You can opt out of Google Analytics by installing Google’s browser plug-in located [here](https://tools.google.com/dlpage/gaoptout).
 
 You can find more information about your rights and choices, and how to block the use of certain cookies in the section Your Rights and Choices below.
 
@@ -53,15 +53,15 @@ You can find more information about your rights and choices, and how to block th
 
 We use the information we collect:
 
-* To provide, maintain, improve, and enhance our Services;
-* To communicate with you, provide you with updates and other information relating to our Services, provide information that you request, respond to comments and questions, and otherwise provide customer support;
-* To facilitate the connection of third-party services or applications, such as social networks;
-* For marketing purposes, such as developing and providing promotional and advertising materials that may be useful, relevant, valuable or otherwise of interest to you;
-* To personalize your experience on our Services such as presenting tailored content;
-* To facilitate transactions and payments;
-* To detect and prevent fraud, and respond to trust and safety issues that may arise;
-* For compliance purposes, including enforcing our Terms of Service or other legal rights, or as may be required by applicable laws and regulations or requested by any judicial process or governmental agency; and
-* For other purposes for which we provide specific notice at the time the information is collected.
+*   To provide, maintain, improve, and enhance our Services;
+*   To communicate with you, provide you with updates and other information relating to our Services, provide information that you request, respond to comments and questions, and otherwise provide customer support;
+*   To facilitate the connection of third-party services or applications, such as social networks;
+*   For marketing purposes, such as developing and providing promotional and advertising materials that may be useful, relevant, valuable or otherwise of interest to you;
+*   To personalize your experience on our Services such as presenting tailored content;
+*   To facilitate transactions and payments;
+*   To detect and prevent fraud, and respond to trust and safety issues that may arise;
+*   For compliance purposes, including enforcing our Terms of Service or other legal rights, or as may be required by applicable laws and regulations or requested by any judicial process or governmental agency; and
+*   For other purposes for which we provide specific notice at the time the information is collected.
 
 **De-Identified Information.** Please note that we may de-identify the information we collect from and about you so that it can no longer be reasonably linked to you or your device. Once information has been de-identified in this way, we can use and share it for any purpose in our discretion, and this Privacy Policy no longer applies to such information.
 
@@ -70,20 +70,20 @@ We use the information we collect:
 
 Replit provides you with the ability to publish content that could be used to collect personally identifiable information from its users. If you publish such content, it is your responsibility to understand your legal obligations and to comply with all applicable laws, including:
 
-* Providing your users with appropriate notices of their privacy rights, which should incorporate this Privacy Policy by reference.
-* Obtaining any necessary consent from your users for the processing, storage, use, and transfer of any of their personally identifiable information that you collect.
-* If applicable, providing any required notices and obtaining any required verifiable parental consent under the Children’s Online Privacy Protection Act (COPPA) or similar laws.
-* Complying with your legal obligations to allow your users to correct their personally identifiable information or to have it erased.
+*   Providing your users with appropriate notices of their privacy rights, which should incorporate this Privacy Policy by reference.
+*   Obtaining any necessary consent from your users for the processing, storage, use, and transfer of any of their personally identifiable information that you collect.
+*   If applicable, providing any required notices and obtaining any required verifiable parental consent under the Children’s Online Privacy Protection Act (COPPA) or similar laws.
+*   Complying with your legal obligations to allow your users to correct their personally identifiable information or to have it erased.
 
 **Legal Bases for Processing Information**
 ------------------------------------------
 
 Various global privacy laws (such as those in the European Economic Area, United Kingdom, and Brazil) require that we have a “legal basis” to process your information. The legal bases on which we rely to process your information include:
 
-* **Consent.** You have consented to the use of your information, for example, where legally required, to send you marketing communications.
-* **Contractual necessity.** We need your information to provide you with the Services, for example to facilitate your registration and respond to your inquiries.
-* **Compliance with a legal obligation.** We have a legal obligation to use your information, for example to comply with tax and accounting obligations.
-* **Legitimate interests.** We have a legitimate interest in using your information for a business purpose that does not override your individual rights and interests. For example, we have a legitimate interest in using your information for product development and internal analytics purposes, to improve the accuracy of our machine learning technologies such as code generation, and otherwise to improve the safety, security, and performance of our Services.
+*   **Consent.** You have consented to the use of your information, for example, where legally required, to send you marketing communications.
+*   **Contractual necessity.** We need your information to provide you with the Services, for example to facilitate your registration and respond to your inquiries.
+*   **Compliance with a legal obligation.** We have a legal obligation to use your information, for example to comply with tax and accounting obligations.
+*   **Legitimate interests.** We have a legitimate interest in using your information for a business purpose that does not override your individual rights and interests. For example, we have a legitimate interest in using your information for product development and internal analytics purposes, to improve the accuracy of our machine learning technologies such as code generation, and otherwise to improve the safety, security, and performance of our Services.
 
 **How We Share the Information We Collect**
 
@@ -113,8 +113,8 @@ We share information with the following categories of third parties.
 
 **Your European Privacy Rights.** If you are located in the European Economic Area or the United Kingdom, you have the additional rights described below.
 
-* You may request access to the information we maintain about you, update and correct inaccuracies in your information, restrict or object to the processing of your information, have the information anonymized or deleted, as appropriate, or exercise your right to data portability to easily transfer your information to another company (where technically feasible). In addition, you also have the right to lodge a complaint with a supervisory authority, including in your country of residence, place of work or where an incident took place.
-* You may withdraw any consent you previously provided to us regarding the processing of your information, at any time and free of charge. We will apply your preferences going forward and this will not affect the lawfulness of the processing before you withdrew your consent.
+*   You may request access to the information we maintain about you, update and correct inaccuracies in your information, restrict or object to the processing of your information, have the information anonymized or deleted, as appropriate, or exercise your right to data portability to easily transfer your information to another company (where technically feasible). In addition, you also have the right to lodge a complaint with a supervisory authority, including in your country of residence, place of work or where an incident took place.
+*   You may withdraw any consent you previously provided to us regarding the processing of your information, at any time and free of charge. We will apply your preferences going forward and this will not affect the lawfulness of the processing before you withdrew your consent.
 
 You may exercise these rights by contacting us using the contact details at the end of this Privacy Policy. Before responding to your request, we may ask you to provide reasonable information to verify your identity. Please note that there are exceptions and limitations to each of these rights, and that while any changes you make will be reflected in active user databases instantly or within a reasonable period of time, we may retain information for backups, archiving, prevention of fraud and abuse, analytics, satisfaction of legal obligations, or where we otherwise reasonably believe that we have a legitimate reason to do so.
 
@@ -144,12 +144,12 @@ If you are a California resident, the California Consumer Privacy Act (“CCPA�
 
 If you are a California resident, you may exercise the following rights with regard to data where we determine the purposes and means of processing:
 
-* The right to request a copy of the personal information that we have collected about you in the prior 12 months.
-* The right to request details about the categories of personal information we collect, the categories of sources, the business or commercial purposes for collecting information, and the categories of third parties with which we share information.
-* The right to request deletion of the personal information that we have collected about you, subject to certain exemptions.
-* The right to opt out of the sale of your personal information. We do not “sell” personal information as such term is defined in the CCPA.
-* The right to opt out from profiling, defined as the automated processing of personal information to assess or forecast aspects of your behavior.
-* The right to request us to correct errors in the personal information that we hold about you.
+*   The right to request a copy of the personal information that we have collected about you in the prior 12 months.
+*   The right to request details about the categories of personal information we collect, the categories of sources, the business or commercial purposes for collecting information, and the categories of third parties with which we share information.
+*   The right to request deletion of the personal information that we have collected about you, subject to certain exemptions.
+*   The right to opt out of the sale of your personal information. We do not “sell” personal information as such term is defined in the CCPA.
+*   The right to opt out from profiling, defined as the automated processing of personal information to assess or forecast aspects of your behavior.
+*   The right to request us to correct errors in the personal information that we hold about you.
 
 California residents can submit access and deletion requests by emailing us at [privacy@replit.com](mailto:privacy@replit.com). California residents can also request that we delete your information through your account settings. You have the right not to receive discriminatory treatment for the exercise of your CCPA privacy rights, subject to certain limitations.
 
@@ -161,13 +161,13 @@ If you are a Colorado resident, the Colorado Privacy Act (“CPA”) requires us
 
 If you are a Colorado resident, you may exercise the following rights with regard to data where we determine the purposes and means of processing:
 
-* The right to request a copy of the personal information that we have collected about you in the prior 12 months. We will not charge a fee for up to two requests per year.
-* The right to request details about the categories of personal information we collect, the categories of sources, the business or commercial purposes for collecting information, and the categories of third parties with which we share information.
-* The right to request deletion of the personal information that we have collected about you, subject to certain exemptions.
-* The right to opt out of the sale of your personal information. We do not “sell” personal information as such term is defined in the CPA.
-* The right to opt out from profiling, defined as the automated processing of personal information to assess or forecast aspects of your behavior.
-* The right to request us to correct errors in the personal information that we hold about you.
-* The right to appeal if we decline a request that you have made.
+*   The right to request a copy of the personal information that we have collected about you in the prior 12 months. We will not charge a fee for up to two requests per year.
+*   The right to request details about the categories of personal information we collect, the categories of sources, the business or commercial purposes for collecting information, and the categories of third parties with which we share information.
+*   The right to request deletion of the personal information that we have collected about you, subject to certain exemptions.
+*   The right to opt out of the sale of your personal information. We do not “sell” personal information as such term is defined in the CPA.
+*   The right to opt out from profiling, defined as the automated processing of personal information to assess or forecast aspects of your behavior.
+*   The right to request us to correct errors in the personal information that we hold about you.
+*   The right to appeal if we decline a request that you have made.
 
 Colorado residents can submit access and deletion requests by emailing us at [privacy@replit.com](mailto:privacy@replit.com). California residents can also request that we delete your information through your account settings. You have the right not to receive discriminatory treatment for the exercise of your CPA privacy rights, subject to certain limitations.
 
@@ -179,13 +179,13 @@ If you are a Connecticut resident, the Connecticut Data Privacy Act (“CDPA”)
 
 If you are a Connecticut resident, you may exercise the following rights with regard to data where we determine the purposes and means of processing:
 
-* The right to request a copy of the personal information that we have collected about you in the prior 12 months. We will not charge a fee for up to one request per year.
-* The right to request details about the categories of personal information we collect, the categories of sources, the business or commercial purposes for collecting information, and the categories of third parties with which we share information.
-* The right to request deletion of the personal information that we have collected about you, subject to certain exemptions.
-* The right to opt out of the sale of your personal information. We do not “sell” personal information as such term is defined in the CDPA.
-* The right to opt out from profiling, defined as the automated processing of personal information to assess or forecast aspects of your behavior.
-* The right to request us to correct errors in the personal information that we hold about you.
-* The right to appeal if we decline a request that you have made.
+*   The right to request a copy of the personal information that we have collected about you in the prior 12 months. We will not charge a fee for up to one request per year.
+*   The right to request details about the categories of personal information we collect, the categories of sources, the business or commercial purposes for collecting information, and the categories of third parties with which we share information.
+*   The right to request deletion of the personal information that we have collected about you, subject to certain exemptions.
+*   The right to opt out of the sale of your personal information. We do not “sell” personal information as such term is defined in the CDPA.
+*   The right to opt out from profiling, defined as the automated processing of personal information to assess or forecast aspects of your behavior.
+*   The right to request us to correct errors in the personal information that we hold about you.
+*   The right to appeal if we decline a request that you have made.
 
 Connecticut residents can submit access and deletion requests by emailing us at [privacy@replit.com](mailto:privacy@replit.com). Connecticut residents can also request that we delete your information through your account settings. You have the right not to receive discriminatory treatment for the exercise of your CDPA privacy rights, subject to certain limitations.
 
@@ -197,12 +197,12 @@ If you are an Iowa resident, the Iowa Consumer Data Protection Act (“ICDPA”)
 
 If you are an Iowa resident, you may exercise the following rights with regard to data where we determine the purposes and means of processing:
 
-* The right to request a copy of the personal information that we have collected about you in the prior 12 months. We will not charge a fee for up to two requests per year.
-* The right to request details about the categories of personal information we collect, the categories of sources, the business or commercial purposes for collecting information, and the categories of third parties with which we share information.
-* The right to request deletion of the personal information that we have collected about you, subject to certain exemptions.
-* The right to opt out of the sale of your personal information. We do not “sell” personal information as such term is defined in the ICDPA.
-* The right to opt out from profiling, defined as the automated processing of personal information to assess or forecast aspects of your behavior.
-* The right to appeal if we decline a request that you have made.
+*   The right to request a copy of the personal information that we have collected about you in the prior 12 months. We will not charge a fee for up to two requests per year.
+*   The right to request details about the categories of personal information we collect, the categories of sources, the business or commercial purposes for collecting information, and the categories of third parties with which we share information.
+*   The right to request deletion of the personal information that we have collected about you, subject to certain exemptions.
+*   The right to opt out of the sale of your personal information. We do not “sell” personal information as such term is defined in the ICDPA.
+*   The right to opt out from profiling, defined as the automated processing of personal information to assess or forecast aspects of your behavior.
+*   The right to appeal if we decline a request that you have made.
 
 Iowa residents can submit access and deletion requests by emailing us at [privacy@replit.com](mailto:privacy@replit.com). Iowa residents can also request that we delete your information through your account settings. You have the right not to receive discriminatory treatment for the exercise of your ICDPA privacy rights, subject to certain limitations.
 
@@ -214,10 +214,10 @@ If you are a Utah resident, the Utah Consumer Privacy Act (“UCPA”) requires 
 
 If you are a Utah resident, you may exercise the following rights with regard to data where we determine the purposes and means of processing:
 
-* The right to request a copy of the personal information that we have collected about you in the prior 12 months. We will not charge a fee for up to one request per year.
-* The right to request details about the categories of personal information we collect, the categories of sources, the business or commercial purposes for collecting information, and the categories of third parties with which we share information.
-* The right to request deletion of the personal information that we have collected about you, subject to certain exemptions.
-* The right to opt out of the sale of your personal information. We do not “sell” personal information as such term is defined in the UCPA.
+*   The right to request a copy of the personal information that we have collected about you in the prior 12 months. We will not charge a fee for up to one request per year.
+*   The right to request details about the categories of personal information we collect, the categories of sources, the business or commercial purposes for collecting information, and the categories of third parties with which we share information.
+*   The right to request deletion of the personal information that we have collected about you, subject to certain exemptions.
+*   The right to opt out of the sale of your personal information. We do not “sell” personal information as such term is defined in the UCPA.
 
 Utah residents can submit access and deletion requests by emailing us at [privacy@replit.com](mailto:privacy@replit.com). Utah residents can also request that we delete your information through your account settings. You have the right not to receive discriminatory treatment for the exercise of your UCPA privacy rights, subject to certain limitations.
 
@@ -229,15 +229,15 @@ If you are a Virginia resident, the Virginia Consumer Data Protection Act ("VCDP
 
 If you are a Virginia resident, you may exercise the following rights with regard to data where we determine the purposes and means of processing:
 
-* The right to request a copy of the personal information that we have collected about you in the prior 12 months. We will not charge a fee for up to two requests per year.
-* The right to request details about the categories of personal information we collect, the categories of sources, the business or commercial purposes for collecting information, and the categories of third parties with which we share information.
-* The right to request deletion of the personal information that we have collected about you, subject to certain exemptions.
-* The right to opt out of the sale of your personal information. We do not “sell” personal information as such term is defined in the VCDPA.
-* The right to opt out from profiling, defined as the automated processing of personal information to assess or forecast aspects of your behavior.
-* The right to request us to correct errors in the personal information that we hold about you.
-* The right to appeal if we decline a request that you have made.
-* Virginia residents can submit access and deletion requests by emailing us at [privacy@replit.com](mailto:privacy@replit.com). Virginia residents can also request that we delete your information through your account settings. You have the right not to receive discriminatory treatment for the exercise of your VCDPA privacy rights, subject to certain limitations.
-* An authorized agent may submit an access or deletion request on your behalf by sending a written authorization signed by you to [privacy@replit.com](mailto:privacy@replit.com). We may still require you to directly verify your identity and confirm that you provided the authorized agent permission to submit the request.
+*   The right to request a copy of the personal information that we have collected about you in the prior 12 months. We will not charge a fee for up to two requests per year.
+*   The right to request details about the categories of personal information we collect, the categories of sources, the business or commercial purposes for collecting information, and the categories of third parties with which we share information.
+*   The right to request deletion of the personal information that we have collected about you, subject to certain exemptions.
+*   The right to opt out of the sale of your personal information. We do not “sell” personal information as such term is defined in the VCDPA.
+*   The right to opt out from profiling, defined as the automated processing of personal information to assess or forecast aspects of your behavior.
+*   The right to request us to correct errors in the personal information that we hold about you.
+*   The right to appeal if we decline a request that you have made.
+*   Virginia residents can submit access and deletion requests by emailing us at [privacy@replit.com](mailto:privacy@replit.com). Virginia residents can also request that we delete your information through your account settings. You have the right not to receive discriminatory treatment for the exercise of your VCDPA privacy rights, subject to certain limitations.
+*   An authorized agent may submit an access or deletion request on your behalf by sending a written authorization signed by you to [privacy@replit.com](mailto:privacy@replit.com). We may still require you to directly verify your identity and confirm that you provided the authorized agent permission to submit the request.
 
 **International Visitors**
 
