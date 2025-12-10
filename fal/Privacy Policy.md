@@ -36,9 +36,9 @@ We collect information you provide directly to us. For example, we collect infor
 
 We automatically collect information about your interactions with or us or our Services, including:
 
-* **Transactional Information:** When you make a purchase, we collect information about the transaction, such as product details, purchase price, and the date and location of the transaction.
-* **Device, Usage, and Activity Information:** We collect information about how you access our Services, including data about the device and network you use, such as your hardware model, operating system version, mobile network, IP address, unique device identifiers, and browser type. We also collect information about your activity on our Services, such as the route by which you access our Services, access dates and times and, browsing behavior (such as pages viewed and links clicked), and information about your activity on specific pages (such as mouse movements and keystrokes).
-* **Information Collected by Cookies and Similar Tracking Technologies:** We use tracking technologies, such as cookies, pixels, and session replay technology to collect information about your interactions with the Services and our marketing communications. These technologies help us improve our Services and marketing communications, personalize your experience, and analyze your interactions with us, including to see which areas and features of our Services are popular and count visits. For more information see the [Targeted Advertising and Analytics](#TargetedAdvertisingandAnalytics) and the [Your Choices](#YourPrivacyChoices) sections below.
+*   **Transactional Information:** When you make a purchase, we collect information about the transaction, such as product details, purchase price, and the date and location of the transaction.
+*   **Device, Usage, and Activity Information:** We collect information about how you access our Services, including data about the device and network you use, such as your hardware model, operating system version, mobile network, IP address, unique device identifiers, and browser type. We also collect information about your activity on our Services, such as the route by which you access our Services, access dates and times and, browsing behavior (such as pages viewed and links clicked), and information about your activity on specific pages (such as mouse movements and keystrokes).
+*   **Information Collected by Cookies and Similar Tracking Technologies:** We use tracking technologies, such as cookies, pixels, and session replay technology to collect information about your interactions with the Services and our marketing communications. These technologies help us improve our Services and marketing communications, personalize your experience, and analyze your interactions with us, including to see which areas and features of our Services are popular and count visits. For more information see the [Targeted Advertising and Analytics](#TargetedAdvertisingandAnalytics) and the [Your Choices](#YourPrivacyChoices) sections below.
 
 **Information We Collect from Other Sources**
 
@@ -54,14 +54,14 @@ We may derive information or draw inferences about you based on the information 
 
 We use the information we collect to provide, maintain, and improve the Services. We also use the information we collect to:
 
-* Process and fulfill your orders;
-* Personalize your experience with us;
-* Send you technical notices, security alerts, support messages, and other transactional or relationship messages;
-* Send you marketing communications such as newsletters, promotional materials, and other information that may interest you (see the [Your Choices](#YourPrivacyChoices) section below for information about how to opt out of these communications at any time);
-* Monitor and analyze trends, usage, and activities in connection with our products and services;
-* Target advertisements to you on third-party platforms and websites (for more information and to opt out, see the [Targeted Advertising and Analytics](#TargetedAdvertisingandAnalytics) section below);
-* Detect, investigate, respond to, prosecute, and help protect against security incidents and other malicious, deceptive, fraudulent, or illegal activity, and help protect the rights and property of fal and others; and
-* Comply with our legal and financial obligations.
+*   Process and fulfill your orders;
+*   Personalize your experience with us;
+*   Send you technical notices, security alerts, support messages, and other transactional or relationship messages;
+*   Send you marketing communications such as newsletters, promotional materials, and other information that may interest you (see the [Your Choices](#YourPrivacyChoices) section below for information about how to opt out of these communications at any time);
+*   Monitor and analyze trends, usage, and activities in connection with our products and services;
+*   Target advertisements to you on third-party platforms and websites (for more information and to opt out, see the [Targeted Advertising and Analytics](#TargetedAdvertisingandAnalytics) section below);
+*   Detect, investigate, respond to, prosecute, and help protect against security incidents and other malicious, deceptive, fraudulent, or illegal activity, and help protect the rights and property of fal and others; and
+*   Comply with our legal and financial obligations.
 
 ### TARGETED ADVERTISING AND ANALYTICS
 
@@ -73,13 +73,13 @@ You can usually adjust your browser settings to remove or reject browser cookies
 
 We disclose personal information as described in the [Targeted Advertising and Analytics](#TargetedAdvertisingandAnalytics) section above and in the following scenarios:
 
-* **Vendors and Service Providers**. We make personal information available to our vendors, service providers, contractors, and consultants who perform services on our behalf, such as companies that assist us with web hosting, GPU hosting, infrastructure, internal and external communication, payment processing, fraud prevention and security, customer service, analytics, service monitoring, and marketing.
-* **Other Users of the Services**. If you are a member of a Team Account, other members of the Team Account may view billing information, API keys, and AI model requests (including any input and output data) associated with the Team Account.
-* **Law Enforcement Authorities and Individuals Involved in Legal Proceedings**. We disclose personal information in response to a request for information if we believe that disclosure is in accordance with, or required by, any applicable law, regulation, or legal process, including lawful requests by public authorities to meet national security or law enforcement requirements.
-* **To Protect the Rights of fal and Others**. We may disclose personal information if we believe that your actions are inconsistent with our user agreements or policies, if we believe that you have violated the law, or if we believe it is necessary to protect the rights, property, and safety of fal, our users, the public, or others.
-* **Professional Advisors**. We disclose personal information to our legal, financial, insurance, and other professional advisors where necessary to obtain advice or otherwise protect and manage our business interests.
-* **Corporate Transactions**. We disclose personal information in connection with, or during negotiations of, certain corporate transactions, including a merger, sale of company assets, financing, or acquisition of all or a portion of our business by another company.
-* **With Your Consent and at Your Direction**. We make personal information available to third parties when we have your consent or you intentionally direct us to do so.
+*   **Vendors and Service Providers**. We make personal information available to our vendors, service providers, contractors, and consultants who perform services on our behalf, such as companies that assist us with web hosting, GPU hosting, infrastructure, internal and external communication, payment processing, fraud prevention and security, customer service, analytics, service monitoring, and marketing.
+*   **Other Users of the Services**. If you are a member of a Team Account, other members of the Team Account may view billing information, API keys, and AI model requests (including any input and output data) associated with the Team Account.
+*   **Law Enforcement Authorities and Individuals Involved in Legal Proceedings**. We disclose personal information in response to a request for information if we believe that disclosure is in accordance with, or required by, any applicable law, regulation, or legal process, including lawful requests by public authorities to meet national security or law enforcement requirements.
+*   **To Protect the Rights of fal and Others**. We may disclose personal information if we believe that your actions are inconsistent with our user agreements or policies, if we believe that you have violated the law, or if we believe it is necessary to protect the rights, property, and safety of fal, our users, the public, or others.
+*   **Professional Advisors**. We disclose personal information to our legal, financial, insurance, and other professional advisors where necessary to obtain advice or otherwise protect and manage our business interests.
+*   **Corporate Transactions**. We disclose personal information in connection with, or during negotiations of, certain corporate transactions, including a merger, sale of company assets, financing, or acquisition of all or a portion of our business by another company.
+*   **With Your Consent and at Your Direction**. We make personal information available to third parties when we have your consent or you intentionally direct us to do so.
 
 We also disclose aggregated or de-identified information that cannot reasonably be used to identify you. We maintain and use this information only in a de-identified fashion and will not attempt to re-identify such information, except as permitted by law.
 
@@ -113,10 +113,10 @@ We retain personal data for as long as necessary to carry out the purposes for w
 
 When we process your personal data as described in this Privacy Policy, we do so in reliance on the following lawful bases:
 
-* To perform our responsibilities under our contract with you (e.g., processing payments for and providing the products and services you requested).
-* When we have a legitimate interest in processing your personal information to operate our business or protect our interests (e.g., to provide, maintain, and improve our products and services, conduct data analytics, and communicate with you).
-* To comply with our legal obligations (e.g., to maintain a record of your consents and track those who have opted out of marketing communications).
-* When we have your consent to do so (e.g., when you opt in to receive marketing communications from us). When consent is the legal basis for our processing of your personal information, you may withdraw such consent at any time.
+*   To perform our responsibilities under our contract with you (e.g., processing payments for and providing the products and services you requested).
+*   When we have a legitimate interest in processing your personal information to operate our business or protect our interests (e.g., to provide, maintain, and improve our products and services, conduct data analytics, and communicate with you).
+*   To comply with our legal obligations (e.g., to maintain a record of your consents and track those who have opted out of marketing communications).
+*   When we have your consent to do so (e.g., when you opt in to receive marketing communications from us). When consent is the legal basis for our processing of your personal information, you may withdraw such consent at any time.
 
 **Data Subject Requests**
 
