@@ -20,19 +20,19 @@ Who we are
 
 OpenAI is an AI research and deployment company. Our mission is to ensure that artificial general intelligence benefits all of humanity. For more information about OpenAI, please visit [https://openai.com/about](https://openai.com/about/). Our Services are provided to you by:
 
-* _OpenAI Ireland Ltd,_ a company incorporated in the Republic of Ireland with its registered office at 1st Floor, The Liffey Trust Centre, 117-126 Sheriff Street Upper, Dublin 1, D01 YC43, Ireland and company number 737350, if you are resident in the EEA or Switzerland. 
-* _OpenAI, L.L.C.,_ a Delaware company with its registered office at 1455 3rd Street, San Francisco, CA 94158, United States and company number 7063675, if you are resident in the UK.
+*   _OpenAI Ireland Ltd,_ a company incorporated in the Republic of Ireland with its registered office at 1st Floor, The Liffey Trust Centre, 117-126 Sheriff Street Upper, Dublin 1, D01 YC43, Ireland and company number 737350, if you are resident in the EEA or Switzerland. 
+*   _OpenAI, L.L.C.,_ a Delaware company with its registered office at 1455 3rd Street, San Francisco, CA 94158, United States and company number 7063675, if you are resident in the UK.
 
 Additional Service-specific Terms
 ---------------------------------
 
 Depending on the specific Service or features you use, additional Service-specific terms and policies may apply to your use of our Services. The key ones to be aware of, and which form part of these Terms, are described below: 
 
-* [Usage Policies⁠](https://openai.com/policies/usage-policies/): these policies explain how you may use our Services and Content,
-* [Service Terms⁠](https://openai.com/policies/service-terms/): these terms apply when you use certain Services or features;
-* [Sharing & Publication Policy:⁠](https://openai.com/policies/sharing-publication-policy/) this policy sets out rules for when you share Content[;⁠⁠](https://openai.com/policies/sharing-publication-policy/)
-* [Service Credit Terms⁠](https://openai.com/policies/service-credit-terms/): these terms govern the purchase and use of service credits on our Services; and 
-* [Brand Guidelines⁠](https://openai.com/brand/): these guidelines explain how you may use our name and logo.
+*   [Usage Policies⁠](https://openai.com/policies/usage-policies/): these policies explain how you may use our Services and Content,
+*   [Service Terms⁠](https://openai.com/policies/service-terms/): these terms apply when you use certain Services or features;
+*   [Sharing & Publication Policy:⁠](https://openai.com/policies/sharing-publication-policy/) this policy sets out rules for when you share Content[;⁠⁠](https://openai.com/policies/sharing-publication-policy/)
+*   [Service Credit Terms⁠](https://openai.com/policies/service-credit-terms/): these terms govern the purchase and use of service credits on our Services; and 
+*   [Brand Guidelines⁠](https://openai.com/brand/): these guidelines explain how you may use our name and logo.
 
 For more information on our moderation and enforcement processes, see our [Transparency & Content Moderation page](https://openai.com/transparency-and-content-moderation/).
 
@@ -50,14 +50,14 @@ Using our Services
 
 **What you cannot do**. You may not use our Services for any illegal, harmful, or abusive activity. For example, you are prohibited from:
 
-* Using our Services in a way that infringes, misappropriates or violates anyone’s rights.
-* Misusing our reporting or appeals processes, including providing manifestly unfounded submissions.
-* Modifying, copying, leasing, selling or distributing any of our Services.
-* Attempting to or assisting anyone to reverse engineer, decompile or discover the source code or underlying components of our Services, including our models, algorithms, or systems (except to the extent this restriction is prohibited by applicable law).
-* Automatically or programmatically extracting data or Output (defined below).
-* Representing that Output was human-generated when it was not.
-* Interfering with or disrupting our Services, including circumventing any rate limits or restrictions or bypassing any protective measures or safety mitigations we put on our Services.
-* Using Output to develop models that compete with OpenAI.
+*   Using our Services in a way that infringes, misappropriates or violates anyone’s rights.
+*   Misusing our reporting or appeals processes, including providing manifestly unfounded submissions.
+*   Modifying, copying, leasing, selling or distributing any of our Services.
+*   Attempting to or assisting anyone to reverse engineer, decompile or discover the source code or underlying components of our Services, including our models, algorithms, or systems (except to the extent this restriction is prohibited by applicable law).
+*   Automatically or programmatically extracting data or Output (defined below).
+*   Representing that Output was human-generated when it was not.
+*   Interfering with or disrupting our Services, including circumventing any rate limits or restrictions or bypassing any protective measures or safety mitigations we put on our Services.
+*   Using Output to develop models that compete with OpenAI.
 
 **Software.** Our Services may allow you to download software, such as mobile applications, which may update automatically to ensure you’re using the latest version. Our software may include open source software that is governed by its own licences that we’ve made available to you.
 
@@ -88,10 +88,10 @@ For more details on our content moderation process and complaint procedures, see
 
 When you use our Services you understand and agree:
 
-* Output may not always be accurate. You should not rely on Output from our Services as a sole source of truth or factual information, or as a substitute for professional advice. 
-* You must evaluate Output for accuracy and appropriateness for your use case, including using human review as appropriate, before using or sharing Output from the Services.
-* You must not use any Output relating to a person for any purpose that could have a legal or material impact on that person, such as making credit, educational, employment, housing, insurance, legal, medical, or other important decisions about them. 
-* Our Services may provide incomplete, incorrect, or offensive Output that does not represent OpenAI’s views. If Output references any third party products or services, it doesn’t mean the third party endorses or is affiliated with OpenAI.
+*   Output may not always be accurate. You should not rely on Output from our Services as a sole source of truth or factual information, or as a substitute for professional advice. 
+*   You must evaluate Output for accuracy and appropriateness for your use case, including using human review as appropriate, before using or sharing Output from the Services.
+*   You must not use any Output relating to a person for any purpose that could have a legal or material impact on that person, such as making credit, educational, employment, housing, insurance, legal, medical, or other important decisions about them. 
+*   Our Services may provide incomplete, incorrect, or offensive Output that does not represent OpenAI’s views. If Output references any third party products or services, it doesn’t mean the third party endorses or is affiliated with OpenAI.
 
 Our IP rights
 -------------
@@ -124,10 +124,10 @@ Termination and suspension
 
 **OpenAI rights**. We may take action to restrict, suspend, or terminate your access to our Services or close your account if we determine, acting reasonably and objectively:
 
-* You breached these Terms, including our [Usage Policies⁠](https://openai.com/policies/usage-policies/).
-* We must do so to comply with the law.
-* Your use of our Services could cause risk or harm to OpenAI, our users, or anyone else.
-* Your account has been inactive for over a year and you do not have a paid account.
+*   You breached these Terms, including our [Usage Policies⁠](https://openai.com/policies/usage-policies/).
+*   We must do so to comply with the law.
+*   Your use of our Services could cause risk or harm to OpenAI, our users, or anyone else.
+*   Your account has been inactive for over a year and you do not have a paid account.
 
 **Notice**. If we terminate your account, we will make reasonable efforts to notify you in advance so you can export your Content or your data from the Services, unless it is not appropriate for us to do so, we reasonably believe that continued access to your account will cause damage to OpenAI or anyone else, or we are legally prohibited from doing so.
 
@@ -140,8 +140,8 @@ Our commitments to you
 
 **Liability**. Provided that we have acted with professional diligence, we do not take responsibility for loss or damage caused by us, unless it is:
 
-* caused by our breach of these Terms or
-* reasonably foreseeable at the time of entering into these Terms.
+*   caused by our breach of these Terms or
+*   reasonably foreseeable at the time of entering into these Terms.
 
 We do not take responsibility for loss or damage caused by events beyond our reasonable control. We do not exclude or limit our liability to you in any way where it would be unlawful for us to do so. You still have the full protections of the laws applicable to you.
 
@@ -170,12 +170,12 @@ If you believe that your intellectual property rights have been infringed, pleas
 
 Written claims concerning copyright infringement must include the following information:
 
-* A physical or electronic signature of the person authorised to act on behalf of the owner of the copyright interest;
-* A description of the copyrighted work that you claim has been infringed upon;
-* A description of where the allegedly infringing material is located on our site so we can find it;
-* Your address, telephone number, and e-mail address;
-* A statement by you that you have a good-faith belief that the disputed use is not authorised by the copyright owner, its agent, or the law; and
-* A statement by you, that the above information in your notice is accurate and, under penalty of perjury, that you are the copyright owner or authorised to act on the copyright owner’s behalf.
+*   A physical or electronic signature of the person authorised to act on behalf of the owner of the copyright interest;
+*   A description of the copyrighted work that you claim has been infringed upon;
+*   A description of where the allegedly infringing material is located on our site so we can find it;
+*   Your address, telephone number, and e-mail address;
+*   A statement by you that you have a good-faith belief that the disputed use is not authorised by the copyright owner, its agent, or the law; and
+*   A statement by you, that the above information in your notice is accurate and, under penalty of perjury, that you are the copyright owner or authorised to act on the copyright owner’s behalf.
 
 General terms
 -------------
@@ -184,11 +184,11 @@ General terms
 
 **Changes to these Terms or our Services.** We are continuously working to develop and improve our Services. We may update these Terms or our Services accordingly from time to time. For example, we may make changes to these Terms or the Services due to:
 
-* Changes to the law or regulatory requirements.
-* Security or safety reasons.
-* Circumstances beyond our reasonable control.
-* Changes we make in the usual course of developing our Services.
-* To adapt to new technologies.
+*   Changes to the law or regulatory requirements.
+*   Security or safety reasons.
+*   Circumstances beyond our reasonable control.
+*   Changes we make in the usual course of developing our Services.
+*   To adapt to new technologies.
 
 We will give you at least 30 days advance notice of changes that materially adversely impact you and the date that they will come into force either via email or an in-product notification. Any changes will only apply to our relationship going forward. If you do not agree to the changes, you must stop using our Services.
 
@@ -214,6 +214,8 @@ OPENAI’S AFFILIATES, SUPPLIERS, LICENSORS, AND DISTRIBUTORS ARE INTENDED THIRD
 **Indemnity**. If you are a business or organisation, to the extent permitted by law, you will indemnify and hold harmless us, our affiliates, and our personnel, from and against any costs, losses, liabilities, and expenses (including attorneys’ fees) from third party claims arising out of or relating to your use of the Services and Content or any violation of these Terms.
 
 **Governing law (business use)**. California law will govern these Terms except for its conflicts of laws principles. All claims arising out of or relating to these Terms will be brought exclusively in the federal or state courts of San Francisco, California.
+
+- - -
 
 Updated: October 30, 2025
 
