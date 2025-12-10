@@ -14,255 +14,255 @@
 
 为了确保能够向您提供服务，我们主要会基于如下维度处理您的个人信息：
 
-* **账户信息**：当您申请使用平台时：
+*   **账户信息**：当您申请使用平台时：
     
-    * 通过输入手机号码和验证码的方式完成注册和登录。如您选择该等方式使用本产品，我们会搜集您的手机号码信息，以向您提供注册和登录服务；
+    *   通过输入手机号码和验证码的方式完成注册和登录。如您选择该等方式使用本产品，我们会搜集您的手机号码信息，以向您提供注册和登录服务；
         
-    * 通过“本机号码一键登录”的方式完成注册和登录。如您选择该等方式使用本产品，我们会与运营商会处理您的手机号码信息，以为您提供快捷的注册和登录服务；
+    *   通过“本机号码一键登录”的方式完成注册和登录。如您选择该等方式使用本产品，我们会与运营商会处理您的手机号码信息，以为您提供快捷的注册和登录服务；
         
-    * 通过关联您的第三方账号的方式完成注册和登录。如您选择该等方式使用本产品，我们会获取您在相关第三方平台注册的公开信息（头像、昵称以及您授权我们使用的其他信息），以将该等第三方账号与本产品进行绑定，继而为您提供直接注册和登录服务。
+    *   通过关联您的第三方账号的方式完成注册和登录。如您选择该等方式使用本产品，我们会获取您在相关第三方平台注册的公开信息（头像、昵称以及您授权我们使用的其他信息），以将该等第三方账号与本产品进行绑定，继而为您提供直接注册和登录服务。
         
-* **对话信息**：在您使用平台服务时，我们将收集您在产品交互过程中所输入的文本数据信息。此外，如您选择使用本产品的某些功能，例如浏览器助手，我们会额外搜集您提供的其他信息（例如您需要本产品分析的网页内容以及与其相关的上下文）。我们搜集到的上述信息会用于向您提供相关服务，且在经安全加密技术处理、严格去标识化且无法重新识别特定个人的前提下，我们可能会将上述信息用于提升和迭代我们产品和服务之目的。
+*   **对话信息**：在您使用平台服务时，我们将收集您在产品交互过程中所输入的文本数据信息。此外，如您选择使用本产品的某些功能，例如浏览器助手，我们会额外搜集您提供的其他信息（例如您需要本产品分析的网页内容以及与其相关的上下文）。我们搜集到的上述信息会用于向您提供相关服务，且在经安全加密技术处理、严格去标识化且无法重新识别特定个人的前提下，我们可能会将上述信息用于提升和迭代我们产品和服务之目的。
     
-* **反馈信息**：为了确保服务的质量和稳定性，在您使用平台服务时，我们将收集您对生成内容的反馈信息。
+*   **反馈信息**：为了确保服务的质量和稳定性，在您使用平台服务时，我们将收集您对生成内容的反馈信息。
     
-* **投诉建议信息**：为了更好的处理您的投诉建议，我们将搜集您在提交投诉建议时所提供的信息。
+*   **投诉建议信息**：为了更好的处理您的投诉建议，我们将搜集您在提交投诉建议时所提供的信息。
     
-* **麦克风权限**：当你发送语音消息或将您的声音作为我们服务对应的回复语音以及通话语音时，我们会申请使用你的麦克风权限。这一过程对于确保服务的质量和精确性至关重要。如果您选择不授予这些权限，您将无法使用与语音相关的功能。
+*   **麦克风权限**：当你发送语音消息或将您的声音作为我们服务对应的回复语音以及通话语音时，我们会申请使用你的麦克风权限。这一过程对于确保服务的质量和精确性至关重要。如果您选择不授予这些权限，您将无法使用与语音相关的功能。
     
-* **相机权限**：你主动拍摄照片时，我们会请求你授权相机权限。 如你拒绝授权，将无法拍摄照片，但不影响你使用应用的其他功能。
+*   **相机权限**：你主动拍摄照片时，我们会请求你授权相机权限。 如你拒绝授权，将无法拍摄照片，但不影响你使用应用的其他功能。
     
-* **设备信息及个人用户标识**：当您使用我们的服务时，可能会涉及到第三方 SDK 的使用。这些 SDK 可能会请求访问您的设备权限，以便在不同的手机设备或第三方平台上提供和维护功能。这些权限可能包括但不限于获取您的设备信息(如 IMEI / 设备唯一标识符 / 设备 MAC 地址 - SID / Android ID / OAID ) 等。如果您希望了解更多关于我们所集成的第三方 SDK 的详细信息，我们建议您查阅下方的**第三方 SDK 隐私协议说明**。
+*   **设备信息及个人用户标识**：当您使用我们的服务时，可能会涉及到第三方 SDK 的使用。这些 SDK 可能会请求访问您的设备权限，以便在不同的手机设备或第三方平台上提供和维护功能。这些权限可能包括但不限于获取您的设备信息(如 IMEI / 设备唯一标识符 / 设备 MAC 地址 - SID / Android ID / OAID ) 等。如果您希望了解更多关于我们所集成的第三方 SDK 的详细信息，我们建议您查阅下方的**第三方 SDK 隐私协议说明**。
     
-* **剪贴板**：首次安装应用时需要在本地访问您的剪贴板，读取其中包含的分享口令，并使用与功能服务相关的最小必要信息以实现信息内容的跳转，不会上传剪贴板的任何信息至我们的服务器。
+*   **剪贴板**：首次安装应用时需要在本地访问您的剪贴板，读取其中包含的分享口令，并使用与功能服务相关的最小必要信息以实现信息内容的跳转，不会上传剪贴板的任何信息至我们的服务器。
     
-* **声纹信息**：如果您希望将您的声音作为我们服务对应的回复语音以及通话语音，我们会搜集您的声纹信息。**我们知悉您的声纹信息属于个人敏感信息，因此我们会采取最严格的措施保密，不会将您的声纹信息用于任何与上述功能不相关的目的。如您希望撤销您向第三方分享的声纹，和/或彻底删除您的声纹，请您通过我们的APP进行相应操作，我们会立即按照您的要求执行**。
+*   **声纹信息**：如果您希望将您的声音作为我们服务对应的回复语音以及通话语音，我们会搜集您的声纹信息。**我们知悉您的声纹信息属于个人敏感信息，因此我们会采取最严格的措施保密，不会将您的声纹信息用于任何与上述功能不相关的目的。如您希望撤销您向第三方分享的声纹，和/或彻底删除您的声纹，请您通过我们的APP进行相应操作，我们会立即按照您的要求执行**。
     
 
 ### 第三方 SDK 隐私协议说明
 
 #### 微信 SDK
 
-* **使用目的**：帮助用户分享内容至第三方应用
+*   **使用目的**：帮助用户分享内容至第三方应用
     
-* **涉及个人信息**：设备标识符（IMEI、Android ID、硬件序列号 / Serial），设备 MAC 地址、WLAN 接入点（如 SSID、BSSID）、分享图片或内容
+*   **涉及个人信息**：设备标识符（IMEI、Android ID、硬件序列号 / Serial），设备 MAC 地址、WLAN 接入点（如 SSID、BSSID）、分享图片或内容
     
-* **信息处理方式**：SDK 自行采集
+*   **信息处理方式**：SDK 自行采集
     
-* **第三方主体**：深圳市腾讯计算机系统有限公司
+*   **第三方主体**：深圳市腾讯计算机系统有限公司
     
-* **官网链接**：[https://open.weixin.qq.com/](https://open.weixin.qq.com/)
+*   **官网链接**：[https://open.weixin.qq.com/](https://open.weixin.qq.com/)
     
-* **隐私政策**：[https://support.weixin.qq.com/cgi-bin/mmsupportacctnodeweb-bin/pages/RYiYJkLOrQwu0nb8](https://support.weixin.qq.com/cgi-bin/mmsupportacctnodeweb-bin/pages/RYiYJkLOrQwu0nb8)
+*   **隐私政策**：[https://support.weixin.qq.com/cgi-bin/mmsupportacctnodeweb-bin/pages/RYiYJkLOrQwu0nb8](https://support.weixin.qq.com/cgi-bin/mmsupportacctnodeweb-bin/pages/RYiYJkLOrQwu0nb8)
     
 
 #### 小红书 Open SDK
 
-* **使用目的**：帮助用户分享内容至第三方应用
+*   **使用目的**：帮助用户分享内容至第三方应用
     
-* **涉及个人信息**：设备信息（操作系统、系统版本、设备型号）、分享图片或内容
+*   **涉及个人信息**：设备信息（操作系统、系统版本、设备型号）、分享图片或内容
     
-* **信息处理方式**：SDK 自行采集
+*   **信息处理方式**：SDK 自行采集
     
-* **第三方主体**：行吟信息科技（上海）有限公司
+*   **第三方主体**：行吟信息科技（上海）有限公司
     
-* **官网链接**：[https://agora.xiaohongshu.com/index](https://agora.xiaohongshu.com/index)
+*   **官网链接**：[https://agora.xiaohongshu.com/index](https://agora.xiaohongshu.com/index)
     
-* **隐私政策**：[https://agree.xiaohongshu.com/h5/terms/ZXXY20230525001/-1](https://agree.xiaohongshu.com/h5/terms/ZXXY20230525001/-1)
+*   **隐私政策**：[https://agree.xiaohongshu.com/h5/terms/ZXXY20230525001/-1](https://agree.xiaohongshu.com/h5/terms/ZXXY20230525001/-1)
     
 
 #### 极光 SDK
 
-* **使用目的**：为 APP 用户提供一键登录、号码验证、安全校验服务
+*   **使用目的**：为 APP 用户提供一键登录、号码验证、安全校验服务
     
-* **涉及个人信息**：设备标识符（包括 IMEI、IDFA、Android ID、GAID、MAC、OAID、IMSI、MEID、UAID、ICCID ）、设备硬件信息（包括设备型号、设备屏幕分辨率、设备硬件制造商、设备产品名称）、操作系统信息（包括操作系统版本、系统名称、系统语言）、网络信息（包括网络类型、运营商名称、基站信息、IP 地址、WiFi 信息、SSID、BSSID）、精确位置信息、软件列表信息（包括软件列表及软件运行列表信息）。
+*   **涉及个人信息**：设备标识符（包括 IMEI、IDFA、Android ID、GAID、MAC、OAID、IMSI、MEID、UAID、ICCID ）、设备硬件信息（包括设备型号、设备屏幕分辨率、设备硬件制造商、设备产品名称）、操作系统信息（包括操作系统版本、系统名称、系统语言）、网络信息（包括网络类型、运营商名称、基站信息、IP 地址、WiFi 信息、SSID、BSSID）、精确位置信息、软件列表信息（包括软件列表及软件运行列表信息）。
     
-* **信息处理方式**：SDK 自行采集
+*   **信息处理方式**：SDK 自行采集
     
-* **第三方主体**：深圳市和讯华谷信息技术有限公司
+*   **第三方主体**：深圳市和讯华谷信息技术有限公司
     
-* **官网链接**：[https://www.jiguang.cn](https://www.jiguang.cn/)
+*   **官网链接**：[https://www.jiguang.cn](https://www.jiguang.cn/)
     
-* **隐私政策**：[https://www.jiguang.cn/license/privacy](https://www.jiguang.cn/license/privacy)
+*   **隐私政策**：[https://www.jiguang.cn/license/privacy](https://www.jiguang.cn/license/privacy)
     
 
 #### 华为推送服务 SDK
 
-* **使用目的**：用于华为手机的消息推送
+*   **使用目的**：用于华为手机的消息推送
     
-* **涉及个人信息**：设备信息【包括：设备型号、设备名称、SIM卡序列号、设备唯一标识符（IMEI、IMSI、Android ID、IDFA、OAID）】、网络信息
+*   **涉及个人信息**：设备信息【包括：设备型号、设备名称、SIM卡序列号、设备唯一标识符（IMEI、IMSI、Android ID、IDFA、OAID）】、网络信息
     
-* **信息处理方式**：SDK 自行采集
+*   **信息处理方式**：SDK 自行采集
     
-* **第三方主体**：华为终端有限公司
+*   **第三方主体**：华为终端有限公司
     
-* **官网链接**：[https://developer.huawei.com/](https://developer.huawei.com/)
+*   **官网链接**：[https://developer.huawei.com/](https://developer.huawei.com/)
     
-* **隐私政策**：[https://consumer.huawei.com/cn/privacy/privacy-policy/](https://consumer.huawei.com/cn/privacy/privacy-policy/)
+*   **隐私政策**：[https://consumer.huawei.com/cn/privacy/privacy-policy/](https://consumer.huawei.com/cn/privacy/privacy-policy/)
     
 
 #### 荣耀推送服务 SDK
 
-* **使用目的**：用于荣耀手机的消息推送
+*   **使用目的**：用于荣耀手机的消息推送
     
-* **涉及个人信息**：设备信息【包括：设备型号、设备名称、SIM卡序列号、设备唯一标识符（IMEI、IMSI、Android ID、IDFA、OAID）】、网络信息
+*   **涉及个人信息**：设备信息【包括：设备型号、设备名称、SIM卡序列号、设备唯一标识符（IMEI、IMSI、Android ID、IDFA、OAID）】、网络信息
     
-* **信息处理方式**：SDK 自行采集
+*   **信息处理方式**：SDK 自行采集
     
-* **第三方主体**：荣耀终端有限公司
+*   **第三方主体**：荣耀终端有限公司
     
-* **官网链接**：[https://developer.honor.com/cn](https://developer.honor.com/cn)
+*   **官网链接**：[https://developer.honor.com/cn](https://developer.honor.com/cn)
     
-* **隐私政策**：[https://www.hihonor.com/cn/privacy/](https://www.hihonor.com/cn/privacy/)
+*   **隐私政策**：[https://www.hihonor.com/cn/privacy/](https://www.hihonor.com/cn/privacy/)
     
 
 #### OPPO 推送服务 SDK
 
-* **使用目的**：用于 OPPO 手机的消息推送
+*   **使用目的**：用于 OPPO 手机的消息推送
     
-* **涉及个人信息**：应用基本信息（MCS应用包名、应用版本号、OPUSH SDK版本号），应用内设备标识符（RegistraterID、appKey、appSecret）
+*   **涉及个人信息**：应用基本信息（MCS应用包名、应用版本号、OPUSH SDK版本号），应用内设备标识符（RegistraterID、appKey、appSecret）
     
-* **信息处理方式**：SDK 自行采集
+*   **信息处理方式**：SDK 自行采集
     
-* **第三方主体**：广东欧珀移动通信有限公司
+*   **第三方主体**：广东欧珀移动通信有限公司
     
-* **官网链接**：[https://open.oppomobile.com/](https://open.oppomobile.com/)
+*   **官网链接**：[https://open.oppomobile.com/](https://open.oppomobile.com/)
     
-* **隐私政策**：[https://open.oppomobile.com/new/developmentDoc/info?id=11229](https://open.oppomobile.com/new/developmentDoc/info?id=11229)
+*   **隐私政策**：[https://open.oppomobile.com/new/developmentDoc/info?id=11229](https://open.oppomobile.com/new/developmentDoc/info?id=11229)
     
 
 #### VIVO 推送服务 SDK
 
-* **使用目的**：用于 VIVO 手机的消息推送
+*   **使用目的**：用于 VIVO 手机的消息推送
     
-* **涉及个人信息**：网络信息、读取存储（相册、媒体和其他文件）权限
+*   **涉及个人信息**：网络信息、读取存储（相册、媒体和其他文件）权限
     
-* **信息处理方式**：SDK 自行采集
+*   **信息处理方式**：SDK 自行采集
     
-* **第三方主体**：维沃移动通信有限公司
+*   **第三方主体**：维沃移动通信有限公司
     
-* **官网链接**：[https://dev.vivo.com.cn/](https://dev.vivo.com.cn/)
+*   **官网链接**：[https://dev.vivo.com.cn/](https://dev.vivo.com.cn/)
     
-* **隐私政策**：[https://www.vivo.com.cn/about-vivo/privacy-policy](https://www.vivo.com.cn/about-vivo/privacy-policy)
+*   **隐私政策**：[https://www.vivo.com.cn/about-vivo/privacy-policy](https://www.vivo.com.cn/about-vivo/privacy-policy)
     
 
 #### 小米推送服务 SDK
 
-* **使用目的**：用于小米手机的消息推送
+*   **使用目的**：用于小米手机的消息推送
     
-* **涉及个人信息**：设备信息、地理位置、网络信息、读取存储（相册、媒体和其他文件）权限
+*   **涉及个人信息**：设备信息、地理位置、网络信息、读取存储（相册、媒体和其他文件）权限
     
-* **信息处理方式**：SDK 自行采集
+*   **信息处理方式**：SDK 自行采集
     
-* **第三方主体**：小米移动软件有限公司
+*   **第三方主体**：小米移动软件有限公司
     
-* **官网链接**：[https://dev.mi.com/platform](https://dev.mi.com/platform)
+*   **官网链接**：[https://dev.mi.com/platform](https://dev.mi.com/platform)
     
-* **隐私政策**：[https://dev.mi.com/console/doc/detail?pId=1822](https://dev.mi.com/console/doc/detail?pId=1822)
+*   **隐私政策**：[https://dev.mi.com/console/doc/detail?pId=1822](https://dev.mi.com/console/doc/detail?pId=1822)
     
 
 #### 中国移动认证
 
-* **使用目的**：识别⽤户的⼿机号码快速登录/号码校验，问题查询、分析、风险控制
+*   **使用目的**：识别⽤户的⼿机号码快速登录/号码校验，问题查询、分析、风险控制
     
-* **涉及个人信息**：网络类型、网络地址、运营商类型、本机手机号、手机设备类型、手机操作系统、硬件厂商
+*   **涉及个人信息**：网络类型、网络地址、运营商类型、本机手机号、手机设备类型、手机操作系统、硬件厂商
     
-* **信息处理方式**：SDK 自行采集
+*   **信息处理方式**：SDK 自行采集
     
-* **第三方主体**：中移互联网有限公司
+*   **第三方主体**：中移互联网有限公司
     
-* **官网链接/隐私政策**：[https://wap.cmpassport.com/resources/html/contract.html](https://wap.cmpassport.com/resources/html/contract.html)
+*   **官网链接/隐私政策**：[https://wap.cmpassport.com/resources/html/contract.html](https://wap.cmpassport.com/resources/html/contract.html)
     
 
 #### 中国联通认证
 
-* **使用目的**：识别⽤户的⼿机号码快速登录/业务风控
+*   **使用目的**：识别⽤户的⼿机号码快速登录/业务风控
     
-* **涉及个人信息**：网络类型、网络地址、运营商类型、本机号码信息、SIM 卡状态、手机设备类型、手机操作系统、硬件厂商
+*   **涉及个人信息**：网络类型、网络地址、运营商类型、本机号码信息、SIM 卡状态、手机设备类型、手机操作系统、硬件厂商
     
-* **信息处理方式**：SDK 自行采集
+*   **信息处理方式**：SDK 自行采集
     
-* **第三方主体**：中国联合网络通信有限公司
+*   **第三方主体**：中国联合网络通信有限公司
     
-* **官网链接/隐私政策**：[https://opencloud.wostore.cn/authz/resource/html/disclaimer.html?fromsdk=true](https://opencloud.wostore.cn/authz/resource/html/disclaimer.html?fromsdk=true)
+*   **官网链接/隐私政策**：[https://opencloud.wostore.cn/authz/resource/html/disclaimer.html?fromsdk=true](https://opencloud.wostore.cn/authz/resource/html/disclaimer.html?fromsdk=true)
     
 
 #### 中国电信认证
 
-* **使用目的**：识别⽤户的⼿机号码快速登录/号码校验及业务风控
+*   **使用目的**：识别⽤户的⼿机号码快速登录/号码校验及业务风控
     
-* **涉及个人信息**：国际移动用户标识码、应用进程信息、注册手机号码、本机号码、网络连接类型、网络状态信息、网络地址、运营商类型、手机设备类型、手机设备厂商、手机操作系统类型及版本
+*   **涉及个人信息**：国际移动用户标识码、应用进程信息、注册手机号码、本机号码、网络连接类型、网络状态信息、网络地址、运营商类型、手机设备类型、手机设备厂商、手机操作系统类型及版本
     
-* **信息处理方式**：SDK 自行采集
+*   **信息处理方式**：SDK 自行采集
     
-* **第三方主体**：天翼数字生活科技有限公司
+*   **第三方主体**：天翼数字生活科技有限公司
     
-* **官网链接/隐私政策**：[https://e.189.cn/sdk/agreement/show.do?order=2&type=main&appKey=&hidetop=&isShowPre=&returnUrl=https%3A%2F%2Fe.189.cn](https://e.189.cn/sdk/agreement/show.do?order=2&type=main&appKey=&hidetop=&isShowPre=&returnUrl=https%3A%2F%2Fe.189.cn)
+*   **官网链接/隐私政策**：[https://e.189.cn/sdk/agreement/show.do?order=2&type=main&appKey=&hidetop=&isShowPre=&returnUrl=https%3A%2F%2Fe.189.cn](https://e.189.cn/sdk/agreement/show.do?order=2&type=main&appKey=&hidetop=&isShowPre=&returnUrl=https%3A%2F%2Fe.189.cn)
     
 
 #### 增长营销套件 SDK
 
-* **使用目的**：自动化营销管理
+*   **使用目的**：自动化营销管理
     
-* **涉及个人信息**：设备标识符、设备硬件信息、操作系统信息、网络信息（包括网络类型、运营商名称、基站信息、IP 地址、WiFi 信息、SSID、BSSID）、精确位置信息、软件列表信息（包括软件列表及软件运行列表信息）。
+*   **涉及个人信息**：设备标识符、设备硬件信息、操作系统信息、网络信息（包括网络类型、运营商名称、基站信息、IP 地址、WiFi 信息、SSID、BSSID）、精确位置信息、软件列表信息（包括软件列表及软件运行列表信息）。
     
-* **信息处理方式**：SDK 自行采集
+*   **信息处理方式**：SDK 自行采集
     
-* **第三方主体**：北京火山引擎科技有限公司
+*   **第三方主体**：北京火山引擎科技有限公司
     
-* **官网链接/隐私政策**：[https://www.volcengine.com/docs/6285/72216](https://www.volcengine.com/docs/6285/72216)
+*   **官网链接/隐私政策**：[https://www.volcengine.com/docs/6285/72216](https://www.volcengine.com/docs/6285/72216)
     
 
 #### 巨量引擎转化 SDK
 
-* **使用目的**：自动化营销管理
+*   **使用目的**：自动化营销管理
     
-* **涉及个人信息**：WiFi 路由器、MAC 地址（BSSID）、设备的 MAC 地址、设备标识符
+*   **涉及个人信息**：WiFi 路由器、MAC 地址（BSSID）、设备的 MAC 地址、设备标识符
     
-* **信息处理方式**：SDK 自行采集
+*   **信息处理方式**：SDK 自行采集
     
-* **第三方主体**：北京巨量引擎网络技术有限公司
+*   **第三方主体**：北京巨量引擎网络技术有限公司
     
-* **官网链接/隐私政策**：[https://open.oceanengine.com/labels/8/docs/1708428054592516](https://open.oceanengine.com/labels/8/docs/1708428054592516)
+*   **官网链接/隐私政策**：[https://open.oceanengine.com/labels/8/docs/1708428054592516](https://open.oceanengine.com/labels/8/docs/1708428054592516)
     
 
 #### 网易易盾 SDK
 
-* **使用目的**：应用异常检测
+*   **使用目的**：应用异常检测
     
-* **涉及个人信息**：设备信息（包括设备唯一识别码（设备序列号、MEID、IDFV）、设备品牌、设备名称、设备型号及设备系统类型、详细设置及版本信息），日志信息（包括网络相关信息：设备IP地址、路由器标识（BSSID、SSID、MAC）、网络运营商信息、网络连接类型及状态；操作信息：最终用户开机、点击、安装行为信息、传感器信息（运动传感器、位置传感器、环境传感器），应用信息（包括IOS应用的Bundle ID/Android应用的应用包名、应用名称及版本号、应用签名信息、应用进程名）；权限（包括本地网络权限、网络信息状态、WIFI状态，精确地理位置）。
+*   **涉及个人信息**：设备信息（包括设备唯一识别码（设备序列号、MEID、IDFV）、设备品牌、设备名称、设备型号及设备系统类型、详细设置及版本信息），日志信息（包括网络相关信息：设备IP地址、路由器标识（BSSID、SSID、MAC）、网络运营商信息、网络连接类型及状态；操作信息：最终用户开机、点击、安装行为信息、传感器信息（运动传感器、位置传感器、环境传感器），应用信息（包括IOS应用的Bundle ID/Android应用的应用包名、应用名称及版本号、应用签名信息、应用进程名）；权限（包括本地网络权限、网络信息状态、WIFI状态，精确地理位置）。
     
-* **信息处理方式**：SDK 自行采集
+*   **信息处理方式**：SDK 自行采集
     
-* **第三方主体**：杭州网易智企科技有限公司
+*   **第三方主体**：杭州网易智企科技有限公司
     
-* **官网链接/隐私政策**：[https://dun.163.com/clause/privacy](https://dun.163.com/clause/privacy)
+*   **官网链接/隐私政策**：[https://dun.163.com/clause/privacy](https://dun.163.com/clause/privacy)
     
 
 #### 极验验证 SDK
 
-* **使用目的**：手机登录人机识别
+*   **使用目的**：手机登录人机识别
     
-* **涉及个人信息**：IP 地址、OAID
+*   **涉及个人信息**：IP 地址、OAID
     
-* **信息处理方式**：SDK 自行采集
+*   **信息处理方式**：SDK 自行采集
     
-* **第三方主体**：武汉极意网络科技有限公司（[https://www.geetest.com/index）](https://www.geetest.com/index%EF%BC%89)
+*   **第三方主体**：武汉极意网络科技有限公司（[https://www.geetest.com/index）](https://www.geetest.com/index%EF%BC%89)
     
-* **官网链接/隐私政策**：[https://www.geetest.com/Private](https://www.geetest.com/Private)
+*   **官网链接/隐私政策**：[https://www.geetest.com/Private](https://www.geetest.com/Private)
     
 
 #### 腾讯实时音视频（Tencent RTC） SDK
 
-* **使用目的**：语音对话和视频对话
+*   **使用目的**：语音对话和视频对话
     
-* **涉及个人信息**：Wi-Fi 状态、系统属性、设备型号、IP地址、相机、录音、加速传感器、显卡硬件设备的PCI ID、CPU信息、GPU信息、音频信息
+*   **涉及个人信息**：Wi-Fi 状态、系统属性、设备型号、IP地址、相机、录音、加速传感器、显卡硬件设备的PCI ID、CPU信息、GPU信息、音频信息
     
-* **信息处理方式**：SDK 自行采集
+*   **信息处理方式**：SDK 自行采集
     
-* **第三方主体**：深圳市腾讯计算机系统有限公司（cloud.tencent.com/product/trtc）
+*   **第三方主体**：深圳市腾讯计算机系统有限公司（cloud.tencent.com/product/trtc）
     
-* **官网链接/隐私政策**：[https://privacy.qq.com/document/preview/5f422b2fed97475dbfbb9a38aaf00fd9](https://privacy.qq.com/document/preview/5f422b2fed97475dbfbb9a38aaf00fd9)
+*   **官网链接/隐私政策**：[https://privacy.qq.com/document/preview/5f422b2fed97475dbfbb9a38aaf00fd9](https://privacy.qq.com/document/preview/5f422b2fed97475dbfbb9a38aaf00fd9)
     
 
 ### 用户信息管理
@@ -279,9 +279,9 @@
 
 在以下情形中，您可以向我们提出删除个人信息的请求，您可以通过【[support@moonshot.cn](mailto:support@moonshot.cn)】随时与我们联系：
 
-1. 如果我们违反法律法规或与您的约定收集、使用、与他人共享或转让您的个人信息;
+1.  如果我们违反法律法规或与您的约定收集、使用、与他人共享或转让您的个人信息;
     
-2. 如果我们违反法律法规规定或与您的约定，公开披露您的个人信息，您有权要求我们立即停止公开披露的行为，并发布通知要求相关接收方删除相应的信息。
+2.  如果我们违反法律法规规定或与您的约定，公开披露您的个人信息，您有权要求我们立即停止公开披露的行为，并发布通知要求相关接收方删除相应的信息。
     
 
 我们将在15个工作日内予以反馈。一旦删除请求被响应，您的个人信息将被删除或匿名化处理，并在平台系统更新时进行删除。
@@ -317,23 +317,23 @@
 
 #### 未成年人使用协议与监护人陪同使用
 
-1. 未成年人需要使用我们的服务时，请在监护人的陪同下仔细阅读并同意我们的平台用户协议、隐私协议以及未成年人信息保护相关说明。
+1.  未成年人需要使用我们的服务时，请在监护人的陪同下仔细阅读并同意我们的平台用户协议、隐私协议以及未成年人信息保护相关说明。
     
-2. 我们鼓励监护人积极参与未成年人使用我们服务的过程，并对其使用情况进行指导，确保未成年人在一个健康、安全的环境中使用我们的服务。
+2.  我们鼓励监护人积极参与未成年人使用我们服务的过程，并对其使用情况进行指导，确保未成年人在一个健康、安全的环境中使用我们的服务。
     
 
 #### 未成年人使用协议的遵守与违规处理
 
-1. 用户在使用我们的服务时，必须遵守未成年人使用协议。如果有证据表明用户未遵守未成年人使用协议，我们将有权采取一定措施，包括但不限于暂时停止服务、限制服务功能、终止服务等。
+1.  用户在使用我们的服务时，必须遵守未成年人使用协议。如果有证据表明用户未遵守未成年人使用协议，我们将有权采取一定措施，包括但不限于暂时停止服务、限制服务功能、终止服务等。
     
-2. 我们将积极配合相关部门对违规使用者进行审查和查处，以确保未成年人个人信息安全。
+2.  我们将积极配合相关部门对违规使用者进行审查和查处，以确保未成年人个人信息安全。
     
 
 #### 未成年人信息的使用与披露限制
 
-1. 对于搜集到的未成年人用户信息，我们将严格遵守法律法规的规定，只在法律允许、监护人明确同意或者保护未成年人利益所必要的情况下使用或公开披露该信息。
+1.  对于搜集到的未成年人用户信息，我们将严格遵守法律法规的规定，只在法律允许、监护人明确同意或者保护未成年人利益所必要的情况下使用或公开披露该信息。
     
-2. 我们不会向未经授权的第三方泄露未成年人的个人信息，除非该泄露是为了维护未成年人权益或履行国家法律法规的要求。
+2.  我们不会向未经授权的第三方泄露未成年人的个人信息，除非该泄露是为了维护未成年人权益或履行国家法律法规的要求。
     
 
 ### 联系我们
