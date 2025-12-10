@@ -22,7 +22,7 @@ If you have any questions about this Agreement, please contact Perplexity at [ap
   
   
 
-1. **DEFINITIONS**. As used in this Agreement, the following capitalized terms shall have the meanings set out below, and any other capitalized terms shall have the meanings ascribed to them elsewhere in the Agreement:
+1.  **DEFINITIONS**. As used in this Agreement, the following capitalized terms shall have the meanings set out below, and any other capitalized terms shall have the meanings ascribed to them elsewhere in the Agreement:
     
       
     
@@ -43,7 +43,7 @@ If you have any questions about this Agreement, please contact Perplexity at [ap
 
   
 
-2. **USE OF PLATFORM**.
+2.  **USE OF PLATFORM**.
     
       
     
@@ -92,7 +92,7 @@ If you have any questions about this Agreement, please contact Perplexity at [ap
 
   
 
-3. **INTELLECTUAL PROPERTY.** 
+3.  **INTELLECTUAL PROPERTY.** 
     
       
     
@@ -109,7 +109,7 @@ If you have any questions about this Agreement, please contact Perplexity at [ap
 
   
 
-4. **FEES.**
+4.  **FEES.**
     
       
     
@@ -122,7 +122,7 @@ If you have any questions about this Agreement, please contact Perplexity at [ap
 
   
 
-5. **CONFIDENTIALITY.**
+5.  **CONFIDENTIALITY.**
     
       
     
@@ -139,7 +139,7 @@ If you have any questions about this Agreement, please contact Perplexity at [ap
 
   
 
-6. **PRIVACY AND SECURITY**.
+6.  **PRIVACY AND SECURITY**.
     
       
     
@@ -156,12 +156,12 @@ If you have any questions about this Agreement, please contact Perplexity at [ap
 
   
 
-7. **REPRESENTATIONS AND WARRANTIES**. Each party represents and warrants to the other party that: (i) it is duly organized and validly existing under the laws of the jurisdiction in which it is organized; (ii) it has the requisite power and authority and the legal right to enter into this Agreement and to perform its obligations hereunder; (iii) it has taken all requisite action on its part to authorize the execution and delivery of this Agreement and the performance of its obligations hereunder; and (iv) the execution and delivery of this Agreement and the performance of such party’s obligations hereunder do not conflict with, or constitute a default under, any contractual obligation of such party.
+7.  **REPRESENTATIONS AND WARRANTIES**. Each party represents and warrants to the other party that: (i) it is duly organized and validly existing under the laws of the jurisdiction in which it is organized; (ii) it has the requisite power and authority and the legal right to enter into this Agreement and to perform its obligations hereunder; (iii) it has taken all requisite action on its part to authorize the execution and delivery of this Agreement and the performance of its obligations hereunder; and (iv) the execution and delivery of this Agreement and the performance of such party’s obligations hereunder do not conflict with, or constitute a default under, any contractual obligation of such party.
     
 
   
 
-8. **DISCLAIMERS; LIMITATION OF LIABILITY**.
+8.  **DISCLAIMERS; LIMITATION OF LIABILITY**.
     
       
     
@@ -178,7 +178,7 @@ If you have any questions about this Agreement, please contact Perplexity at [ap
 
   
 
-9. **INDEMNIFICATION**.
+9.  **INDEMNIFICATION**.
     
       
     
@@ -195,77 +195,77 @@ If you have any questions about this Agreement, please contact Perplexity at [ap
 
   
 
-10. **TERM; TERMINATION**.
-    
-      
-    
-    10.1 **Term.**  This Agreement shall commence on the date that Customer first accepts this Agreement (e.g., by accessing or using the Services, clicking “accept” when creating an API Platform account or by other means) and shall continue until terminated. 
-    
-      
-    
-    10.2 **Suspension Rights.** Without limitation of its termination rights, Perplexity may suspend any or all Authorized User accounts and/or API Keys (i) if necessary to comply with applicable law, (ii) in order to avert or mitigate an attack on the Services or API Platform, (iii) if Customer fails to pay Fees when due, or (iv) if Customer breaches this Agreement; provided that if Perplexity intends to enact a suspension for reasons other than nonpayment, Perplexity shall use commercially reasonable efforts to notify Customer of any impending suspension.
-    
-      
-    
-    10.3 **Termination Rights.** This Agreement may be terminated (i) at any time by either party, effective immediately upon written notice, if the other party breaches any of its material obligations under this Agreement and the breach, if curable, is not cured within thirty (30) days from written notice from the other party; or (ii) by Perplexity (a) upon thirty (30) days’ prior written notice (provided that such termination shall not take effect until any period for which Customer has prepaid has expired) or (b) immediately upon written notice if Perplexity reasonably believes or determines that its provision of the Services to Customer is prohibited by applicable law. In addition, if Customer deletes Customer’s account with Perplexity and ceases all access to, and use of, the Services, API Keys and the API Platform, this Agreement shall be deemed terminated.
-    
-      
-    
-    10.4 **Free Trials.** If Customer is receiving, or is given access to, Services pursuant to a free trial, notwithstanding anything to the contrary in this Agreement, during the term of such free trial Perplexity may terminate or suspend this Agreement and/or Customer’s access to the Services at any time for any reason and Perplexity’s obligations in Section 9.2 shall not apply to Customer. Upon conclusion of any free trial, Perplexity’s standard pricing will automatically take effect.
-    
-      
-    
-    10.5 **Effect of Expiration or Termination.**  Upon the termination of this Agreement, each party shall destroy or return to the other party all Confidential Information of the other party and all copies thereof, except copies in the Receiving Party’s automated back-up systems, which shall remain subject to Section 5 while maintained and which shall be deleted in accordance with the Receiving Party’s standard deletion procedures. Termination of this Agreement shall be without prejudice to any rights which shall have accrued to the benefit of a party prior to such expiration or termination.  Sections 2.3.1, 2.3.2, 2.3.3, 3.1, 3.2, 3.3, 4, 5, 8, 9, 10 and 11 survive any expiration or termination of this Agreement. 
-    
+10.  **TERM; TERMINATION**.
+     
+       
+     
+     10.1 **Term.**  This Agreement shall commence on the date that Customer first accepts this Agreement (e.g., by accessing or using the Services, clicking “accept” when creating an API Platform account or by other means) and shall continue until terminated. 
+     
+       
+     
+     10.2 **Suspension Rights.** Without limitation of its termination rights, Perplexity may suspend any or all Authorized User accounts and/or API Keys (i) if necessary to comply with applicable law, (ii) in order to avert or mitigate an attack on the Services or API Platform, (iii) if Customer fails to pay Fees when due, or (iv) if Customer breaches this Agreement; provided that if Perplexity intends to enact a suspension for reasons other than nonpayment, Perplexity shall use commercially reasonable efforts to notify Customer of any impending suspension.
+     
+       
+     
+     10.3 **Termination Rights.** This Agreement may be terminated (i) at any time by either party, effective immediately upon written notice, if the other party breaches any of its material obligations under this Agreement and the breach, if curable, is not cured within thirty (30) days from written notice from the other party; or (ii) by Perplexity (a) upon thirty (30) days’ prior written notice (provided that such termination shall not take effect until any period for which Customer has prepaid has expired) or (b) immediately upon written notice if Perplexity reasonably believes or determines that its provision of the Services to Customer is prohibited by applicable law. In addition, if Customer deletes Customer’s account with Perplexity and ceases all access to, and use of, the Services, API Keys and the API Platform, this Agreement shall be deemed terminated.
+     
+       
+     
+     10.4 **Free Trials.** If Customer is receiving, or is given access to, Services pursuant to a free trial, notwithstanding anything to the contrary in this Agreement, during the term of such free trial Perplexity may terminate or suspend this Agreement and/or Customer’s access to the Services at any time for any reason and Perplexity’s obligations in Section 9.2 shall not apply to Customer. Upon conclusion of any free trial, Perplexity’s standard pricing will automatically take effect.
+     
+       
+     
+     10.5 **Effect of Expiration or Termination.**  Upon the termination of this Agreement, each party shall destroy or return to the other party all Confidential Information of the other party and all copies thereof, except copies in the Receiving Party’s automated back-up systems, which shall remain subject to Section 5 while maintained and which shall be deleted in accordance with the Receiving Party’s standard deletion procedures. Termination of this Agreement shall be without prejudice to any rights which shall have accrued to the benefit of a party prior to such expiration or termination.  Sections 2.3.1, 2.3.2, 2.3.3, 3.1, 3.2, 3.3, 4, 5, 8, 9, 10 and 11 survive any expiration or termination of this Agreement. 
+     
 
   
 
-11. **MISCELLANEOUS**
-    
-      
-    
-    11.1 **Governing Law; Dispute Resolution.**  This Agreement shall be governed by the laws of California.  The parties shall try in good faith to resolve any dispute or claim related to or arising out of this Agreement, or the interpretation, making, performance, breach or termination thereof, amicably by themselves.  If the dispute or claim cannot be resolved by the parties themselves, then it shall be adjudicated exclusively by the state and federal courts located in San Francisco County, California.  Notwithstanding the foregoing, the parties may apply to any court of competent jurisdiction for temporary or permanent injunctive relief without breach of this Section 11.1.  
-    
-      
-    
-    11.2 **Severability.**  In the event any one or more of the provisions of this Agreement are unenforceable, it shall be stricken from this Agreement but the remainder of this Agreement shall be unimpaired.
-    
-      
-    
-    11.3 **Waiver**.  No waiver of any term of this Agreement shall bind the party making such waiver unless in writing and signed by the party making such waiver.  Any such waiver shall be effective only in the specific instance and for the specific purpose given.  No waiver by a party hereto of any breach or default of any of the covenants or agreements herein set forth shall be deemed a waiver as to any subsequent and/or similar breach or default.
-    
-      
-    
-    11.4 **Assignment.**  Customer may not assign any of its rights or obligations under this Agreement without the prior written consent of Perplexity. Perplexity may assign this Agreement upon written notice to Customer. This Agreement shall be binding upon and inure to the benefit of the permitted successors and assigns of the parties.
-    
-      
-    
-    11.5 **Independent Contractors.**  The relationship of the parties hereto is that of independent contractors.  The parties hereto are not deemed to be agents, partners or joint venturers of the others for any purpose as a result of this Agreement or the transactions contemplated thereby.
-    
-      
-    
-    11.6 **Notices.**  All requests and notices required or permitted to be given to the parties hereto shall be given in writing and shall be delivered to Perplexity at legal-notices@perplexity.ai and to Customer using the contact information Customer provided to Perplexity when Customer signed up for the API Platform, or, in each case, to such other addresses as may be designated in writing by the parties from time to time. 
-    
-      
-    
-    11.7 **Force Majeure.**  In the event that either party is prevented from performing, or is unable to perform, any of its obligations under this Agreement (other than payment obligations) due to any cause beyond the reasonable control of the party invoking this provision, the affected party’s performance shall be excused and the time for performance shall be extended for the period of delay or inability to perform due to such occurrence.
-    
-      
-    
-    11.8 **Equitable Relief.** Customer acknowledges and agrees that unauthorized use or abuse of the Services or infringement, misappropriation or misuse of Perplexity IP may cause Perplexity irreparable damage and that money damages would not be a sufficient remedy for any breach or threatened breach of such Sections, and Customer accordingly agrees that under such circumstances Perplexity would  be entitled to (i) specific performance and injunctive or other equitable relief in addition to any other rights and remedies available in law and (ii) recover its reasonable attorneys’ fees and expenses incurred in conjunction with such proceedings.
-    
-      
-    
-    11.9 **Export Laws.** Customer agrees that it shall not export or re-export, directly or indirectly, the Services and/or other information or materials provided by Perplexity hereunder, to any country for which the United States or any other relevant jurisdiction requires any export license or other governmental approval at the time of export without first obtaining such license or approval. In particular, but without limitation, the Services may not be exported or re-exported (i) into any U.S. embargoed countries or any country that has been designated by the U.S. Government as a “terrorist supporting” country, or (ii) to anyone listed on any U.S. Government list of prohibited or restricted parties, including the U.S. Treasury Department’s list of Specially Designated Nationals or the U.S. Department of Commerce Denied Person’s List or Entity List. By using the Services, Customer represents and warrants that it is not located in any such country or on any such list. Customer is responsible for and hereby agrees to comply at its sole expense with all applicable United States export laws and regulations.
-    
-      
-    
-    11.10 **Publicity.**  Perplexity may (i) reproduce and display Customer’s name, trademarks and logos on its websites and other marketing materials for the purpose of identifying Customer as a customer of the Services, and (ii) use and publish Customer’s testimonials and feedback regarding the Services in publications, presentations and marketing materials. Customer may opt out of such usage by emailing legal-notices@perplexity.ai. 
-    
-      
-    
-    11.11 **Headings.** The captions to the several sections in this Agreement are included for convenience of reference only and shall not affect its meaning or interpretation.
-    
-      
-    
-    11.12 **Entire Agreement; Amendment**.  This Agreement constitutes the entire agreement between the parties with regard to the subject matter hereof.  In entering into this Agreement, neither party is relying on any statements, representations or warranties not contained herein. Perplexity may update this Agreement from time to time, with such updates becoming effective upon notice to the Customer (or when the Customer otherwise becomes aware of the update). Perplexity will use commercially reasonable efforts to provide the Customer with prior written notice of any update that materially and adversely affects the Customer’s rights or obligations. By continuing to access or use the Services or API Platform after receiving notice of an update to this Agreement (or otherwise becoming aware of the update), Customer agrees to be bound by the revised Agreement.
+11.  **MISCELLANEOUS**
+     
+       
+     
+     11.1 **Governing Law; Dispute Resolution.**  This Agreement shall be governed by the laws of California.  The parties shall try in good faith to resolve any dispute or claim related to or arising out of this Agreement, or the interpretation, making, performance, breach or termination thereof, amicably by themselves.  If the dispute or claim cannot be resolved by the parties themselves, then it shall be adjudicated exclusively by the state and federal courts located in San Francisco County, California.  Notwithstanding the foregoing, the parties may apply to any court of competent jurisdiction for temporary or permanent injunctive relief without breach of this Section 11.1.  
+     
+       
+     
+     11.2 **Severability.**  In the event any one or more of the provisions of this Agreement are unenforceable, it shall be stricken from this Agreement but the remainder of this Agreement shall be unimpaired.
+     
+       
+     
+     11.3 **Waiver**.  No waiver of any term of this Agreement shall bind the party making such waiver unless in writing and signed by the party making such waiver.  Any such waiver shall be effective only in the specific instance and for the specific purpose given.  No waiver by a party hereto of any breach or default of any of the covenants or agreements herein set forth shall be deemed a waiver as to any subsequent and/or similar breach or default.
+     
+       
+     
+     11.4 **Assignment.**  Customer may not assign any of its rights or obligations under this Agreement without the prior written consent of Perplexity. Perplexity may assign this Agreement upon written notice to Customer. This Agreement shall be binding upon and inure to the benefit of the permitted successors and assigns of the parties.
+     
+       
+     
+     11.5 **Independent Contractors.**  The relationship of the parties hereto is that of independent contractors.  The parties hereto are not deemed to be agents, partners or joint venturers of the others for any purpose as a result of this Agreement or the transactions contemplated thereby.
+     
+       
+     
+     11.6 **Notices.**  All requests and notices required or permitted to be given to the parties hereto shall be given in writing and shall be delivered to Perplexity at legal-notices@perplexity.ai and to Customer using the contact information Customer provided to Perplexity when Customer signed up for the API Platform, or, in each case, to such other addresses as may be designated in writing by the parties from time to time. 
+     
+       
+     
+     11.7 **Force Majeure.**  In the event that either party is prevented from performing, or is unable to perform, any of its obligations under this Agreement (other than payment obligations) due to any cause beyond the reasonable control of the party invoking this provision, the affected party’s performance shall be excused and the time for performance shall be extended for the period of delay or inability to perform due to such occurrence.
+     
+       
+     
+     11.8 **Equitable Relief.** Customer acknowledges and agrees that unauthorized use or abuse of the Services or infringement, misappropriation or misuse of Perplexity IP may cause Perplexity irreparable damage and that money damages would not be a sufficient remedy for any breach or threatened breach of such Sections, and Customer accordingly agrees that under such circumstances Perplexity would  be entitled to (i) specific performance and injunctive or other equitable relief in addition to any other rights and remedies available in law and (ii) recover its reasonable attorneys’ fees and expenses incurred in conjunction with such proceedings.
+     
+       
+     
+     11.9 **Export Laws.** Customer agrees that it shall not export or re-export, directly or indirectly, the Services and/or other information or materials provided by Perplexity hereunder, to any country for which the United States or any other relevant jurisdiction requires any export license or other governmental approval at the time of export without first obtaining such license or approval. In particular, but without limitation, the Services may not be exported or re-exported (i) into any U.S. embargoed countries or any country that has been designated by the U.S. Government as a “terrorist supporting” country, or (ii) to anyone listed on any U.S. Government list of prohibited or restricted parties, including the U.S. Treasury Department’s list of Specially Designated Nationals or the U.S. Department of Commerce Denied Person’s List or Entity List. By using the Services, Customer represents and warrants that it is not located in any such country or on any such list. Customer is responsible for and hereby agrees to comply at its sole expense with all applicable United States export laws and regulations.
+     
+       
+     
+     11.10 **Publicity.**  Perplexity may (i) reproduce and display Customer’s name, trademarks and logos on its websites and other marketing materials for the purpose of identifying Customer as a customer of the Services, and (ii) use and publish Customer’s testimonials and feedback regarding the Services in publications, presentations and marketing materials. Customer may opt out of such usage by emailing legal-notices@perplexity.ai. 
+     
+       
+     
+     11.11 **Headings.** The captions to the several sections in this Agreement are included for convenience of reference only and shall not affect its meaning or interpretation.
+     
+       
+     
+     11.12 **Entire Agreement; Amendment**.  This Agreement constitutes the entire agreement between the parties with regard to the subject matter hereof.  In entering into this Agreement, neither party is relying on any statements, representations or warranties not contained herein. Perplexity may update this Agreement from time to time, with such updates becoming effective upon notice to the Customer (or when the Customer otherwise becomes aware of the update). Perplexity will use commercially reasonable efforts to provide the Customer with prior written notice of any update that materially and adversely affects the Customer’s rights or obligations. By continuing to access or use the Services or API Platform after receiving notice of an update to this Agreement (or otherwise becoming aware of the update), Customer agrees to be bound by the revised Agreement.
