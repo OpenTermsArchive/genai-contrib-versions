@@ -291,6 +291,6 @@ If you are not a user of the Service but wish to exercise any of the above right
 
 Sometimes your personal information may be exempt from such requests, for example if we need to keep using your information to comply with our own legal obligations or to establish, exercise or defend legal claims. If an exception applies, we will inform you when responding to your request. We may request that you provide us with information necessary to confirm your identity before responding to your request.
 
-For more information on your rights with respect to data we use train out models, please read these [Consumer FAQs](https://x.ai/legal/faq).
+For more information on your rights with respect to data we use to train our models, please read these [Consumer FAQs](https://x.ai/legal/faq).
 
 To contact us, please see Section 12 in the main [Privacy Policy](https://x.ai/legal/privacy-policy).
