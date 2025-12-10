@@ -23,19 +23,19 @@ We collect your Personal Data in three ways: Personal Data You Provide, Automati
 
 When you create an account, input content, contact us directly, or otherwise use the Services, you may provide some or all of the following Personal Data:
 
-* **Account Personal Data.** We collect Personal Data that you provide when you set up an account, such as your date of birth (where applicable), username (where applicable), email address and/or telephone number, and password.
-* **User Input.** When you use our Services, we may collect your text input, prompt, uploaded files, feedback, chat history, or other content that you provide to our model and Services (“Prompts” or "Inputs"). We generate responses (“Outputs”) based on your Inputs.
-* **Personal Data When You Contact Us.** When you contact us, we collect the Personal Data you send us, such as proof of identity or age, contact details, feedback or inquiries about your use of the Services or Personal Data about possible violations of our [Terms of Service](https://cdn.deepseek.com/policies/en-US/deepseek-terms-of-use.html) (our “**Terms**”) or other policies.
+*   **Account Personal Data.** We collect Personal Data that you provide when you set up an account, such as your date of birth (where applicable), username (where applicable), email address and/or telephone number, and password.
+*   **User Input.** When you use our Services, we may collect your text input, prompt, uploaded files, feedback, chat history, or other content that you provide to our model and Services (“Prompts” or "Inputs"). We generate responses (“Outputs”) based on your Inputs.
+*   **Personal Data When You Contact Us.** When you contact us, we collect the Personal Data you send us, such as proof of identity or age, contact details, feedback or inquiries about your use of the Services or Personal Data about possible violations of our [Terms of Service](https://cdn.deepseek.com/policies/en-US/deepseek-terms-of-use.html) (our “**Terms**”) or other policies.
 
 ### Automatically Collected Personal Data
 
 We automatically collect certain Personal Data from you when you use the Services, including internet or other network activity Personal Data such as your IP address, unique device identifiers, and cookies.
 
-* **Device and Network Personal Data.** We collect certain device and network connection Personal Data when you access the Services. This Personal Data includes your device model, operating system, IP address, device identifiers and system language. We also collect service-related, diagnostic, and performance Personal Data, including crash reports and performance logs. We automatically assign you a device ID and user ID. Where you log-in from multiple devices, we use Personal Data such as your device ID and user ID to identify your activity across devices to give you a seamless log-in experience and for security purposes.
-* **Log Personal Data**. We collect Personal Data regarding your use of the Services, such as the features you use and the actions you take.
-* **Location Personal Data**. We automatically collect Personal Data about your approximate location based on IP address for security reasons, for example to protect your account by detecting unusual login activity.
-* **Cookies & Similar Technologies**. We may use cookies and similar tracking technologies to operate and provide the Service. For example, we use cookies for security purposes and to better understand how the Service is used. We will allow you to manage our use of non-essential cookies where required by law. To learn more about our use of cookies, please see our [Cookies Policy](https://cdn.deepseek.com/policies/en-US/cookies-policy.html).
-* **Payment Personal Data**. When you use paid services for prepayment, we collect your payment order and transaction Personal Data to provide Services such as order placement, payment, customer service, and after-sales support.
+*   **Device and Network Personal Data.** We collect certain device and network connection Personal Data when you access the Services. This Personal Data includes your device model, operating system, IP address, device identifiers and system language. We also collect service-related, diagnostic, and performance Personal Data, including crash reports and performance logs. We automatically assign you a device ID and user ID. Where you log-in from multiple devices, we use Personal Data such as your device ID and user ID to identify your activity across devices to give you a seamless log-in experience and for security purposes.
+*   **Log Personal Data**. We collect Personal Data regarding your use of the Services, such as the features you use and the actions you take.
+*   **Location Personal Data**. We automatically collect Personal Data about your approximate location based on IP address for security reasons, for example to protect your account by detecting unusual login activity.
+*   **Cookies & Similar Technologies**. We may use cookies and similar tracking technologies to operate and provide the Service. For example, we use cookies for security purposes and to better understand how the Service is used. We will allow you to manage our use of non-essential cookies where required by law. To learn more about our use of cookies, please see our [Cookies Policy](https://cdn.deepseek.com/policies/en-US/cookies-policy.html).
+*   **Payment Personal Data**. When you use paid services for prepayment, we collect your payment order and transaction Personal Data to provide Services such as order placement, payment, customer service, and after-sales support.
 
 To avoid any doubt, **Cookies & Similar Technologies** and **Payment Personal Data** are not applicable to DeepSeek App.
 
@@ -43,9 +43,9 @@ To avoid any doubt, **Cookies & Similar Technologies** and **Payment Personal Da
 
 We may receive the Personal Data described in this Privacy Policy from other sources, such as:
 
-* **Log-in, Sign-up, or Linked Services**. Where available, if you choose to sign-up or log-in to the Services using a third-party service such as Apple or Google, or link your account to a third-party service, we may collect Personal Data from the third-party service, such as access token.
-* **Security Personal Data**. We receive Personal Data from our trusted partners, such as security partners, to protect against fraud, abuse, and other security threats to our Services.
-* **Public Personal Data.** We may obtain publicly available Personal Data via online sources to train our models and provide Services.
+*   **Log-in, Sign-up, or Linked Services**. Where available, if you choose to sign-up or log-in to the Services using a third-party service such as Apple or Google, or link your account to a third-party service, we may collect Personal Data from the third-party service, such as access token.
+*   **Security Personal Data**. We receive Personal Data from our trusted partners, such as security partners, to protect against fraud, abuse, and other security threats to our Services.
+*   **Public Personal Data.** We may obtain publicly available Personal Data via online sources to train our models and provide Services.
 
 The Services are not designed or intended to process sensitive Personal Data (e.g., personal data revealing racial or ethnic origin, religious beliefs, health, sexuality, citizenship, immigration status, genetic or biometric data, personal data of children, precise geolocation or criminal membership). We do not ask for, and you should not provide sensitive Personal Data to the Services, whether about yourself or other individuals.
 
@@ -54,12 +54,12 @@ How We Use Your Personal Data
 
 We use your Personal Data to operate, provide, develop, and improve the Services, including for the following purposes.
 
-* To provide, administer and maintain the Services and to enforce our terms, conditions and policies. Such as creating the accounts, deliver a fast and convenient logging-in experience, enabling you to chat with DeepSeek and provide user support.
-* To improve and develop the Services and to train and improve our technology, such as our machine learning models and algorithms. Including by monitoring interactions and usage across your devices, analyzing how people are using it, and training and improving our technology.
-* To communicate with you, including to notify you about changes to the Services, provide customer support to you and send you other service-related messages.
-* To promote the safety, security, and stability of the Services, such as by preventing and detecting abuse, fraud, and illegal activity on the Services and by conducting troubleshooting, data analysis, testing, and research.
-* To comply with our legal obligations, or as necessary to perform tasks in the public interest, or to protect the vital interests of our users and other people. This could include providing law enforcement agencies or emergency services with Personal Data in urgent situations to protect health or life.
-* **PLEASE NOTE: We do not engage in “profiling” or otherwise engage in automated processing of Personal Data to make decisions that could have legal or similarly significant impact on you or others.**
+*   To provide, administer and maintain the Services and to enforce our terms, conditions and policies. Such as creating the accounts, deliver a fast and convenient logging-in experience, enabling you to chat with DeepSeek and provide user support.
+*   To improve and develop the Services and to train and improve our technology, such as our machine learning models and algorithms. Including by monitoring interactions and usage across your devices, analyzing how people are using it, and training and improving our technology.
+*   To communicate with you, including to notify you about changes to the Services, provide customer support to you and send you other service-related messages.
+*   To promote the safety, security, and stability of the Services, such as by preventing and detecting abuse, fraud, and illegal activity on the Services and by conducting troubleshooting, data analysis, testing, and research.
+*   To comply with our legal obligations, or as necessary to perform tasks in the public interest, or to protect the vital interests of our users and other people. This could include providing law enforcement agencies or emergency services with Personal Data in urgent situations to protect health or life.
+*   **PLEASE NOTE: We do not engage in “profiling” or otherwise engage in automated processing of Personal Data to make decisions that could have legal or similarly significant impact on you or others.**
 
 How We Share Your Personal Data
 -------------------------------
@@ -68,10 +68,10 @@ How We Share Your Personal Data
 
 We engage service providers that help us provide, support, and develop the Services and understand how they are used. We share Personal Data You Provide, Automatically Collected Personal Data, and Personal Data From Other Sources with these service providers as necessary to enable them to provide their services. For example:
 
-* We use communication service providers to send notifications and/or communications to you.
-* We integrate third-party APIs to provide search services, and we will share your input to provide these services.
-* We use analytics services providers to analyse data.
-* We use support and safety monitoring services providers to assist us in ensuring the safety of our Services.
+*   We use communication service providers to send notifications and/or communications to you.
+*   We integrate third-party APIs to provide search services, and we will share your input to provide these services.
+*   We use analytics services providers to analyse data.
+*   We use support and safety monitoring services providers to assist us in ensuring the safety of our Services.
 
 Pursuant to our instructions, these parties will access, process, or store Personal Data only in the course of performing their duties to us.
 
@@ -87,10 +87,10 @@ We share your Personal Data with the following categories of third parties in ot
 
 **Law Enforcement and Parties with Other Legal Rights**. We may access, preserve, and share the Personal Data described in “What Personal Data We Collect” with law enforcement agencies, public authorities, copyright holders, or other third parties if we have good faith belief that it is necessary to:
 
-* comply with applicable law, legal process or government requests, as consistent with internationally recognized standards,
-* protect the rights, property, and safety of our users, copyright holders, and others, including protecting life or preventing imminent bodily harm. For example, we may provide Personal Data (such as your IP address) to law enforcement agencies in the event of an emergency where someone’s life or safety is at risk,
-* investigate potential violations of and enforce our Terms, Guidelines, or any other applicable terms, policies, or standards, or
-* detect, investigate, prevent, or address misleading activity, copyright infringement, or other illegal activity.
+*   comply with applicable law, legal process or government requests, as consistent with internationally recognized standards,
+*   protect the rights, property, and safety of our users, copyright holders, and others, including protecting life or preventing imminent bodily harm. For example, we may provide Personal Data (such as your IP address) to law enforcement agencies in the event of an emergency where someone’s life or safety is at risk,
+*   investigate potential violations of and enforce our Terms, Guidelines, or any other applicable terms, policies, or standards, or
+*   detect, investigate, prevent, or address misleading activity, copyright infringement, or other illegal activity.
 
 ### With Your Consent
 
@@ -113,12 +113,12 @@ We will not discriminate against you for exercising any privacy right you may ha
 
 **Privacy rights that may be available to you include**:
 
-* the right to know whether and how we process your Personal Data;
-* the right to access your Personal Data;
-* the right to correct inaccuracies in your Personal Data;
-* the right to delete Personal Data you’ve provided to us, or that we’ve obtained about you;
-* the right to receive a portable copy of Personal Data you’ve provided to us, or that we’ve obtained about you, to the extent it is available in a digital format, and where technically feasible, in a format that allows you to transfer your Personal Data to another service, and
-* the right to opt-out of the processing of your Personal Data for the purposes of targeted advertising, sale or profiling that could have legal or similarly consequential impact on you. NOTE WE DO NOT ENGAGE IN TARGETED ADVERTISING, “SELL” PERSONAL DATA OR USE PERSONAL DATA FOR “PROFILING” OR OTHERWISE ENGAGE IN AUTOMATED PROCESSING OF PERSONAL DATA TO MAKE DECISIONS THAT COULD HAVE LEGAL OR SIMILARLY SIGNIFICANT IMPACT ON YOU OR OTHERS.
+*   the right to know whether and how we process your Personal Data;
+*   the right to access your Personal Data;
+*   the right to correct inaccuracies in your Personal Data;
+*   the right to delete Personal Data you’ve provided to us, or that we’ve obtained about you;
+*   the right to receive a portable copy of Personal Data you’ve provided to us, or that we’ve obtained about you, to the extent it is available in a digital format, and where technically feasible, in a format that allows you to transfer your Personal Data to another service, and
+*   the right to opt-out of the processing of your Personal Data for the purposes of targeted advertising, sale or profiling that could have legal or similarly consequential impact on you. NOTE WE DO NOT ENGAGE IN TARGETED ADVERTISING, “SELL” PERSONAL DATA OR USE PERSONAL DATA FOR “PROFILING” OR OTHERWISE ENGAGE IN AUTOMATED PROCESSING OF PERSONAL DATA TO MAKE DECISIONS THAT COULD HAVE LEGAL OR SIMILARLY SIGNIFICANT IMPACT ON YOU OR OTHERS.
 
 Your Choices
 ------------
@@ -196,15 +196,15 @@ Please be aware that our servers are located in the People’s Republic of China
 
 You have the following rights:
 
-* The right to request free of charge (i) confirmation of whether we process your Personal Data and (ii) access to a copy of the Personal Data retained;
-* The right to request proper rectification or erasure of your Personal Data or restriction of the processing of your Personal Data;
-* Where processing of your Personal Data is either based on your consent or necessary for the performance of a contract with you and processing is carried out by automated means, the right to receive the Personal Data concerning you in a structured, commonly used and machine-readable format or to have your Personal Data transmitted directly to another company, where technically feasible (data portability);
-* Where the processing of your Personal Data is based on your consent, the right to withdraw your consent at any time (withdrawal will not impact the lawfulness of data processing activities that have taken place before such withdrawal);
-* The right not to be subject to any automatic individual decisions, including profiling, which produces legal effects on you or similarly significantly affects you unless we have your consent, this is authorised by European Union or Member State law or this is necessary for the performance of a contract;
-* The right to object to processing if we are processing your Personal Data on the basis of our legitimate interest unless we can demonstrate compelling legitimate grounds which may override your right. If you object to such processing, we ask you to state the grounds of your objection in order for us to examine the processing of your Personal Data and to balance our legitimate interest in processing and your objection to this processing;
-* You have the right to request the restriction of the processing of your Personal Data where (a) you are challenging the accuracy of the Personal Data, (b) the Personal Data has been unlawfully processed, but you are opposing the deletion of that Personal Data, (c) where you need the Personal Data to be retained for the pursuit or defense of a legal claim, or (d) you have objected to the processing and you are awaiting the outcome of that objection request.
-* The right to object to processing your Personal Data for direct marketing purposes; and
-* The right to lodge complaints before your local data protection authority.
+*   The right to request free of charge (i) confirmation of whether we process your Personal Data and (ii) access to a copy of the Personal Data retained;
+*   The right to request proper rectification or erasure of your Personal Data or restriction of the processing of your Personal Data;
+*   Where processing of your Personal Data is either based on your consent or necessary for the performance of a contract with you and processing is carried out by automated means, the right to receive the Personal Data concerning you in a structured, commonly used and machine-readable format or to have your Personal Data transmitted directly to another company, where technically feasible (data portability);
+*   Where the processing of your Personal Data is based on your consent, the right to withdraw your consent at any time (withdrawal will not impact the lawfulness of data processing activities that have taken place before such withdrawal);
+*   The right not to be subject to any automatic individual decisions, including profiling, which produces legal effects on you or similarly significantly affects you unless we have your consent, this is authorised by European Union or Member State law or this is necessary for the performance of a contract;
+*   The right to object to processing if we are processing your Personal Data on the basis of our legitimate interest unless we can demonstrate compelling legitimate grounds which may override your right. If you object to such processing, we ask you to state the grounds of your objection in order for us to examine the processing of your Personal Data and to balance our legitimate interest in processing and your objection to this processing;
+*   You have the right to request the restriction of the processing of your Personal Data where (a) you are challenging the accuracy of the Personal Data, (b) the Personal Data has been unlawfully processed, but you are opposing the deletion of that Personal Data, (c) where you need the Personal Data to be retained for the pursuit or defense of a legal claim, or (d) you have objected to the processing and you are awaiting the outcome of that objection request.
+*   The right to object to processing your Personal Data for direct marketing purposes; and
+*   The right to lodge complaints before your local data protection authority.
 
 Before we can respond to a request to exercise one or more of the rights listed above, you may be required to verify your identity or your account details.
 
