@@ -48,11 +48,11 @@ These Terms of Service (”**Terms**”) apply to your use of Grok, Grokipedia, 
 
 Please note:
 
-* We reserve the right to modify these Terms.
-* Our [Enterprise Terms of Service](https://x.ai/legal/terms-of-service-enterprise) govern the use of our services for developers and businesses, including xAI APIs and PromptIDE.
-* If you reside in the European Economic Area, United Kingdom, or Switzerland (collectively, “**Europe**”), your use of the Service is governed in part by the Europe Specific Terms (“**EST**”).
-* Please read our [Privacy Policy](https://x.ai/legal/privacy-policy), which describes how we collect, use and disclose personal information. Although it does not form part of these Terms, it is an important document you should read.
-* Another helpful resource is our [Consumer FAQs](https://x.ai/legal/faq) that, while not part of these Terms, give further information about our Service.
+*   We reserve the right to modify these Terms.
+*   Our [Enterprise Terms of Service](https://x.ai/legal/terms-of-service-enterprise) govern the use of our services for developers and businesses, including xAI APIs and PromptIDE.
+*   If you reside in the European Economic Area, United Kingdom, or Switzerland (collectively, “**Europe**”), your use of the Service is governed in part by the Europe Specific Terms (“**EST**”).
+*   Please read our [Privacy Policy](https://x.ai/legal/privacy-policy), which describes how we collect, use and disclose personal information. Although it does not form part of these Terms, it is an important document you should read.
+*   Another helpful resource is our [Consumer FAQs](https://x.ai/legal/faq) that, while not part of these Terms, give further information about our Service.
 
 [**Who We Are**](#who-we-are)
 -----------------------------
@@ -75,27 +75,27 @@ xAI is a company working on building artificial intelligence to accelerate human
 
 **What you cannot do.** Prohibited uses of our Service include any illegal, harmful, or abusive activities, including but not limited to::
 
-* _Detrimentally impacting the Service, including by:_
-    * Modifying, copying, leasing, selling, reselling, distributing, distilling, manipulating, using bots to access, reverse engineering, or decompiling our Service
-    * Using the Service or any Output to develop models or services that compete with xAI, scraping or reselling any Input or Output, or distilling model data
-    * Disrupting, interfering with, or unauthorized access to the Service or its safety systems
-* _Causing harm or engaging in abusive activity, including by:_
-    * Critically harming or promoting critically harming human life (yours or anyone else's), including pro-terrorist activities
-    * Violating copyright, trademark, or other intellectual property law
-    * Violating a person's privacy or their right to publicity
-    * The sexualization or exploitation of children
-    * Espionage, hacking, defrauding, defamation, scamming, spamming, or phishing
-* _Not complying with laws or regulations, including by:_
-    * Taking unauthorized actions on behalf of others
-    * Operating in a regulated industry without complying with those regulations or in a region where we do not offer Service
-    * Making high-stakes automated decisions that affect a person's safety, legal or material rights, or well-being (such as making financial credit, educational, employment, housing, insurance, legal, medical, or other important decisions about or for them)
-    * Misleading others or not being transparent regarding your use of AI
+*   _Detrimentally impacting the Service, including by:_
+    *   Modifying, copying, leasing, selling, reselling, distributing, distilling, manipulating, using bots to access, reverse engineering, or decompiling our Service
+    *   Using the Service or any Output to develop models or services that compete with xAI, scraping or reselling any Input or Output, or distilling model data
+    *   Disrupting, interfering with, or unauthorized access to the Service or its safety systems
+*   _Causing harm or engaging in abusive activity, including by:_
+    *   Critically harming or promoting critically harming human life (yours or anyone else's), including pro-terrorist activities
+    *   Violating copyright, trademark, or other intellectual property law
+    *   Violating a person's privacy or their right to publicity
+    *   The sexualization or exploitation of children
+    *   Espionage, hacking, defrauding, defamation, scamming, spamming, or phishing
+*   _Not complying with laws or regulations, including by:_
+    *   Taking unauthorized actions on behalf of others
+    *   Operating in a regulated industry without complying with those regulations or in a region where we do not offer Service
+    *   Making high-stakes automated decisions that affect a person's safety, legal or material rights, or well-being (such as making financial credit, educational, employment, housing, insurance, legal, medical, or other important decisions about or for them)
+    *   Misleading others or not being transparent regarding your use of AI
 
 **Who Is Prohibited From Using the Service.**
 
-* Anyone who violates these Terms, [Acceptable Use Policy](https://x.ai/legal/acceptable-use-policy), other documentation, guidelines, or policies we make available to you.
-* Anyone who has been previously removed from the Service.
-* We reserve the right to decide, at our sole discretion, not to contract with you. If you do not have a valid contract with us, you are prohibited from using our Service.
+*   Anyone who violates these Terms, [Acceptable Use Policy](https://x.ai/legal/acceptable-use-policy), other documentation, guidelines, or policies we make available to you.
+*   Anyone who has been previously removed from the Service.
+*   We reserve the right to decide, at our sole discretion, not to contract with you. If you do not have a valid contract with us, you are prohibited from using our Service.
 
 **Third-party services and software.** Our Service may include or be integrated with third-party software, products, or services that are subject to their own terms. Our software may include open source software that is governed by its own licenses.
 
@@ -120,10 +120,10 @@ Automated systems that analyze your use of the Service and User Content may be u
 
 **When you use our Service, you understand and agree that:**
 
-* Output may not always be accurate. Output from our services is not professional advice. You should conduct your own thorough research and should not rely on Output as the truth.
-* You are responsible for evaluating the Output for accuracy and appropriateness for your use, including using human review and supervision, before using or sharing Output.
-* Our Service may provide incomplete, incorrect, or offensive Output that does not represent xAI's views. Outputs are not meant to endorse a person or third-party's views.
-* At our sole discretion, we may implement rate limitations to accommodate system resources or usage needs.
+*   Output may not always be accurate. Output from our services is not professional advice. You should conduct your own thorough research and should not rely on Output as the truth.
+*   You are responsible for evaluating the Output for accuracy and appropriateness for your use, including using human review and supervision, before using or sharing Output.
+*   Our Service may provide incomplete, incorrect, or offensive Output that does not represent xAI's views. Outputs are not meant to endorse a person or third-party's views.
+*   At our sole discretion, we may implement rate limitations to accommodate system resources or usage needs.
 
 [**The Service Is Available “As Is”**](#the-service-is-available-as-is)
 -----------------------------------------------------------------------
@@ -160,10 +160,10 @@ We continue to add new models and other features, some which may be in beta test
 
 **Termination or Suspension.** You are free to stop using our Service at any time and close your account. We may terminate or suspend your access to our Service or delete your account at any time without notice to you if we determine, at our sole discretion, that:
 
-* You breached these Terms or our Acceptable Use Policy, guidelines, or other policies;
-* We must do so to comply with the law;
-* Your use of our Service could cause risk or harm to xAI, our users, or anyone else; or
-* Your account has been inactive for over a year and you do not have a paid account.
+*   You breached these Terms or our Acceptable Use Policy, guidelines, or other policies;
+*   We must do so to comply with the law;
+*   Your use of our Service could cause risk or harm to xAI, our users, or anyone else; or
+*   Your account has been inactive for over a year and you do not have a paid account.
 
 **No refund.** Upon Service termination, you will not be entitled to any refund, except where required by law.
 
@@ -193,12 +193,12 @@ Some countries and states do not allow the disclaimer of certain warranties or t
 
 If you believe that your copyrighted work or other right to your work or image has been infringed and is accessible via the Service, you agree to first notify our copyright agent by following these instructions. We may, if feasible, delete or disable content that we believe violates these Terms or is alleged to be infringing and will terminate accounts of repeat infringers at our sole discretion. Written claims concerning copyright infringement must include all of the following information:
 
-* An electronic or physical signature of a person authorized to act on behalf of the copyright owner
-* A description of the copyrighted work that you claim has been infringed upon
-* A description of where the allegedly infringing material is located on our Service, so we can find it
-* Your address, telephone number, and e-mail address
-* A statement by you that you have a good-faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law
-* A statement by you, made under penalty of perjury, that the above information is accurate, and that you are the copyright owner or are authorized to act on behalf of the copyright owner.
+*   An electronic or physical signature of a person authorized to act on behalf of the copyright owner
+*   A description of the copyrighted work that you claim has been infringed upon
+*   A description of where the allegedly infringing material is located on our Service, so we can find it
+*   Your address, telephone number, and e-mail address
+*   A statement by you that you have a good-faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law
+*   A statement by you, made under penalty of perjury, that the above information is accurate, and that you are the copyright owner or are authorized to act on behalf of the copyright owner.
 
 The above information must be submitted to our Copyright Agent at: Attn: Legal - Copyright Agent, X.AI LLC, [legal@x.ai](mailto:legal@x.ai)
 
@@ -246,24 +246,24 @@ To use any mobile App, you must have a mobile device that is compatible with suc
 
 **European Economic Area (EEA), United Kingdom (UK) or Switzerland Residents ("Europe Specific Terms" or “EST”)**
 
-* **EST Definition of Consumer.** For the purposes of these Europe Specific Terms "European Consumers" are individuals with a habitual place of residence in the EEA, UK or Switzerland acting for purposes that are wholly or mainly outside that individual's trade, business, craft or profession.
+*   **EST Definition of Consumer.** For the purposes of these Europe Specific Terms "European Consumers" are individuals with a habitual place of residence in the EEA, UK or Switzerland acting for purposes that are wholly or mainly outside that individual's trade, business, craft or profession.
     
-* **EST Order Process.** As a European-Consumer, you are responsible for ensuring that your information is complete and accurate. The order process allows you to check and amend any errors before submitting your registration. Once you submit, we will begin processing it immediately. We will not file a copy of any contract formed between you and us.
+*   **EST Order Process.** As a European-Consumer, you are responsible for ensuring that your information is complete and accurate. The order process allows you to check and amend any errors before submitting your registration. Once you submit, we will begin processing it immediately. We will not file a copy of any contract formed between you and us.
     
-* **EST Governing Law.** The Terms above provide the governing law, excluding applicable conflict of laws principles. As a European-Consumer, you will benefit from the applicable mandatory provisions of the law of the country in which you are resident.
+*   **EST Governing Law.** The Terms above provide the governing law, excluding applicable conflict of laws principles. As a European-Consumer, you will benefit from the applicable mandatory provisions of the law of the country in which you are resident.
     
-* **EST Venue of Jurisdiction.** As a European-Consumer, you may bring a dispute which may arise under these Terms or in connection with the use of the Service, in the applicable courts of the country in which you are habitually resident.
+*   **EST Venue of Jurisdiction.** As a European-Consumer, you may bring a dispute which may arise under these Terms or in connection with the use of the Service, in the applicable courts of the country in which you are habitually resident.
     
-* **EST Right of Withdrawal.**  As a European-Consumer, you have the right to close your account and withdraw from this contract within 14 days of entering into the contract. To exercise your right of withdrawal, you must inform us of your decision to withdraw from this contract by an unequivocal statement sent to [support@x.ai](mailto:support@x.ai). You may use the Model Withdrawal Form below, but it is not obligatory.
+*   **EST Right of Withdrawal.**  As a European-Consumer, you have the right to close your account and withdraw from this contract within 14 days of entering into the contract. To exercise your right of withdrawal, you must inform us of your decision to withdraw from this contract by an unequivocal statement sent to [support@x.ai](mailto:support@x.ai). You may use the Model Withdrawal Form below, but it is not obligatory.
     
-* **EST Consequences of Exercising Right of Withdrawal.** If you withdraw from this contract and you have signed-up for a paid subscription, we will repay you for payments that we verify have already been received by us from you for the subscription term active at the time of your withdrawal notice, within 14 days from the day on which we received the notification of your withdrawal from this contract. For this repayment, we will use the same means of payment that you used for the original transaction, unless expressly agreed otherwise with you. Please note this does not include X Premium or X Premium+ account charges because that is not part of this Service. Please refer to the X Premium Terms of Use for further details of how to claim a refund for those charges.
+*   **EST Consequences of Exercising Right of Withdrawal.** If you withdraw from this contract and you have signed-up for a paid subscription, we will repay you for payments that we verify have already been received by us from you for the subscription term active at the time of your withdrawal notice, within 14 days from the day on which we received the notification of your withdrawal from this contract. For this repayment, we will use the same means of payment that you used for the original transaction, unless expressly agreed otherwise with you. Please note this does not include X Premium or X Premium+ account charges because that is not part of this Service. Please refer to the X Premium Terms of Use for further details of how to claim a refund for those charges.
     
-* **EST Withdrawal Form.** If you wish to withdraw from the contract, send an email requesting withdrawal to [support@x.ai](mailto:support@x.ai) and include the following information: Full legal name, login/user name (e.g., email and/or X user name), residential address, date of order/subscription, date submitting withdrawal.
+*   **EST Withdrawal Form.** If you wish to withdraw from the contract, send an email requesting withdrawal to [support@x.ai](mailto:support@x.ai) and include the following information: Full legal name, login/user name (e.g., email and/or X user name), residential address, date of order/subscription, date submitting withdrawal.
     
-* **EST Limitation of Liability.** For European-Consumers, provided that we have acted with professional diligence, we do not take responsibility for loss or damage caused by us, unless it is caused by our breach of these Terms or is reasonably foreseeable at the time of entering into these Terms. We do not take responsibility for loss or damage caused by events beyond our control. We do not limit our liability to you where it would be unlawful for us to do so. You have the full protections of the applicable laws and statutory rights.
+*   **EST Limitation of Liability.** For European-Consumers, provided that we have acted with professional diligence, we do not take responsibility for loss or damage caused by us, unless it is caused by our breach of these Terms or is reasonably foreseeable at the time of entering into these Terms. We do not take responsibility for loss or damage caused by events beyond our control. We do not limit our liability to you where it would be unlawful for us to do so. You have the full protections of the applicable laws and statutory rights.
     
-* **EST Consumer Guarantee.** For European-Consumers, the applicable European consumer laws provide you with a guarantee covering the Service. Questions regarding the Service can be directed to [support@x.ai](mailto:support@x.ai).
+*   **EST Consumer Guarantee.** For European-Consumers, the applicable European consumer laws provide you with a guarantee covering the Service. Questions regarding the Service can be directed to [support@x.ai](mailto:support@x.ai).
     
-* **EST No Release; Indemnity.** The Release Section and Indemnity Section of the Terms shall not be applicable to European-Consumers subject to these Europe Specific Terms.
+*   **EST No Release; Indemnity.** The Release Section and Indemnity Section of the Terms shall not be applicable to European-Consumers subject to these Europe Specific Terms.
     
-* **EST Changes to the Terms.** With respect to European-Consumers, xAI may unilaterally make changes to these Terms (including the Europe Specific Terms) when it is necessary to do so, particularly as a result of changes of law or to ensure a better functionality of the Service. xAI shall take proportionate measures, if required, to notify Users in advance of such changes to the Terms, such notification may take the form of an in-Service notification or an email for a material change. If you do not agree to the amended Terms, you may object and must discontinue your use of the Service. If you do not object and continue to use the Service, you will be deemed to have acknowledged the amendment and agreed to be bound by it.
+*   **EST Changes to the Terms.** With respect to European-Consumers, xAI may unilaterally make changes to these Terms (including the Europe Specific Terms) when it is necessary to do so, particularly as a result of changes of law or to ensure a better functionality of the Service. xAI shall take proportionate measures, if required, to notify Users in advance of such changes to the Terms, such notification may take the form of an in-Service notification or an email for a material change. If you do not agree to the amended Terms, you may object and must discontinue your use of the Service. If you do not object and continue to use the Service, you will be deemed to have acknowledged the amendment and agreed to be bound by it.
