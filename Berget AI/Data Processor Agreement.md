@@ -156,6 +156,6 @@ Therefore Berget considers some of its Affiliates as subprocessors regardless of
 
 The following list describes in which cases Berget Affiliates will be utilised in the provision of the Services:
 
-* GetGeek AB (Org nr: 559073-1039), provides services to Berget AI AB with regards to network and server design and operations and support
+*   GetGeek AB (Org nr: 559073-1039), provides services to Berget AI AB with regards to network and server design and operations and support
     
-* Acebit AB (Org nr: 559265-3538), provides services to Berget AI AB with regards to network and server design and operations and support
+*   Acebit AB (Org nr: 559265-3538), provides services to Berget AI AB with regards to network and server design and operations and support
