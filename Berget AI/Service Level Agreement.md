@@ -19,12 +19,12 @@ Service Level Agreement
 
 8\. **Exemptions from Service Guarantee.** The following situations will be exempt from Berget’s service guarantee and thus not subject to SLA-compensation:
 
-1. Scheduled interruptions and deployment of important security updates and patches.
-2. Force Majeure events.
-3. Failures caused by errors in Third-Party Products utilised by the Customer within the Service.
-4. Failures in products or services which are not part of the Service or provided by Berget.
-5. Failures caused by the Customer’s actions contrary to user instructions or resulting from the Customer’s operating systems or application software used within the Service.
-6. Interruptions in the Service relating to the Customer’s violation of or failure to comply with these Terms or a User’s violations of the Acceptable Use Policy.
-7. Failures caused by hostile actions of third parties, such as denial-of-service attacks.
-8. Interruptions relating to actions Berget is obliged to take pursuant to applicable laws or Governmental Authority’s orders.
-9. Interruptions resulting from the Customer not having sufficient balance of Credits on the Account for the use of the Service at the time of the interruption.
+1.  Scheduled interruptions and deployment of important security updates and patches.
+2.  Force Majeure events.
+3.  Failures caused by errors in Third-Party Products utilised by the Customer within the Service.
+4.  Failures in products or services which are not part of the Service or provided by Berget.
+5.  Failures caused by the Customer’s actions contrary to user instructions or resulting from the Customer’s operating systems or application software used within the Service.
+6.  Interruptions in the Service relating to the Customer’s violation of or failure to comply with these Terms or a User’s violations of the Acceptable Use Policy.
+7.  Failures caused by hostile actions of third parties, such as denial-of-service attacks.
+8.  Interruptions relating to actions Berget is obliged to take pursuant to applicable laws or Governmental Authority’s orders.
+9.  Interruptions resulting from the Customer not having sufficient balance of Credits on the Account for the use of the Service at the time of the interruption.
