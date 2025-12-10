@@ -35,18 +35,18 @@ We especially remind you to carefully read (minors under the age of 18 or the mi
 
 2.3 When you register and use an account, you must commit and guarantee that:
 
-* You take full responsibility for the authenticity, legality, and validity of the registration information, update the registration information promptly, and must not register an account or use the Services on behalf of others.
-* Safely keep your account and password and take legal responsibility for all activities under that account.
-* Do not maliciously register accounts, including but not limited to frequent or bulk registration.
-* Do not transfer, lend, rent, or provide your account to others in any form.
+*   You take full responsibility for the authenticity, legality, and validity of the registration information, update the registration information promptly, and must not register an account or use the Services on behalf of others.
+*   Safely keep your account and password and take legal responsibility for all activities under that account.
+*   Do not maliciously register accounts, including but not limited to frequent or bulk registration.
+*   Do not transfer, lend, rent, or provide your account to others in any form.
 
 2.4 If you lose your account, forget your password, or leak your verification code, you can follow the procedure to appeal for recovery in a timely manner. We especially reminds you to properly safeguard your account, password, and verification code. After using them, you shall log out securely. You will bear full responsibility for any losses caused by the leakage of your account or password, except where the loss is caused by our intentional or negligent conduct. If users discover any unauthorized use of their accounts, they shall immediately notify us, and we will provide the fullest cooperation and handling.
 
 2.5 Under the agreed conditions, you have the option to discontinue the use of our Services, terminate the contract with us, and delete your account. However, even after the user deletes the account, we still have the right to:
 
-* Retain certain data of the user as required by laws and regulations.
+*   Retain certain data of the user as required by laws and regulations.
 
-* Exercise the rights stipulated in these Terms for any illegal or violating behavior committed by the user during the use of the Services before deletion.
+*   Exercise the rights stipulated in these Terms for any illegal or violating behavior committed by the user during the use of the Services before deletion.
 
 3.**Requirements and Restrictions**
 -----------------------------------
