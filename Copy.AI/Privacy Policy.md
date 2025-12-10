@@ -234,24 +234,24 @@ We use anonymous, statistical or aggregated information and will share it with o
 
 Under the Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 (“**GDPR**”), we are considered a data controller with respect to the Services we provide to you, or with respect to the information you provide us as a job candidate. If you are a resident of a territory in the European Economic Area (“**EEA**”), the United Kingdom orSwitzerland, we base our processing of Personal Data as a data controller on the following lawful grounds:
 
-* Performance of a contract with you when we provide and maintain our Services. When we process your account information, Content, and technical information solely to provide our Services to you, this information is necessary to be able to provide our Services. If you do not provide this information, we may not be able to provide our Services to you. 
-* Our legitimate interests in protecting our Services from abuse, fraud, or security risks, or in developing,     improving, or promoting our Services. This may include the processing of account information, Content, and Technical Information.
-* Your consent when we ask for your consent to process your Personal Data for a specific purpose that we communicate to you. You have the right to withdraw your consent at any time.
-* Compliance with our legal obligations when we use your Personal Data to comply with applicable law or when we protect our or our affiliates’, users’, or third parties’ rights, safety, and property.
+*   Performance of a contract with you when we provide and maintain our Services. When we process your account information, Content, and technical information solely to provide our Services to you, this information is necessary to be able to provide our Services. If you do not provide this information, we may not be able to provide our Services to you. 
+*   Our legitimate interests in protecting our Services from abuse, fraud, or security risks, or in developing,     improving, or promoting our Services. This may include the processing of account information, Content, and Technical Information.
+*   Your consent when we ask for your consent to process your Personal Data for a specific purpose that we communicate to you. You have the right to withdraw your consent at any time.
+*   Compliance with our legal obligations when we use your Personal Data to comply with applicable law or when we protect our or our affiliates’, users’, or third parties’ rights, safety, and property.
 
 At any time, you can contact our privacy team at: legal@copy.ai and request to exercise your rights in accordance with the provisions provided bylaw:
 
-* You are entitled to access the Personal Data that we keep about you together with information about how and on what basis the Personal Data is being processed and to rectify when such information is inaccurate. If you find that the Personal Data related to you is not accurate, complete or updated, then please provide us the necessary information to correct it.
-* You can contact us if you want to withdraw your consent to the processing of Personal Data related to you. Exercising this right will not affect the lawfulness of processing based on consent before its withdrawal.
-* You are entitled to request to delete or restrict access to Personal Data related to you in limited circumstances as described under the GDPR, subject to certain exceptions. If we need to delete Personal Data related to you following your request, it can take time until we completely delete residual copies of Personal Data related to you from our active servers, from our backup systems, and from third-parties (as     described in section 4).
+*   You are entitled to access the Personal Data that we keep about you together with information about how and on what basis the Personal Data is being processed and to rectify when such information is inaccurate. If you find that the Personal Data related to you is not accurate, complete or updated, then please provide us the necessary information to correct it.
+*   You can contact us if you want to withdraw your consent to the processing of Personal Data related to you. Exercising this right will not affect the lawfulness of processing based on consent before its withdrawal.
+*   You are entitled to request to delete or restrict access to Personal Data related to you in limited circumstances as described under the GDPR, subject to certain exceptions. If we need to delete Personal Data related to you following your request, it can take time until we completely delete residual copies of Personal Data related to you from our active servers, from our backup systems, and from third-parties (as     described in section 4).
 
 If you exercise one (or more) of the above-mentioned rights, in accordance with the provisions under applicable law, you are entitled to request to be informed that third parties that hold Personal Data related to you, in accordance with this privacy policy, will act accordingly.
 
-* You are entitled to request the transfer of Personal Data related to you in accordance with your right to data     portability.
-* You are entitled to object to the processing of Personal Data related to you, for example in relation to     direct marketing.
-* You have the right not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning you or similarly significantly affecting you.
-* You have the right to obtain a copy of or access to safeguards under which Personal Data related to you is     transferred outside of the EEA.
-* You have a right to lodge a complaint with a data protection supervisory authority.
+*   You are entitled to request the transfer of Personal Data related to you in accordance with your right to data     portability.
+*   You are entitled to object to the processing of Personal Data related to you, for example in relation to     direct marketing.
+*   You have the right not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning you or similarly significantly affecting you.
+*   You have the right to obtain a copy of or access to safeguards under which Personal Data related to you is     transferred outside of the EEA.
+*   You have a right to lodge a complaint with a data protection supervisory authority.
 
 Note that when you send us a request to exercise your rights, we will need to reasonably authenticate your identity and location. We will ask you to provide us credentials to make sure that you are who you claim to be and will further ask you questions to understand the nature and scope of your request. We will look into your inquiry and make good-faith efforts to respond promptly.
 
