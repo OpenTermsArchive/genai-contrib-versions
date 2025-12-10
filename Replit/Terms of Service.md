@@ -30,27 +30,27 @@ _Summary: Replit hosts a wide variety of coding projects from all over the world
 
 While using the Service, you must not engage in any conduct that is abusive or violates applicable laws, regulations, or these Terms. Prohibited conduct includes:
 
-* Interfering with, disrupting, or creating an undue burden on the Service, including by sending excessive data or requests to the Service, artificially utilizing excessive container resources, or by copying projects to run or host the same code.
-* Abusive advertising, spamming, or commercial solicitation.
-* Phishing or impersonation, whether or not the target is a user of the Service.
-* Creating accounts with automation or registering accounts in bulk.
-* Conducting network attacks, whether against the Service or against any other party.
-* Mining Bitcoin, other cryptocurrencies, or Cycles.
-* Scraping or otherwise obtaining content, whether for training or extracting data for machine learning models, reverse-engineering any part of the Service, or for any other purpose.
-* Infringing the privacy of other users, including by harvesting personal information.
-* Using accounts to evade a ban or penalty from Replit.
+*   Interfering with, disrupting, or creating an undue burden on the Service, including by sending excessive data or requests to the Service, artificially utilizing excessive container resources, or by copying projects to run or host the same code.
+*   Abusive advertising, spamming, or commercial solicitation.
+*   Phishing or impersonation, whether or not the target is a user of the Service.
+*   Creating accounts with automation or registering accounts in bulk.
+*   Conducting network attacks, whether against the Service or against any other party.
+*   Mining Bitcoin, other cryptocurrencies, or Cycles.
+*   Scraping or otherwise obtaining content, whether for training or extracting data for machine learning models, reverse-engineering any part of the Service, or for any other purpose.
+*   Infringing the privacy of other users, including by harvesting personal information.
+*   Using accounts to evade a ban or penalty from Replit.
 
 **2\. Prohibited Content**
 
 You are solely responsible for the content you create, submit, and share on the Service. The following content is prohibited and you agree not to post such content to the Service:
 
-* Defamatory, harassing, abusive, threatening, or bullying.
-* Profanity, violent, or graphic content, including hate speech or symbols.
-* Visual depictions or explicit descriptions of sex and nudity, including sexual advances and solicitation, and offers of sexual services.
-* Promoting illegal conduct.
-* Hoaxes, malware, and pyramid schemes.
-* Infringing the intellectual property rights of others.
-* Disrupting the experience of other users.
+*   Defamatory, harassing, abusive, threatening, or bullying.
+*   Profanity, violent, or graphic content, including hate speech or symbols.
+*   Visual depictions or explicit descriptions of sex and nudity, including sexual advances and solicitation, and offers of sexual services.
+*   Promoting illegal conduct.
+*   Hoaxes, malware, and pyramid schemes.
+*   Infringing the intellectual property rights of others.
+*   Disrupting the experience of other users.
 
 **3\. Quotas and Limits**
 
