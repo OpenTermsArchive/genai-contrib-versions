@@ -9,7 +9,7 @@
 
 _PLEASE NOTE: THESE TERMS OF SERVICE CONTAIN MANDATORY DISPUTE RESOLUTION, ARBITRATION, CLASS ACTION WAIVER, AND PRE-DISPUTE PROVISIONS THAT AFFECT YOUR RIGHTS UNDER THESE TERMS AND WITH RESPECT TO DISPUTES YOU MAY HAVE WITH SPEECHIFY_.  _UPDATES TO THESE TERMS MAY AFFECT PAST UNREPORTED DISPUTES.  PLEASE REVIEW MONTHLY, AT LEAST QUARTERLY, AND UPON NOTICE._
 
-1. **GENERAL INFORMATION**
+1.  **GENERAL INFORMATION**
 
 **1.1 SPEECHIFY SERVICES**
 
@@ -31,7 +31,7 @@ Our contact email address is [\[email protected\]](https://speechify.com/cdn-c
 
 We may modify these Terms at any time. When that happens, we will post the revised version on this page and update the “Last Updated” date. If a change is material—meaning it significantly affects your rights or obligations—we will also use a method reasonably calculated to reach you, such as an e-mail to the address in your account profile, an in-product banner, pop-up, push notification, or any other method allowed by law. Where applicable law requires advance notice (for example, certain auto-renewal or price-increase rules), we will provide at least the legally required notice period; otherwise, the revised Terms take effect upon posting. Your continued use of the Services or Apps after the effective date constitutes your acceptance of the revised Terms. If you do not agree to the new Terms, you must stop using the Services before they become effective and, if you have a paid subscription, you may cancel it through your account settings. You are responsible for keeping your contact information current so we can deliver any required notice.
 
-1. **MEMBERSHIPS AND SUBSCRIPTIONS**
+1.  **MEMBERSHIPS AND SUBSCRIPTIONS**
 
 **2.1 BECOMING A MEMBER**
 
@@ -81,10 +81,10 @@ Please note that if you purchase a subscription through the Apple App Store in-a
 
 (g) In compliance with California law and for your convenience, we provide the following information for you in the following cases:
 
-* * Before you complete your purchase for a Paid Subscription or your Free Trial registration, the renewal price and terms will be presented to you in a clear and conspicuous manner for your review and consent. 
-    * Upon completing your order, we send you a confirmation email containing the automatic renewal offer terms and instructions on how to cancel. Please retain this email for your records.
-    * Annual Subscriptions: If you are on an annual subscription plan, we will send a reminder notice to your email address on file no less than 15 days and no more than 45 days before your subscription renews.
-    * Promotional and Trial Offers: If you signed up for a free trial or promotional offer lasting more than 31 days, we will send a reminder notice to your email address on file no less than 3 days and no more than 21 days before the end of the promotional period.
+*   *   Before you complete your purchase for a Paid Subscription or your Free Trial registration, the renewal price and terms will be presented to you in a clear and conspicuous manner for your review and consent. 
+    *   Upon completing your order, we send you a confirmation email containing the automatic renewal offer terms and instructions on how to cancel. Please retain this email for your records.
+    *   Annual Subscriptions: If you are on an annual subscription plan, we will send a reminder notice to your email address on file no less than 15 days and no more than 45 days before your subscription renews.
+    *   Promotional and Trial Offers: If you signed up for a free trial or promotional offer lasting more than 31 days, we will send a reminder notice to your email address on file no less than 3 days and no more than 21 days before the end of the promotional period.
 
 All reminder notices will state the date of your renewal, the upcoming renewal price, and provide information on how to cancel your subscription to avoid future charges.
 
@@ -102,29 +102,29 @@ To enjoy Speechify via your smartphone or other Device, your Device must satisfy
 
 We may at any time and from time to time, in our sole discretion, change the fees and charges, or add new fees and charges, in relation to any of the Services or Apps. We will notify you at least 30 calendar days in advance of any such change. If you do not agree to the change, you must cancel your membership or subscription in your account settings or by emailing [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection).
 
-1. **MOBILE APPLICATIONS** 
+1.  **MOBILE APPLICATIONS** 
 
 To use any of our Apps, you must have a mobile device that is compatible with it.  We do not warrant that any of the Apps will be compatible with your mobile device.  We hereby grant you a non-exclusive, non-transferable, revocable license to use an object code copy of the App for one registered account on one mobile device owned or leased by you, solely for your personal use.  You may not: (i) modify, disassemble, decompile or reverse engineer the App, except to the extent that such restriction is expressly prohibited by law; (ii) rent, lease, loan, resell, sublicense, distribute or otherwise transfer the App to any third-party or use the App to provide time sharing or similar services for any third-party; (iii) make any copies of the App; (iv) remove, circumvent, disable, damage or otherwise interfere with security-related features of the App, features that prevent or restrict use or copying of any content accessible through the App, or features that enforce limitations on use of the App; or (v) delete the copyright and other proprietary rights notices on the App.  You acknowledge that we may from time to time issue upgraded versions of the App, and may automatically electronically upgrade the version of the App that you are using on your mobile device.  You consent to such automatic upgrading on your mobile device, and agree that these Terms will apply to all such upgrades.  The foregoing license grant is not a sale of the App or any copy thereof, and we and our third-party licensors or suppliers retain all right, title, and interest in and to the App (and any copy of the App).  Standard carrier data charges may apply to your use of the App.
 
 The following additional terms and conditions apply with respect to any App that we provide to you designed for use on an Apple iOS-powered mobile device (an “iOS App”):
 
-* * You acknowledge that these Terms are between you and Speechify only, and not with Apple, Inc. (“Apple”).
-    * Your use of the iOS App must comply with Apple’s then-current Apple Media Services Terms and Conditions.
-    * Speechify, and not Apple, is solely responsible for the iOS App and the Services and content available thereon.  You acknowledge that Apple has no obligation to provide maintenance and support services with respect to our iOS App.  To the maximum extent permitted by applicable law, Apple will have no warranty obligation whatsoever with respect to the iOS App.
-    * You agree that Speechify, and not Apple, is responsible for addressing any claims by you or any third-party relating to the iOS App or your possession and/or use of the OS App, including, but not limited to: (i) product liability claims; (ii) any claim that the iOS App fails to conform to any applicable legal or regulatory requirement; and (iii) claims arising under consumer protection or similar legislation, and all such claims are governed solely by these Terms and any law applicable to us as provider of the iOS App.
-    * You agree that Speechify, and not Apple, shall be responsible, to the extent required by these Terms, for the investigation, defense, settlement and discharge of any third-party intellectual property infringement claim related to the iOS App or your possession and use of the iOS App.
-    * You represent and warrant that (i) you are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a “terrorist supporting” country; and (ii) you are not listed on any U.S. Government list of prohibited or restricted parties.
-    * You agree to comply with all applicable third-party terms of agreement when using the iOS App (e.g., you must not be in violation of your wireless data service terms of agreement when using the iOS App).
-    * You agree that Apple and Apple’s subsidiaries are third-party beneficiaries to these Terms as they relate to your license of the iOS App.  Upon your acceptance of these Terms, Apple will have the right (and will be deemed to have accepted the right) to enforce these Terms against you as they relate to your license of the iOS App as a third-party beneficiary thereof.
+*   *   You acknowledge that these Terms are between you and Speechify only, and not with Apple, Inc. (“Apple”).
+    *   Your use of the iOS App must comply with Apple’s then-current Apple Media Services Terms and Conditions.
+    *   Speechify, and not Apple, is solely responsible for the iOS App and the Services and content available thereon.  You acknowledge that Apple has no obligation to provide maintenance and support services with respect to our iOS App.  To the maximum extent permitted by applicable law, Apple will have no warranty obligation whatsoever with respect to the iOS App.
+    *   You agree that Speechify, and not Apple, is responsible for addressing any claims by you or any third-party relating to the iOS App or your possession and/or use of the OS App, including, but not limited to: (i) product liability claims; (ii) any claim that the iOS App fails to conform to any applicable legal or regulatory requirement; and (iii) claims arising under consumer protection or similar legislation, and all such claims are governed solely by these Terms and any law applicable to us as provider of the iOS App.
+    *   You agree that Speechify, and not Apple, shall be responsible, to the extent required by these Terms, for the investigation, defense, settlement and discharge of any third-party intellectual property infringement claim related to the iOS App or your possession and use of the iOS App.
+    *   You represent and warrant that (i) you are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a “terrorist supporting” country; and (ii) you are not listed on any U.S. Government list of prohibited or restricted parties.
+    *   You agree to comply with all applicable third-party terms of agreement when using the iOS App (e.g., you must not be in violation of your wireless data service terms of agreement when using the iOS App).
+    *   You agree that Apple and Apple’s subsidiaries are third-party beneficiaries to these Terms as they relate to your license of the iOS App.  Upon your acceptance of these Terms, Apple will have the right (and will be deemed to have accepted the right) to enforce these Terms against you as they relate to your license of the iOS App as a third-party beneficiary thereof.
 
 The following additional terms and conditions apply with respect to any App that we provide to you designed for use on an Android-powered mobile device (an “Android App”):
 
-* * You acknowledge that these Terms are between you and Speechify only, and not with Google, Inc. (“Google”). 
-    * Your use of the Android App must comply with Google’s then-current Google Play Store Terms of Service.
-    * Google is only a provider of the Android market where you obtained the Android App.  Speechify, and not Google, is solely responsible for the Android App and the Services and content available thereon.  Google has no obligation or liability to you with respect to the Android App or these Terms.
-    * You acknowledge and agree that Google is a third-party beneficiary to the Terms as they relate to the Android App.
+*   *   You acknowledge that these Terms are between you and Speechify only, and not with Google, Inc. (“Google”). 
+    *   Your use of the Android App must comply with Google’s then-current Google Play Store Terms of Service.
+    *   Google is only a provider of the Android market where you obtained the Android App.  Speechify, and not Google, is solely responsible for the Android App and the Services and content available thereon.  Google has no obligation or liability to you with respect to the Android App or these Terms.
+    *   You acknowledge and agree that Google is a third-party beneficiary to the Terms as they relate to the Android App.
 
-1. **ACCESSING AND USING THE SERVICES**
+1.  **ACCESSING AND USING THE SERVICES**
 
 **4.1** Subject to your compliance with these Terms, including, but not limited to your payment of all applicable fees, Speechify grants you, during the relevant Subscription Term, a limited, non-exclusive, nontransferable, revocable license to stream, download and make personal non-commercial use of the Services for which you have subscribed and in accordance with Speechify’s applicable documentation. You acknowledge and agrees that the Services are provided under license, and not sold. You do not acquire any ownership interest in the Services under these Terms, or any other rights thereto other than to use the Services in accordance with the license granted, and subject to all terms, conditions, and restrictions in, these Terms.
 
@@ -160,7 +160,7 @@ The following additional terms and conditions apply with respect to any App that
 
 **4.6** By breaching the provisions of this section 4, you may commit a criminal offense under applicable laws. We may report any such breach to the relevant law enforcement authorities and we may cooperate with those authorities by disclosing your identity to them. In the event of such a breach, your right to use the Services will cease immediately.
 
-1. **PROPRIETARY RIGHTS IN MATERIALS OFFERED THROUGH THE SERVICES**
+1.  **PROPRIETARY RIGHTS IN MATERIALS OFFERED THROUGH THE SERVICES**
 
 **5.1 COPYRIGHT**
 
@@ -174,7 +174,7 @@ The following additional terms and conditions apply with respect to any App that
 
 Speechify®, the Speechify logo and all other Speechify product or service marks are trademarks of Speechify (the “Speechify Marks”). All other trademarks, logos, images, product and company names displayed or referred to on or in the Services (“Other Marks”, and collectively with the Speechify Marks, the “Marks”) are the property of their respective owners. Nothing grants you any license or right to use, alter or remove or copy such material. Your misuse of the trademarks displayed on the Services or Apps is strictly prohibited. Speechify will enforce its trademark rights to the fullest extent of the law, including the seeking of criminal prosecution.
 
-1. **AVAILABILITY OF SERVICES**
+1.  **AVAILABILITY OF SERVICES**
 
 **6.1** Although we aim to offer you the best service possible, we make no promise that the Services will meet your requirements and we cannot guarantee that the Services will be available at all times. We will not be liable to you for any unavailability of the Services. If a fault occurs in the Services, please report it to us at [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection) and we will review your complaint and, where we determine it is appropriate to do so, correct the fault. If the need arises, we may suspend access to the Services while we address the fault. 
 
@@ -186,7 +186,7 @@ Speechify®, the Speechify logo and all other Speechify product or service marks
 
 **6.5 Fair‑Use & Abuse.** Speechify may throttle, suspend, or downgrade service if we reasonably believe an account violates the Usage‑Limits Schedule or our Acceptable Use Policy. Sharing subscriptions, generating audio for resale or public distribution without the proper commercial license of Speechify Studio, or other activities prohibited in our Acceptable Use Policy may result in immediate suspension.
 
-1. **USER MATERIAL**
+1.  **USER MATERIAL**
 
 **7.1** The Services may let you submit material to us: for example, you may be able to upload a photo to your profile, post books and comments in the community and comment on various matters in various parts of the Services. You may be able to upload text, video, images or sounds. In these Terms, we use the term “User Material” to refer to any such material of that you submit to us, including but not limited to text, files, images, photos, video, sounds and musical or literary works. User Material, however, does not include your account information, payment information, or Service usage data.
 
@@ -220,7 +220,7 @@ Speechify®, the Speechify logo and all other Speechify product or service marks
 
 **7.8** User Material is not considered to be confidential. You agree not to submit any content as User Material in which you have any expectation of privacy. We do not claim any ownership rights in your User Material. However, by submitting User Material you hereby grant Speechify an irrevocable, perpetual, non-exclusive, royalty free, worldwide license to use, telecast, copy, perform, display, edit, distribute and otherwise exploit the User Material you post on the Services, or any portion thereof, and any ideas, concepts, or know how contained therein, with or without attribution, and without the requirement of any permission from or payment to you or to any other person or entity, in any manner (including, without limitation, for commercial, publicity, trade, promotional, or advertising purposes) and in any and all media now known or hereafter devised, and to prepare derivative works of, or incorporate into other works, such User Material, and to grant and authorize sublicenses of the foregoing through multiple tiers without any payment of money or any other form of consideration to you or to any third party. Speechify may include your User Material in Speechify’s Distribution Content that is made available to others through the Products. Be aware that Speechify has no control over User Material once it leaves the Products, and it is possible that others may duplicate material found on the Products, including, but not limited to, on other sites on the Internet. You represent and warrant that you own or otherwise control the rights to your User Material or, alternatively, you have acquired all necessary rights in your User Material to enable you to grant to us the rights in your User Material as described in these Terms. You agree to indemnify Speechify and its affiliates for all claims arising from or in connection with any claims to any rights in your User Material or any damages arising from your User Material.
 
-1. **LINKS TO WEBSITES/HOME PAGE**
+1.  **LINKS TO WEBSITES/HOME PAGE**
 
 **8.1** We may provide links to other websites or services for you to access. You acknowledge that any access is at your sole discretion and for your information only. We do not review or endorse any of those websites or services. We are not responsible in any way for:
 
@@ -234,11 +234,11 @@ Speechify®, the Speechify logo and all other Speechify product or service marks
 
 **8.2** You may link to our home page, provided you do so in a way that is fair and legal and does not damage our reputation or take advantage of it, but you must not establish a link in such a way as to suggest any form of association, approval or endorsement on our part where none exists. You must not establish a link from any website that is not owned by you. The Services must not be framed on any other website, nor may you create a link to any part of the Services unless you have written permission to do so from Speechify. We reserve the right to withdraw linking permission with written notice. The website from which you are linking must comply in all respects with the content standards set out in our acceptable use policy. If you wish to make any use of material on or in the Services other than that set out above, please address your request to [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection).
 
-1. **SERVICES DISCLAIMER**
+1.  **SERVICES DISCLAIMER**
 
 THE INFORMATION AND CONTENT ACCESSIBLE VIA THE SERVICES IS FOR GENERAL INFORMATION PURPOSES ONLY. WHILE WE ENDEAVOR TO KEEP THE INFORMATION UP-TO-DATE AND CORRECT, WE MAKE NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ABOUT THE COMPLETENESS, ACCURACY, RELIABILITY, SUITABILITY OR AVAILABILITY WITH RESPECT TO THE SERVICES OR THE INFORMATION CONTAINED ON THE SERVICES FOR ANY PURPOSE. ANY RELIANCE YOU PLACE ON SUCH INFORMATION IS THEREFORE STRICTLY AT YOUR OWN RISK. YOU ASSUME FULL RESPONSIBILITY FOR ANY DECISIONS OR ACTIONS YOU MAKE BASED ON THE USE OF SUCH INFORMATION, CONTENT, OR THE SERVICES. SPEECHIFY SHALL NOT BE LIABLE FOR ANY CONSEQUENCES ARISING FROM THE USE OF OR RELIANCE ON THE INFORMATION OR CONTENT PROVIDED THROUGH THE SERVICES.
 
-1. **MEDICAL DISCLAIMER**
+1.  **MEDICAL DISCLAIMER**
 
 **10.1** Speechify is a provider of online and mobile reading content in the health & education space. We are not a health care or education provider, nor should our Services be considered medical advice. Only your physician or other health care provider can do that. Speechify makes no claims, representations or guarantees that the Services provide a medical benefit. Users should always seek the advice of their physician or other qualified healthcare provider with any questions regarding a medical condition or treatment.
 
@@ -246,7 +246,7 @@ THE INFORMATION AND CONTENT ACCESSIBLE VIA THE SERVICES IS FOR GENERAL INFORMATI
 
 **10.3** Any advice or other materials in the Services are intended for general information purposes only. They are not intended to be relied upon and are not a substitute for professional medical advice based on your individual condition and circumstances. The advice and other materials we make available are intended to support the relationship between you and your healthcare providers and not replace it. We are not liable or responsible for any consequences of your having read or been told about such advice or other materials as you assume full responsibility for your decisions and actions. In particular, to the fullest extent permitted by law, we make no representation or warranties about the accuracy, completeness, or suitability for any purpose of the advice, other materials and information published as part of the Services.
 
-1. **FEES AND PAYMENT**
+1.  **FEES AND PAYMENT**
 
 **11.1** You agree to pay all applicable fees using one of the payment methods Speechify supports. Except as otherwise specified in these Terms or in an Order, (a) fees are quoted and payable in United States dollars, (b) fees are based on Services purchased, regardless of actual usage, and (c) payment obligations are non-cancelable and fees paid are non-refundable.  All amounts payable under these Terms will be made without setoff or counterclaim, and without any deduction or withholding.
 
@@ -256,7 +256,7 @@ THE INFORMATION AND CONTENT ACCESSIBLE VIA THE SERVICES IS FOR GENERAL INFORMATI
 
 **11.4** If any amounts owed by you for the Services are thirty (30) or more days overdue, Speechify may, without limiting our other rights and remedies, suspend your access to the Services until such amounts are paid in full; provided that we agree that we will not exercise our rights under this Section if the applicable charges are under reasonable and good-faith dispute and you are cooperating diligently to resolve the dispute.
 
-1. **DIGITAL MILLENIUM COPYRIGHT ACT (“DMCA”) NOTICE**
+1.  **DIGITAL MILLENIUM COPYRIGHT ACT (“DMCA”) NOTICE**
 
 **12.1** We are committed to complying with copyright and related laws, and we require all users of the Services to comply with these laws. Accordingly, you may not store any material or content on, or disseminate any material or content over, the Services in any manner that constitutes an infringement of third party intellectual property rights, including rights granted by copyright law. Owners of copyrighted works in the United States who believe that their rights under copyright law have been infringed may take advantage of certain provisions of the US Digital Millennium Copyright Act of 1998 (the “DMCA”) to report alleged infringements. You may not post, modify, distribute, or reproduce in any way any copyrighted material, trademarks, or other proprietary information belonging to others without obtaining the prior written consent of the owner of such proprietary rights. It is our policy to terminate privileges of any user who repeatedly infringes the copyright rights of others upon receipt of proper notification to us by the copyright owner or the copyright owner’s legal agent.
 
@@ -282,7 +282,7 @@ By Mail: Speechify, Inc. Attn: Copyright Agent 382 NE 191st St PMB 69469, Miami,
 
 By E-Mail: [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection) Subject line: DMCA
 
-1. **GENERAL TERMS AND CONDITIONS**
+1.  **GENERAL TERMS AND CONDITIONS**
 
 **13.1 ASSIGNMENT** 
 
@@ -358,11 +358,11 @@ Except as expressly set forth herein, there are no third party beneficiaries to 
 
 **13.12.2  Definitions**
 
-* * **“Demand”** – a written notice satisfying Section 13.12.4.
-    * **“Consumer User”** – an individual who subscribes to or uses the Services primarily for personal, family, or household purposes.
-    * **“Business User”** – (i) any entity; (ii) any individual who registers under a Speechify Business, Enterprise, Studio, Voice-Over, or API plan or pays with a commercial payment instrument; or (iii) any individual who otherwise uses the Services primarily for commercial or professional purposes.
-    * **“Mass Filing”** – five (5) or more substantially similar Demands or arbitration claims filed within any sixty-day period by or with the assistance of the same law firm or coordinated group.
-    * **“Small claims threshold”** means the maximum dollar amount permitted under the small claims procedure in your jurisdiction.
+*   *   **“Demand”** – a written notice satisfying Section 13.12.4.
+    *   **“Consumer User”** – an individual who subscribes to or uses the Services primarily for personal, family, or household purposes.
+    *   **“Business User”** – (i) any entity; (ii) any individual who registers under a Speechify Business, Enterprise, Studio, Voice-Over, or API plan or pays with a commercial payment instrument; or (iii) any individual who otherwise uses the Services primarily for commercial or professional purposes.
+    *   **“Mass Filing”** – five (5) or more substantially similar Demands or arbitration claims filed within any sixty-day period by or with the assistance of the same law firm or coordinated group.
+    *   **“Small claims threshold”** means the maximum dollar amount permitted under the small claims procedure in your jurisdiction.
 
 **13.12.3  Governing Law; FAA**
 
@@ -372,8 +372,8 @@ This Section evidences a transaction in interstate commerce; therefore, the Fede
 
 Before commencing arbitration or small-claims litigation, a Claimant must e-mail a **Demand** to the other Party:
 
-* * **Demands to Speechify:** [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection)
-    * **Demands to You:** the e-mail and, if available, postal address in your account.
+*   *   **Demands to Speechify:** [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection)
+    *   **Demands to You:** the e-mail and, if available, postal address in your account.
 
 The Demand must: (i) identify the claimant; (ii) describe the dispute and the relief sought with reasonable detail; and (iii) be personally signed.  Within thirty (30) days of receipt, either Party may request a single, sixty-minute telephonic or video settlement conference.  No arbitration or lawsuit may be filed until the later of (a) thirty (30) days after the Demand is received, or (b) ten (10) days after the conference, if any.  All limitation periods are tolled during this window.
 
@@ -394,8 +394,8 @@ If the Dispute stated in the Demand is not resolved to your or our satisfact
 
 **13.12.6  Costs and Fee Allocation**
 
-* * **Consumer Users:** Speechify pays all JAMS or NAM filing, administration, and arbitrator fees except the first **US $250** of the filing fee.  Hearing-day fees are split 50/50 up to US $5 000 each; Speechify pays any excess.
-    * **Business Users:** All arbitration fees (filing, administration, arbitrator, and hearing) are split **50/50** unless the applicable rules mandate a different allocation.
+*   *   **Consumer Users:** Speechify pays all JAMS or NAM filing, administration, and arbitrator fees except the first **US $250** of the filing fee.  Hearing-day fees are split 50/50 up to US $5 000 each; Speechify pays any excess.
+    *   **Business Users:** All arbitration fees (filing, administration, arbitrator, and hearing) are split **50/50** unless the applicable rules mandate a different allocation.
 
 **13.12.7  Arbitrator Authority and Relief**
 
@@ -463,8 +463,8 @@ The following regional provisions apply **in lieu of Section 13.12** for users
 
 **13.13.4  United Kingdom and Other Regions Serviced by CEDR**
 
-* * * **United Kingdom:** English law governs. If the claim cannot be resolved in small claims court and Speechify is subscribed to CEDR’s consumer services at the time of the dispute, then arbitration may be conducted under the UNCITRAL Rules as administered by CEDR. Information on CEDR’s rules and case submission is available at [CEDR Arbitration Rules](https://www.cedr.com/alternative-dispute-resolution-processes/arbitration/rules/) and [UNCITRAL Arbitration Rules](https://www.cedr.com/wp-content/uploads/2021/05/uncitral-arb-rules.pdf). CEDR’s consumer services resolve disputes up to 10,000 pounds. The Parties shall otherwise submit to the non-exclusive jurisdiction of the English courts. 
-        * **EEA (excluding U.K.) and all other regions:** Florida law governs.  You may sue Speechify in courts located in your country of residence; otherwise, the courts in Miami-Dade County, Florida, USA, have exclusive jurisdiction.
+*   *   *   **United Kingdom:** English law governs. If the claim cannot be resolved in small claims court and Speechify is subscribed to CEDR’s consumer services at the time of the dispute, then arbitration may be conducted under the UNCITRAL Rules as administered by CEDR. Information on CEDR’s rules and case submission is available at [CEDR Arbitration Rules](https://www.cedr.com/alternative-dispute-resolution-processes/arbitration/rules/) and [UNCITRAL Arbitration Rules](https://www.cedr.com/wp-content/uploads/2021/05/uncitral-arb-rules.pdf). CEDR’s consumer services resolve disputes up to 10,000 pounds. The Parties shall otherwise submit to the non-exclusive jurisdiction of the English courts. 
+        *   **EEA (excluding U.K.) and all other regions:** Florida law governs.  You may sue Speechify in courts located in your country of residence; otherwise, the courts in Miami-Dade County, Florida, USA, have exclusive jurisdiction.
 
 **13.14 ATTORNEY FEES**
 
