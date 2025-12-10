@@ -159,24 +159,24 @@ Title: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Schedule 1 – Details of Processing**
 
-1. **Categories of Data Subjects**  
+1.  **Categories of Data Subjects**  
     The personal data transferred concern the following categories of Data Subjects: The categories of data subjects are within the control of the Controller and may include customers, prospects, business contacts, employees, and other individuals about whom data is provided to Processor by or at the direction of the Controller pursuant to the Agreement, including through Third Party Products and/or third-party system integrations, data uploads, or in connection with the Services.
 
-2. **Types of Personal Data Transferred**  
+2.  **Types of Personal Data Transferred**  
     The personal data transferred concern the following categories of data: the categories of Personal Data are within the control of the Controller and may include contact information (such as names, email addresses, phone numbers), professional details (such as job titles, company affiliations, business roles), business relationship data, communication preferences, and other data relating to individuals to the extent provided to Processor by or at the direction of the Controller pursuant to the Agreement, including through Third Party Products and/or third-party system integrations, data uploads, or in connection with the Services.
 
-3. **Sensitive Data Transferred**  
+3.  **Sensitive Data Transferred**  
     The personal data transferred concern the following special categories of data: the categories of Personal Data are within the control of the Controller and may include data relating to individuals to the extent provided to Processor by or at the direction of the Controller pursuant to applicable terms of service between them.
 
-4. **Frequency of the Transfer**  
+4.  **Frequency of the Transfer**  
     Continuous.
 
-5. **Nature of Processing**  
+5.  **Nature of Processing**  
     The Personal Data transferred will be subject to the following basic processing activities: Processor will Process Controller Data as necessary to perform the Services pursuant to the Agreement, and as further instructed by Customer in its use of the Services. The processing operations include personalization services, content generation, analysis and recommendations, integration with Third Party Products and/or third-party systems and platforms, and other Services that are used by the Controller.
 
-6. **Purpose of Processing**  
+6.  **Purpose of Processing**  
     The purpose of the Processing of Controller Data by Processor is to provide Customer with the Services under the Agreement, including personalized content creation, business communication enhancement, and other features and functionalities provided as part of the Services.
-7. **Duration of the Processing**  
+7.  **Duration of the Processing**  
     The Term of the Agreement, plus the period from the expiry of such Term until deletion of all Controller Data by the Processor in accordance with the DPA.
 
 ‍**Schedule 2 – Technical and Organizational Security Measures**
@@ -247,16 +247,16 @@ The Customer has authorized the use of the Sub-processors located at legal.jaspe
 
 **Schedule 4 – Cross Border Transfer Mechanisms**
 
-1. Definitions
-    1. “EC” means the European Commission.
-    2. “EEA” means the European Economic Area.
-    3. “EEA Personal Data” is Controller Data collected from data subjects when they are located in the EEA.
-    4. “Standard Contractual Clauses” means (i) where the EU GDPR applies, the standard contractual clauses annexed to the European Commission's Implementing Decision 2021/914 of 4 June 2021 on standard contractual clauses for transferring personal data to third countries under Regulation (EU) 2016/679 of the European Parliament and of the Council (“EU SCC”); (ii) where the UK GDPR applies, the
+1.  Definitions
+    1.  “EC” means the European Commission.
+    2.  “EEA” means the European Economic Area.
+    3.  “EEA Personal Data” is Controller Data collected from data subjects when they are located in the EEA.
+    4.  “Standard Contractual Clauses” means (i) where the EU GDPR applies, the standard contractual clauses annexed to the European Commission's Implementing Decision 2021/914 of 4 June 2021 on standard contractual clauses for transferring personal data to third countries under Regulation (EU) 2016/679 of the European Parliament and of the Council (“EU SCC”); (ii) where the UK GDPR applies, the
 
 the International Data Transfer Agreement: Controller to Processor under Section 119A of the Data Protection Act 2018 (“UK SCC”); and (iii) where the Swiss DPA applies, the applicable standard data protection clauses issued, approved or recognized by the Swiss Federal Data Protection and Information Commissioner (“Swiss SCC”).
 
-5. “Swiss Personal Data” means Controller Data collected from data subjects when they are located in Switzerland.
-6. “UK Personal Data” means Controller Data collected from data subjects when they are located in the United Kingdom**.**
+5.  “Swiss Personal Data” means Controller Data collected from data subjects when they are located in Switzerland.
+6.  “UK Personal Data” means Controller Data collected from data subjects when they are located in the United Kingdom**.**
 
 **2\. Cross-Border Data Transfer Mechanisms**
 
