@@ -169,12 +169,12 @@ If Company becomes aware of any possible violations by you of the Terms, Company
 
 In the event that Company determines, in its sole discretion, that you have breached any portion of the Terms, or have otherwise demonstrated conduct inappropriate for Company Properties, Company reserves the right to:
 
-1. Warn you via e-mail (to any e-mail address you have provided to Company) that you have violated the Terms;
-2. Delete any of Your Content provided by you or your agent(s) to Company Properties;
-3. Discontinue your registration(s) with the any of Company Properties;
-4. Discontinue your subscription to any Services;
-5. Notify and/or send Content to and/or fully cooperate with the proper law enforcement authorities for further action; and/or
-6. Pursue any other action which Company deems to be appropriate.
+1.  Warn you via e-mail (to any e-mail address you have provided to Company) that you have violated the Terms;
+2.  Delete any of Your Content provided by you or your agent(s) to Company Properties;
+3.  Discontinue your registration(s) with the any of Company Properties;
+4.  Discontinue your subscription to any Services;
+5.  Notify and/or send Content to and/or fully cooperate with the proper law enforcement authorities for further action; and/or
+6.  Pursue any other action which Company deems to be appropriate.
 
 ### 12\. TERM AND TERMINATION.
 
