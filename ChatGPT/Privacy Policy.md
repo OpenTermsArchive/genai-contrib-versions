@@ -1,17 +1,17 @@
 Table of contents
 
-* [1\. Data controller](#data-controller)
-* [2\. Personal Data we collect](#personal-data-we-collect)
-* [3\. How we use Personal Data](#how-we-use-personal-data)
-* [4\. Disclosure of Personal Data](#disclosure-of-personal-data)
-* [5\. Retention](#retention)
-* [6\. Your rights](#your-rights)
-* [7\. Children](#children)
-* [8\. Security](#security)
-* [9\. Legal bases for processing](#legal-bases-for-processing)
-* [10\. Data transfers](#data-transfers)
-* [11\. Changes to the privacy policy](#changes-to-the-privacy-policy)
-* [12\. How to contact us](#how-to-contact-us)
+*   [1\. Data controller](#data-controller)
+*   [2\. Personal Data we collect](#personal-data-we-collect)
+*   [3\. How we use Personal Data](#how-we-use-personal-data)
+*   [4\. Disclosure of Personal Data](#disclosure-of-personal-data)
+*   [5\. Retention](#retention)
+*   [6\. Your rights](#your-rights)
+*   [7\. Children](#children)
+*   [8\. Security](#security)
+*   [9\. Legal bases for processing](#legal-bases-for-processing)
+*   [10\. Data transfers](#data-transfers)
+*   [11\. Changes to the privacy policy](#changes-to-the-privacy-policy)
+*   [12\. How to contact us](#how-to-contact-us)
 
 Updated: November 4, 2024
 
@@ -40,18 +40,18 @@ We collect personal data relating to you (“Personal Data”) as follows:
 
 **Personal Data You Provide:** We collect Personal Data if you create an account to use our Services or communicate with us as follows:
 
-* _Account Information:_ When you create an account with us, we will collect information associated with your account, including your name, contact information, account credentials, date of birth, payment information, and transaction history, (collectively, “Account Information”).
-* _User Content:_ We collect Personal Data that you provide in the input to our Services (“Content”), including your prompts and other content you upload, such as [files⁠](https://help.openai.com/en/articles/8555545-file-uploads-faq), [images⁠](https://help.openai.com/en/articles/8400551-image-inputs-for-chatgpt-faq), and [audio⁠](https://help.openai.com/en/articles/8400625-voice-chat-faq), depending on the features you use.
-* _Communication Information_: If you communicate with us, such as via email or our pages on social media sites, we may collect Personal Data like your name, contact information, and the contents of the messages you send (“Communication Information”).
-* _Other Information You Provide_: We collect other information that you may provide to us, such as when you participate in our events or surveys or provide us with information to establish your identity or age (collectively, “Other Information You Provide”).
+*   _Account Information:_ When you create an account with us, we will collect information associated with your account, including your name, contact information, account credentials, date of birth, payment information, and transaction history, (collectively, “Account Information”).
+*   _User Content:_ We collect Personal Data that you provide in the input to our Services (“Content”), including your prompts and other content you upload, such as [files⁠](https://help.openai.com/en/articles/8555545-file-uploads-faq), [images⁠](https://help.openai.com/en/articles/8400551-image-inputs-for-chatgpt-faq), and [audio⁠](https://help.openai.com/en/articles/8400625-voice-chat-faq), depending on the features you use.
+*   _Communication Information_: If you communicate with us, such as via email or our pages on social media sites, we may collect Personal Data like your name, contact information, and the contents of the messages you send (“Communication Information”).
+*   _Other Information You Provide_: We collect other information that you may provide to us, such as when you participate in our events or surveys or provide us with information to establish your identity or age (collectively, “Other Information You Provide”).
 
 **Personal Data We Receive from Your Use of the Services:** When you visit, use, or interact with the Services, we receive the following information about your visit, use, or interactions (“Technical Information”):
 
-* _Log Data_: We collect information that your browser or device automatically sends when you use our Services. Log data includes your Internet Protocol address, browser type and settings, the date and time of your request, and how you interact with our Services.
-* _Usage Data_: We collect information about your use of the Services, such as the types of content that you view or engage with, the features you use and the actions you take, as well as your time zone, country, the dates and times of access, user agent and version, type of computer or mobile device, and your computer connection.
-* _Device Information_: We collect information about the device you use to access the Services, such as the name of the device, operating system, device identifiers, and browser you are using. Information collected may depend on the type of device you use and its settings.
-* _Location Information:_ We may determine the general area from which your device accesses our Services based on information like its IP address for security reasons and to make your product experience better, for example to protect your account by detecting unusual login activity or to provide more accurate responses. In addition, some of our Services allow you to choose to provide more precise location information from your device, such as location information from your device’s GPS.
-* _Cookies and Similar Technologies_: We use cookies and similar technologies to operate and administer our Services, and improve your experience. If you use our Services without creating an account, we may store some of the information described in this policy with cookies, for example to help maintain your preferences across browsing sessions. For details about our use of cookies, please read our [Cookie Notice](https://openai.com/policies/cookie-policy/).
+*   _Log Data_: We collect information that your browser or device automatically sends when you use our Services. Log data includes your Internet Protocol address, browser type and settings, the date and time of your request, and how you interact with our Services.
+*   _Usage Data_: We collect information about your use of the Services, such as the types of content that you view or engage with, the features you use and the actions you take, as well as your time zone, country, the dates and times of access, user agent and version, type of computer or mobile device, and your computer connection.
+*   _Device Information_: We collect information about the device you use to access the Services, such as the name of the device, operating system, device identifiers, and browser you are using. Information collected may depend on the type of device you use and its settings.
+*   _Location Information:_ We may determine the general area from which your device accesses our Services based on information like its IP address for security reasons and to make your product experience better, for example to protect your account by detecting unusual login activity or to provide more accurate responses. In addition, some of our Services allow you to choose to provide more precise location information from your device, such as location information from your device’s GPS.
+*   _Cookies and Similar Technologies_: We use cookies and similar technologies to operate and administer our Services, and improve your experience. If you use our Services without creating an account, we may store some of the information described in this policy with cookies, for example to help maintain your preferences across browsing sessions. For details about our use of cookies, please read our [Cookie Notice](https://openai.com/policies/cookie-policy/).
 
 **Information We Receive from Other Sources:** We receive information from our trusted partners, such as security partners, to protect against fraud, abuse, and other security threats to our Services, and from marketing vendors who provide us with information about potential customers of our business services.
 
@@ -62,11 +62,11 @@ We also collect information from other sources, like information that is publicl
 
 We may use Personal Data for the following purposes:
 
-* To provide analyze, and maintain our Services, for example to respond to your questions for ChatGPT;
-* To improve and develop our Services and conduct research, for example to develop new product features;
-* To communicate with you, including to send you information about our Services and events, for example about changes or improvements to the Services;
-* To prevent fraud, illegal activity, or misuses of our Services, and to protect the security of our systems and Services;
-* To comply with legal obligations and to protect the rights, privacy, safety, or property of our users, OpenAI, or third parties.
+*   To provide analyze, and maintain our Services, for example to respond to your questions for ChatGPT;
+*   To improve and develop our Services and conduct research, for example to develop new product features;
+*   To communicate with you, including to send you information about our Services and events, for example about changes or improvements to the Services;
+*   To prevent fraud, illegal activity, or misuses of our Services, and to protect the security of our systems and Services;
+*   To comply with legal obligations and to protect the rights, privacy, safety, or property of our users, OpenAI, or third parties.
 
 We may also aggregate or de-identify Personal Data so that it no longer identifies you and use this information for the purposes described above, such as to analyze the way our Services are being used, to improve and add features to them, and to conduct research. We will maintain and use de-identified information in de-identified form and not attempt to reidentify the information, unless required by law.
 
@@ -77,22 +77,22 @@ As noted above, we may use Content you provide us to improve our Services, for e
 
 We may disclose your Personal Data in the following circumstances:
 
-* _Vendors and Service Providers_: To assist us in meeting business operations needs and to perform certain services and functions, we may disclose Personal Data to vendors and service providers, including providers of hosting services, customer service vendors, cloud services, content delivery services, support and safety monitoring services, email communication software, web analytics services, payment and transaction processors, and other information technology providers. Pursuant to our instructions, these parties will access, process, or store Personal Data only in the course of performing their duties to us.
-* _Business Transfers_: If we are involved in strategic transactions, reorganization, bankruptcy, receivership, or transition of service to another provider (collectively, a “Transaction”), your Personal Data may be disclosed in the diligence process with counterparties and others assisting with the Transaction and transferred to a successor or affiliate as part of that Transaction along with other assets.
-* _Government Authorities or Other Third Parties_: We may share your Personal Data, including information about your interaction with our Services, with government authorities, industry peers, or other third parties in compliance with the law (i) if required to do so to comply with a legal obligation, or in the good faith belief that such action is necessary to comply with a legal obligation, (ii) to protect and defend our rights or property, (iii) if we determine, in our sole discretion, that there is a violation of our terms, policies, or the law; (iv) to detect or prevent fraud or other illegal activity; (v) to protect the safety, security, and integrity of our products, employees, users, or the public, or (vi) to protect against legal liability.
-* _Affiliates_: We may disclose Personal Data to our affiliates, meaning an entity that controls, is controlled by, or is under common control with OpenAI. Our affiliates may use this Personal Data in a manner consistent with this Privacy Policy.
-* _Business Account Administrators_: When you join a ChatGPT Enterprise or business account, the administrators of that account may access and control your OpenAI account, including being able to access your Content. In addition, if you create an account using an email address belonging to your employer or another organization, we may share the fact that you have an account and certain account information, such as your email address, with your employer or organization to, for example, enable you to be added to their business account.
-* _Other Users and Third Parties You Interact or Share Information With_: Certain features allow you to interact or share information with other users or third parties. For example, you can share ChatGPT conversations with other users via [shared links⁠](https://help.openai.com/en/articles/7925741-chatgpt-shared-links-faq). You can also send information to third-party applications, such as via custom actions for GPTs, or for searching the web to help answer questions that benefit from more recent information. Information you share with third parties is governed by their own terms and privacy policies, and you should make sure you understand those terms and policies before sharing information with them.
+*   _Vendors and Service Providers_: To assist us in meeting business operations needs and to perform certain services and functions, we may disclose Personal Data to vendors and service providers, including providers of hosting services, customer service vendors, cloud services, content delivery services, support and safety monitoring services, email communication software, web analytics services, payment and transaction processors, and other information technology providers. Pursuant to our instructions, these parties will access, process, or store Personal Data only in the course of performing their duties to us.
+*   _Business Transfers_: If we are involved in strategic transactions, reorganization, bankruptcy, receivership, or transition of service to another provider (collectively, a “Transaction”), your Personal Data may be disclosed in the diligence process with counterparties and others assisting with the Transaction and transferred to a successor or affiliate as part of that Transaction along with other assets.
+*   _Government Authorities or Other Third Parties_: We may share your Personal Data, including information about your interaction with our Services, with government authorities, industry peers, or other third parties in compliance with the law (i) if required to do so to comply with a legal obligation, or in the good faith belief that such action is necessary to comply with a legal obligation, (ii) to protect and defend our rights or property, (iii) if we determine, in our sole discretion, that there is a violation of our terms, policies, or the law; (iv) to detect or prevent fraud or other illegal activity; (v) to protect the safety, security, and integrity of our products, employees, users, or the public, or (vi) to protect against legal liability.
+*   _Affiliates_: We may disclose Personal Data to our affiliates, meaning an entity that controls, is controlled by, or is under common control with OpenAI. Our affiliates may use this Personal Data in a manner consistent with this Privacy Policy.
+*   _Business Account Administrators_: When you join a ChatGPT Enterprise or business account, the administrators of that account may access and control your OpenAI account, including being able to access your Content. In addition, if you create an account using an email address belonging to your employer or another organization, we may share the fact that you have an account and certain account information, such as your email address, with your employer or organization to, for example, enable you to be added to their business account.
+*   _Other Users and Third Parties You Interact or Share Information With_: Certain features allow you to interact or share information with other users or third parties. For example, you can share ChatGPT conversations with other users via [shared links⁠](https://help.openai.com/en/articles/7925741-chatgpt-shared-links-faq). You can also send information to third-party applications, such as via custom actions for GPTs, or for searching the web to help answer questions that benefit from more recent information. Information you share with third parties is governed by their own terms and privacy policies, and you should make sure you understand those terms and policies before sharing information with them.
 
 5\. Retention
 -------------
 
 We’ll retain your Personal Data for only as long as we need in order to provide our Services to you, or for other legitimate business purposes such as resolving disputes, safety and security reasons, or complying with our legal obligations. How long we retain Personal Data will depend on a number of factors, such as:
 
-* Our purpose for processing the data (such as whether we need to retain the data to provide our Services);
-* The amount, nature, and sensitivity of the information;
-* The potential risk of harm from unauthorized use or disclosure;
-* Any legal requirements that we are subject to.
+*   Our purpose for processing the data (such as whether we need to retain the data to provide our Services);
+*   The amount, nature, and sensitivity of the information;
+*   The potential risk of harm from unauthorized use or disclosure;
+*   Any legal requirements that we are subject to.
 
 In some cases, the length of time we retain data depends on your settings. For example, ChatGPT temporary chats will not appear in your history and will be kept up to 30 days for safety purposes. You can find more information on data controls [here⁠](https://help.openai.com/en/articles/7730893-data-controls-faq).
 
@@ -101,18 +101,18 @@ In some cases, the length of time we retain data depends on your settings. For e
 
 You have the following statutory rights in relation to your Personal Data:
 
-* Access your Personal Data and information relating to how it is processed.
-* Delete your Personal Data from our records.
-* Rectify or update your Personal Data.
-* Transfer your Personal Data to a third party (right to data portability).
-* Restrict how we process your Personal Data.
-* Withdraw your consent—where we rely on consent as the legal basis for processing at any time.
-* Lodge a complaint with your local data protection authority (see below).
+*   Access your Personal Data and information relating to how it is processed.
+*   Delete your Personal Data from our records.
+*   Rectify or update your Personal Data.
+*   Transfer your Personal Data to a third party (right to data portability).
+*   Restrict how we process your Personal Data.
+*   Withdraw your consent—where we rely on consent as the legal basis for processing at any time.
+*   Lodge a complaint with your local data protection authority (see below).
 
 You have the following rights to object:
 
-* Object to our processing of your Personal Data for direct marketing at any time.
-* Object to how we process your Personal Data when our processing is based on legitimate interests.
+*   Object to our processing of your Personal Data for direct marketing at any time.
+*   Object to how we process your Personal Data when our processing is based on legitimate interests.
 
 You can exercise some of these rights through your OpenAI account. If you are unable to exercise your rights through your account, please submit your request through [privacy.openai.com⁠](http://privacy.openai.com/) or send it to [dsar@openai.com⁠](mailto:dsar@openai.com).
 
@@ -138,19 +138,19 @@ We implement commercially reasonable technical, administrative, and organization
 |     |     |     |
 | --- | --- | --- |
 | **Purpose of processing** | **Type of Personal Data processed, depending on the processing activity** | **Legal basis, depending on the process activity** |
-| To provide, analyze, and maintain our Services | * Account Information<br>    <br>* User Content<br>    <br>* Communication Information<br>    <br>* Other Information You Provide<br>    <br>* Log Data<br>    <br>* Usage Data<br>    <br>* Device Information<br>    <br>* Location Information<br>    <br>* Cookies and Similar Technologies | Where necessary to perform a contract with you, such as processing a user’s prompts to provide a response. |
-| To improve and develop our Services and conduct research | * Account Information<br>    <br>* User Content<br>    <br>* Communication Information<br>    <br>* Other Information You Provide<br>    <br>* Data We Receive From Other Sources<br>    <br>* Log Data<br>    <br>* Usage Data<br>    <br>* Device Information<br>    <br>* Cookies and Similar Technologies<br>    <br><br>See [here⁠](https://help.openai.com/en/articles/7842364-how-chatgpt-and-our-language-models-are-developed) for more specific information on the data used to train our models. | Where necessary for our legitimate interests and those of third parties and broader society, including in developing, improving, or promoting our Services, such as when we train and improve our models. See [here⁠](https://help.openai.com/en/articles/5722486-how-your-data-is-used-to-improve-model-performance) for more information. |
-| To communicate with you, including to send you information about our Services and events | * Account Information<br>    <br>* Communication Information<br>    <br>* Social Media Information<br>    <br>* Other Information You Provide<br>    <br>* Log Data<br>    <br>* Usage Data<br>    <br>* Device Information<br>    <br>* Cookies and Similar Technologies | Where necessary to perform a contract with you, such as processing your contact information to send you a technical announcement about the Services. <br><br>Your consent when we ask for it to process your Personal Data for a specific purpose that we communicate to you, such as processing your contact information to send you certain forms of marketing communications. |
-| To prevent fraud, illegal activity, or misuses of our Services, and to protect the security of our systems and Services | * Account Information<br>    <br>* User Content<br>    <br>* Communication Information<br>    <br>* Social Media Information<br>    <br>* Other Information You Provide<br>    <br>* Data We Receive From Other Sources<br>    <br>* Log Data<br>    <br>* Usage Data<br>    <br>* Device Information<br>    <br>* Cookies and Similar Technologies | Where necessary to comply with a legal obligation.<br><br>Where we are not under a specific legal obligation, where necessary for our legitimate interests and those of third parties, including in protecting our Services from abuse, fraud, or security risks, such as processing data from security partners to protect against fraud, abuse and security threats in our Services. |
-| To comply with legal obligations and to protect the rights, privacy, safety, or property of our users, OpenAI, or third parties | * Account Information<br>    <br>* User Content<br>    <br>* Communication Information<br>    <br>* Social Media Information<br>    <br>* Other Information You Provide<br>    <br>* Data We Receive From Other Sources<br>    <br>* Log Data<br>    <br>* Usage Data<br>    <br>* Device Information<br>    <br>* Cookies and Similar Technologies | Where necessary to comply with a legal obligation, such as retaining transaction information to comply with record-keeping obligations.<br><br>Where we are not under a specific legal obligation, where necessary for our legitimate interests and those of third parties and broader society, including in protecting our or our affiliates’, users’, or third parties’ rights, safety, and property, such as analyzing log data to identify fraud and abuse in our Services. |
+| To provide, analyze, and maintain our Services | *   Account Information<br>    <br>*   User Content<br>    <br>*   Communication Information<br>    <br>*   Other Information You Provide<br>    <br>*   Log Data<br>    <br>*   Usage Data<br>    <br>*   Device Information<br>    <br>*   Location Information<br>    <br>*   Cookies and Similar Technologies | Where necessary to perform a contract with you, such as processing a user’s prompts to provide a response. |
+| To improve and develop our Services and conduct research | *   Account Information<br>    <br>*   User Content<br>    <br>*   Communication Information<br>    <br>*   Other Information You Provide<br>    <br>*   Data We Receive From Other Sources<br>    <br>*   Log Data<br>    <br>*   Usage Data<br>    <br>*   Device Information<br>    <br>*   Cookies and Similar Technologies<br>    <br><br>See [here⁠](https://help.openai.com/en/articles/7842364-how-chatgpt-and-our-language-models-are-developed) for more specific information on the data used to train our models. | Where necessary for our legitimate interests and those of third parties and broader society, including in developing, improving, or promoting our Services, such as when we train and improve our models. See [here⁠](https://help.openai.com/en/articles/5722486-how-your-data-is-used-to-improve-model-performance) for more information. |
+| To communicate with you, including to send you information about our Services and events | *   Account Information<br>    <br>*   Communication Information<br>    <br>*   Social Media Information<br>    <br>*   Other Information You Provide<br>    <br>*   Log Data<br>    <br>*   Usage Data<br>    <br>*   Device Information<br>    <br>*   Cookies and Similar Technologies | Where necessary to perform a contract with you, such as processing your contact information to send you a technical announcement about the Services. <br><br>Your consent when we ask for it to process your Personal Data for a specific purpose that we communicate to you, such as processing your contact information to send you certain forms of marketing communications. |
+| To prevent fraud, illegal activity, or misuses of our Services, and to protect the security of our systems and Services | *   Account Information<br>    <br>*   User Content<br>    <br>*   Communication Information<br>    <br>*   Social Media Information<br>    <br>*   Other Information You Provide<br>    <br>*   Data We Receive From Other Sources<br>    <br>*   Log Data<br>    <br>*   Usage Data<br>    <br>*   Device Information<br>    <br>*   Cookies and Similar Technologies | Where necessary to comply with a legal obligation.<br><br>Where we are not under a specific legal obligation, where necessary for our legitimate interests and those of third parties, including in protecting our Services from abuse, fraud, or security risks, such as processing data from security partners to protect against fraud, abuse and security threats in our Services. |
+| To comply with legal obligations and to protect the rights, privacy, safety, or property of our users, OpenAI, or third parties | *   Account Information<br>    <br>*   User Content<br>    <br>*   Communication Information<br>    <br>*   Social Media Information<br>    <br>*   Other Information You Provide<br>    <br>*   Data We Receive From Other Sources<br>    <br>*   Log Data<br>    <br>*   Usage Data<br>    <br>*   Device Information<br>    <br>*   Cookies and Similar Technologies | Where necessary to comply with a legal obligation, such as retaining transaction information to comply with record-keeping obligations.<br><br>Where we are not under a specific legal obligation, where necessary for our legitimate interests and those of third parties and broader society, including in protecting our or our affiliates’, users’, or third parties’ rights, safety, and property, such as analyzing log data to identify fraud and abuse in our Services. |
 
 10\. Data transfers
 -------------------
 
 OpenAI processes your Personal Data on servers located outside of the EEA, Switzerland and the UK for the purposes described in this Privacy Policy. This includes processing and storing your Personal Data in our facilities and servers in the United States. While data protection law varies by country and these countries may not offer the same level of data protection as your home country, we apply the protections described in this policy to your Personal Data regardless of where it is processed. When transferring Personal Data outside of the EEA, Switzerland or the UK, we rely on the following transfer mechanisms to comply with applicable data protection law:
 
-* We rely on the European Commission’s [adequacy decisions⁠](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en) pursuant to Article 45(1) GDPR when transferring your Personal Data to any country that has been considered to provide an adequate level of protection.
-* For other jurisdictions, we rely on the Standard Contractual Clauses (“SCCs”) as approved by the European Commission pursuant to Article 46(2)(c) GDPR and on the UK Data Transfer Addendum.
+*   We rely on the European Commission’s [adequacy decisions⁠](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en) pursuant to Article 45(1) GDPR when transferring your Personal Data to any country that has been considered to provide an adequate level of protection.
+*   For other jurisdictions, we rely on the Standard Contractual Clauses (“SCCs”) as approved by the European Commission pursuant to Article 46(2)(c) GDPR and on the UK Data Transfer Addendum.
 
 For more information or to obtain a copy of the appropriate safeguards we have in place when transferring Personal Data, please contact us at [privacy@openai.com⁠](mailto:privacy@openai.com).
 
@@ -166,11 +166,13 @@ Please [contact support⁠](https://help.openai.com/en/articles/6614161-how-can-
 
 You can contact our Data Protection Officer at [dpo@openai.com⁠](mailto:dpo@openai.com) in matters related to Personal Data processing.
 
+- - -
+
 Table of contents
 
-* [Services for individuals, such as ChatGPT, Sora, and Operator](#services-for-individuals-such-as-chatgpt-sora-and-operator)
-* [Services for businesses, such as ChatGPT Team, ChatGPT Enterprise, and our API Platform](#services-for-businesses-such-as-chatgpt-team-chatgpt-enterprise-and-our-api-platform)
-* [What the process looks like](#what-the-process-looks-like)
+*   [Services for individuals, such as ChatGPT, Sora, and Operator](#services-for-individuals-such-as-chatgpt-sora-and-operator)
+*   [Services for businesses, such as ChatGPT Team, ChatGPT Enterprise, and our API Platform](#services-for-businesses-such-as-chatgpt-team-chatgpt-enterprise-and-our-api-platform)
+*   [What the process looks like](#what-the-process-looks-like)
 
 Updated: April 28, 2025
 
