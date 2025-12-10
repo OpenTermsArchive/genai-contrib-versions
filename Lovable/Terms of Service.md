@@ -1,4 +1,4 @@
-Version:October 28, 2025 (Latest)
+Version:
 
 **Terms of Service**
 ====================
