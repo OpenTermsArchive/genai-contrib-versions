@@ -70,9 +70,9 @@ OpenRouter uses a hosted model for categorizing Inputs, which does not store or 
 
 You are solely responsible for your Inputs and the consequences of providing Inputs. By providing Inputs, you affirm, represent, and warrant that:
 
-* you are the creator and owner of the Inputs, or have the necessary licenses, rights, consents, and permissions to authorize OpenRouter to use, reproduce, and distribute your Inputs as necessary to exercise the licenses granted by you in this section, in the manner contemplated by OpenRouter, the Service, and these Terms; and
+*   you are the creator and owner of the Inputs, or have the necessary licenses, rights, consents, and permissions to authorize OpenRouter to use, reproduce, and distribute your Inputs as necessary to exercise the licenses granted by you in this section, in the manner contemplated by OpenRouter, the Service, and these Terms; and
     
-* your Inputs, and the use of your Inputs as contemplated by these Terms, does not and will not: (i) infringe, violate, or misappropriate any third-party right, including any copyright, trademark, patent, trade secret, moral right, privacy right, right of publicity, or any other intellectual property or proprietary right; (ii) slander, defame, libel, or invade the right of privacy, publicity or other property rights of any other person; or (iii) cause OpenRouter to violate any law or regulation.
+*   your Inputs, and the use of your Inputs as contemplated by these Terms, does not and will not: (i) infringe, violate, or misappropriate any third-party right, including any copyright, trademark, patent, trade secret, moral right, privacy right, right of publicity, or any other intellectual property or proprietary right; (ii) slander, defame, libel, or invade the right of privacy, publicity or other property rights of any other person; or (iii) cause OpenRouter to violate any law or regulation.
     
 
 5.6. Input and User Content Disclaimer.
@@ -89,32 +89,32 @@ We strive to accurately provide to the AI Models the country of your originating
 
 BY USING THE SERVICE YOU AGREE NOT TO:
 
-1. use the Service for any illegal purpose, in violation of any local, state, national, or international law or in violation of any applicable AI Model Terms;
+1.  use the Service for any illegal purpose, in violation of any local, state, national, or international law or in violation of any applicable AI Model Terms;
     
-2. purchase Credits with cryptocurrency when the source of funds for the cryptocurrency constitute proceeds of a financial or other crime under applicable law;
+2.  purchase Credits with cryptocurrency when the source of funds for the cryptocurrency constitute proceeds of a financial or other crime under applicable law;
     
-3. create a false identity, misrepresent your identity, or create multiple accounts as a single user, for purposes of bypassing or circumventing use limits on the Site or Service or for any other reason;
+3.  create a false identity, misrepresent your identity, or create multiple accounts as a single user, for purposes of bypassing or circumventing use limits on the Site or Service or for any other reason;
     
-4. develop, support or use software, devices, scripts, robots or any other means or processes (such as crawlers, browser plugins, add-ons or any other automated technology) to scrape or copy any information on the Site or the Services;
+4.  develop, support or use software, devices, scripts, robots or any other means or processes (such as crawlers, browser plugins, add-ons or any other automated technology) to scrape or copy any information on the Site or the Services;
     
-5. bypass any technical measures implemented by OpenRouter that are designed to prevent scraping;
+5.  bypass any technical measures implemented by OpenRouter that are designed to prevent scraping;
     
-6. violate, or encourage others to violate, any right of a third party, including by infringing or misappropriating any third-party intellectual property right;
+6.  violate, or encourage others to violate, any right of a third party, including by infringing or misappropriating any third-party intellectual property right;
     
-7. post, upload, or distribute any Input or other content that is unlawful, or is not in compliance with the Terms of Service for the AI Model or Provider you are using;
+7.  post, upload, or distribute any Input or other content that is unlawful, or is not in compliance with the Terms of Service for the AI Model or Provider you are using;
     
-8. violate the Terms of Service for the AI Model or Provider you are using;
+8.  violate the Terms of Service for the AI Model or Provider you are using;
     
-9. interfere with security-related features of the Service, including by: (a) disabling or circumventing features that prevent or limit use or copying of any content; or (b) reverse engineering or otherwise attempting to discover the source code of any portion of the Service except to the extent that the activity is expressly permitted by applicable law;
+9.  interfere with security-related features of the Service, including by: (a) disabling or circumventing features that prevent or limit use or copying of any content; or (b) reverse engineering or otherwise attempting to discover the source code of any portion of the Service except to the extent that the activity is expressly permitted by applicable law;
     
-10. interfere with the operation of the Service or any user’s enjoyment of the Service, including by: (a) uploading or otherwise disseminating any virus, adware, spyware, worm, or other malicious code; (b) making any unsolicited offer or advertisement to another user of the Service; (c) attempting to collect personal information about another user or third party without consent; or (d) interfering with or disrupting any network, equipment, or server connected to or used to provide the Service, or violating any regulation, policy, or procedure of any such network, equipment, or server;
-    
-11. perform any fraudulent activity including impersonating any person or entity, claiming a false affiliation, accessing any other Service account without permission, or falsifying your age or date of birth;
-    
-12. sell or otherwise transfer the access granted under these Terms or any Materials (as defined in Section 10) or any right or ability to view, access, or use any Material; or
-    
-13. attempt to do any of the acts described in this Section 6, or assist or permit any person in engaging in any of the acts described in this Section 6.
-    
+10.  interfere with the operation of the Service or any user’s enjoyment of the Service, including by: (a) uploading or otherwise disseminating any virus, adware, spyware, worm, or other malicious code; (b) making any unsolicited offer or advertisement to another user of the Service; (c) attempting to collect personal information about another user or third party without consent; or (d) interfering with or disrupting any network, equipment, or server connected to or used to provide the Service, or violating any regulation, policy, or procedure of any such network, equipment, or server;
+     
+11.  perform any fraudulent activity including impersonating any person or entity, claiming a false affiliation, accessing any other Service account without permission, or falsifying your age or date of birth;
+     
+12.  sell or otherwise transfer the access granted under these Terms or any Materials (as defined in Section 10) or any right or ability to view, access, or use any Material; or
+     
+13.  attempt to do any of the acts described in this Section 6, or assist or permit any person in engaging in any of the acts described in this Section 6.
+     
 
 ### 7\. Termination of Use; Discontinuation and Modification of the Service.
 
@@ -150,22 +150,22 @@ You are responsible for your use of the Service, and you will defend and indemni
 
 ### 13\. Disclaimers; No Warranties
 
-* THE SERVICE AND ALL MATERIALS AND CONTENT AVAILABLE THROUGH THE SERVICE ARE PROVIDED “**AS IS**” AND ON AN “**AS AVAILABLE**” BASIS, WITHOUT WARRANTY OR CONDITION OF ANY KIND, EITHER EXPRESS OR IMPLIED. THE OPENROUTER ENTITIES DISCLAIM ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, RELATING TO THE SERVICE AND ALL MATERIALS AND CONTENT AVAILABLE THROUGH THE SERVICE, INCLUDING: (A) ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, QUIET ENJOYMENT, OR NON-INFRINGEMENT; AND (B) ANY WARRANTY ARISING OUT OF COURSE OF DEALING, USAGE, OR TRADE. THE OPENROUTER ENTITIES DO NOT WARRANT THAT THE SERVICE OR ANY PORTION OF THE SERVICE, OR ANY MATERIALS OR CONTENT OFFERED THROUGH THE SERVICE, WILL BE UNINTERRUPTED, SECURE, OR FREE OF ERRORS, VIRUSES, OR OTHER HARMFUL COMPONENTS, AND DO NOT WARRANT THAT ANY OF THOSE ISSUES WILL BE CORRECTED.
+*   THE SERVICE AND ALL MATERIALS AND CONTENT AVAILABLE THROUGH THE SERVICE ARE PROVIDED “**AS IS**” AND ON AN “**AS AVAILABLE**” BASIS, WITHOUT WARRANTY OR CONDITION OF ANY KIND, EITHER EXPRESS OR IMPLIED. THE OPENROUTER ENTITIES DISCLAIM ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, RELATING TO THE SERVICE AND ALL MATERIALS AND CONTENT AVAILABLE THROUGH THE SERVICE, INCLUDING: (A) ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, QUIET ENJOYMENT, OR NON-INFRINGEMENT; AND (B) ANY WARRANTY ARISING OUT OF COURSE OF DEALING, USAGE, OR TRADE. THE OPENROUTER ENTITIES DO NOT WARRANT THAT THE SERVICE OR ANY PORTION OF THE SERVICE, OR ANY MATERIALS OR CONTENT OFFERED THROUGH THE SERVICE, WILL BE UNINTERRUPTED, SECURE, OR FREE OF ERRORS, VIRUSES, OR OTHER HARMFUL COMPONENTS, AND DO NOT WARRANT THAT ANY OF THOSE ISSUES WILL BE CORRECTED.
     
-* NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM THE SERVICE OR ANY MATERIALS OR CONTENT AVAILABLE THROUGH THE SERVICE WILL CREATE ANY WARRANTY REGARDING ANY OF THE OPENROUTER ENTITIES OR THE SERVICE THAT IS NOT EXPRESSLY STATED IN THESE TERMS. YOU ASSUME ALL RISK FOR ANY DAMAGE THAT MAY RESULT FROM YOUR USE OF OR ACCESS TO THE SERVICE, YOUR DEALING WITH ANY OTHER SERVICE USER, AND ANY MATERIALS OR CONTENT AVAILABLE THROUGH THE SERVICE, INCLUDING WITHOUT LIMITATION ANY OUTPUT YOUR RECEIVE THROUGH THE SERVICE. YOU UNDERSTAND AND AGREE THAT YOU USE THE SERVICE, AND USE, ACCESS, DOWNLOAD, OR OTHERWISE OBTAIN MATERIALS OR CONTENT THROUGH THE SERVICE AND ANY ASSOCIATED SITES OR SERVICES, AT YOUR OWN DISCRETION AND RISK, AND THAT YOU ARE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR PROPERTY (INCLUDING YOUR COMPUTER SYSTEM OR MOBILE DEVICE USED IN CONNECTION WITH THE SERVICE), OR THE LOSS OF DATA THAT RESULTS FROM THE USE OF THE SERVICE OR THE DOWNLOAD OR USE OF THAT MATERIAL OR CONTENT. YOU UNDERSTAND AND AGREE THAT OPENROUTER IS NOT RESPONSIBLE FOR THE ACCURACY OR QUALITY OF ANY OUTPUT YOU RECEIVE THROUGH THE SERVICE. OPENROUTER TAKES NO RESPONSIBILITY FOR ANY ACTIONS YOU TAKE AS A RESULT OF ANY OUTPUT RECEIVED THROUGH THE SERVICE OR ANY CONSEQUENCES OF THOSE ACTIONS.
+*   NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM THE SERVICE OR ANY MATERIALS OR CONTENT AVAILABLE THROUGH THE SERVICE WILL CREATE ANY WARRANTY REGARDING ANY OF THE OPENROUTER ENTITIES OR THE SERVICE THAT IS NOT EXPRESSLY STATED IN THESE TERMS. YOU ASSUME ALL RISK FOR ANY DAMAGE THAT MAY RESULT FROM YOUR USE OF OR ACCESS TO THE SERVICE, YOUR DEALING WITH ANY OTHER SERVICE USER, AND ANY MATERIALS OR CONTENT AVAILABLE THROUGH THE SERVICE, INCLUDING WITHOUT LIMITATION ANY OUTPUT YOUR RECEIVE THROUGH THE SERVICE. YOU UNDERSTAND AND AGREE THAT YOU USE THE SERVICE, AND USE, ACCESS, DOWNLOAD, OR OTHERWISE OBTAIN MATERIALS OR CONTENT THROUGH THE SERVICE AND ANY ASSOCIATED SITES OR SERVICES, AT YOUR OWN DISCRETION AND RISK, AND THAT YOU ARE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR PROPERTY (INCLUDING YOUR COMPUTER SYSTEM OR MOBILE DEVICE USED IN CONNECTION WITH THE SERVICE), OR THE LOSS OF DATA THAT RESULTS FROM THE USE OF THE SERVICE OR THE DOWNLOAD OR USE OF THAT MATERIAL OR CONTENT. YOU UNDERSTAND AND AGREE THAT OPENROUTER IS NOT RESPONSIBLE FOR THE ACCURACY OR QUALITY OF ANY OUTPUT YOU RECEIVE THROUGH THE SERVICE. OPENROUTER TAKES NO RESPONSIBILITY FOR ANY ACTIONS YOU TAKE AS A RESULT OF ANY OUTPUT RECEIVED THROUGH THE SERVICE OR ANY CONSEQUENCES OF THOSE ACTIONS.
     
-* SOME JURISDICTIONS MAY PROHIBIT A DISCLAIMER OF WARRANTIES AND YOU MAY HAVE OTHER RIGHTS THAT VARY FROM JURISDICTION TO JURISDICTION.
+*   SOME JURISDICTIONS MAY PROHIBIT A DISCLAIMER OF WARRANTIES AND YOU MAY HAVE OTHER RIGHTS THAT VARY FROM JURISDICTION TO JURISDICTION.
     
 
 ### 14\. Limitation of Liability
 
-* IN NO EVENT WILL THE OPENROUTER ENTITIES BE LIABLE TO YOU FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES (INCLUDING DAMAGES FOR LOSS OF PROFITS, GOODWILL, OR ANY OTHER INTANGIBLE LOSS) ARISING OUT OF OR RELATING TO YOUR ACCESS TO OR USE OF, OR YOUR INABILITY TO ACCESS OR USE, THE SERVICE OR ANY MATERIALS OR CONTENT ON THE SERVICE, WHETHER BASED ON WARRANTY, CONTRACT, TORT (INCLUDING NEGLIGENCE), STATUTE, OR ANY OTHER LEGAL THEORY, AND WHETHER OR NOT ANY OPENROUTER ENTITY HAS BEEN INFORMED OF THE POSSIBILITY OF DAMAGE.
+*   IN NO EVENT WILL THE OPENROUTER ENTITIES BE LIABLE TO YOU FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES (INCLUDING DAMAGES FOR LOSS OF PROFITS, GOODWILL, OR ANY OTHER INTANGIBLE LOSS) ARISING OUT OF OR RELATING TO YOUR ACCESS TO OR USE OF, OR YOUR INABILITY TO ACCESS OR USE, THE SERVICE OR ANY MATERIALS OR CONTENT ON THE SERVICE, WHETHER BASED ON WARRANTY, CONTRACT, TORT (INCLUDING NEGLIGENCE), STATUTE, OR ANY OTHER LEGAL THEORY, AND WHETHER OR NOT ANY OPENROUTER ENTITY HAS BEEN INFORMED OF THE POSSIBILITY OF DAMAGE.
     
-* EXCEPT AS PROVIDED IN SECTION 17.4(iii), THE AGGREGATE LIABILITY OF THE OPENROUTER ENTITIES TO YOU FOR ALL CLAIMS ARISING OUT OF OR RELATING TO THE USE OF OR ANY INABILITY TO USE ANY PORTION OF THE SERVICE OR OTHERWISE UNDER THESE TERMS, WHETHER IN CONTRACT, TORT, OR OTHERWISE, IS LIMITED TO THE GREATER OF: (A) THE AMOUNT YOU HAVE PAID TO OPENROUTER FOR ACCESS TO AND USE OF THE SERVICE IN THE 12 MONTHS PRIOR TO THE EVENT(S) OR CIRCUMSTANCES GIVING RISE TO CLAIM; OR (B) $100.
+*   EXCEPT AS PROVIDED IN SECTION 17.4(iii), THE AGGREGATE LIABILITY OF THE OPENROUTER ENTITIES TO YOU FOR ALL CLAIMS ARISING OUT OF OR RELATING TO THE USE OF OR ANY INABILITY TO USE ANY PORTION OF THE SERVICE OR OTHERWISE UNDER THESE TERMS, WHETHER IN CONTRACT, TORT, OR OTHERWISE, IS LIMITED TO THE GREATER OF: (A) THE AMOUNT YOU HAVE PAID TO OPENROUTER FOR ACCESS TO AND USE OF THE SERVICE IN THE 12 MONTHS PRIOR TO THE EVENT(S) OR CIRCUMSTANCES GIVING RISE TO CLAIM; OR (B) $100.
     
-* SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES. ACCORDINGLY, THE ABOVE LIMITATION MAY NOT APPLY TO YOU.
+*   SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES. ACCORDINGLY, THE ABOVE LIMITATION MAY NOT APPLY TO YOU.
     
-* EACH PROVISION OF THESE TERMS THAT PROVIDES FOR A LIMITATION OF LIABILITY, DISCLAIMER OF WARRANTIES, OR EXCLUSION OF DAMAGES IS INTENDED TO AND DOES ALLOCATE THE RISKS BETWEEN YOU AND OPENROUTER UNDER THESE TERMS. THIS ALLOCATION IS AN ESSENTIAL ELEMENT OF THE BASIS OF THE BARGAIN BETWEEN YOU AND OPENROUTER. EACH OF THESE PROVISIONS IS SEVERABLE AND INDEPENDENT OF ALL OTHER PROVISIONS OF THESE TERMS. THE LIMITATIONS IN THIS SECTION 14 WILL APPLY EVEN IF ANY LIMITED REMEDY FAILS OF ITS ESSENTIAL PURPOSE.
+*   EACH PROVISION OF THESE TERMS THAT PROVIDES FOR A LIMITATION OF LIABILITY, DISCLAIMER OF WARRANTIES, OR EXCLUSION OF DAMAGES IS INTENDED TO AND DOES ALLOCATE THE RISKS BETWEEN YOU AND OPENROUTER UNDER THESE TERMS. THIS ALLOCATION IS AN ESSENTIAL ELEMENT OF THE BASIS OF THE BARGAIN BETWEEN YOU AND OPENROUTER. EACH OF THESE PROVISIONS IS SEVERABLE AND INDEPENDENT OF ALL OTHER PROVISIONS OF THESE TERMS. THE LIMITATIONS IN THIS SECTION 14 WILL APPLY EVEN IF ANY LIMITED REMEDY FAILS OF ITS ESSENTIAL PURPOSE.
     
 
 ### 15\. Governing Law
