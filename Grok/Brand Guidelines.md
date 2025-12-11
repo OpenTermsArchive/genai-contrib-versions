@@ -1,4 +1,4 @@
-[](https://x.ai/legal/)
+[](https://x.ai/legal)
 
 About
 
