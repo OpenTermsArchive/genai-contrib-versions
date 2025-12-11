@@ -1,7 +1,80 @@
-This page isn’t available
--------------------------
+Llama API Data Commitments
+==========================
 
-An unexpected error has occurred. Try reloading the page or come back later.
+Meta’s [responsible innovation principles](https://about.meta.com/metaverse/responsible-innovation/) serve as the foundation for all our work. These principles are specifically crafted to protect people’s privacy so they feel empowered to explore, connect and engage with our products.Meta does not train its AI models on Llama API Customer Content or Customer Data.
+
+*   •Customer Data comprises your account data, roles, and profile fields.
+*   •Customer Content comprises both the inputs you submit to the model (prompts) and the outputs you receive based on your inputs (model responses).
+
+Your Customer Content and Customer Data are used only:
+
+1.  To provide Llama API services.
+2.  To understand how our services are used.
+3.  To ensure adherence to the [Acceptable Use Policy](https://llama.developer.meta.com/legal/acceptable-use-policy).
+4.  To comply with legal obligations.
+
+Your Customer Content and your Customer Data are not used for any purposes other than those described in our permitted purposes. Customer Content and Customer Data are not used for personalization of consumer Meta Products or advertising, and personal data collected from the use of Llama API products is not used to personalize ads.Your Customer Content and Customer Data are logically separated except when shared to enforce the AUP, to facilitate payments, or to comply with other legal or regulatory requirements. Your Customer Content and Customer Data are always stored subject to strict access controls, and Meta will not sell any customer or user data as defined in the Terms of Service.
+
+Encryption
+
+
+------------
+
+All data transmitted between Llama API and backend servers is encrypted with the industry-standard TLS 1.2 and TLS 1.3 protocols.Meta encrypts Customer Content and specific Customer Data when it is stored at rest, except in limited circumstances as described below. We encrypt your data at rest before it is persisted in storage. Specifically, this data is encrypted at rest using strong symmetric encryption algorithms such as ChaCha20-Poly1305 (XChaPoly) and AES-GCM.All Customer Content–see examples below–is encrypted when it’s stored at rest, except when required to comply with legal obligations. Examples:
+
+*   •API “inputs” or “prompts”
+*   •API “outputs” or “responses”
+*   •Parameters that are added in API code, including configuration parameters
+
+The specific Customer Data listed below are encrypted when stored at rest, except (i) when required to comply with legal obligations, (ii) to ensure adherence to our Acceptable Use Policy, or (iii) when customers submit this information to interact with customer support.
+
+*   •User profile/account information:
+*   •Name
+*   •Role/Permission
+*   •Location
+*   •Mobile phone number, except when used to send an SMS message to the person
+*   •Email address, and email addresses of invited collaborators except when used to send an email notification to the person
+*   •Date of birth
+
+Payment Data
+
+
+--------------
+
+Meta processes all payment card data according to the Payment Card Industry Data Security Standard (PCI-DSS). Payment card numbers are securely stored, encrypted at rest, and stored separately from your profile data. The data provided to facilitate payments within Llama API is used only to provide billing services and is never used for personalization of consumer Meta Products or advertising.
+
+Meta’s investments in Security
+
+
+--------------------------------
+
+Meta performs regular security and vulnerability testing to assess whether key controls are properly implemented and effective. Meta has a vulnerability management program that includes definition of roles and responsibilities, dedicated ownership of vulnerability monitoring, vulnerability risk assessment and patch deployment.Meta’s security team is responsible for the detection, triage and remediation of vulnerabilities in Meta’s hardware and software. Meta leverages various tools to detect security bugs in its code base, as well as in open-source and third-party code, in order to mitigate or fix security bugs before they make it into shipped Meta’s products and impact our customers.Llama API benefits from Meta’s commitment to the security of your data which manifests through the monitoring, controls and measures we have in place to pre-empt or respond to security risks.
+
+Managing the security lifecycle
+
+
+---------------------------------
+
+Finally, Meta has established and will maintain an Information Security Management System (ISMS) designed to implement industry-standard information security practices. Meta’s ISMS is designed to protect against unauthorized access, disclosure, use, loss or alteration of Customer Data.Meta has a security incident response plan for monitoring, detecting and handling possible incidents. The plan includes the definition of roles and responsibilities, communication protocols and post mortem reviews, including root cause analysis and remediation plans. Meta monitors the service for any security breaches and malicious activity. The monitoring process and detection techniques are designed to detect security incidents according to relevant threats and ongoing threat intelligence.
+
+Meta partners with and serves respected businesses around the world.
+
+
+----------------------------------------------------------------------
+
+Meta is a trusted partner to many organizations around the world. Our customers trust us because they benefit from Meta’s heavy investments in security technology, resilient infrastructure, policies and processes–investments necessary to protect the data of billions of people worldwide using Meta’s products and services.
+
+Was this page helpful?
+
+[Encryption](#encryption)
+
+[Payment Data](#payment-data)
+
+[Meta’s investments in Security](#meta’s-investments-in-security)
+
+[Managing the security lifecycle](#managing-the-security-lifecycle)
+
+[Meta partners with and serves respected businesses around the world.](#meta-partners-with-and-serves-respected-businesses-around-the-world.)
 
 - - -
 
@@ -44,7 +117,7 @@ In this Policy we list the kinds of information we collect. Here are some import
 *   Information from the phone, computer, or tablet you use our Products on, like what kind it is and what version of our app you’re using
 *   Information from [partners\[2\]](https://mbasic.facebook.com/privacy/policy/printable/entry_point=POLICY_SECTION%3A1-WhatInformationDoWe%23annotation-2) about things you do both on and off of our Products. This could include other websites you visit, apps you use or online games you play.
 
-[Play Video](https://mbasic.facebook.com/privacy/policy/printable/%2Fvideo_redirect%2F%3Fsrc=https%3A%2F%2Fvideo-dub4-1.xx.fbcdn.net%2Fo1%2Fv%2Ft2%2Ff2%2Fm69%2FAQPHbM1Y6Ilbyq0xANe0c481oa-MEy1SbKZX1Pbetrpb11aIhZwqsYrqdvKXj04fR-dbc6N31R7SO_GQylrXx6l1.mp4%3Fstrext%3D1%26_nc_cat%3D101%26_nc_sid%3D8bf8fe%26_nc_ht%3Dvideo-dub4-1.xx.fbcdn.net%26_nc_ohc%3DwfkXjGDV7GIQ7kNvwHjJutL%26efg%3DeyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNjQwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTExMzU1MjIzOTY2MzUyNCwiYXNzZXRfYWdlX2RheXMiOjEzMDQsInZpX3VzZWNhc2VfaWQiOjEwMTI4LCJkdXJhdGlvbl9zIjoxMDMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%253D%253D%26ccb%3D17-1%26_nc_gid%3DPX6PaIuaZt1xIsgVh55Hrw%26_nc_zt%3D28%26_nc_rml%3D0%26oh%3D00_AfmD4lzxdCZYBmAeF4UNlmMX4F9H80pLnja28Nf3M39qPQ%26oe%3D693F9C35%26bitrate%3D203999%26tag%3Dsve_sd&source=misc&id=1078484169415755&noredirect=0&watermark=0&__tn__=F)
+[Play Video](https://mbasic.facebook.com/privacy/policy/printable/%2Fvideo_redirect%2F%3Fsrc=https%3A%2F%2Fvideo-dub4-1.xx.fbcdn.net%2Fo1%2Fv%2Ft2%2Ff2%2Fm69%2FAQPHbM1Y6Ilbyq0xANe0c481oa-MEy1SbKZX1Pbetrpb11aIhZwqsYrqdvKXj04fR-dbc6N31R7SO_GQylrXx6l1.mp4%3Fstrext%3D1%26_nc_cat%3D101%26_nc_sid%3D8bf8fe%26_nc_ht%3Dvideo-dub4-1.xx.fbcdn.net%26_nc_ohc%3DwfkXjGDV7GIQ7kNvwHjJutL%26efg%3DeyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNjQwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTExMzU1MjIzOTY2MzUyNCwiYXNzZXRfYWdlX2RheXMiOjEzMDQsInZpX3VzZWNhc2VfaWQiOjEwMTI4LCJkdXJhdGlvbl9zIjoxMDMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%253D%253D%26ccb%3D17-1%26_nc_gid%3DvQGGoLK0N-32FDkCp__kSg%26_nc_zt%3D28%26_nc_rml%3D0%26oh%3D00_AfnrCIWzIItPY0E7VmBrerqh-Wum_3zXl8M918WtfjSTpg%26oe%3D694044F5%26bitrate%3D203999%26tag%3Dsve_sd&source=misc&id=1078484169415755&noredirect=0&watermark=0&__tn__=F)
 
 The information we collect and process about you depends on how you use our [Products\[3\]](https://mbasic.facebook.com/privacy/policy/printable/entry_point=POLICY_SECTION%3A1-WhatInformationDoWe%23annotation-3). For example, we collect different information if you sell furniture on Marketplace than if you post a reel on Instagram. When you use our Products, we collect some information about you [even if you don't have an account\[4\]](https://mbasic.facebook.com/privacy/policy/printable/entry_point=POLICY_SECTION%3A1-WhatInformationDoWe%23annotation-4).
 
@@ -353,7 +426,7 @@ Here are some of the ways we use your information:
 *   We send you messages about the Products you use or ones you might like, if you let us
 *   We research for the good of people around the world, like to advance technology or to help out in a crisis
 
-[Play Video](https://mbasic.facebook.com/privacy/policy/printable/%2Fvideo_redirect%2F%3Fsrc=https%3A%2F%2Fvideo-dub4-1.xx.fbcdn.net%2Fo1%2Fv%2Ft2%2Ff2%2Fm412%2FAQPepMrFN5XVQ_WgvudhiS0tur7gHWTmc4ewOCd0WuEzOclSSYBgGg9MayCNs_vONAMByeDsQej7bePb-sBJpuGu.mp4%3F_nc_cat%3D104%26_nc_sid%3D8bf8fe%26_nc_ht%3Dvideo-dub4-1.xx.fbcdn.net%26_nc_ohc%3DQcJTSd4nMhMQ7kNvwFY8dH-%26efg%3DeyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNDI2LnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6Mjc2OTI5MDMxOTA2NzE5LCJhc3NldF9hZ2VfZGF5cyI6MTMxNiwidmlfdXNlY2FzZV9pZCI6MTAxMjgsImR1cmF0aW9uX3MiOjk0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%253D%26ccb%3D17-1%26_nc_gid%3DPX6PaIuaZt1xIsgVh55Hrw%26_nc_zt%3D28%26_nc_rml%3D0%26oh%3D00_Afk9fef40W42xW_6EOfEbgrjb0bP48uO-30EG-bLvokfkg%26oe%3D693F986D%26bitrate%3D156415%26tag%3Dsve_sd&source=misc&id=3234506963505309&noredirect=0&watermark=0&__tn__=F)
+[Play Video](https://mbasic.facebook.com/privacy/policy/printable/%2Fvideo_redirect%2F%3Fsrc=https%3A%2F%2Fvideo-dub4-1.xx.fbcdn.net%2Fo1%2Fv%2Ft2%2Ff2%2Fm412%2FAQPepMrFN5XVQ_WgvudhiS0tur7gHWTmc4ewOCd0WuEzOclSSYBgGg9MayCNs_vONAMByeDsQej7bePb-sBJpuGu.mp4%3F_nc_cat%3D104%26_nc_sid%3D8bf8fe%26_nc_ht%3Dvideo-dub4-1.xx.fbcdn.net%26_nc_ohc%3DQcJTSd4nMhMQ7kNvwFY8dH-%26efg%3DeyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNDI2LnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6Mjc2OTI5MDMxOTA2NzE5LCJhc3NldF9hZ2VfZGF5cyI6MTMxNywidmlfdXNlY2FzZV9pZCI6MTAxMjgsImR1cmF0aW9uX3MiOjk0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%253D%26ccb%3D17-1%26_nc_gid%3DvQGGoLK0N-32FDkCp__kSg%26_nc_zt%3D28%26_nc_rml%3D0%26oh%3D00_AfkJnRHGjpRgtzyCfuwg2W91Umbyf7bfEw8uVm4rz__LgA%26oe%3D6940412D%26bitrate%3D156415%26tag%3Dsve_sd&source=misc&id=3234506963505309&noredirect=0&watermark=0&__tn__=F)
 
 We use [information we collect](https://mbasic.facebook.com/privacy/policy/printable/entry_point=POLICY_SECTION%3A2-HowDoWeUse%231-WhatInformationDoWe) to provide a personalized experience to you, including ads, along with the other purposes we explain in detail below.
 
@@ -518,7 +591,7 @@ Here are some examples of our research:
 
 [Why and how we process your information](https://mbasic.facebook.com/privacy/policy/printable/entry_point=POLICY_SECTION%3A2-HowDoWeUse%2319-WhyAndHowWe)
 
-[Play Video](https://mbasic.facebook.com/privacy/policy/printable/%2Fvideo_redirect%2F%3Fsrc=https%3A%2F%2Fvideo-dub4-1.xx.fbcdn.net%2Fo1%2Fv%2Ft2%2Ff2%2Fm412%2FAQNwCDCi85yE9yJOmvKsTTbUuP-YgGPxZfhhAzg5mAsmKDFWNymmniO-vrrhvevL6uhEEtOnilnApKHu77z8BdjG.mp4%3F_nc_cat%3D109%26_nc_sid%3D8bf8fe%26_nc_ht%3Dvideo-dub4-1.xx.fbcdn.net%26_nc_ohc%3DqAMtweth4WQQ7kNvwFuxCqH%26efg%3DeyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNDI2LnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MzYxMTg3OTk4MjM5MTg0NiwiYXNzZXRfYWdlX2RheXMiOjEzMDQsInZpX3VzZWNhc2VfaWQiOjEwMTI4LCJkdXJhdGlvbl9zIjo5NywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9%26ccb%3D17-1%26_nc_gid%3DPX6PaIuaZt1xIsgVh55Hrw%26_nc_zt%3D28%26_nc_rml%3D0%26oh%3D00_Afm3uXjNaCJOYqhP5emjk0EsZxjijZgikAZg5HZKFn6Hcw%26oe%3D693F876A%26bitrate%3D152144%26tag%3Dsve_sd&source=misc&id=313266294163634&noredirect=0&watermark=0&__tn__=F)
+[Play Video](https://mbasic.facebook.com/privacy/policy/printable/%2Fvideo_redirect%2F%3Fsrc=https%3A%2F%2Fvideo-dub4-1.xx.fbcdn.net%2Fo1%2Fv%2Ft2%2Ff2%2Fm412%2FAQNwCDCi85yE9yJOmvKsTTbUuP-YgGPxZfhhAzg5mAsmKDFWNymmniO-vrrhvevL6uhEEtOnilnApKHu77z8BdjG.mp4%3F_nc_cat%3D109%26_nc_sid%3D8bf8fe%26_nc_ht%3Dvideo-dub4-1.xx.fbcdn.net%26_nc_ohc%3DLyuZHytDztQQ7kNvwHjRSr-%26efg%3DeyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNDI2LnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MzYxMTg3OTk4MjM5MTg0NiwiYXNzZXRfYWdlX2RheXMiOjEzMDQsInZpX3VzZWNhc2VfaWQiOjEwMTI4LCJkdXJhdGlvbl9zIjo5NywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9%26ccb%3D17-1%26_nc_gid%3DvQGGoLK0N-32FDkCp__kSg%26_nc_zt%3D28%26_nc_rml%3D0%26oh%3D00_AflrqXWXMbsxVBc16Mj7eD0ZE6ogvxLk6ttHHakJ_QED7A%26oe%3D6940302A%26bitrate%3D152144%26tag%3Dsve_sd&source=misc&id=313266294163634&noredirect=0&watermark=0&__tn__=F)
 
 We use [information across your accounts on our Products](https://mbasic.facebook.com/privacy/policy/printable/https%3A%2F%2Fwww.meta.com%2Fhelp%2Faccounts-center%2FInformation-used-across-accounts%2F%3Fentry_point=POLICY_ANNOTATION%3A2.ex.5-UsingInformationAcrossOur) to:
 
