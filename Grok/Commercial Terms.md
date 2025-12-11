@@ -1,4 +1,4 @@
-[](https://x.ai/legal/)
+[](https://x.ai/legal)
 
 [Terms of Service - Enterprise](#terms-of-service---enterprise)
 ===============================================================
