@@ -1,4 +1,4 @@
-[](https://x.ai/legal/)
+[](https://x.ai/legal)
 
 1\. About xAI and Grok
 
@@ -211,7 +211,7 @@ If you have any queries or complaints about our collection, use, or storage of y
 
 - - -
 
-[](https://x.ai/legal/)
+[](https://x.ai/legal)
 
 13\. Additional information for individuals in Europe
 
