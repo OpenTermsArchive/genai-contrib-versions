@@ -3,7 +3,7 @@ Updated: December 1, 2025
 OpenAI Services Agreement
 =========================
 
-[Download PDF](https://cdn.openai.com/osa/openai-services-agreement.pdf)[View previous business terms](https://openai.com/policies/nov-2023-business-terms/)
+[Download PDF](https://cdn.openai.com/osa/openai-services-agreement.pdf)[View previous business terms](https://openai.com/policies/may-2025-business-terms/)
 
 **Effective: January 1, 2026**
 
