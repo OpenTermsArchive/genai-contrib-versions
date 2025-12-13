@@ -1,5 +1,3 @@
-…
-
 Updated: April 29, 2025
 
 Europe Terms of Use
