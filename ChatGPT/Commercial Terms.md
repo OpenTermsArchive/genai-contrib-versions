@@ -9,7 +9,7 @@ OpenAI Services Agreement
 
 * * *
 
-_This OpenAI Services Agreement only applies to use of OpenAI's APIs, ChatGPT Enterprise, ChatGPT Business, and other services for businesses and developers, and does not apply to OpenAI services used by consumers or individuals._
+_This OpenAI Services Agreement only applies to use of OpenAI's APIs, ChatGPT Enterprise, ChatGPT Business, and other services for c__ustomers who are_ _businesses and developers, and does not apply to OpenAI services used by consumers or individuals._
 
 * * *
 
