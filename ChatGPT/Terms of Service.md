@@ -1,5 +1,3 @@
-…
-
 Updated: April 29, 2025
 
 Europe Terms of Use
@@ -219,7 +217,7 @@ OPENAI’S AFFILIATES, SUPPLIERS, LICENSORS, AND DISTRIBUTORS ARE INTENDED THIRD
 
 - - -
 
-Updated: October 30, 2025
+Updated: December 17, 2025
 
 Service terms
 =============
@@ -263,7 +261,7 @@ For Builders of GPTs:
 
 (b) **Distribution and Promotion of GPTs**. By sharing your GPT with others, you grant a nonexclusive, worldwide, irrevocable, royalty-free license: (i) to OpenAI to use, test, store, copy, translate, display, modify, distribute, promote, and otherwise make available to other users all or any part of your GPT (including GPT Content); and (ii) to the extent Output from your GPT includes your GPT Content, to users of your GPT to use, store, copy, display, distribute, prepare derivative works of and otherwise use your GPT Content. You will ensure that all information that you publish about your GPT is, at all times, complete, accurate, and not misleading.
 
-(c) **Actions**. Any API, website, or service that interacts with a GPT (an “Action”) is subject to our [Connectors and Actions Terms⁠](https://openai.com/policies/connectors-actions-terms/)⁠ and you are responsible for ensuring that any Action included with your GPT operates in compliance with those terms.
+(c) **Actions**. Any API, website, or service that interacts with a GPT (an “Action”) is subject to our [App Developer Terms⁠](https://openai.com/policies/connectors-actions-terms/) and you are responsible for ensuring that any Action included with your GPT operates in compliance with those terms.
 
 (d) **Removal**. We may reject or remove any GPT from our Services at any time for any reason without notice to you, such as for legal or security reasons or if your GPT violates our Terms.
 
@@ -273,7 +271,7 @@ For Users of GPTs:
 
 (b) **Abuse Reporting**. You can report GPTs that violate our [Usage Policies⁠⁠](https://openai.com/policies/usage-policies/) using our reporting feature within ChatGPT.
 
-(c) **Actions**. GPTs may allow you to interact with Actions. Those Actions are subject to our terms for Connectors and Actions below.
+(c) **Actions**. GPTs may allow you to interact with Actions. Those Actions are subject to our terms for Apps and Actions below.
 
 (d) **Changes and Removal**. OpenAI and creators of GPTs can remove GPTs at any time for any reason without prior notice.
 
@@ -282,12 +280,12 @@ For Users of GPTs:
 
 Our models can accept images and videos as part of Inputs to the Services (“Visual Capabilities”). You may not use Visual Capabilities to assist in identifying a person nor to solicit or infer private or sensitive information about a person. You may not use Visual Capabilities to reproduce the likeness of any person without express consent and all necessary rights. By choosing to share an image or video publicly on the Services, such as by sharing it to the Sora feed or uploading it to create a Sora cameo, you represent you have all necessary rights, and you give OpenAI the right to reproduce, distribute, modify, display and perform it for the purpose of operating and promoting the Services. You also agree to give users the limited right to reproduce and remix that content solely on the Services. Uploading a cameo or sharing an image or video does not give other users any rights to use those materials outside of the Services.
 
-7\. Connectors and Actions
---------------------------
+7\. Apps and Actions
+--------------------
 
-(a) **Overview**. Connectors and Actions (together “Connectors”) allow ChatGPT to send and receive information from a third-party application or website (“Application”). You may take action on an Application through one or more Connectors (for example, to request a reservation on a restaurant’s website). You are solely responsible for the actions you take using Connectors or adding custom Connectors, and you can control whether a Connector is enabled in your workspace. OpenAI may (but will have no obligation to) review, refuse, or remove Applications from ChatGPT. Third-party Connectors are not developed or verified by OpenAI, and may expose you to Applications or content that you may find offensive, inappropriate or objectionable. You agree that you use Connectors at your own risk. DO NOT ADD OR ENABLE A CONNECTOR UNLESS YOU KNOW AND TRUST THE UNDERLYING APPLICATION AND HAVE REVIEWED ITS TERMS AND PRIVACY POLICY.
+(a) **Overview**. Apps and Actions (together “Apps”) allow ChatGPT to send and receive information from a third-party application or website (“Application”). You may take action on an Application through one or more Apps (for example, to request a reservation on a restaurant’s website). You are solely responsible for the actions you take using Apps or adding custom Apps, and you can control whether an App is enabled in your workspace. Any custom App is subject to our [App Developer Terms⁠](https://openai.com/policies/connectors-actions-terms/) and you are responsible for ensuring that your App and its connected Application operate in compliance with those terms. OpenAI may (but will have no obligation to) review, refuse, or remove Applications from ChatGPT. Third-party Apps are not developed or verified by OpenAI, and may expose you to Applications or content that you may find offensive, inappropriate or objectionable. You agree that you use Apps at your own risk. DO NOT ADD OR ENABLE AN APP UNLESS YOU KNOW AND TRUST THE UNDERLYING APPLICATION AND HAVE REVIEWED ITS TERMS AND PRIVACY POLICY.
 
-(b) **Connector Operation and Content.** When you add or enable a Connector, the Services may send applicable portions of your Content and certain information such as your country and state (“Connector Data”) via the Connector to the Application. By using or enabling the Connector, you authorize and instruct us to send your Connector Data to the applicable Application, which will be handled in accordance with its terms. We are not responsible for Connector Data after it has been provided to an Application other than Applications owned by us. The Connector may retrieve information and content from the Application, which may be included in Output you receive from the Services. This information and content included in the Output is not owned by you or OpenAI, and may be subject to the terms of the Application.
+(b) **App Operation and Content.** When you add or enable an App, the Services may send applicable portions of your Content and certain information such as your country and state (“App Data”) via the App to the Application. By using or enabling the App, you authorize and instruct us to send your App Data to the applicable Application, which will be handled in accordance with its terms. We are not responsible for App Data after it has been provided to an Application other than Applications owned by us. The App may retrieve information and content from the Application, which may be included in Output you receive from the Services. This information and content included in the Output is not owned by you or OpenAI, and may be subject to the terms of the Application.
 
 8\. Voice Conversations
 -----------------------
