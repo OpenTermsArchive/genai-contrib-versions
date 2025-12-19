@@ -1,3 +1,7 @@
+[](https://fireworks.ai/)
+
+Terms Of Service
+
 Terms of Service
 ================
 
@@ -5,11 +9,11 @@ Terms of Service
 
 #### Terms of Service
 
-These Terms of Service (these “**Terms**”) describe the terms and conditions by which you may access and/or use the website(s), including [https://fireworks.ai/](https://app.fireworks.ai/) and any successor URL(s), , and any and all related software, documentation, and online, mobile-enabled, and/or digital services (collectively, the “**Service**”) provided by Fireworks AI (including its successors and assigns, “**Fireworks**,” “**we**,” “**our**,” or “**us**”). By accessing and/or using the Service, or by clicking a button or checking a box marked “I Agree” (or something similar), you signify that you have read, understood, and agree to be bound by these Terms, and you acknowledge that you have read and understood our [Privacy Notice](https://www.fireworks.ai/privacy-policy), as further described in Section 9.1 (Privacy). We reserve the right to modify these Terms, and we will provide notice of material changes as described below. These Terms apply to all visitors and users of the Service, and to all others who access the Service (collectively, “**Users**,” and, as applicable to you, “**you**” or “**your**”).
+These Terms of Service (these “**Terms**”) describe the terms and conditions by which you may access and/or use the website(s), including [https://fireworks.ai/](https://app.fireworks.ai/) and any successor URL(s), , and any and all related software, documentation, and online, mobile-enabled, and/or digital services (collectively, the “**Service**”) provided by Fireworks AI (including its successors and assigns, “**Fireworks**,” “**we**,” “**our**,” or “**us**”). By accessing and/or using the Service, or by clicking a button or checking a box marked “I Agree” (or something similar), you signify that you have read, understood, and agree to be bound by these Terms, and you acknowledge that you have read and understood our [Privacy Notice](https://fireworks.ai/privacy-policy), as further described in Section 9.1 (Privacy). We reserve the right to modify these Terms, and we will provide notice of material changes as described below. These Terms apply to all visitors and users of the Service, and to all others who access the Service (collectively, “**Users**,” and, as applicable to you, “**you**” or “**your**”).
 
 PLEASE READ THESE TERMS CAREFULLY TO ENSURE THAT YOU UNDERSTAND EACH PROVISION. THESE TERMS CONTAIN A MANDATORY INDIVIDUAL ARBITRATION PROVISION IN SECTION 16.2 (THE “**ARBITRATION AGREEMENT**”) AND A CLASS ACTION/JURY TRIAL WAIVER PROVISION IN SECTION 16.3 (THE “**CLASS ACTION/JURY TRIAL WAIVER**”) THAT REQUIRE, UNLESS YOU OPT OUT PURSUANT TO THE INSTRUCTIONS IN THE ARBITRATION AGREEMENT, THE EXCLUSIVE USE OF FINAL AND BINDING ARBITRATION ON AN INDIVIDUAL BASIS TO RESOLVE DISPUTES BETWEEN YOU AND US, INCLUDING ANY CLAIMS THAT AROSE OR WERE ASSERTED BEFORE YOU AGREED TO THESE TERMS. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW (AS DEFINED BELOW), YOU EXPRESSLY WAIVE YOUR RIGHT TO SEEK RELIEF IN A COURT OF LAW AND TO HAVE A JURY TRIAL ON YOUR CLAIMS, AS WELL AS YOUR RIGHT TO PARTICIPATE AS A PLAINTIFF OR CLASS MEMBER IN ANY CLASS, COLLECTIVE, PRIVATE ATTORNEY GENERAL, OR REPRESENTATIVE ACTION OR PROCEEDING.
 
-1. **How We Administer the Service**
+1.  **How We Administer the Service**
 
 **1.1 Eligibility.** This is a contract between you and Fireworks. You must read and agree to these Terms before using the Service. If you do not agree, you may not use the Service. You may use the Service only if you can form a legally binding contract with us, and only in compliance with these Terms and all applicable local, state, national, and international laws, rules, and regulations (“**Applicable Law**”). Without limiting the generality of the foregoing, any access to, or use of, the Service by anyone who is a minor (which is under the age of 18 in most jurisdictions) in any applicable jurisdiction (a “**Minor**”) is strictly prohibited and in violation of these Terms, unless such access and/or use is supervised by a parent or legal guardian (“**Parent**”) who: (a) has read and understands these Terms; (b) approves all rights granted, and all obligations undertaken, by the Minor hereunder; and (c) agrees to be bound by these Terms. If you are a Parent of a User who is a Minor, then, by allowing such Minor to access and/or use the Service, you are subject to these Terms and responsible for such Minor’s activity on the Service. With respect to the Parent of a User who is a Minor, “you,” as used in these Terms in the context of a license grant, assignment, restriction, obligation, acknowledgment, representation, warranty, or covenant, or in any similar context, means “the Parent, on behalf of the Parent and the Minor,” and “your” has the corresponding meaning. The Service is not available to any Users we previously removed from the Service.
 
@@ -17,7 +21,7 @@ PLEASE READ THESE TERMS CAREFULLY TO ENSURE THAT YOU UNDERSTAND EACH PROVISION. 
 
 a) Your User Account. Your account on the Service (your “**User Account**”) gives you access to certain services and functionalities that we may, in our sole discretion, establish and maintain as part of the Service from time to time. You acknowledge that, notwithstanding anything to the contrary herein, you do not own your User Account, nor do you possess any rights to data stored by or on behalf of Fireworks on the servers running the Service. We may maintain different types of User Accounts for different types of Users.
 
-b) Organizational Accounts. An individual may access and/or use the Service on behalf of a company or other entity, such as that individual’s employer (such entity, an “**Organization**”). In such cases, notwithstanding anything to the contrary herein: (a) these Terms are an agreement between (i) us and such individual and (ii) us and that Organization; (b) “you,” as used in these Terms in the context of a license grant, assignment, restriction, obligation, acknowledgment, representation, warranty, or covenant, or in any similar context, means (i) such individual _**and**_ (ii) “the Organization, on behalf of the Organization and its subsidiaries and affiliates, and its and their respective directors, officers, employees, contractors, agents, and other representatives who access and/or use the Service (collectively, “**Org Users**”)”; and “your” has the corresponding meanings; (c) such individual represents and warrants to having the authority to bind that Organization to these Terms (and, in the absence of such authority, such individual may not access, nor use, the Service); (d) such individual’s acceptance of these Terms will bind that Organization to these Terms; (e) we may disclose information regarding such individual and such individual’s access to and use of the Service to that Organization; (f) such individual’s right to access and use the Service may be suspended or terminated (and the administration of the applicable User Account may be transferred) if such individual ceases to be associated with, or ceases to use an email address associated with or provisioned by, that Organization; (g) that Organization will make all Org Users aware of these Terms’ provisions, as applicable to such Org Users, and will cause each Org User to comply with such provisions; and (h) that Organization will be solely responsible and liable for all acts and omissions of the Org Users, and any act or omission by any Org User that would constitute a breach of these Terms had it been taken by that Organization will be deemed a breach of these Terms by that Organization. Without limiting the generality of the foregoing, if an individual opens a User Account using an email address associated with or provisioned by an Organization, or if an Organization pays fees due in connection with such individual’s access to or use of the Service (or reimburses such individual for payment of such fees), then we may, in our sole discretion, deem such individual to be accessing and using the Service on behalf of that Organization.
+b) Organizational Accounts. An individual may access and/or use the Service on behalf of a company or other entity, such as that individual’s employer (such entity, an “**Organization**”). In such cases, notwithstanding anything to the contrary herein: (a) these Terms are an agreement between (i) us and such individual and (ii) us and that Organization; (b) “you,” as used in these Terms in the context of a license grant, assignment, restriction, obligation, acknowledgment, representation, warranty, or covenant, or in any similar context, means (i) such individual **and** (ii) “the Organization, on behalf of the Organization and its subsidiaries and affiliates, and its and their respective directors, officers, employees, contractors, agents, and other representatives who access and/or use the Service (collectively, “**Org Users**”)”; and “your” has the corresponding meanings; (c) such individual represents and warrants to having the authority to bind that Organization to these Terms (and, in the absence of such authority, such individual may not access, nor use, the Service); (d) such individual’s acceptance of these Terms will bind that Organization to these Terms; (e) we may disclose information regarding such individual and such individual’s access to and use of the Service to that Organization; (f) such individual’s right to access and use the Service may be suspended or terminated (and the administration of the applicable User Account may be transferred) if such individual ceases to be associated with, or ceases to use an email address associated with or provisioned by, that Organization; (g) that Organization will make all Org Users aware of these Terms’ provisions, as applicable to such Org Users, and will cause each Org User to comply with such provisions; and (h) that Organization will be solely responsible and liable for all acts and omissions of the Org Users, and any act or omission by any Org User that would constitute a breach of these Terms had it been taken by that Organization will be deemed a breach of these Terms by that Organization. Without limiting the generality of the foregoing, if an individual opens a User Account using an email address associated with or provisioned by an Organization, or if an Organization pays fees due in connection with such individual’s access to or use of the Service (or reimburses such individual for payment of such fees), then we may, in our sole discretion, deem such individual to be accessing and using the Service on behalf of that Organization.
 
 c) Connecting Via Third-Party Services. By connecting to the Service via a third-party service, you give us permission to access and use your information from that service, as permitted by that service, and to store your log-in credentials and/or access tokens for that service.
 
@@ -130,7 +134,7 @@ Fireworks AI
 Address:  
 2317 Broadway Ste 200  
 Redwood City, CA 94063  
-Tel.: 650-870-8665  
+Tel.: 650-870-7981  
 Email: [copyright@fireworks.ai](mailto:copyright@fireworks.ai)  
 
 Under United States federal law, if you knowingly misrepresent that online material is infringing, you may be subject to criminal prosecution for perjury and civil penalties, including monetary damages, court costs, and attorneys’ fees.
@@ -257,4 +261,40 @@ You understand and acknowledge that the Service may be subject to export control
 
 **18.6 Contact.** If you have any questions about these Terms and/or the Service, please contact us at [support@fireworks.ai](mailto:support@fireworks.ai).
 
-Last Modified: 5/10/2024
+Last Modified: 3/25/2025
+
+* * *
+
+![Fireworks Logo](https://cdn.sanity.io/images/pv37i0yn/production/2095949f01e1cf9cf0841096b67d547d9dbfba2e-215x24.svg "Fireworks Logo")
+
+### Platform
+
+[AI Native](https://fireworks.ai/ai-native)[Enterprise](https://fireworks.ai/enterprise)[Customers](https://fireworks.ai/customers)
+
+### Use Cases
+
+[Code Assistance](https://fireworks.ai/usecases/code-assistance)[Conversational AI](https://fireworks.ai/usecases/conversational-ai)[Agentic Systems](https://fireworks.ai/usecases/agentic-systems)[Search](https://fireworks.ai/usecases/search)[Multimedia](https://fireworks.ai/usecases/multimedia)[Enterprise RAG](https://fireworks.ai/usecases/enterprise-rag)
+
+### Developers
+
+[Model Library](https://fireworks.ai/models)[Docs](https://docs.fireworks.ai/getting-started/introduction)[CLI](https://docs.fireworks.ai/tools-sdks/firectl/firectl)[API](https://docs.fireworks.ai/api-reference/introduction)[Changelog](https://docs.fireworks.ai/updates/changelog)
+
+### Pricing
+
+[Serverless](https://fireworks.ai/pricing#serverless-pricing)[On-Demand](https://fireworks.ai/pricing#on-demand-pricing)[Fine Tuning](https://fireworks.ai/pricing#fine-tuning-pricing)[Enterprise](https://fireworks.ai/contact-reserved)
+
+### Partners
+
+[Cloud and Infrastructure](https://fireworks.ai/partners#cloud-infra)[Consulting and Services](https://fireworks.ai/partners#consulting)[Technology](https://fireworks.ai/partners#technology)[Fireworks for Startups](https://fireworks.ai/startup-program)
+
+### Resources
+
+[Blog](https://fireworks.ai/blog)[Demos](https://demos.fireworks.ai/)[Cookbooks](https://docs.fireworks.ai/examples/introduction)
+
+### Company
+
+[Leadership](https://fireworks.ai/team)[Investors](https://fireworks.ai/team#investors)[Careers](https://job-boards.greenhouse.io/fireworksai)[Trust Center](https://trust.fireworks.ai/)
+
+© 2025 Fireworks AI, Inc. All rights reserved.
+
+[](https://x.com/FireworksAI_HQ)[](https://www.youtube.com/@fireworksai)[](https://www.linkedin.com/company/fireworks-ai)[](https://discord.gg/fireworks)
