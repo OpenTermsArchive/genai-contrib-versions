@@ -5,7 +5,7 @@ Date of Last Revision: May 27, 2023
 
 **Overview**
 
-SambaNova Systems, Inc. (“SambaNova”, “we”, “us”, or “our”), 2200 Geng Road, Suite 100, Palo Alto, CA 94303, is providing this privacy policy (hereinafter the “Privacy Policy”) to explain our personal information practices with respect to our website, communications, notifications and related services (“Services”). This Privacy Policy applies only to the use and collection of data by us in the course of our Services.
+SambaNova Systems, Inc. (“SambaNova”, “we”, “us”, or “our”), 71 Daggett Drive, #20, San Jose, CA 95134, is providing this privacy policy (hereinafter the “Privacy Policy”) to explain our personal information practices with respect to our website, communications, notifications and related services (“Services”). This Privacy Policy applies only to the use and collection of data by us in the course of our Services.
 
 Where and as permitted by applicable law, by using our Services, you acknowledge the terms of this Privacy Policy and, if you provide us with information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with a natural person or household, such as a name, postal address, e-mail address, telephone number (hereinafter “Personal Information”), you acknowledge the collection, use, and disclosure of your Personal Information as described in this Privacy Policy. We encourage you to read this Privacy Policy before sharing Personal Information as it provides important information regarding your access to and use of our Services, our data and privacy practices, and explains your rights.
 
@@ -22,11 +22,11 @@ _Information Provided By You Directly_
 
 We collect and have collected Personal Information about you that you affirmatively provide to us, including your:
 
-* Name;
-* Address;
-* Country
-* Telephone number; and
-* Email address.
+*   Name;
+*   Address;
+*   Country
+*   Telephone number; and
+*   Email address.
 
 Based on the Personal Information you provide to us we also draw inferences regarding topics or information you may be interested in.
 
@@ -36,14 +36,14 @@ _Job Applicants_
 
 If you apply for a job with us, we will collect and have collected additional information in connection with your application, namely your:
 
-* Name and contact information;
-* Username and password;
-* Work authorization status;
-* Resume, CV, cover letter, work experience, and education information;  
+*   Name and contact information;
+*   Username and password;
+*   Work authorization status;
+*   Resume, CV, cover letter, work experience, and education information;  
     Skills;
-* Professional and work-related licenses, permits, and certifications held;
-* Reference-related information; and
-* Any other information related to your professional experience that is publicly available on LinkedIn or that you elect to provide to us (e.g., current salary, expected salary).
+*   Professional and work-related licenses, permits, and certifications held;
+*   Reference-related information; and
+*   Any other information related to your professional experience that is publicly available on LinkedIn or that you elect to provide to us (e.g., current salary, expected salary).
 
 Such information may be collected from you directly, from your references, from a recruiter, from your prior employers, from background checking firms, and from your places of education. We will only use this information to evaluate your candidacy, including by processing your application, assessing your qualifications, corresponding with you, and complying with legal obligations. We will only collect, use and disclose any sensitive personal information in accordance with applicable laws.
 
@@ -80,21 +80,21 @@ We will process your Personal Information in order to operate our Services. This
 
 First, we process Personal Information for the performance of a contract to which you are a party:
 
-* To verify your identity.
-* To process job applications.
-* To complete any transaction initiated by you with respect to our Services or to provide services or information to you.
+*   To verify your identity.
+*   To process job applications.
+*   To complete any transaction initiated by you with respect to our Services or to provide services or information to you.
 
 Second, we process Personal Information based on our legitimate interests:
 
-* To contact you directly, when you provide us your contact information in the context of the submission of a request. If we contact you by email, you can opt-out of receiving future emails from us at any time by following the instructions in the email or notifying us at opt-out@sambanova.ai.
-* As incident to a sale, merger, reorganization, dissolution, bankruptcy, or similar event.
-* Under circumstances we believe reasonably necessary to protect the personal safety of users of SambaNova products, our Services, or the public.
-* To better understand your needs, by providing you with customized advertising, and how we can improve our products and Services accordingly. Please note that automated decision-making may be performed, including profiling, on the basis of your Personal Information. However, such automated decision-making will not have any consequences, including legal effects, for you.
+*   To contact you directly, when you provide us your contact information in the context of the submission of a request. If we contact you by email, you can opt-out of receiving future emails from us at any time by following the instructions in the email or notifying us at opt-out@sambanova.ai.
+*   As incident to a sale, merger, reorganization, dissolution, bankruptcy, or similar event.
+*   Under circumstances we believe reasonably necessary to protect the personal safety of users of SambaNova products, our Services, or the public.
+*   To better understand your needs, by providing you with customized advertising, and how we can improve our products and Services accordingly. Please note that automated decision-making may be performed, including profiling, on the basis of your Personal Information. However, such automated decision-making will not have any consequences, including legal effects, for you.
 
 Third, we rely on your prior consent in order to:
 
-* Store cookies for the purposes specified in the Section “Cookies.”
-* To provide you with information or as otherwise disclosed to you when you provide us with your information, namely, without limitation, receiving SambaNova announcements, information, and newsletters. In the event you are no longer willing to receive such information from us, you can withdraw your consent at any time by following the instructions in the information you received or by notifying us at [opt-out@sambanova.ai](mailto:opt-out@sambanova.ai).
+*   Store cookies for the purposes specified in the Section “Cookies.”
+*   To provide you with information or as otherwise disclosed to you when you provide us with your information, namely, without limitation, receiving SambaNova announcements, information, and newsletters. In the event you are no longer willing to receive such information from us, you can withdraw your consent at any time by following the instructions in the information you received or by notifying us at [opt-out@sambanova.ai](mailto:opt-out@sambanova.ai).
 
 Please note that you have the right to withdraw your consent at any time by sending a request using the contact details in the Section “Contact Us.”
 
@@ -172,14 +172,14 @@ Following any request, we will verify your identity using at least two data poin
 
 You have various rights in relation to and that depend on our reason for processing your Personal Information as a data controller. In particular, you have the right to:
 
-* access to Personal Information processed concerning you;
-* rectification of inaccurate Personal Information concerning you and a right to erasure;
-* restriction of processing;
-* erasure;
-* data portability;
-* object to the processing on grounds relating to your particular situation;
-* withdraw consent previously provided (however, a withdrawal does not affect the lawfulness of processing of your Personal Information that occurred prior to the date of withdrawal); and,
-* lodge a complaint with a supervisory authority, if you believe we have not complied with applicable data protection laws.
+*   access to Personal Information processed concerning you;
+*   rectification of inaccurate Personal Information concerning you and a right to erasure;
+*   restriction of processing;
+*   erasure;
+*   data portability;
+*   object to the processing on grounds relating to your particular situation;
+*   withdraw consent previously provided (however, a withdrawal does not affect the lawfulness of processing of your Personal Information that occurred prior to the date of withdrawal); and,
+*   lodge a complaint with a supervisory authority, if you believe we have not complied with applicable data protection laws.
 
 To exercise any of your rights, please contact us by email at [privacy@sambanova.ai](mailto:privacy@sambanova.ai). SambaNova will respond to your request in a reasonable timeframe, and in any event within one month from receipt thereof.
 
@@ -187,16 +187,16 @@ To exercise any of your rights, please contact us by email at [privacy@sambanova
 
 Depending on your location, you may have rights in relation to and that depend on our reason for processing your Personal Information as a data controller. In particular, you may have the right to:
 
-* be informed of your rights prior to our collection, use and disclosure of your Personal Information and know why such information is being collected, how it will be used, how long it will be retained for, the security measures adopted to protect such information, when it was last accessed or modified, who it will be disclosed to and names and addresses of recipients;
-* not identify yourself, or use a pseudonym in certain circumstances;
-* access to Personal Information processed concerning you, including a historic view of such information and information about automated processing of Personal Information where the data will likely be the sole basis for a decision concerning you;
-* rectification of inaccurate Personal Information concerning you, in some cases within certain prescribed time limits, and a right to erasure;
-* restrict processing or reject it based on reasonable grounds;
-* erasure;
-* data portability;
-* object to the processing on grounds relating to your particular situation;
-* withdraw consent previously provided (however, a withdrawal does not affect the lawfulness of processing of your Personal Information that occurred prior to the date of withdrawal); and,
-* lodge a complaint with a supervisory authority, if you believe we have not complied with applicable data protection laws.
+*   be informed of your rights prior to our collection, use and disclosure of your Personal Information and know why such information is being collected, how it will be used, how long it will be retained for, the security measures adopted to protect such information, when it was last accessed or modified, who it will be disclosed to and names and addresses of recipients;
+*   not identify yourself, or use a pseudonym in certain circumstances;
+*   access to Personal Information processed concerning you, including a historic view of such information and information about automated processing of Personal Information where the data will likely be the sole basis for a decision concerning you;
+*   rectification of inaccurate Personal Information concerning you, in some cases within certain prescribed time limits, and a right to erasure;
+*   restrict processing or reject it based on reasonable grounds;
+*   erasure;
+*   data portability;
+*   object to the processing on grounds relating to your particular situation;
+*   withdraw consent previously provided (however, a withdrawal does not affect the lawfulness of processing of your Personal Information that occurred prior to the date of withdrawal); and,
+*   lodge a complaint with a supervisory authority, if you believe we have not complied with applicable data protection laws.
 
 To exercise any of your rights, please contact us by email at [privacy@sambanova.ai](mailto:privacy@sambanova.ai). SambaNova will respond to your request in a reasonable timeframe, and in any event within one month from receipt thereof.
 
