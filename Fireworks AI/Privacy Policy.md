@@ -1,136 +1,220 @@
+[](https://fireworks.ai/)
+
+Privacy Policy
+
 Privacy Notice
 ==============
 
-Welcome! We are Fireworks.ai, Inc. This Privacy Notice explains how Fireworks AI., and its affiliates and subsidiaries (collectively “**Fireworks**”, “**we**”, “**us**” or “**our**”) collects, uses, discloses, and otherwise processes personal data (as defined below) in connection with our website [https://fireworks.ai](https://fireworks.ai/) (the “**Site**”), and related content, services, products, and other functionalities offered on or through our services (collectively, the “**Services**”). This Privacy Notice is not a contract and does not create any legal obligations. Further, this Privacy Notice does not address our privacy practices relating to Fireworks employees and other personnel.
+Welcome! We are Fireworks.ai, Inc. This Privacy Notice explains how Fireworks AI., and its affiliates and subsidiaries (collectively “**Fireworks**”, “**we**”, “**us**” or “**our**”) collects, uses, discloses, and otherwise processes personal data (as defined below) in connection with our website [https://fireworks.ai](https://fireworks.ai/) (the “**Site**”), and related content, services, products, and other functionalities offered on or through our services (collectively, the “**Services**”). This Privacy Notice is not a contract and does not create any legal obligations.
 
-In certain situations, Fireworks may function as a service provider for other businesses. In the course of providing services for other businesses, we may collect your personal data on behalf of our business customers who are the data “controllers”. We refer to this type of personal data as “**Customer Data**”. We collect and process Customer Data on behalf of our business customers subject to restrictions set forth in our contracts with them. This Privacy Notice does not apply to such processing, and we recommend you read the privacy notice of the respective customer if their processing concerns your personal data.
+**1\. KEY PRIVACY COMMITMENTS**
 
-1. **WHAT IS PERSONAL DATA?**
+*   **No AI Training on Your Data:** We do not use your prompts, training data, or API inputs to train or improve our AI models without your explicit opt-in.
+*   **You Control Your Data:** Access, download, or delete your data at any time though the Services.
+*   **Zero Data Retention:** We do not log or store prompt or generation data for any open models without explicit user opt-in\*. \[\*[Fireworks AI Data Handling](https://docs.fireworks.ai/guides/security_compliance/data_handling)\]
 
-When we use the term “personal data” in this Privacy Notice, we mean any data or information that identifies, relates to, describes, is capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular natural person or household or any other data or information that constitutes “personal data”, “personal information,” or “personally identifiable information.”
+In certain situations, Fireworks may function as a service provider for other businesses. This Privacy Notice does not apply to such processing, and we recommend you read the privacy notice of the respective customer if their processing concerns your personal data.
 
-2. **HOW WE COLLECT PERSONAL DATA**
+**2\. CHANGES TO THIS PRIVACY NOTICE**
 
-**_Personal Data Collected from You_**
+We may modify this Privacy Notice from time to time, in which case we will update the “Last Updated” date at the top of this Privacy Notice. If we make material changes to the way in which we use or disclose information we collect, we will use reasonable efforts to notify you (such as by emailing you at the last email address you provided us, by posting notice of such changes on the Services, or by other means consistent with applicable law) and will take additional steps as required by applicable law. If you do not agree to any updates to this Privacy Notice, please do not continue using or accessing the Services.
 
-The categories of information we collect submitted to us by individuals through the Services can include:
+**3\. WHAT IS PERSONAL DATA?**
 
-* **Account Information**, including first and last name, company name, business email address, user ID and password, and any other information you provide to us. We use this information to administer your account, provide you with the relevant Services and information, communicate with you regarding your account and your use of the Service, and for customer support purposes. Please note we utilize a third-party provider to process payments on our behalf and do not accept payment directly through our Services.
-* **Payment Information**. If you sign up for one of our Services requiring payment (i.e., a Fireworks subscription), we collect the information provided in connection with such payment. Please note that we use third party payment processors, including Stripe, to process credit card payments made to us. As such, we do not retain any personally identifiable financial information in connection with credit card payments, such as credit card numbers. Rather, all such information is provided directly by you to our third-party processor. The payment processor’s use of your personal data is governed by their privacy notice.
-* **Inquiry and Communications Information**, such as your name, company name, or email address, and including information provided in custom messages sent through the forms, our “Contact Us” feature, in chat messages, to one of our email addresses, or via phone. This also includes contact information provided on our Services. We use this information to investigate and respond to your inquiries, and to communicate with you, to enhance the services we offer to our users and to manage and grow our organization.
-* **Newsletter, Marketing Emails, and Blog Information**, including\*\* \*\*email address and applicable interests and communication preferences. We use this information to manage our communications with you and send you information about products and services we think may be of interest to you. If you wish to stop receiving email messages from us, simply click the “unsubscribe link” provided at the bottom of the email communication. Note that you cannot unsubscribe from certain services-related email communications (e.g., account verification, confirmations of transactions, technical or legal notices).
-* **Information Collected Through the Use of the Service**, including any files, documents, videos, images, data, or information you choose to upload or transmit through your communications with us or your use of the Site (collectively, “**User Content**”). User Content and any information contained in the User Content, including personal data you may have included, is stored and collected as part of the Service. We use the User Content to provide you with the Service.
-* **Feedback Information.** We may also collect feedback and ratings you provide relating to our services or products. We use this information to communicate with you, to conduct market research, inform our marketing and advertising activities and improve and grow our business.
-* **Business Representative Contact Information.** If you are a business representative, we collect your information in connection with the performance of the agreement or potential agreement with us. This information may include your first name, last name, company contact information (e.g. email, phone, address), job title, and any other information related to the performance of the agreement with us.
-* **Employment Application Information**, including your contact and demographic information, educational and work history, employment interests, information obtained during interviews and any other information you choose to provide, if you apply for employment.
+When we use the term “personal data” in this Privacy Notice, we mean any data or information that identifies, relates to, describes, is capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular natural person or household.
 
-**Personal Data from Third Parties**
+**4\. COLLECTION AND USE OF YOUR INFORMATION**
 
-We also obtain personal data from third parties; which we often combine with personal data we collect either automatically or directly from an individual.
+When you use or access the Services, we collect certain categories of information about you from a variety of sources.
 
-We may receive the same categories of personal data as described above from the following third parties:
+**4.1 Information You Provide Us**
 
-* **Information we receive from authentication services you connect to our Service**: Some parts of our Services may allow you to login through a third party authentication service such as Okta. These services will authenticate your identity and provide you the option to share certain personal data with us, which could include your \[name, email address, address book and contacts, or other information\]. The data we receive is dependent on that third party’s policies and your privacy settings on that third-party site. We use this information to operate, maintain, and provide to you the features and functionality of the Service. We may also send you service-related emails or messages (e.g., account verification, purchase confirmation, customer support, changes, or updates to features of the Site, technical and security notices).
-* **Your Employer / Company**: If you interact with our Services through your employer or company including using the Okta Enterprise Login feature, we may receive your information from your employer or company, including another representative of your employer or company. We use this information to operate, maintain, and provide to you the features and functionality of the Service.
-* **Data Providers**: To provide our direct mail marketing services, we may purchase or receive personal data, such as name and mailing addresses, from data providers and third parties. We use this information to send Fireworks mailings with information on new products and services offered by Fireworks or our clients. We may combine this information with other information we collect from or about you. In these cases, our Privacy Notice governs the handling of the combined information.
-* **Service Providers**: Our service providers that perform services solely on our behalf, such as survey and marketing providers and payment processors, collect personal data and often share some or all of this information with us. The information may include contact information, demographic information, payment and purchase history information, information about your communications and related activities, and information about your orders. We may use this information to administer and facilitate our services, your orders, and our marketing activities.
-* **Business Partners**: We may receive your information from our business partners, such as companies that offer their products and/or services on our Services. We may use this information to administer and facilitate our services, your orders, and our marketing activities.
-* **Other Sources**: In addition to third-party data providers, we may also collect personal data about individuals that we do not otherwise have from, for example, publicly available sources, or through transactions such as mergers and acquisitions. We use this information to operate, maintain, and provide to you the features and functionality of the Service, as well as to communicate directly with you, such as to send you email messages about products and services that may be of interest to you.
+Some features of the Services may require you to directly provide us with certain information about yourself. You may elect not to provide this information, but doing so may prevent you from using or accessing these features. Information that you directly submit through our Services includes:
+
+*   **Contact Information.** Basic contact details, such as name, address, phone number, and email. We use this information where necessary to perform our contract with you to provide the Services, and to communicate with you (including, with your consent where required, to tell you about certain promotions or products or services that may be of interest to you)
+*   **Account Information.** Account information, such as name, username, email and password. We use this information where necessary to perform our contract with you to provide the Services and to maintain and secure your account with us. If you choose to register an account, you are responsible for keeping your account credentials safe. We recommend you do not share your access details with anyone else. If you believe your account has been compromised, please contact us immediately at security@fireworks.ai.
+*   **Payment Information.** Payment information, such as credit or debit card information and billing address, which we collect using a third party payment processor. We use this information where necessary to perform our contract with you to process your payment and provide the Services.
+*   **Applicant Information.** Applicant details, such as information included in your resume or CV, references, and job history. We use applicant details in our legitimate interests to process your application for employment and to evaluate your candidacy.
+*   **User Content.** Your input and output, prompts and other content that you input, upload or submit to the Services, and the output that you create, and any collections or pages that you generate using the Services. User Content and any information contained in the User Content, including personal data you may have included, is stored and collected as part of the Service. We use the User Content to provide you with the Service.
+*   **Other Information You Provide.** Any other information you choose to include in communications with us when necessary to perform our contract with you, for example, when sending a message through the Services or providing your size when purchasing certain products.
+
+**4.2 Information Collected From Other Sources**
+
+We may obtain information about you from outside sources, including information that we collect directly from third parties and information from third parties that you choose to share with us. Such information includes:
+
+*   **Information we receive from authentication services you connect to our Service.** Some parts of our Services may allow you to login through a third party authentication service such as Okta. These services will authenticate your identity and provide you the option to share certain personal data with us, which could include your \[name, email address, address book and contacts, or other information\]. The data we receive is dependent on that third party’s policies and your privacy settings on that third-party site. We use this information to operate, maintain, and provide to you the features and functionality of the Service. We may also send you service-related emails or messages (e.g., account verification, purchase confirmation, customer support, changes, or updates to features of the Site, technical and security notices).
+*   **Your Employer / Company.** If you interact with our Services through your employer or company including using the Okta Enterprise Login feature, we may receive your information from your employer or company, including another representative of your employer or company. We use this information to operate, maintain, and provide to you the features and functionality of the Service.
+*   **Data Providers.** To provide our direct mail marketing services, we may purchase or receive personal data, such as name and mailing addresses, from data providers and third parties. We use this information to send Fireworks mailings with information on new products and services offered by Fireworks or our clients. We may combine this information with other information we collect from or about you. In these cases, our Privacy Notice governs the handling of the combined information.
+*   **Service Providers.** Our service providers that perform services solely on our behalf, such as survey and marketing providers and payment processors, collect personal data and often share some or all of this information with us. The information may include contact information, demographic information, payment and purchase history information, information about your communications and related activities, and information about your orders. We may use this information to administer and facilitate our services, your orders, and our marketing activities.
+*   **Business Partners.** We may receive your information from our business partners, such as companies that offer their products and/or services on our Services. We may use this information to administer and facilitate our services, your orders, and our marketing activities.
+*   **Other Sources.** In addition to third-party data providers, we may also collect personal data about individuals that we do not otherwise have from, for example, publicly available sources, or through transactions such as mergers and acquisitions. We use this information to operate, maintain, and provide to you the features and functionality of the Service, as well as to communicate directly with you, such as to send you email messages about products and services that may be of interest to you.
 
 Through the provision of our Services, we may also process deidentified information that cannot reasonably be used to infer information about, or otherwise be linked to, a particular consumer or household. Fireworks will maintain and use the information in deidentified form and will not attempt to reidentify the information, except in instances where necessary for determining whether the deidentification process used by Fireworks satisfies the requirements under applicable law.
 
-3. **HOW WE USE PERSONAL DATA**
+**5\. COOKIES AND OTHER TRACKING TECHNOLOGIES**
 
-We may use personal data we collect to:
+Most browsers accept cookies automatically, but you may be able to control the way in which your devices permit the use of Tracking Technologies. If you so choose, you may block or delete our cookies from your browser or limit cross-site tracking; however, blocking or deleting cookies may cause some of the Services, including certain features and general functionality, to work incorrectly. If you have questions regarding the specific information about you that we process or retain, as well as your choices regarding our collection and use practices, please contact us using the information listed below.
 
-* To provide you with products or services that you request or in which you express interest;
-* To communicate with you, via email;
-* To customize the advertising and content you see;
-* For marketing and advertising purposes, including to market to you or offer you through email, direct mail, phone or text message, information and updates on products or services we think you may be interested in (where applicable, we may send you marketing messages if you have given us your consent to do so or where we have relied on the soft opt-in rule);
-* Process payment for our Services;
-* To respond to your emails, comments, questions, or requests for client services;
-* To improve and customize our Services to address the needs and interests of our user base and other individuals we interact with;
-* To test, enhance, update and monitor the Services, or diagnose or fix technology problems;
-* To enforce our **Terms of Service**, to resolve disputes, to carry out our obligations and enforce our rights, and to protect our business interests and the interests and rights of third parties;
-* To prevent, investigate or provide notice of fraud or unlawful or criminal activity;
-* For any other purpose we may describe when you provide the information; and
-* For any other lawful purpose, or other purposes that you consent to.
+To opt out of tracking by Google Analytics, click [here](https://tools.google.com/dlpage/gaoptout).
 
-**How We Use Cookies and Other Tracking Technology To Collect Information**
+Your browser settings may allow you to transmit a ‘do not track’ signal. Like many websites, our website is not designed to respond to such signals. To learn more about ‘do not track’ signals, you can visit [http://www.allaboutdnt.com/](http://www.allaboutdnt.com/).
 
-We, and our third-party partners, automatically collect information you provide to us and information about how you access and use the Services when you visit our services, read our emails, or otherwise engage with us. We typically collect this information through a variety of tracking technologies, including (i) cookies or small data files that are stored on an individual’s computer and (ii) other, related technologies, such as web beacons, pixels, embedded scripts, mobile SDKs, location-identifying technologies and logging technologies (collectively, “tracking technologies”) and we may use third-party partners or technologies to collect this information. Information we collect automatically about you may be combined with other personal data we collect directly from you or receive from other sources.
-
-We, and our third-party partners, use tracking technologies to automatically collect usage and device information, such as:
-
-* **Information the computer, tablet, smartphone or other device you use**, such as your IP address, browser type, Internet service provider, device type/model/manufacturer, operating system, date and time stamp, and a unique ID that allows us to uniquely identify your browser, mobile device, or your account (including, for example, a persistent device identifier or an Ad ID), and other such information. We may also work with third-party partners to employ technologies, including the application of statistical modeling tools, which permit us to recognize and contact you across multiple devices.
-* **Information about the way you access and use our services**, for example, the site from which you came and the site to which you are going when you leave our services, how frequently you access the Service, whether you open emails or click the links contained in emails, whether you access the services from multiple devices, and other browsing behavior and actions you take on the Sites.
-* **Information about how you use the Services**, such as the pages you visit, the links you click, the ads you view and click on, videos you watch, and other similar actions. We may also use third-party tools to collect information you provide to us or information about how you use the Services and may record your mouse movements, scrolling, clicks and keystroke activity on the Services and other browsing, search or purchasing behavior. These tools may also record information you enter when you interact with our Services or engage in chat features through our Service.
-* **Information about your location**, such as general geographic location that we or our third-party providers may derive from your IP address.
-* **Analytics information.** We may collect analytics data or use third-party analytics tools such as Google Analytics to help us measure traffic and usage trends for the services and to understand more about the demographics of our users. You can learn more about Google’s practices at [http://www.google.com/policies/privacy/partners](http://www.google.com/policies/privacy/partners) and view its opt-out options at [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout).
-
-All of the information collected automatically through these tools allows us to improve your customer experience. For example, we may use this information to enhance and personalize your user experience, to monitor and improve our Sites and Services, and to improve the effectiveness of our Service, offers, advertising, communications and customer service. We may also use this information the data collected through tracking technologies to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information, including targeted content and advertising; (c) identify you across multiple devices; (d) provide and monitor the effectiveness of our services; (e) monitor aggregate metrics such as total number of visitors, traffic, usage, and demographic patterns on our website; (f) diagnose or fix technology problems; and (g) otherwise to plan for and enhance our services.
-
-If you would prefer not to accept cookies, most browsers will allow you to: (i) change your browser settings to notify you when you receive a cookie, which lets you choose whether or not to accept it; (ii) disable existing cookies; or (iii) set your browser to automatically reject cookies; however, doing so may negatively impact your experience using the services, as some features and services may not work properly. You may also set your email options to prevent the automatic downloading of images that may contain technologies that would allow us to know whether you have accessed our email and performed certain functions with it.
-
-We and our third-party partners may also use cookies and tracking technologies for advertising purposes. For more information about tracking technologies, please see **Third-Party Data Collection and Online Advertising** below.
-
-4. **OUR DISCLOSURE OF PERSONAL DATA**
+**6\. DISCLOSURE OF YOUR INFORMATION**
 
 We may also share, transmit, disclose, grant access to, make available, and provide personal data with and to third parties, as follows:
 
-* **Fireworks Entities**: We may share personal data with other companies owned or controlled by Fireworks, and other companies owned by or under common ownership as Fireworks, which also includes our subsidiaries (i.e., any organization we own or control) or our ultimate holding company (i.e., any organization that owns or controls us) and any subsidiaries it owns, particularly when we collaborate in providing the Services.
-* **Your Employer / Company**: If you interact with our Services through your employer or company, we may disclose your information to your employer or company, including another representative of your employer or company.
-* **Customer Service and Communication Providers**: We share personal data with third parties who assist us in providing our customer services and facilitating our communications with individuals that submit inquiries.
-* **Other Service Providers**: In addition to the third parties identified above, we engage other third-party service providers that perform business or operational services for us or on our behalf, such as website hosting, infrastructure provisioning, IT services, analytics services, employment application-related services, payment processing services, and administrative services.
-* **Ad Networks and Advertising Partners**: We work with third-party ad networks and advertising partners to deliver advertising and personalized content on our Services, on other websites and services, and across other devices. These parties may collect information directly from a browser or device when an individual visits our Services through cookies or other data collection technologies. This information is used to provide and inform targeted advertising, as well as to provide advertising-related services such as reporting, attribution, analytics and market research.\*\* \*\*
-* **Business Partners**: From time to time, we may share personal data with our business partners at your direction or we may allow our business partners to collect your personal data. Our business partners will use your information for their own business and commercial purposes, including to send you any information about their products or services that we believe will be of interest to you.
-* **Business Transaction or Reorganization**: We may take part in or be involved with a corporate business transaction, such as a merger, acquisition, joint venture, or financing or sale of company assets. We may disclose personal data to a third-party during negotiation of, in connection with or as an asset in such a corporate business transaction. Personal information may also be disclosed in the event of insolvency, bankruptcy or receivership.\*\* \*\*
-* **Legal Obligations and Rights**: We may disclose personal data to third parties, such as legal advisors and law enforcement:\*\* \*\*
-    * in connection with the establishment, exercise, or defense of legal claims;
-    * to comply with laws or to respond to lawful requests and legal process;
-    * to protect our rights and property and the rights and property of others, including to enforce our agreements and policies;
-    * to detect, suppress, or prevent fraud;
-    * to protect the health and safety of us and others; or
-    * as otherwise required by applicable law.
-* **With Your Consent**: We may disclose personal data about an individual to certain other third parties or publicly with their consent or direction. For example, with an individual’s consent or direction we may post their testimonial on our Sites or service-related publications.\*\* \*\*
+*   **Fireworks Entities.** We may share personal data with other companies owned or controlled by Fireworks, and other companies owned by or under common ownership as Fireworks, which also includes our subsidiaries (i.e., any organization we own or control) or our ultimate holding company (i.e., any organization that owns or controls us) and any subsidiaries it owns, particularly when we collaborate in providing the Services.
+*   **Your Employer / Company.** If you interact with our Services through your employer or company, we may disclose your information to your employer or company, including another representative of your employer or company.
+*   **Customer Service and Communication Providers.** We share personal data with third parties who assist us in providing our customer services and facilitating our communications with individuals that submit inquiries.
+*   **Other Service Providers.** In addition to the third parties identified above, we engage other third-party service providers that perform business or operational services for us or on our behalf, such as website hosting, infrastructure provisioning, IT services, analytics services, employment application-related services, payment processing services, and administrative services.
+*   **Ad Networks and Advertising Partners.** We work with third-party ad networks and advertising partners to deliver advertising and personalized content on our Services, on other websites and services, and across other devices. These parties may collect information directly from a browser or device when an individual visits our Services through cookies or other data collection technologies. This information is used to provide and inform targeted advertising, as well as to provide advertising-related services such as reporting, attribution, analytics and market research.\*\* \*\*
+*   **Business Partners.** From time to time, we may share personal data with our business partners at your direction or we may allow our business partners to collect your personal data. Our business partners will use your information for their own business and commercial purposes, including to send you any information about their products or services that we believe will be of interest to you.
+*   **Business Transaction or Reorganization.** We may take part in or be involved with a corporate business transaction, such as a merger, acquisition, joint venture, or financing or sale of company assets. We may disclose personal data to a third-party during negotiation of, in connection with or as an asset in such a corporate business transaction. Personal information may also be disclosed in the event of insolvency, bankruptcy or receivership.\*\* \*\*
+*   **Legal Obligations and Rights.** We may disclose personal data to third parties, such as legal advisors and law enforcement:\*\* \*\*
+    
+    *   in connection with the establishment, exercise, or defense of legal claims;
+    *   to comply with laws or to respond to lawful requests and legal process;
+    *   to protect our rights and property and the rights and property of others, including to enforce our agreements and policies;
+    *   to detect, suppress, or prevent fraud;
+    *   to protect the health and safety of us and others; or
+    *   as otherwise required by applicable law.
+    
+*   **With Your Consent.** We may disclose personal data about an individual to certain other third parties or publicly with their consent or direction. For example, with an individual’s consent or direction we may post their testimonial on our Sites or service-related publications.\*\* \*\*
 
-5. **THIRD-PARTY DATA COLLECTION AND ONLINE ADVERTISING**
+**7\. THIRD-PARTY DATA COLLECTION AND ONLINE ADVERTISING**
 
 We may participate in interest-based advertising and use third party advertising companies to serve you targeted advertisements based on your browsing history. We permit third party online advertising networks, social media companies and other third-party services, to collect information about your use of our online services over time so that they may play or display ads on our Services, on other websites or services you may use, and on other devices you may use. Typically, though not always, the information used for interest-based advertising is collected through tracking technologies, such as cookies, web beacons, embedded scripts, location-identifying technologies, and similar technology, which recognize the device you are using and collect information, including click stream information, browser type, time and date you visited the Sites, AdID, precise geolocation and other information. We may share a common account identifier (such as a hashed email address or user ID) with our third-party advertising partners to help identify you across devices. We and our third-party partners use this information to make the advertisements you see online more relevant to your interests, as well as to provide advertising-related services such as reporting, attribution, analytics and market research. We may also use services provided by third parties (such as social media platforms) to serve targeted ads to you and others on such platforms. We may do this by providing a hashed version of your email address or other information to the platform provider.
 
 We may engage in the following:
 
-* **Social Media Platforms.** We may display targeted advertising to you through social media platforms, such as Twitter, Instagram, LinkedIn, Facebook, TikTok, and other social media forums. These companies have interest-based advertising programs that allow us to direct advertisements to users who have shown interest in our services while those users are on the social media platform, or to groups of other users who share similar traits, such as likely commercial interests and demographics. We may share a unique identifier, such as a user ID or hashed email address, with these platform providers or they may collect information from our website visitors through a first-party pixel, in order to direct targeted advertising to you or to a custom audience on the social media platform. These advertisements are governed by the privacy policies of those social media companies that provide them. If you do not want to receive targeted ads on your social networks, you may be able to adjust your advertising preferences through your settings on those networks.
-* **Third Party Partners**. We work with a variety of third-party partners to provide advertising services. For example, we may also utilize certain forms of display advertising and other advanced features through Google Analytics. These features enable us to use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick advertising cookie) or other third-party cookies together to inform, optimize, and display ads based on your past visits to the Services. You may control your advertising preferences or opt-out of certain Google advertising products by visiting the Google Ads Preferences Manager, currently available at [https://google.com/ads/preferences](https://google.com/ads/preferences%2520), or by visiting NAI’s online resources at [http://www.networkadvertising.org/choices](http://www.networkadvertising.org/choices).
+*   **Social Media Platforms.** We may display targeted advertising to you through social media platforms, such as Twitter, Instagram, LinkedIn, Facebook, TikTok, and other social media forums. These companies have interest-based advertising programs that allow us to direct advertisements to users who have shown interest in our services while those users are on the social media platform, or to groups of other users who share similar traits, such as likely commercial interests and demographics. We may share a unique identifier, such as a user ID or hashed email address, with these platform providers or they may collect information from our website visitors through a first-party pixel, in order to direct targeted advertising to you or to a custom audience on the social media platform. These advertisements are governed by the privacy policies of those social media companies that provide them. If you do not want to receive targeted ads on your social networks, you may be able to adjust your advertising preferences through your settings on those networks.
+*   **Third Party Partners**. We work with a variety of third-party partners to provide advertising services. For example, we may also utilize certain forms of display advertising and other advanced features through Google Analytics. These features enable us to use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick advertising cookie) or other third-party cookies together to inform, optimize, and display ads based on your past visits to the Services. You may control your advertising preferences or opt-out of certain Google advertising products by visiting the Google Ads Preferences Manager, currently available at [https://google.com/ads/preferences](https://google.com/ads/preferences%2520), or by visiting NAI’s online resources at [http://www.networkadvertising.org/choices](http://www.networkadvertising.org/choices).
 
 Please see the **Online Ads** section of the **Control Over Your Information** section below to learn how you can opt out of interest-based advertising.
 
-6. **CONTROL OVER YOUR INFORMATION**
+**8\. CONTROL OVER YOUR INFORMATION**
 
 You may control your information in the following ways:
 
-* **Email Communications Preferences.** From time to time, we may also send you emails regarding updates to our Service, products or services, notices about our organization, or information about products/services that we think may be of interest to you. If you wish to unsubscribe from such emails, simply click the “unsubscribe link” provided at the bottom of the email communication. Note that you cannot unsubscribe from certain services-related email communications (e.g., account verification, confirmations of transactions, technical or legal notices).
-* **Modifying or Deleting Your Information.** If you have any questions about reviewing, modifying, or deleting your information, you can contact us directly using the information provided in the **Contact Us** section, below. We will review your request and may require you to provide additional information to identify yourself. We may not be able to modify or delete your information in all circumstances.
-* **Online Ads**. To learn more about interest-based advertising and how you may be able to opt-out of some of this advertising, you may wish to visit the Digital Advertising Alliance’s (DAA) resources and/or the Network Advertising Initiative’s (NAI) online resources, at [www.aboutads.info/choices](http://www.aboutads.info/choices) or [http://www.networkadvertising.org/choices](http://www.networkadvertising.org/choices/). You may also be able to limit interest-based advertising through the settings menu on your mobile device by selecting “limit ad tracking” (iOS) or “opt-out of interest-based ads” (Android). You may also be able to opt-out of some, but not all, interest-based advertising served by mobile ad networks by visiting [http://youradchoices.com/appchoices](http://youradchoices.com/appchoices) and downloading the mobile AppChoices app.
+*   **Email Communications Preferences.** From time to time, we may also send you emails regarding updates to our Service, products or services, notices about our organization, or information about products/services that we think may be of interest to you. If you wish to unsubscribe from such emails, simply click the “unsubscribe link” provided at the bottom of the email communication. Note that you cannot unsubscribe from certain services-related email communications (e.g., account verification, confirmations of transactions, technical or legal notices).
+*   **Modifying or Deleting Your Information.** If you have any questions about reviewing, modifying, or deleting your information, you can contact us directly using the information provided in the **Contact Us** section, below. We will review your request and may require you to provide additional information to identify yourself. We may not be able to modify or delete your information in all circumstances.
+*   **Online Ads**. To learn more about interest-based advertising and how you may be able to opt-out of some of this advertising, you may wish to visit the Digital Advertising Alliance’s (DAA) resources and/or the Network Advertising Initiative’s (NAI) online resources, at [www.aboutads.info/choices](http://www.aboutads.info/choices) or [http://www.networkadvertising.org/choices](http://www.networkadvertising.org/choices/). You may also be able to limit interest-based advertising through the settings menu on your mobile device by selecting “limit ad tracking” (iOS) or “opt-out of interest-based ads” (Android). You may also be able to opt-out of some, but not all, interest-based advertising served by mobile ad networks by visiting [http://youradchoices.com/appchoices](http://youradchoices.com/appchoices) and downloading the mobile AppChoices app.
 
 Please note that when you opt out of receiving interest-based advertisements, this does not mean you will no longer see advertisements from us or on our online services. It means that the online ads that you do see from DAA program participants should not be based on your interests. We are not responsible for the effectiveness of, or compliance with, any third-parties’ opt-out options or programs or the accuracy of their statements regarding their programs. In addition, third parties may still use cookies to collect information about your use of our online services, including for analytics and fraud prevention as well as any other purpose permitted under the DAA’s Principles.
 
-7. **CHILDREN’S PERSONAL DATA**
+**9\. CHILDREN’S PERSONAL DATA**
 
 Our Services are not directed to, and we do not intend to, or knowingly, collect or solicit personal data from children under the age of 13. If an individual is under the age of 13, they should not use our Services or otherwise provide us with any personal data either directly or by other means. If a child under the age of 13 has provided personal data to us, we encourage the child’s parent or guardian to contact us to request that we remove the personal data from our systems.
 
 If we learn that any personal data we have collected has been provided by a child under the age of 16, we will promptly delete that personal data.
 
-8. **LINKS TO THIRD-PARTY WEBSITES AND SERVICES**
+**10\. DATA SECURITY AND RETENTION**
+
+Despite our reasonable efforts to protect your information, no security measures are impenetrable, and we cannot guarantee “perfect security.” Any information you send to us electronically, while using the Services or otherwise interacting with us, may not be secure while in transit. We recommend that you do not use unsecure channels to send us sensitive or confidential information.  
+
+We retain your information for as long as is reasonably necessary for the purposes specified in this Privacy Notice. When determining the length of time to retain your information, we consider various criteria, including whether we need the information to continue to provide you the Services, resolve a dispute, enforce our contractual agreements, prevent harm, promote safety, security and integrity, or protect ourselves, including our rights, property or products.
+
+**11\. LINKS TO THIRD-PARTY WEBSITES AND SERVICES**
 
 Our Services may include links to third-party websites, plug-ins and applications that we do not own or operate. We are not responsible for the practices employed by any websites or services linked to or from the services, including the information or content contained within them. Our Privacy Notice does not apply to your browsing or other interactions on any other website or service. Activities on third party websites or services are subject to that applicable third party’s rules and policies, not ours. If you are using a third-party website or service, you do so at your own risk. We encourage you to review the privacy policies of any site or service before providing any personal data.
 
-9. **CHANGES TO THIS PRIVACY NOTICE**
+**12\. U.S. RESIDENTS**
 
-We reserve the right to change this Privacy Notice from time to time at our sole discretion. We will notify you about material changes in the way we treat personal data by sending a notice to the primary email address specified in your Fireworks account and/or by placing a prominent notice on our website. It is your responsibility to review this Privacy Notice periodically. When we do change the Privacy Notice, we will also revise the “Last Updated” date.
+This section supplements the other sections of this Privacy Notice and applies to you only if you are a resident of California or another U.S. state that has passed a privacy law similar to the California Consumer Privacy Act (“**CCPA**”) that applies to us, and the law requires specific privacy notice disclosures. For purposes of this section, references to “**personal information**” shall include “**sensitive personal information**,” as these terms are defined under the CCPA.
 
-10. **CONTACT US**
+**12.1 Processing of Personal Information:**
 
-If you have any questions regarding this Privacy Notice, or any of our services, please send an email to [help@fireworks.ai](mailto:help@fireworks.ai).
+In the preceding 12 months, we collected and disclosed for a business purpose the following categories of personal information and sensitive personal information (denoted by \*) about residents:
 
-Last Modified: 8/23/2023
+*   Identifiers, such as name, e-mail address and IP address
+*   Personal information categories listed in the California Customer Records statute such as name, address and telephone number
+*   Commercial information such as records of products or services purchased
+*   Internet or other similar network activity such as Usage Data
+*   Geolocation data such as IP address
+*   Professional or employment-related information such as title of profession, employer, professional background and other information provided by you when you apply for a job with us
+*   Non-public education information collected by certain federally funded institutions such as education records that you provide when you apply for a job with us
+*   Account access credentials\* for the Services
+
+The specific business or commercial purposes for which we have collected and disclosed your personal information and the categories of sources from which we collect your personal information are described in the section above, Collection and Use Your Information. The third parties that we have disclosed your information to are described in Section 4 (Disclosure of Your Information) above. We only use and disclose sensitive personal information for the purposes specified in the CCPA or otherwise in line with your consent. The criteria we use to determine how long to retain your personal information is described in the section above, Data Security and Retention.
+
+**12.2 Selling and/or Sharing of Personal Information:**
+
+**We do not “sell” or “share” (as those terms are defined under the CCPA) personal information, nor have we done so in the preceding 12 months.** Further, we do not have actual knowledge that we “sell” or “share” personal information of residents under 16 years of age.
+
+**12.3 California Account Holders Under 18:**
+
+Any California residents under the age of eighteen (18) who have registered to use the Services and who have posted content or information available to others on the Services can request that such information be removed from the Services by contacting us at the e-mail address set forth in the section below, How to Contact Us. Such request must state that they personally posted such content or information and detail where the content or information is posted. We will make reasonable good faith efforts to remove the post from prospective public view or anonymize it so the resident cannot be individually identified. This removal process cannot ensure complete or comprehensive removal. For instance, third parties may have republished the post, and archived copies of it may be stored by search engines and other parties that we do not control.
+
+**13\. DATA TRANSFERS**
+
+The personal information that we collect will be transferred to, stored at/processed in, or accessed from countries outside the jurisdiction in which you are based in, for the purposes described in this Privacy Notice, including countries in which our service providers or other third parties described in Section 4 are located. Specifically, we have servers for the Service in the US. We also have support, engineering and other teams who may support the Service, including from the United States.
+
+We process the personal information that you provide to us by creating an account and using our Services in countries outside the relevant jurisdiction you are resident in in order to perform our contract with you (to provide you with our Services). By using the Services and acknowledging the Privacy Notice, you consent to the transfer of your personal information to third parties (if any), which may include the cross-border transfer of your information to any country or region where we have databases or affiliates and, in particular, to the jurisdictions specified herein. For such transfers of data outside the relevant jurisdiction will use applicable safeguards, for example, for UK and EEA users, the European Commission’s model contracts for the transfer of personal information to third countries (i.e., the standard contractual clauses) (the “**Model Clauses**”), or any equivalent contracts issued by the relevant competent authority of the UK, as relevant, unless the data transfer is to a country that has been determined by the European Commission or the relevant UK authorities, as applicable, to provide an adequate level of protection for individuals’ rights and freedoms for their personal information. Please contact us at privacy@fireworks.ai should you wish to inquire further as to such data transfer mechanisms, including to examine a copy of the Model Clauses.
+
+**14\. YOUR RIGHTS AND CHOICES**
+
+Depending on where you live, you may have some or all of the rights listed below in relation to personal information that we have collected about you. However, these rights are not absolute, and in certain cases, we may decline your request as permitted by law.
+
+*   **Right to Access / Know.** You may have a right to request access to personal information that we hold about you, or to request information about our collection, use and disclosure of your personal information, such as the categories of personal information we have collected or disclosed for a business purpose.
+*   **Right to Delete**. You may have a right to request that we delete personal information we maintain about you.
+*   **Right to Correct.** You may have a right to request that we correct inaccurate personal information we maintain about you.
+*   **Right of Portability**. You may have the right to receive a copy of the personal information we hold about you and to request that we transfer it to a third party.
+*   **Restriction of Processing**. You may have the right to ask us to stop, suspend or restrict our processing of personal information.
+*   **Objection**. You may have the right to object to our processing of personal information.
+*   **Withdrawal of Consent**. Where we rely on consent to process your personal information, you may have the right to withdraw this consent at any time by contacting us at privacy@fireworks.ai Please note that the withdrawal of consent does not affect the lawfulness of processing based on consent before its withdrawal, and that where you withdraw your consent, we may not be able to deliver the expected service to you.
+
+You may choose to stop receiving personalized advertising or marketing promotions from us when using the Services by contacting us at our email address provided below.
+
+You may exercise any of these rights by contacting us using the information provided below. We will not discriminate against you for exercising any of these rights. We may need to collect information from you to verify your identity, such as your email address and government issued ID, before providing a substantive response to the request. You may designate, in writing or through a power of attorney document, an authorized agent to make requests on your behalf to exercise your rights. Before accepting such a request from an agent, we will require that the agent provide proof you have authorized them to act on your behalf, and we may need you to verify your identity directly with us. If we deny your request, you may appeal our decision by contacting us using the information provided below. You may also request to delete your account through the settings page or by contacting us at privacy@fireworks.ai. If you delete your account, we aim to delete your personal information from our servers within 30 days.
+
+**15\. COMPLAINTS**
+
+If you have complaints about how we process your personal information, please contact us at privacy@fireworks.ai and/or your local representative’s contact details as set out above, and we will respond to your request as soon as possible.
+
+If you think we have infringed data protection laws, you can file a claim with the data protection supervisory authority in the country in which you live or work or where you think we have infringed data protection laws, or with the UK Information Commissioner’s Office, or other relevant data protection authority as applicable to you.
+
+**16\. CONTACT US**
+
+Should you have any questions about our privacy practices or this Privacy Notice, please email us at privacy@fireworks.ai and/or your local representative’s contact details as set our below.
+
+We value your privacy and your rights as a data subject and have therefore appointed GDPR Local with its local partners as our privacy representative and your point of contact for the EEA/EU and UK.
+
+GDPR Local gives you an easy way to exercise your privacy-related rights (e.g. requests to access or erase personal data). If you want to contact us via our representative, GDPR Local or make use of your data subject rights, please visit the following website: [https://fireworksaiinc.gdprlocal.com/eu](https://fireworksaiinc.gdprlocal.com/eu)
+
+Last Modified: 11/12/2025
+
+* * *
+
+![Fireworks Logo](https://cdn.sanity.io/images/pv37i0yn/production/2095949f01e1cf9cf0841096b67d547d9dbfba2e-215x24.svg "Fireworks Logo")
+
+### Platform
+
+[AI Native](https://fireworks.ai/ai-native)[Enterprise](https://fireworks.ai/enterprise)[Customers](https://fireworks.ai/customers)
+
+### Use Cases
+
+[Code Assistance](https://fireworks.ai/usecases/code-assistance)[Conversational AI](https://fireworks.ai/usecases/conversational-ai)[Agentic Systems](https://fireworks.ai/usecases/agentic-systems)[Search](https://fireworks.ai/usecases/search)[Multimedia](https://fireworks.ai/usecases/multimedia)[Enterprise RAG](https://fireworks.ai/usecases/enterprise-rag)
+
+### Developers
+
+[Model Library](https://fireworks.ai/models)[Docs](https://docs.fireworks.ai/getting-started/introduction)[CLI](https://docs.fireworks.ai/tools-sdks/firectl/firectl)[API](https://docs.fireworks.ai/api-reference/introduction)[Changelog](https://docs.fireworks.ai/updates/changelog)
+
+### Pricing
+
+[Serverless](https://fireworks.ai/pricing#serverless-pricing)[On-Demand](https://fireworks.ai/pricing#on-demand-pricing)[Fine Tuning](https://fireworks.ai/pricing#fine-tuning-pricing)[Enterprise](https://fireworks.ai/contact-reserved)
+
+### Partners
+
+[Cloud and Infrastructure](https://fireworks.ai/partners#cloud-infra)[Consulting and Services](https://fireworks.ai/partners#consulting)[Technology](https://fireworks.ai/partners#technology)[Fireworks for Startups](https://fireworks.ai/startup-program)
+
+### Resources
+
+[Blog](https://fireworks.ai/blog)[Demos](https://demos.fireworks.ai/)[Cookbooks](https://docs.fireworks.ai/examples/introduction)
+
+### Company
+
+[Leadership](https://fireworks.ai/team)[Investors](https://fireworks.ai/team#investors)[Careers](https://job-boards.greenhouse.io/fireworksai)[Trust Center](https://trust.fireworks.ai/)
+
+© 2025 Fireworks AI, Inc. All rights reserved.
+
+[](https://x.com/FireworksAI_HQ)[](https://www.youtube.com/@fireworksai)[](https://www.linkedin.com/company/fireworks-ai)[](https://discord.gg/fireworks)
