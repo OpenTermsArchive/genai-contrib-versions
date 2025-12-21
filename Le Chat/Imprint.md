@@ -1,7 +1,7 @@
 Editor
 ------
 
-In accordance with the provisions of article 6(I) (1) of law no. 2004-575 of 21 June 2004 on confidence in the digital economy, the publisher of the website https://www.mistral.ai/ is:
+In accordance with the provisions of article 6(I) (1) of law no. 2004-575 of 21 June 2004 on confidence in the digital economy, the publisher of the website https://mistral.ai is:
 
 Mistral AI, a simplified joint stock company with capital of EUR 15,000, listed on the Paris Trade and Companies Register (R.C.S.) under number 952 418 325, with registered offices at 15 RUE DES HALLES, 75001 PARIS, FRANCE.
 
