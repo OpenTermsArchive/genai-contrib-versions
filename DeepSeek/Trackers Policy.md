@@ -1,7 +1,7 @@
 DeepSeek Cookies Policy
 =======================
 
-> Last Update: March 21, 2025
+> Last Update: December 22, 2025
 
 Welcome to DeepSeek!
 
@@ -22,8 +22,8 @@ We use cookies to operate and provide the Service. For example, we use cookies f
 
 Cookies may be set by the website you access (i.e. first-party cookies) or by a third party (i.e. third-party cookies).
 
-*   **First-party cookies**. We may use cookies to automatically collect information about you so that you may use the Service more easily.
-*   **Third-party cookies**. Our use of cookies also contain cookie files stored on your device by third parties. For example, we may use third-party cookies to prevent cyber-attack activity on websites.
+*   **First****\-****party cookies**. We may use cookies to automatically collect information about you so that you may use the Service more easily.
+*   **Third-party cookies.** Our use of cookies also contains cookie files stored on your device by third parties. For example, we may use third-party cookies to prevent cyber-attack activity on websites.
 
 In addition, cookies may be automatically deleted when you quit your browser (i.e., session cookies) or saved on your device even after you close your browser (i.e., persistent cookies).
 
@@ -33,23 +33,25 @@ In addition, cookies may be automatically deleted when you quit your browser (i.
 How We Use Cookies
 ------------------
 
-#### Necessary cookies
+*   **Necessary cookies**
 
 These cookies are essential in order to enable you to browse and use related functions of the Service. They perform functions like preventing any fraudulent payment activity, etc. You may set up your browser to block or prompt you for these cookies, but some features may not work due to such settings.
 
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 | **Cookie Name** | **Domain** | **Purpose** | **First or Third Party** | **Duration** |
-| ds\_session\_id | [chat.deepseek.com](htts://chat.deepseek.com) | Security | First | end of browsing session |
-| .thumbcache\_\* | [chat.deepseek.com](https://chat.deepseek.com/) | Security | [ishumei](https://www.ishumei.com/legal/cn/privacy.html) | 400 days |
-| smidV2 | [chat.deepseek.com](https://chat.deepseek.com/) | Security | [ishumei](https://www.ishumei.com/legal/cn/privacy.html) | 400 days |
-| \_\_cf\_bm | [.deepseek.com](https://deepseek.com/) | Security | [Cloudflare](https://www.cloudflare.com/zh-cn/privacypolicy/) | 30 minutes |
-| cf\_clearance | [.deepseek.com](https://deepseek.com/) | Security | [Cloudflare](https://www.cloudflare.com/zh-cn/privacypolicy/) | 1 year |
-| intercom-device-id-\* | [.deepseek.com](https://deepseek.com/) | Support | [Intercom Messenger](https://www.intercom.com/legal/privacy) | 9 months |
-| intercom-session-\* | [.deepseek.com](https://deepseek.com/) | Support | [Intercom Messenger](https://www.intercom.com/legal/privacy) | 1 week |
-| ds\_cookie\_preference | www.deepseek.com | Preference | First | 1 year |
+| ds\_session\_id | [chat.deepseek.com](http://chat.deepseek.com/) | Security | First | end of browsing session |
+| .thumbcache\_\* | [chat.deepseek.com](http://chat.deepseek.com/) | Security | ishumei | 400 days |
+| smidV2 | [chat.deepseek.com](http://chat.deepseek.com/) | Security | ishumei | 400 days |
+| \_\_cf\_bm | .[deepseek.com](http://deepseek.com/) | Security | Cloudflare | 30 minutes |
+| cf\_clearance | .[deepseek.com](http://deepseek.com/) | Security | Cloudflare | 1 year |
+| intercom-device-id-\* | .[deepseek.com](http://deepseek.com/) | Support | Intercom Messenger | 9 months |
+| intercom-session-\* | .[deepseek.com](http://deepseek.com/) | Support | Intercom Messenger | 1 week |
+| ds\_cookie\_preference | www.deepseek.com | Support | First | 1 year |
+| _\_gc\_s\__ | chat.deepseek.com | Support | First | 15 minutes |
+| _\_gc\_usr\__ | chat.deepseek.com | Support | First | 60 days |
 
-#### Preference cookies
+*   **Preference cookies**
 
 We make use of preference cookies to remember your preferences like the language you use. If you disable these cookies, we will not be able to know your preference.
 
@@ -67,7 +69,7 @@ You can turn on the cookie function or perform corresponding operations to manag
 
 Chrome: [https://support.google.com/chrome/answer/95647?hl=en](https://support.google.com/chrome/answer/95647?hl=en)
 
-Microsoft Edge: [https://support.microsoft.com/en-us/windows/manage-cookies-in-microsoft-edge-view-allow-block-delete-and-use-168dab11-0753-043d-7c16-ede5947fc64d](https://support.microsoft.com/en-us/windows/manage-cookies-in-microsoft-edge-view-allow-block-delete-and-use-168dab11-0753-043d-7c16-ede5947fc64d)⁠
+Microsoft Edge: ⁠ [https://support.microsoft.com/en-us/windows/manage-cookies-in-microsoft-edge-view-allow-block-delete-and-use-168dab11-0753-043d-7c16-ede5947fc64d](https://support.microsoft.com/en-us/windows/manage-cookies-in-microsoft-edge-view-allow-block-delete-and-use-168dab11-0753-043d-7c16-ede5947fc64d)
 
 Safari: [https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac](https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac)
 
