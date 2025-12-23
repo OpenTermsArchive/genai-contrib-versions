@@ -1,7 +1,7 @@
 DeepSeek Privacy Policy
 =======================
 
-> Last Update: July 4, 2025
+> Last Update: December 22, 2025
 
 Welcome to DeepSeek!
 
@@ -24,8 +24,8 @@ We collect your Personal Data in three ways: Personal Data You Provide, Automati
 When you create an account, input content, contact us directly, or otherwise use the Services, you may provide some or all of the following Personal Data:
 
 *   **Account Personal Data.** We collect Personal Data that you provide when you set up an account, such as your date of birth (where applicable), username (where applicable), email address and/or telephone number, and password.
-*   **User Input.** When you use our Services, we may collect your text input, prompt, uploaded files, feedback, chat history, or other content that you provide to our model and Services (“Prompts” or "Inputs"). We generate responses (“Outputs”) based on your Inputs.
-*   **Personal Data When You Contact Us.** When you contact us, we collect the Personal Data you send us, such as proof of identity or age, contact details, feedback or inquiries about your use of the Services or Personal Data about possible violations of our [Terms of Service](https://cdn.deepseek.com/policies/en-US/deepseek-terms-of-use.html) (our “**Terms**”) or other policies.
+*   **User Input.** When you use our Services, we may collect your text input, voice input, prompt, uploaded files, photos, feedback, chat history, or other content that you provide to our model and Services (“Prompts” or “Inputs”). We generate responses (“Outputs”) based on your Inputs. Specifically, we will not extract or mine voiceprint or facial recognition information or other unique biological patterns or characteristics used to identify a specific individual from the voice inputs or photos you provided to us.
+*   **Personal Data When You Contact Us.** When you contact us, we collect the Personal Data you send to us, such as proof of identity or age, contact details, feedback or inquiries about your use of the Services or Personal Data about possible violations of our [Terms of Service](https://cdn.deepseek.com/policies/en-US/deepseek-terms-of-use.html) (our “**Terms**”) or other policies.
 
 ### Automatically Collected Personal Data
 
@@ -35,7 +35,7 @@ We automatically collect certain Personal Data from you when you use the Service
 *   **Log Personal Data**. We collect Personal Data regarding your use of the Services, such as the features you use and the actions you take.
 *   **Location Personal Data**. We automatically collect Personal Data about your approximate location based on IP address for security reasons, for example to protect your account by detecting unusual login activity.
 *   **Cookies & Similar Technologies**. We may use cookies and similar tracking technologies to operate and provide the Service. For example, we use cookies for security purposes and to better understand how the Service is used. We will allow you to manage our use of non-essential cookies where required by law. To learn more about our use of cookies, please see our [Cookies Policy](https://cdn.deepseek.com/policies/en-US/cookies-policy.html).
-*   **Payment Personal Data**. When you use paid services for prepayment, we collect your payment order and transaction Personal Data to provide Services such as order placement, payment, customer service, and after-sales support.
+*   **Payment Personal Data**. When you use paid services in our open platform, we collect your payment order and transaction Personal Data to provide Services such as order placement, payment, customer service, and after-sales support.
 
 To avoid any doubt, **Cookies & Similar Technologies** and **Payment Personal Data** are not applicable to DeepSeek App.
 
@@ -47,7 +47,7 @@ We may receive the Personal Data described in this Privacy Policy from other sou
 *   **Security Personal Data**. We receive Personal Data from our trusted partners, such as security partners, to protect against fraud, abuse, and other security threats to our Services.
 *   **Public Personal Data.** We may obtain publicly available Personal Data via online sources to train our models and provide Services.
 
-The Services are not designed or intended to process sensitive Personal Data (e.g., personal data revealing racial or ethnic origin, religious beliefs, health, sexuality, citizenship, immigration status, genetic or biometric data, personal data of children, precise geolocation or criminal membership). We do not ask for, and you should not provide sensitive Personal Data to the Services, whether about yourself or other individuals.
+The Services are not designed or intended to process sensitive Personal Data (e.g., personal data revealing racial or ethnic origin, religious beliefs, health, sexuality, citizenship, immigration status, genetic or biometric data, personal data of children, precise geolocation or criminal membership). **We do not ask for, and you should not provide sensitive Personal Data to the Services,** **whether about yourself or other individuals****.**
 
 How We Use Your Personal Data
 -----------------------------
@@ -94,7 +94,7 @@ We share your Personal Data with the following categories of third parties in ot
 
 ### With Your Consent
 
-Depending on where you live, we may share Personal Data with the proper authorization or to provide the Services you have requested or authorized. For example, if you choose to log in to our Services using a social network account, or share Personal Data from our Services to a social media service, we will share that Personal Data with those third parties services.
+Depending on where you live, we may share Personal Data with the proper authorization or to provide the Services you have requested or authorized. For example, if you choose to log in to our Services using a social network account, or share Personal Data from our Services to a social media service, we will share that Personal Data with those third parties services. Specifically, you may share the Inputs and Outputs information (together referred to as "Dialogues") by generating a unique URL. When using such feature, any Dialogues you share with others, if subsequently published on public networks, may be at risk of being obtained by third parties through technical means such as web crawlers. We recommend that you take the following precautions when using this feature: (1) avoid sharing your own or others' personal information, especially sensitive personal data; (2) before sharing other individual's personal information, please ensure you have obtained their explicit consent; (3) before publicly publishing any relevant conversation to an open network, carefully review the content to identify any information you would not wish third parties to access.
 
 **Third-party content**. The Services may contain links to policies, functionality, or content maintained by third parties not controlled by us. We are not responsible for, and make no representations regarding, such policies, functionality, or content or any other practices or operations of such third parties.
 
@@ -119,11 +119,12 @@ We will not discriminate against you for exercising any privacy right you may ha
 *   the right to delete Personal Data you’ve provided to us, or that we’ve obtained about you;
 *   the right to receive a portable copy of Personal Data you’ve provided to us, or that we’ve obtained about you, to the extent it is available in a digital format, and where technically feasible, in a format that allows you to transfer your Personal Data to another service, and
 *   the right to opt-out of the processing of your Personal Data for the purposes of targeted advertising, sale or profiling that could have legal or similarly consequential impact on you. NOTE WE DO NOT ENGAGE IN TARGETED ADVERTISING, “SELL” PERSONAL DATA OR USE PERSONAL DATA FOR “PROFILING” OR OTHERWISE ENGAGE IN AUTOMATED PROCESSING OF PERSONAL DATA TO MAKE DECISIONS THAT COULD HAVE LEGAL OR SIMILARLY SIGNIFICANT IMPACT ON YOU OR OTHERS.
+*   the right to opt-out of using your Personal Data for training our models or optimizing our technologies.
 
 Your Choices
 ------------
 
-You can control and access some of your Personal Data directly through settings. For example, you can manage your chat history. Should you choose to do so, you may also delete your chat history via your settings.
+You can control and access some of your Personal Data directly through settings. For example, you can manage your chat history. Should you choose to do so, you may also copy or delete your chat history via your settings.
 
 If you choose to delete your account, you will not be able to reactivate your account or retrieve any of the content or Personal Data in connection with your account.
 
