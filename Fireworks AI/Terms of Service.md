@@ -298,3 +298,5 @@ Last Modified: 3/25/2025
 © 2025 Fireworks AI, Inc. All rights reserved.
 
 [](https://x.com/FireworksAI_HQ)[](https://www.youtube.com/@fireworksai)[](https://www.linkedin.com/company/fireworks-ai)[](https://discord.gg/fireworks)
+
+Fireworks - Terms of Service
