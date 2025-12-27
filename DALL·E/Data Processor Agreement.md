@@ -1,6 +1,8 @@
-OpenAI Data Processing Addendum | OpenAI
+OpenAI
 
 Select language
+
+…
 
 Updated: December 1, 2025
 
