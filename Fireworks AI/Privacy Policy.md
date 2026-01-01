@@ -215,6 +215,6 @@ Last Modified: 11/12/2025
 
 [Leadership](https://fireworks.ai/team)[Investors](https://fireworks.ai/team#investors)[Careers](https://job-boards.greenhouse.io/fireworksai)[Trust Center](https://trust.fireworks.ai/)
 
-© 2025 Fireworks AI, Inc. All rights reserved.
+© 2026 Fireworks AI, Inc. All rights reserved.
 
 [](https://x.com/FireworksAI_HQ)[](https://www.youtube.com/@fireworksai)[](https://www.linkedin.com/company/fireworks-ai)[](https://discord.gg/fireworks)
