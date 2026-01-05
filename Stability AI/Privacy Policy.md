@@ -226,4 +226,4 @@ Please SelectEnterprise solutionsGamingImage generation & editingAudio generatio
 
 [](https://discord.gg/stablediffusion)[](https://www.linkedin.com/company/stability-ai/mycompany/)[](https://x.com/StabilityAI?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)[](https://www.youtube.com/@Stability_AI)
 
-© Stability AI Ltd, 2025
+© Stability AI Ltd, 2026
