@@ -273,7 +273,7 @@ Last Modified: 3/25/2025
 
 ### Use Cases
 
-[Code Assistance](https://fireworks.ai/usecases/code-assistance)[Conversational AI](https://fireworks.ai/usecases/conversational-ai)[Agentic Systems](https://fireworks.ai/usecases/agentic-systems)[Search](https://fireworks.ai/usecases/search)[Multimedia](https://fireworks.ai/usecases/multimedia)[Enterprise RAG](https://fireworks.ai/usecases/enterprise-rag)
+[Code Assistance](https://fireworks.ai/usecases/code-assistance)[Conversational AI](https://fireworks.ai/usecases/conversational-ai)[Agentic Systems](https://fireworks.ai/usecases/agentic-systems)[Search](https://fireworks.ai/usecases/search)[Multimodal](https://fireworks.ai/usecases/multimodal)[Enterprise RAG](https://fireworks.ai/usecases/enterprise-rag)
 
 ### Developers
 
