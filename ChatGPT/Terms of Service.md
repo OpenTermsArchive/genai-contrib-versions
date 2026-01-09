@@ -217,7 +217,7 @@ OPENAI’S AFFILIATES, SUPPLIERS, LICENSORS, AND DISTRIBUTORS ARE INTENDED THIRD
 
 - - -
 
-Updated: December 17, 2025
+Updated: January 9, 2026
 
 Service terms
 =============
@@ -238,12 +238,14 @@ This section governs your use of services or features that OpenAI offers on an a
 
 OpenAI makes no representations or warranties for Beta Services, including any warranty that Beta Services will be generally available, uninterrupted or error-free, or that Content will be secure or not lost or damaged. Except to the extent prohibited by law, OpenAI expressly disclaims all warranties for Beta Services, including any implied warranties of merchantability, satisfactory quality, fitness for a particular purpose, non-infringement, or quiet enjoyment, and any warranties arising out of any course of dealing or usage of trade.
 
-3\. ChatGPT Enterprise and Business
------------------------------------
+3\. ChatGPT Enterprise, Edu, Healthcare and Business
+----------------------------------------------------
 
-(a) **Administrators**. ChatGPT Enterprise and Business accounts are managed by End Users with administrative privileges (“Administrators”). Administrators may be able to add, remove and suspend End Users’ access to the organization’s workspace. In addition, ChatGPT Enterprise Administrators may be able to (a) access, share and remove Content; and (b) access logging and information about End Users’ use of ChatGPT Enterprise. Customers are responsible for obtaining and maintaining all necessary consents from End Users to take the actions above and to allow OpenAI to deliver the Services.
+(a) **Administrators**. ChatGPT Enterprise, ChatGPT Edu, and ChatGPT for Healthcare (collectively, “Enterprise”) and ChatGPT Business accounts are managed by End Users with administrative privileges (“Administrators”). Administrators may be able to add, remove and suspend End Users’ access to the organization’s workspace. In addition, ChatGPT Enterprise Administrators may be able to (a) access, share and remove Content; and (b) access logging and information about End Users’ use of ChatGPT Enterprise. Customers are responsible for obtaining and maintaining all necessary consents from End Users to take the actions above and to allow OpenAI to deliver the Services.
 
-(b) **Output indemnity**. OpenAI’s indemnification obligations to ChatGPT Enterprise customers under the Agreement include claims that Customer’s use or distribution of Output infringes a third party’s intellectual property right. This indemnity does not apply where: (i) Customer or Customer’s End Users knew or should have known the Output was infringing or likely to infringe, (ii) Customer or Customer’s End Users disabled, ignored, or did not use any relevant citation, filtering or safety features or restrictions provided by OpenAI, (iii) Output was modified, transformed, or used in combination with products or services not provided by or on behalf of OpenAI, (iv) Customer or its End Users did not have the right to use the Input or fine-tuning files to generate the allegedly infringing Output, (v) the claim alleges violation of trademark or related rights based on Customer’s or its End Users’ use of Output in trade or commerce, and (vi) the allegedly infringing Output is from content from a Third Party Offering.
+(b) **Output indemnity**. OpenAI’s indemnification obligations to Enterprise customers under the Agreement include claims that Customer’s use or distribution of Output infringes a third party’s intellectual property right. This indemnity does not apply where: (i) Customer or Customer’s End Users knew or should have known the Output was infringing or likely to infringe, (ii) Customer or Customer’s End Users disabled, ignored, or did not use any relevant citation, filtering or safety features or restrictions provided by OpenAI, (iii) Output was modified, transformed, or used in combination with products or services not provided by or on behalf of OpenAI, (iv) Customer or its End Users did not have the right to use the Input or fine-tuning files to generate the allegedly infringing Output, (v) the claim alleges violation of trademark or related rights based on Customer’s or its End Users’ use of Output in trade or commerce, and (vi) the allegedly infringing Output is from content from a Third Party Offering.
+
+(c) **ChatGPT for Healthcare.** (i) You should always verify the information provided by ChatGPT for Healthcare and exercise independent professional judgment in decision-making about a patient without relying primarily or solely on the output. Do not use ChatGPT for Healthcare to analyze medical images or patterns/signals from signal acquisition systems or in vitro diagnostic devices (such as an ECG waveforms or genomic sequences). (ii) Customer’s Business Associate and Healthcare Addendum applies to Customer’s use of ChatGPT for Healthcare.
 
 4\. Codex and Code Generation
 -----------------------------
