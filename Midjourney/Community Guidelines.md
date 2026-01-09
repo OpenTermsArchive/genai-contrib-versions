@@ -1,7 +1,7 @@
 Community Guidelines
 ====================
 
-![](/hc/theming_assets/01JKC02DQ6GK34RZNHWBRSDN2G)
+[![](/hc/theming_assets/01JKC02DQ6GK34RZNHWBRSDN2G)](https://docs.midjourney.com/hc/theming_assets/01JKC02DQ6GK34RZNHWBRSDN2G)
 
 ### Midjourney is an open-by-default community. To keep the platform accessible and welcoming to the broadest number of users, content must be “Safe For Work” (SFW).
 
@@ -18,8 +18,8 @@ If you see someone violating these guidelines, you can report it [here](https://
 
 Please use these incredible powers with joy, wonder, responsibility and respect.
 
-Rules
------
+Rules[](#h_01JD2WP566BR9GFJPFNPK7M2TN)
+--------------------------------------
 
 1.  Be kind and respect each other
     1.  Be kind and respect each other and staff. Violent behavior, harassment or incitement of any kind will not be tolerated.
@@ -57,8 +57,8 @@ Rules
     7.  We are a small team striving to balance the needs of the broadest number of users in our community. Our decision making process is not a democracy, but we take feedback on moderation very seriously.
     8.  Most importantly, have fun!
 
-Specific Community Guidelines & Important Reminders for Editor
---------------------------------------------------------------
+Specific Community Guidelines & Important Reminders for Editor[](#h_01JD2XBZPERDR07TT5WA3XMD84)
+-----------------------------------------------------------------------------------------------
 
 The Editor is a powerful new tool for unleashing imagination. It’s not for creating images that might deceive, harass, or maliciously harm others.
 
@@ -68,12 +68,16 @@ The Editor is a powerful new tool for unleashing imagination. It’s not for cre
 
 Anyone attempting to violate our Community Guidelines using the Editor will face suspension or banning without refund. Use this tool with respect and consideration for others.
 
-Self-Policing & Reporting
--------------------------
+Self-Policing & Reporting[](#h_01JD2XREWKXEQW9Q9K150GBENS)
+----------------------------------------------------------
 
 Occasionally prompts will unintentionally produce not safe for work content. Please self-police these images by using the ❌ emoji reaction or by right-clicking selecting Apps and then clicking Cancel Job to delete the image in Discord.
 
-Users may flag any image for moderator review by right-clicking selecting Apps, and then clicking Report Job within Discord or the website by selecting the Options ![options-icon.svg](/hc/article_attachments/33734790404877) button under an image and clicking Report.
+Users may flag any image for moderator review by right-clicking selecting Apps, and then clicking Report Job within Discord or the website by selecting the Options [![options-icon.svg](/hc/article_attachments/33734790404877)](https://docs.midjourney.com/hc/article_attachments/33734790404877) button under an image and clicking Report.
 
-*   ![web-report.png](/hc/article_attachments/33734790406413)
-*   ![MJ_Report_App.png](/hc/article_attachments/32015016592397)
+*   [On Web](#zp-1-0)
+*   [In Discord](#zp-1-1)
+
+[![web-report.png](/hc/article_attachments/33734790406413)](https://docs.midjourney.com/hc/article_attachments/33734790406413)
+
+[![MJ_Report_App.png](/hc/article_attachments/32015016592397)](https://docs.midjourney.com/hc/article_attachments/32015016592397)
