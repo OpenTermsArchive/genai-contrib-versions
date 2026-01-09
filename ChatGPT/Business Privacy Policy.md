@@ -5,26 +5,26 @@ Enterprise privacy at OpenAI
 
 ### Our commitments
 
-Our commitments provide you with ownership and control over your business data (inputs and outputs from ChatGPT Business, ChatGPT Enterprise, ChatGPT Edu, ChatGPT for Teachers and our API Platform) and support for your compliance needs.
+Our commitments provide you with ownership and control over your business data (inputs and outputs from ChatGPT Business, ChatGPT Enterprise, ChatGPT for Healthcare, ChatGPT Edu, ChatGPT for Teachers and our API Platform) and support for your compliance needs.
 
 Ownership
 
 You own and control your data
 
-*   We do not train our models on your business data by default
+*   We do not train our models on your data by default
     
 *   You own your inputs and outputs (where allowed by law)
     
-*   You control how long your data is retained (ChatGPT Enterprise)
+*   You control how long your data is retained (ChatGPT Enterprise, ChatGPT for Healthcare, ChatGPT Edu)
     
-*   You control which internal sources are connected (ChatGPT Business and Enterprise)
+*   You control which internal sources are connected 
     
 
 Control
 
 You decide who has access within your organization
 
-*   Enterprise-level authentication through SAML SSO (ChatGPT Enterprise and API)
+*   Enterprise-level authentication through SAML SSO
     
 *   Fine-grained control over access and available features
     
@@ -52,13 +52,13 @@ The easiest way to get started with OpenAI is to deploy ChatGPT Business or Chat
 
 By default, we do not use your business data for training our models. If you have explicitly opted in to share your data with us (for example, through our opt-in [feedback mechanisms⁠](https://help.openai.com/en/articles/9883556-sharing-model-feedback-through-the-api)) to improve our services, then we may use the shared data to train our models.
 
-### What if I use GPTs in ChatGPT Enterprise, Business, Teachers, or Edu?
+### What if I use GPTs in ChatGPT Enterprise, Business, Healthcare, Teachers, or Edu?
 
-Your end users or workspace members can build and share GPTs internally with each other within your workspace. The same commitments we provide for ChatGPT Enterprise, Business, Teachers, and Edu also apply to your use of GPTs within those workspaces. Note that if your workspace admins enable GPTs to be shareable with the public, any GPTs that your users choose to publish externally may be subject to additional review. Learn more about [GPTs⁠⁠](https://openai.com/blog/introducing-gpts/).
+Your end users or workspace members can build and share GPTs internally with each other within your workspace. The same commitments we provide for ChatGPT Enterprise, Business, Healthcare, Teachers, and Edu also apply to your use of GPTs within those workspaces. Note that if your workspace admins enable GPTs to be shareable with the public, any GPTs that your users choose to publish externally may be subject to additional review. External GPT sharing is not supported for ChatGPT for Healthcare. Learn more about [GPTs⁠⁠⁠](https://openai.com/blog/introducing-gpts/).
 
-### What if I use connectors in ChatGPT Enterprise, Business, Teachers, or Edu?
+### What if I use apps in ChatGPT Enterprise, Business, Healthcare, Teachers, or Edu?
 
-Connectors enable ChatGPT to send and retrieve information from connected internal sources and third-party applications, including to help provide more context for its responses. Your workspace admins can control which connectors are enabled for your workspace. ChatGPT respects your organization’s existing permissions, and each end user is required to authenticate with a connected application before use. By default, we do not train our models on any business data accessed from connectors. Learn more about [connectors⁠⁠](https://help.openai.com/en/articles/11487775)
+Apps enable ChatGPT to send and retrieve information from connected internal sources and third-party applications, including to help provide more context for its responses. Your workspace admins can control which apps are enabled for your workspace. ChatGPT respects your organization’s existing permissions, and each end user is required to authenticate with a connected application before use. By default, we do not train our models on any data accessed from apps. Learn more about [apps⁠](https://help.openai.com/en/articles/11487775).
 
 ### Who owns inputs and outputs?
 
@@ -78,21 +78,21 @@ Yes, we are able to execute a Data Processing Addendum (DPA) with customers for 
 
 We may run any business data submitted to OpenAI’s services through automated content classifiers and safety tools, including to better understand how our services are used. The classifications created are metadata about the business data but do not contain any of the business data itself. Business data is only subject to human review as described below on a service-by-service basis.
 
-#### ChatGPT Enterprise and ChatGPT Edu FAQ
+#### ChatGPT Enterprise, ChatGPT Edu, and ChatGPT for Healthcare FAQ
 
-### What are ChatGPT Enterprise and ChatGPT Edu?
+### What are ChatGPT Enterprise, ChatGPT Edu, and ChatGPT for Healthcare?
 
-Built for businesses, ChatGPT Enterprise offers organizations the ability to use ChatGPT with controls, deployment tools, and speed required to make your entire organization more productive. Built for universities, ChatGPT Edu offers an easy way to deploy ChatGPT to students, faculty, researchers, and campus operations, while providing admins with the same controls as in ChatGPT Enterprise. Learn more about [ChatGPT Enterprise⁠](https://openai.com/enterprise/) and [ChatGPT Edu⁠](https://openai.com/chatgpt/education/).
+Built for businesses, ChatGPT Enterprise offers organizations the ability to use ChatGPT with controls, deployment tools, and speed required to make your entire organization more productive. Built for universities, ChatGPT Edu offers an easy way to deploy ChatGPT to students, faculty, researchers, and campus operations, while providing admins with the same controls as in ChatGPT Enterprise. ChatGPT for Healthcare is a secure workspace designed to support HIPAA compliance and built for healthcare organizations and their clinicians, administrators, and researchers. Learn more about [ChatGPT Enterprise⁠⁠](https://openai.com/enterprise/), [ChatGPT Edu⁠⁠](https://openai.com/chatgpt/education/), and [ChatGPT for Healthcare](https://openai.com/index/openai-for-healthcare/).
 
-### Who can view conversations and chat history in ChatGPT Enterprise and ChatGPT Edu?
+### Who can view conversations and chat history in ChatGPT Enterprise, ChatGPT Edu, and ChatGPT for Healthcare?
 
-Within your organization, end users can view their own conversations. Your organization has control over workspaces, and workspace admins can access an audit log of conversations and GPTs through the [Enterprise Compliance API⁠](https://help.openai.com/en/articles/9261474-compliance-apis-for-enterprise-customers). ​​Authorized OpenAI employees will only ever access your conversations for the purposes of resolving incidents, recovering end user conversations with your explicit permission, or where required by applicable law.
+Within your organization, end users can view their own conversations. Your organization has control over workspaces, and workspace admins can access an audit log of conversations and GPTs through the [Enterprise Compliance API⁠⁠](https://help.openai.com/en/articles/9261474-compliance-apis-for-enterprise-customers). ​​Authorized OpenAI employees will only ever access your conversations for the purposes of resolving incidents, recovering end user conversations with your explicit permission, or where required by applicable law.
 
-### What compliance standards do ChatGPT Enterprise and ChatGPT Edu meet?
+### What compliance standards do ChatGPT Enterprise, ChatGPT Edu, and ChatGPT for Healthcare meet?
 
-ChatGPT Enterprise and Edu have each successfully completed a SOC 2 Type 2 audit. Read more in our [Trust Portal⁠](https://trust.openai.com/).
+They’ve each successfully completed a SOC 2 Type 2 audit. Read more in our [Trust Portal⁠⁠](https://trust.openai.com/).
 
-### What is OpenAI’s policy on data retention for ChatGPT Enterprise and ChatGPT Edu?
+### What is OpenAI’s policy on data retention for ChatGPT Enterprise, ChatGPT Edu, and ChatGPT for Healthcare?
 
 Your workspace admins control how long your data is retained. Any deleted conversations are removed from our systems within 30 days, unless we are legally required to retain them. Note that retention enables features like conversation history, and shorter retention periods may compromise product experience.
 
@@ -168,4 +168,4 @@ OpenAI trains its models in two stages. First, we learn from a large amount of d
 
 ### What sources of data are used for training OpenAI models?
 
-OpenAI uses data from different places including public sources, licensed third-party data, and information created by human reviewers. We also use data from versions of ChatGPT and other services for individuals. By default, business data from ChatGPT Business, ChatGPT Enterprise, ChatGPT Edu, ChatGPT for Teachers, and the API Platform (after March 1, 2023) isn't used for training our models, unless you have explicitly opted in to share your data with us to improve the services.
+OpenAI uses data from different places including public sources, licensed third-party data, and information created by human reviewers. We also use data from versions of ChatGPT and other services for individuals. By default, data from ChatGPT Business, ChatGPT Enterprise, ChatGPT for Healthcare, ChatGPT Edu, ChatGPT for Teachers, and the API Platform (after March 1, 2023) isn't used for training our models, unless you have explicitly opted in to share your data with us to improve the services.
