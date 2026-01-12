@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-Effective October 8, 2025[Previous Version](https://www.anthropic.com/legal/archive/fbe2e87e-8f4e-4bba-9e5e-a6a8b15afc0e)
+Effective January 12, 2026[Previous Version](https://www.anthropic.com/legal/archive/7251e1b0-37ff-49eb-9fb7-7d7c5a92ac84)
 
 English
 
@@ -15,11 +15,9 @@ Please see our [Non-User Privacy Policy](https://anthropic.com/legal/non-user-pr
 
 This Privacy Policy also describes your privacy rights. More information about your rights, and how to exercise them, is set out in Section 4 (“Rights and Choices”).
 
-If you are located in Canada, please read section 11 of the Privacy Policy which applies to you.
+If you are located in Canada, Brazil, or the Republic of Korea, please read the relevant [Regional Supplemental Disclosure](https://www.anthropic.com/legal/privacy#11-regional-supplemental-disclosures) which applies to you.
 
-If you are located in Brazil, please read section 12 of the Privacy Policy which applies to you.
-
-If you are located in the Republic of Korea, please read section 13 of the Privacy Policy which applies to you.
+If you are located in Washington or a state with similar consumer health data laws, please read our [Consumer Health Data Privacy Policy](https://anthropic.com/legal/consumer-health-data-privacy-policy) which applies to you if you integrate third party health applications with Claude.
 
 1\. Collection of Personal Data
 -------------------------------
@@ -111,7 +109,7 @@ To exercise your rights, you or an authorized agent may submit a request by emai
 *   **Automated decision-making**: Anthropic does not engage in decision making based solely on automated processing or profiling in a manner which produces a legal effect (i.e., impacts your legal rights) or significantly affects you in a similar way (e.g., significantly affects your financial circumstances or ability to access essential goods or services).
 *   **Sale & targeted Anthropic marketing of its products and services**. Anthropic does not “sell” your personal data as that term is defined by applicable laws and regulations. You can opt-out of sharing your personal data for targeted advertising to promote our products and services, and we will honor global privacy controls. To learn more, [click here](https://www.anthropic.com/legal/cookies).
 
-Anthropic gives you access to a variety of tools to help you manage your data. You can access these in your [Privacy Settings](https://claude.ai/redirect/website.v1.224009de-aa69-4b05-90e9-d06fd5ace768/settings/privacy).
+Anthropic gives you access to a variety of tools to help you manage your data. You can access these in your [Privacy Settings](https://claude.ai/redirect/website.v1.d358677c-48d9-4388-8baf-bd9f272951fc/settings/privacy).
 
 5\. Data Transfers
 ------------------
@@ -174,7 +172,7 @@ Please note that under many countries' laws, you have the right to lodge a compl
 | Purpose | Type of Data | Legal Basis |
 | --- | --- | --- |
 | To provide, maintain and facilitate any products and services offered to you with respect to your Anthropic account, which are governed by our Terms of Service | *   Identity and Contact Data<br>*   Payment Information<br>*   Feedback<br>*   Inputs and Outputs<br>*   Technical Information | *   Contract |
-| To provide, maintain and facilitate optional services and features that enhance platform functionality and user experience | *   Identity and Contact Data<br>*   Feedback<br>*   Inputs and Outputs<br>*   Technical Information | *   Consent (for precise device location)<br>*   Legitimate interests<br><br>It is in our and our users' legitimate interests to expand our product features and deliver additional services that enhance platform functionality and user experience. |
+| To provide, maintain and facilitate optional services and features that enhance platform functionality and user experience | *   Identity and Contact Data<br>*   Feedback<br>*   Inputs and Outputs<br>*   Technical Information | *   Consent (for example for precise device location or for health app integrations)<br>*   Legitimate interests<br><br>It is in our and our users' legitimate interests to expand our product features and deliver additional services that enhance platform functionality and user experience. |
 | To communicate with you and to promote our Services | *   Identity and Contact Data<br>*   Communication Information<br>*   Technical Information | *   Where necessary to perform a contract with you, such as processing your contact information to send you a technical announcement about the Services.<br>*   Your consent when we ask for it to process your personal data for a specific purpose that we communicate to you, such as processing your contact information to send you certain forms of marketing communications.<br>*   Legitimate Interests<br><br>It is in our legitimate interests to promote our Services and to send direct marketing. |
 | To create and administer your Anthropic account | *   Identity and Contact Data<br>*   Payment Information<br>*   Feedback | *   Contract |
 | To facilitate payments for products and services provided by Anthropic | *   Identity and Contact Data<br>*   Payment Information | *   Contract |
@@ -188,8 +186,10 @@ Please note that under many countries' laws, you have the right to lodge a compl
 
 Use of personal data
 
-11\. Supplemental Disclosures for Residents of Canada
------------------------------------------------------
+11\. Regional Supplemental Disclosures
+--------------------------------------
+
+### Supplemental Disclosures for Residents of Canada
 
 These supplemental disclosures contain additional information relevant to residents of Canada. This content should be read in conjunction with the rest of our Privacy Policy. In case of conflict between our Privacy Policy and these supplemental disclosures, the supplemental disclosures shall prevail in relation to residents of Canada.
 
@@ -199,8 +199,7 @@ Cross-jurisdictional Transfers. By providing us with personal data, you acknowl
 
 Contact. If you have any questions or comments about our processing of your personal data, or to exercise your rights as outlined in Section 4. (“Rights and Choices”), please contact us at privacy@anthropic.com.
 
-12\. Supplemental Disclosures for Residents of Brazil
------------------------------------------------------
+### Supplemental Disclosures for Residents of Brazil
 
 These supplemental disclosures contain additional information relevant to residents of Brazil. This content should be read in conjunction with the rest of our Privacy Policy. In case of conflict between our Privacy Policy and these supplemental disclosures, the supplemental disclosures shall prevail in relation to residents of Brazil.
 
@@ -221,8 +220,7 @@ Please keep in mind that these rights are not absolute and may not apply in cert
 
 International Data Transfers. You acknowledge that Anthropic is a company based and headquartered in the United States. Any information we hold about you will be transferred to, used, processed, and stored in the United States and other countries and territories, which may not have data privacy or data protection laws equivalent to those in your country or territory. For the proper operation of the Services, Anthropic needs to carry out international transfers of personal data. In the case of Brazil, we will rely on standard contractual clauses (SCCs) for our data transfers where required and in instances where they are not covered by an adequacy decision. These SCCs have been approved by the Brazilian Data Protection Authority (ANPD), which is the "competent supervisory authority" for these transfers, as governed by Brazilian Data Protection Laws. You can view the SCCs adopted by the ANPD [here](https://www.in.gov.br/en/web/dou/-/resolucao-cd/anpd-n-19-de-23-de-agosto-de-2024-580095396).
 
-13\. Supplemental Disclosures for Residents of the Republic of Korea
---------------------------------------------------------------------
+### Supplemental Disclosures for Residents of the Republic of Korea
 
 Domestic Representative in the Republic of Korea
 
