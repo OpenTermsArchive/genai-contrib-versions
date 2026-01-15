@@ -1,3 +1,5 @@
+…
+
 Updated: December 17, 2025
 
 App Developer Terms
