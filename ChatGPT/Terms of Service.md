@@ -1,40 +1,40 @@
-Updated: April 29, 2025
+Updated: January 16, 2026
 
 Europe Terms of Use
 ===================
 
-Effective: April 29, 2025 ([previous version](https://openai.com/policies/dec-2024-eu-terms/))
+([Previous version⁠](https://openai.com/policies/eu-terms-of-use/revisions/2025-04-29/)⁠)
 
 Thank you for using OpenAI!
 
-These Terms of Use apply if you reside in the European Economic Area (EEA), Switzerland, or UK. If you live outside of the EEA, Switzerland, or UK, [these Terms of Use⁠](https://openai.com/policies/row-terms-of-use/) apply to you.
+These Terms of Use apply if you reside in the European Economic Area (EEA), Switzerland, or UK. If you live outside of the EEA, Switzerland, or UK, [these Terms of Use⁠⁠](https://openai.com/policies/row-terms-of-use/) apply to you.
 
 These Terms of Use (“Terms”) apply to your use of ChatGPT, DALL·E, and OpenAI’s other services for individuals, along with any associated software applications, technology and websites (“Services”), including personal, non-commercial use of our Services by consumers. You form a contract with us when you confirm that you accept these Terms or when you otherwise use the Services.
 
-Our [Business Terms⁠](https://openai.com/policies/business-terms/) govern use of ChatGPT Enterprise, our APIs, and our other services for businesses and developers.
+Our [Business Terms⁠⁠](https://openai.com/policies/business-terms/) govern use of ChatGPT Enterprise, our APIs, and our other services for businesses and developers.
 
-Our [Privacy Policy⁠](https://openai.com/policies/eu-privacy-policy/) explains how we collect and use personal information. Although it does not form part of these Terms, it is an important document that you should read.
+Our [Privacy Policy⁠⁠](https://openai.com/policies/eu-privacy-policy/) explains how we collect and use personal information. Although it does not form part of these Terms, it is an important document that you should read.
 
 Who we are
 ----------
 
-OpenAI is an AI research and deployment company. Our mission is to ensure that artificial general intelligence benefits all of humanity. For more information about OpenAI, please visit [https://openai.com/about](https://openai.com/about/). Our Services are provided to you by:
+OpenAI is an AI research and deployment company. Our mission is to ensure that artificial general intelligence benefits all of humanity. For more information about OpenAI, please visit [https://openai.com/about⁠](https://openai.com/about/). Our Services are provided to you by:
 
 *   _OpenAI Ireland Ltd,_ a company incorporated in the Republic of Ireland with its registered office at 1st Floor, The Liffey Trust Centre, 117-126 Sheriff Street Upper, Dublin 1, D01 YC43, Ireland and company number 737350, if you are resident in the EEA or Switzerland. 
-*   _OpenAI, L.L.C.,_ a Delaware company with its registered office at 1455 3rd Street, San Francisco, CA 94158, United States and company number 7063675, if you are resident in the UK.
+*   _OpenAI OpCo, LLC,_ a Delaware company with its registered office at 1455 3rd Street, San Francisco, CA 94158, United States and company number 7063675, if you are resident in the UK.
 
 Additional Service-specific Terms
 ---------------------------------
 
 Depending on the specific Service or features you use, additional Service-specific terms and policies may apply to your use of our Services. The key ones to be aware of, and which form part of these Terms, are described below: 
 
-*   [Usage Policies⁠](https://openai.com/policies/usage-policies/): these policies explain how you may use our Services and Content,
-*   [Service Terms⁠](https://openai.com/policies/service-terms/): these terms apply when you use certain Services or features;
-*   [Sharing & Publication Policy:⁠](https://openai.com/policies/sharing-publication-policy/) this policy sets out rules for when you share Content[;⁠⁠](https://openai.com/policies/sharing-publication-policy/)
-*   [Service Credit Terms⁠](https://openai.com/policies/service-credit-terms/): these terms govern the purchase and use of service credits on our Services; and 
-*   [Brand Guidelines⁠](https://openai.com/brand/): these guidelines explain how you may use our name and logo.
+*   [Usage Policies⁠⁠](https://openai.com/policies/usage-policies/): these policies explain how you may use our Services and Content,
+*   [Service Terms⁠⁠](https://openai.com/policies/service-terms/): these terms apply when you use certain Services or features;
+*   [Sharing & Publication Policy:⁠⁠](https://openai.com/policies/sharing-publication-policy/) this policy sets out rules for when you share Content[;⁠⁠⁠](https://openai.com/policies/sharing-publication-policy/)
+*   [Service Credit Terms⁠⁠](https://openai.com/policies/service-credit-terms/): these terms govern the purchase and use of service credits on our Services; and 
+*   [Brand Guidelines⁠⁠](https://openai.com/brand/): these guidelines explain how you may use our name and logo.
 
-For more information on our moderation and enforcement processes, see our [Transparency & Content Moderation page](https://openai.com/transparency-and-content-moderation/).
+For more information on our moderation and enforcement processes, see our [Transparency & Content Moderation page⁠](https://openai.com/transparency-and-content-moderation/).
 
 Registration and access
 -----------------------
@@ -72,71 +72,69 @@ Content
 
 **Your content.** You may provide input to the Services (“**Input**”), and receive output from the Services based on the Input (“**Output**”). Input and Output are collectively “**Content**”. You are responsible for Content, including ensuring that it does not violate any applicable law or these Terms. You represent and warrant that you have all rights, licences, and permissions needed to provide Input to our Services.
 
-**Ownership of content.** As between you and OpenAI, and to the extent permitted by applicable law, you (a) retain your ownership rights in Input and (b) own the Output. We hereby assign to you all our right, title, and interest, if any, in and to Output. 
+**Ownership of content.** As between you and OpenAI, and to the extent permitted by applicable law, you (a) retain your ownership rights in Input and (b) own the Output. We hereby assign to you all our right, title, and interest, if any, in and to Output.
 
-**Similarity of content.** Due to the nature of our Services and artificial intelligence generally, Output may not be unique and other users may receive similar output from our Services. Our assignment above does not extend to other users’ output or any Third Party Output. 
+**Similarity of content.** Due to the nature of our Services and artificial intelligence generally, Output may not be unique and other users may receive similar output from our Services. Our assignment above does not extend to other users’ output or any Third Party Output.
 
-**Our use of content.** We can use your Content worldwide to provide, maintain, develop, and improve our Services, comply with applicable law, enforce our terms and policies and keep our Services safe. If you're using ChatGPT through Apple's integrations, see [this Help Center article⁠⁠](https://help.openai.com/en/articles/9737562) for how we handle your Content.
+**Our use of content.** We can use your Content worldwide to provide, maintain, develop, and improve our Services, comply with applicable law, enforce our terms and policies and keep our Services safe. If you're using ChatGPT through Apple's integrations, see [this Help Center article⁠](https://help.openai.com/en/articles/9737562) for how we handle your Content.
 
-**Content moderation.** We use automated systems and human review to identify and address content that violates our Terms, including our Usage Policies. If we become aware of violations, we may remove or restrict content, limit your access to features, or suspend or terminate your account.
+**Content moderation.** We use automated systems and human review to identify and address content that violates our Terms, including our Usage Policies. If we become aware of violations, we may remove or restrict content, limit your access to features, or suspend or terminate your account.For more details on our content moderation process and complaint procedures, see our [Transparency & Content Moderation page⁠⁠](https://openai-dotcom-preview.vercel.app/transparency-and-content-moderation/).
 
-For more details on our content moderation process and complaint procedures, see our [Transparency & Content Moderation page](https://openai.com/transparency-and-content-moderation/).
+**Opt out.** If you do not want us to use your Content to train our models, you have the option to opt out by updating your account settings. Further information can be found in [this article⁠⁠](https://openai-dotcom-preview.vercel.app/policies/how-your-data-is-used-to-improve-model-performance/). Please note that in some cases this may limit the ability of our Services to better address your specific use case.
 
-**Opt out.** If you do not want us to use your Content to train our models, you have the option to opt out by updating your account settings. Further information can be found in [this article](https://openai.com/policies/how-your-data-is-used-to-improve-model-performance/). Please note that in some cases this may limit the ability of our Services to better address your specific use case.
-
-**Accuracy**. Artificial intelligence and machine learning are rapidly evolving fields of study. We are constantly working to improve our Services to make them more accurate, reliable, safe, and beneficial. Given the probabilistic nature of machine learning, use of our Services may in some situations result in Output that does not accurately reflect real people, places, or facts. 
+**Accuracy**. Artificial intelligence and machine learning are rapidly evolving fields of study. We are constantly working to improve our Services to make them more accurate, reliable, safe, and beneficial. Given the probabilistic nature of machine learning, use of our Services may in some situations result in Output that does not accurately reflect real people, places, or facts.
 
 When you use our Services you understand and agree:
 
-*   Output may not always be accurate. You should not rely on Output from our Services as a sole source of truth or factual information, or as a substitute for professional advice. 
+*   Output may not always be accurate. You should not rely on Output from our Services as a sole source of truth or factual information, or as a substitute for professional advice.
 *   You must evaluate Output for accuracy and appropriateness for your use case, including using human review as appropriate, before using or sharing Output from the Services.
-*   You must not use any Output relating to a person for any purpose that could have a legal or material impact on that person, such as making credit, educational, employment, housing, insurance, legal, medical, or other important decisions about them. 
+*   You must not use any Output relating to a person for any purpose that could have a legal or material impact on that person, such as making credit, educational, employment, housing, insurance, legal, medical, or other important decisions about them.
 *   Our Services may provide incomplete, incorrect, or offensive Output that does not represent OpenAI’s views. If Output references any third party products or services, it doesn’t mean the third party endorses or is affiliated with OpenAI.
 
 Our IP rights
 -------------
 
-We and our affiliates own all rights, title, and interest in and to the Services. You may only use our name and logo in accordance with our [Brand Guidelines⁠](https://openai.com/brand/).
+We and our affiliates own all rights, title, and interest in and to the Services. You may only use our name and logo in accordance with our [Brand Guidelines⁠⁠⁠](https://openai-dotcom-preview.vercel.app/brand/).
 
 Paid accounts
 -------------
 
-**Paid subscriptions.** Some of our Services allow you to purchase paid subscriptions to benefit from enhanced features and functionalities (the “**Benefits**”). The exact nature of the Benefits differs between Services and will be made clear to you before purchase. You can manage your paid subscription from your account settings. 
+**Paid subscriptions.** Some of our Services allow you to purchase paid subscriptions to benefit from enhanced features and functionalities (the “**Benefits**”). The exact nature of the Benefits differs between Services and will be made clear to you before purchase. You can manage your paid subscription from your account settings.
 
-**Fees:** All charges, including subscription fees, will be made clear to you before purchase. 
+**Fees:** All charges, including subscription fees, will be made clear to you before purchase.
 
-**Billing.** If you sign-up for a paid subscription or purchase any Services, you will provide complete and accurate billing information, including a valid payment method. For paid subscriptions, we will automatically charge your payment method on each agreed-upon periodic renewal until you cancel. If your payment cannot be completed, we may downgrade your account or suspend your access to our Services until payment is received. 
+**Billing.** If you sign-up for a paid subscription or purchase any Services, you will provide complete and accurate billing information, including a valid payment method. For paid subscriptions, we will automatically charge your payment method on each agreed-upon periodic renewal until you cancel. If your payment cannot be completed, we may downgrade your account or suspend your access to our Services until payment is received.
 
-**Service credits.** You can pay for some Services in advance by purchasing service credits. All service credits are subject to our [Service credit terms⁠](https://openai.com/policies/service-credit-terms/).
+**Service credits.** You can pay for some Services in advance by purchasing service credits. All service credits are subject to our [Service credit terms⁠⁠⁠](https://openai-dotcom-preview.vercel.app/policies/service-credit-terms/).
 
-**Cooling off period.** You are entitled to cancel your purchase and request a refund without stating the reason during the 14 days following the date of your purchase (the “**Cooling Off Period**”). The refund will cover the relevant subscription fee prorated from the date you request cancellation to the end of the relevant subscription period you have paid for. To cancel and request a refund please [contact Support⁠](https://help.openai.com/en/articles/6614161-how-can-i-contact-support) or fill out and send us the [model withdrawal form⁠](https://openai.com/form/model-withdrawal/), or alternatively you may complete the model withdrawal form as described under _**Termination and Suspension**_ below.
+**Cooling off period.** You are entitled to cancel your purchase and request a refund without stating the reason during the 14 days following the date of your purchase (the “**Cooling Off Period**”). The refund will cover the relevant subscription fee prorated from the date you request cancellation to the end of the relevant subscription period you have paid for. To cancel and request a refund please [contact Support⁠⁠⁠](https://help.openai.com/en/articles/6614161-how-can-i-contact-support) or fill out and send us the [model withdrawal form⁠⁠⁠](https://openai-dotcom-preview.vercel.app/form/model-withdrawal/), or alternatively you may complete the model withdrawal form as described under _**Termination and Suspension**_ below.
 
-**Cancellation.** Following the Cooling Off Period, you can [cancel⁠](https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-plus-subscription) your paid subscription at any time by updating your account settings. You will not be charged after you cancel your paid subscription. You will continue to have access to the Benefits until the end of the subscription period you have paid for, at which point your cancellation will become effective. Unless we specify otherwise, you will not receive a refund or service credit for any days between the day you cancel and the last day of the subscription period you have paid for.
+**Cancellation.** Following the Cooling Off Period, you can [cancel⁠⁠⁠](https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-plus-subscription) your paid subscription at any time by updating your account settings. You will not be charged after you cancel your paid subscription. You will continue to have access to the Benefits until the end of the subscription period you have paid for, at which point your cancellation will become effective. Unless we specify otherwise, you will not receive a refund or service credit for any days between the day you cancel and the last day of the subscription period you have paid for.
 
 **Changes.** We may change our prices from time to time. If we increase our subscription prices, we will give you at least 30 days’ notice and any price increase will take effect on your next renewal so that you can cancel if you do not agree to the price increase.
 
 Termination and suspension
 --------------------------
 
-**Your rights**. You can stop using our Services and end your relationship with OpenAI at any time by simply closing your account and stopping your use of the Services. Instructions for how to do this are available [here⁠⁠](https://help.openai.com/en/articles/6378407-how-to-delete-your-account).
+**Your rights**. You can stop using our Services and end your relationship with OpenAI at any time by simply closing your account and stopping your use of the Services. Instructions for how to do this are available [here⁠⁠⁠⁠](https://help.openai.com/en/articles/6378407-how-to-delete-your-account).
 
-**EEA consumer withdrawal right**. If you are an EEA-based consumer, you can close your account and withdraw from these Terms within 14 days of accepting them by [contacting Support⁠](https://help.openai.com/en/articles/6614161-how-can-i-contact-support) or filling out and sending us the [model withdrawal form⁠](https://openai.com/form/model-withdrawal/).
+**EEA consumer withdrawal right**. If you are an EEA-based consumer, you can close your account and withdraw from these Terms within 14 days of accepting them by [contacting Support⁠⁠⁠](https://help.openai.com/en/articles/6614161-how-can-i-contact-support) or filling out and sending us the [model withdrawal form⁠⁠⁠](https://openai-dotcom-preview.vercel.app/form/model-withdrawal/).
 
 **OpenAI rights**. We may take action to restrict, suspend, or terminate your access to our Services or close your account if we determine, acting reasonably and objectively:
 
-*   You breached these Terms, including our [Usage Policies⁠](https://openai.com/policies/usage-policies/).
+*   You breached these Terms, including our [Usage Policies⁠⁠⁠](https://openai-dotcom-preview.vercel.app/policies/usage-policies/).
 *   We must do so to comply with the law.
 *   Your use of our Services could cause risk or harm to OpenAI, our users, or anyone else.
 *   Your account has been inactive for over a year and you do not have a paid account.
 
 **Notice**. If we terminate your account, we will make reasonable efforts to notify you in advance so you can export your Content or your data from the Services, unless it is not appropriate for us to do so, we reasonably believe that continued access to your account will cause damage to OpenAI or anyone else, or we are legally prohibited from doing so.
 
-**Appeals**. If you believe we have suspended or terminated your account in error, you can file an appeal with us by [contacting Support⁠⁠](https://help.openai.com/en/articles/6614161-how-can-i-contact-support).
+**Appeals**. If you believe we have suspended or terminated your account in error, you can file an appeal with us by [contacting Support⁠⁠⁠⁠](https://help.openai.com/en/articles/6614161-how-can-i-contact-support).
 
 Our commitments to you
 ----------------------
 
-**How we provide the Services**. We commit to provide the Services to you with reasonable skill and care and to act with professional diligence. We do not promise to offer the Services forever or in their current form for any particular period of time. 
+**How we provide the Services**. We commit to provide the Services to you with reasonable skill and care and to act with professional diligence. We do not promise to offer the Services forever or in their current form for any particular period of time.
 
 **Liability**. Provided that we have acted with professional diligence, we do not take responsibility for loss or damage caused by us, unless it is:
 
@@ -147,26 +145,26 @@ We do not take responsibility for loss or damage caused by events beyond our rea
 
 **Statutory rights**. You have certain statutory rights that cannot be limited or excluded by a contract like these Terms or that you are legally entitled to, for example, by virtue of being a consumer. These Terms are in no way intended to affect or restrict those rights.
 
-**EEA consumer guarantee**. If you are an EEA-based consumer, then EEA consumer laws provide you with a legal guarantee covering the Services. If you have any questions about your legal guarantee, please [contact Support⁠](https://help.openai.com/en/articles/6614161-how-can-i-contact-support).
+**EEA consumer guarantee**. If you are an EEA-based consumer, then EEA consumer laws provide you with a legal guarantee covering the Services. If you have any questions about your legal guarantee, please [contact Support⁠⁠⁠](https://help.openai.com/en/articles/6614161-how-can-i-contact-support).
 
 Dispute resolution
 ------------------
 
-**Concerns**. If we have a dispute, we would first like to understand and try to address your concerns before any formal legal action. To share your concerns you can contact us through this [form](https://openai.com/form/informal-dispute/).
+**Concerns**. If we have a dispute, we would first like to understand and try to address your concerns before any formal legal action. To share your concerns you can contact us through this [form⁠⁠](https://openai-dotcom-preview.vercel.app/form/informal-dispute/).
 
 **Court**. If we cannot resolve our dispute, you or we can go to your local courts.
 
-**EEA consumer alternative dispute resolution**. If you reside in the EEA, you can also raise the dispute with an alternative dispute resolution body via the European Commission’s Online Dispute Resolution (ODR) Platform, which you can access at [https://ec.europa.eu/consumers/odr⁠](https://ec.europa.eu/consumers/odr).
+**EEA consumer alternative dispute resolution**. If you reside in the EEA, you can also raise the dispute with an alternative dispute resolution body via the European Commission’s Online Dispute Resolution (ODR) Platform, which you can access at [https://ec.europa.eu/consumers/odr⁠⁠](https://ec.europa.eu/consumers/odr).
 
 Copyright complaints
 --------------------
 
-If you believe that your intellectual property rights have been infringed, please send notice to the address below or fill out [this form](https://openai.com/form/copyright-disputes/). We may delete or disable content alleged to be infringing and may terminate accounts of repeat infringers.
+If you believe that your intellectual property rights have been infringed, please send notice to the address below or fill out [this form⁠](https://openai.com/form/copyright-disputes/). We may delete or disable content alleged to be infringing and may terminate accounts of repeat infringers.
 
-> OpenAI, L.L.C.  
-> 1455 3rd Street  
-> San Francisco, CA 94158  
-> Attn: General Counsel / Copyright Agent
+_OpenAI OpCo, LLC  
+1455 3rd Street  
+San Francisco, CA 94158  
+Attn: General Counsel / Copyright Agent_
 
 Written claims concerning copyright infringement must include the following information:
 
@@ -194,9 +192,9 @@ We will give you at least 30 days advance notice of changes that materially adve
 
 **Delay in enforcing these Terms.** If we or you delay enforcing a provision of these Terms, either of us can still enforce it later, and it will not prevent us or you from taking steps against the other at a later date. If any part of these Terms is determined to be invalid or unenforceable, it will not affect the enforceability of any other part of these Terms.
 
-**Trade controls.** You must comply with all applicable trade laws, including sanctions and export control laws. Our Services may not be used in or for the benefit of, or exported or re-exported to (a) any U.S. embargoed country or territory or (b) any individual or entity with whom dealings are prohibited or restricted under applicable trade laws. Our Services may not be used for any end use prohibited by applicable trade laws, and your Input may not include material or information that requires a government licence for release or export. 
+**Trade controls.** You must comply with all applicable trade laws, including sanctions and export control laws. Our Services may not be used in or for the benefit of, or exported or re-exported to (a) any U.S. embargoed country or territory or (b) any individual or entity with whom dealings are prohibited or restricted under applicable trade laws. Our Services may not be used for any end use prohibited by applicable trade laws, and your Input may not include material or information that requires a government licence for release or export.
 
-**Governing law**. The law of the jurisdiction where you are a resident will govern these Terms. 
+**Governing law**. The law of the jurisdiction where you are a resident will govern these Terms.
 
 **Breach of contract.** If you reside in the United Kingdom, you may have the right to bring a claim for breach of contract if we take certain actions—against your Content or your account—that are in breach of these Terms.
 
