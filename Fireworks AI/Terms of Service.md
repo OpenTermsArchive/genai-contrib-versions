@@ -88,7 +88,7 @@ Illustrations
 *   If you read several articles about the best bike accessories to buy, this information could be used to create a profile about your interest in bike accessories. Such a profile may be used or improved later on, on the same or a different website or app to present you with advertising for a particular bike accessory brand. If you also look at a configurator for a vehicle on a luxury car manufacturer website, this information could be combined with your interest in bikes to refine your profile and make an assumption that you are interested in luxury cycling gear.
 *   An apparel company wishes to promote its new line of high-end baby clothes. It gets in touch with an agency that has a network of clients with high income customers (such as high-end supermarkets) and asks the agency to create profiles of young parents or couples who can be assumed to be wealthy and to have a new child, so that these can later be used to present advertising within partner apps based on those profiles.
 
-Number of Vendors seeking consent: 591
+Number of Vendors seeking consent: 590
 
 Use profiles to select personalised advertising
 
@@ -101,7 +101,7 @@ Illustrations
 *   An online retailer wants to advertise a limited sale on running shoes. It wants to target advertising to users who previously looked at running shoes on its mobile app. Tracking technologies might be used to recognise that you have previously used the mobile app to consult running shoes, in order to present you with the corresponding advertisement on the app.
 *   A profile created for personalised advertising in relation to a person having searched for bike accessories on a website can be used to present the relevant advertisement for bike accessories on a mobile app of another organisation.
 
-Number of Vendors seeking consent: 593
+Number of Vendors seeking consent: 592
 
 Create profiles to personalise content
 
@@ -157,7 +157,7 @@ Illustrations
 *   You have read a blog post about hiking on a mobile app of a publisher and followed a link to a recommended and related post. Your interactions will be recorded as showing that the initial hiking post was useful to you and that it was successful in interesting you in the related post. This will be measured to know whether to produce more posts on hiking in the future and where to place them on the home screen of the mobile app.
 *   You were presented a video on fashion trends, but you and several other users stopped watching after 30 seconds. This information is then used to evaluate the right length of future videos on fashion trends.
 
-Number of Vendors seeking consent or relying on legitimate interest: 404
+Number of Vendors seeking consent or relying on legitimate interest: 403
 
 Understand audiences through statistics or combinations of data from different sources
 
@@ -172,7 +172,7 @@ Illustrations
 *   The owner of an online bookstore wants commercial reporting showing the proportion of visitors who consulted and left its site without buying, or consulted and bought the last celebrity autobiography of the month, as well as the average age and the male/female distribution of each category. Data relating to your navigation on its site and to your personal characteristics is then used and combined with other such data to produce these statistics.
 *   An advertiser wants to better understand the type of audience interacting with its adverts. It calls upon a research institute to compare the characteristics of users who interacted with the ad with typical attributes of users of similar platforms, across different devices. This comparison reveals to the advertiser that its ad audience is mainly accessing the adverts through mobile devices and is likely in the 45-60 age range.
 
-Number of Vendors seeking consent or relying on legitimate interest: 544
+Number of Vendors seeking consent or relying on legitimate interest: 545
 
 Develop and improve services
 
@@ -187,7 +187,7 @@ Illustrations
 *   A technology platform working with a social media provider notices a growth in mobile app users, and sees based on their profiles that many of them are connecting through mobile connections. It uses a new technology to deliver ads that are formatted for mobile devices and that are low-bandwidth, to improve their performance.
 *   An advertiser is looking for a way to display ads on a new type of consumer device. It collects information regarding the way users interact with this new kind of device to determine whether it can build a new mechanism for displaying advertising on this type of device.
 
-Number of Vendors seeking consent or relying on legitimate interest: 632
+Number of Vendors seeking consent or relying on legitimate interest: 633
 
 Use limited data to select content
 
@@ -202,7 +202,7 @@ Illustrations
 *   A travel magazine has published an article on its website about the new online courses proposed by a language school, to improve travelling experiences abroad. The school’s blog posts are inserted directly at the bottom of the page, and selected on the basis of your non-precise location (for instance, blog posts explaining the course curriculum for different languages than the language of the country you are situated in).
 *   A sports news mobile app has started a new section of articles covering the most recent football games. Each article includes videos hosted by a separate streaming platform showcasing the highlights of each match. If you fast-forward a video, this information may be used to select a shorter video to play next.
 
-Number of Vendors seeking consent or relying on legitimate interest: 173
+Number of Vendors seeking consent or relying on legitimate interest: 172
 
 Special Purposes (3)
 
@@ -224,7 +224,7 @@ Illustrations
 
 *   Clicking on a link in an article might normally send you to another page or part of the article. To achieve this, 1°) your browser sends a request to a server linked to the website, 2°) the server answers back (“here is the article you asked for”), using technical information automatically included in the request sent by your device, to properly display the information / images that are part of the article you asked for. Technically, such exchange of information is necessary to deliver the content that appears on your screen.
 
-Number of Vendors seeking consent: 594
+Number of Vendors seeking consent: 593
 
 Save and communicate privacy choices
 
@@ -242,13 +242,13 @@ Match and combine data from other data sources
 
 Information about your activity on this service may be matched and combined with other information relating to you and originating from various sources (for instance your activity on a separate online service, your use of a loyalty card in-store, or your answers to a survey), in support of the purposes explained in this notice.
 
-Number of Vendors seeking consent: 436
+Number of Vendors seeking consent: 434
 
 Link different devices
 
 In support of the purposes explained in this notice, your device might be considered as likely linked to other devices that belong to you or your household (for instance because you are logged in to the same service on both your phone and your computer, or because you may use the same Internet connection on both devices).
 
-Number of Vendors seeking consent: 366
+Number of Vendors seeking consent: 367
 
 Identify devices based on information transmitted automatically
 
@@ -264,7 +264,7 @@ Consent
 
 With your acceptance, your precise location (within a radius of less than 500 metres) may be used in support of the purposes explained in this notice.
 
-Number of Vendors seeking consent: 281
+Number of Vendors seeking consent: 280
 
 Actively scan device characteristics for identification
 
@@ -272,13 +272,13 @@ Consent
 
 With your acceptance, certain characteristics specific to your device might be requested and used to distinguish it from other devices (such as the installed fonts or plugins, the resolution of your screen) in support of the purposes explained in this notice.
 
-Number of Vendors seeking consent: 157
+Number of Vendors seeking consent: 158
 
 Vendors
 
-Third party vendors (959)
+Third party vendors (957)
 
-Google Ad Tech Providers (599)
+Google Ad Tech Providers (601)
 
 Reject All Save My Preferences Accept All
 
