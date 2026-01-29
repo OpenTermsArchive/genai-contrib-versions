@@ -267,8 +267,8 @@ Anthropic’s list of subprocessors is available at [https://www.anthropic.com/s
 | ![Logo for Google Cloud Platform](/logos/cloud.google.com)<br><br>Google Cloud Platform<br><br>•<br><br>Cloud infrastructure<br><br>Worldwide<br><br>Products: All Products |
 | Amazon Web Services<br><br>•<br><br>Cloud Infrastructure<br><br>Worldwide<br><br>Products: All Products |
 | Cloudflare<br><br>•<br><br>Traffic Routing (CDN)<br><br>Worldwide (Local to Customer)<br><br>Products: All Products |
-| ![Logo for Stripe](/logos/www.stripe.com)<br><br>Stripe<br><br>•<br><br>Billing<br><br>United States<br><br>Products: Claude Pro/Max, Anthropic API, Claude for Work |
-| ![Logo for WorkOS](/logos/www.workos.com)<br><br>WorkOS<br><br>•<br><br>Security, Single Sign-On<br><br>United States<br><br>Products: Claude for Work<br><br>[More Information](https://support.anthropic.com/en/articles/9797544-setting-up-single-sign-on-on-the-enterprise-plan) |
+| ![Logo for Stripe](/logos/www.stripe.com)<br><br>Stripe<br><br>•<br><br>Billing<br><br>United States<br><br>Products: Claude Pro/Max, Claude Developer Platform, Claude for Work |
+| ![Logo for WorkOS](/logos/www.workos.com)<br><br>WorkOS<br><br>•<br><br>Security, Single Sign-On<br><br>United States<br><br>Products: Claude for Work, Claude Developer Platform<br><br>[More Information](https://support.anthropic.com/en/articles/9797544-setting-up-single-sign-on-on-the-enterprise-plan) |
 | Intercom<br><br>•<br><br>User support<br><br>United States<br><br>Products: All Products except Claude for Government |
 | ![Logo for Twilio](/logos/www.twilio.com)<br><br>Twilio<br><br>•<br><br>Analytics, email/SMS communications<br><br>United States<br><br>Products: All Products except Claude for Government |
 | ![Logo for Iterable](/logos/iterable)<br><br>Iterable<br><br>•<br><br>Email communications<br><br>United States<br><br>Products: All Products except Claude for Government |
