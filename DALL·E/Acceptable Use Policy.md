@@ -1,6 +1,8 @@
-Usage policies | OpenAI
+OpenAI
 
 Select language
+
+…
 
 Effective: October 29, 2025
 
