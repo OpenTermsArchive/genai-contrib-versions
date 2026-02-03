@@ -1,4 +1,4 @@
-Updated: June 4, 2025
+Updated: January 8, 2026
 
 Enterprise privacy at OpenAI
 ============================
