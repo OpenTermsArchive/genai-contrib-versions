@@ -165,7 +165,7 @@ Stability AI is unlocking the power of open-source generative AI to expand human
 
 [Terms of Service](https://stability.ai/terms-of-service)
 
-[Security](https://trust.stability.ai/)
+[Trust Center](https://trust.stability.ai/)
 
 [Your Privacy Choices](#)
 
