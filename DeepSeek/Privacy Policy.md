@@ -1,7 +1,7 @@
 DeepSeek Privacy Policy
 =======================
 
-> Last Update: December 22, 2025
+> Last Update: Feb 10, 2026
 
 Welcome to DeepSeek!
 
@@ -33,7 +33,7 @@ We automatically collect certain Personal Data from you when you use the Service
 
 *   **Device and Network Personal Data.** We collect certain device and network connection Personal Data when you access the Services. This Personal Data includes your device model, operating system, IP address, device identifiers and system language. We also collect service-related, diagnostic, and performance Personal Data, including crash reports and performance logs. We automatically assign you a device ID and user ID. Where you log-in from multiple devices, we use Personal Data such as your device ID and user ID to identify your activity across devices to give you a seamless log-in experience and for security purposes.
 *   **Log Personal Data**. We collect Personal Data regarding your use of the Services, such as the features you use and the actions you take.
-*   **Location Personal Data**. We automatically collect Personal Data about your approximate location based on IP address for security reasons, for example to protect your account by detecting unusual login activity.
+*   **Location Personal Data**. We automatically collect Personal Data about your approximate location based on IP address (1) for security reasons, for example to protect your account by detecting unusual login activity; (2) to respond to your inquiries related to your location (e.g., when you ask, "What's the weather like in my city?" or "Please recommend local cuisines in my city"). We will not obtain your precise geolocation information through other means without your explicit consent.
 *   **Cookies & Similar Technologies**. We may use cookies and similar tracking technologies to operate and provide the Service. For example, we use cookies for security purposes and to better understand how the Service is used. We will allow you to manage our use of non-essential cookies where required by law. To learn more about our use of cookies, please see our [Cookies Policy](https://cdn.deepseek.com/policies/en-US/cookies-policy.html).
 *   **Payment Personal Data**. When you use paid services in our open platform, we collect your payment order and transaction Personal Data to provide Services such as order placement, payment, customer service, and after-sales support.
 
@@ -56,9 +56,9 @@ We use your Personal Data to operate, provide, develop, and improve the Services
 
 *   To provide, administer and maintain the Services and to enforce our terms, conditions and policies. Such as creating the accounts, deliver a fast and convenient logging-in experience, enabling you to chat with DeepSeek and provide user support.
 *   To improve and develop the Services and to train and improve our technology, such as our machine learning models and algorithms. Including by monitoring interactions and usage across your devices, analyzing how people are using it, and training and improving our technology.
-*   To communicate with you, including to notify you about changes to the Services, provide customer support to you and send you other service-related messages.
+*   To communicate with you, including to notify you about changes to the Services, provide customer support to you and send you other service-related messages or commercial messages.
 *   To promote the safety, security, and stability of the Services, such as by preventing and detecting abuse, fraud, and illegal activity on the Services and by conducting troubleshooting, data analysis, testing, and research.
-*   To comply with our legal obligations, or as necessary to perform tasks in the public interest, or to protect the vital interests of our users and other people. This could include providing law enforcement agencies or emergency services with Personal Data in urgent situations to protect health or life.
+*   To comply with our legal obligations, or as necessary to perform tasks in the public interest, or to protect the vital interests of our users and other people. This could include providing law enforcement agencies or emergency services with Personal Data in urgent situations to protect health or life, in accordance with the due process prescribed by law.
 *   **PLEASE NOTE: We do not engage in “profiling” or otherwise engage in automated processing of Personal Data to make decisions that could have legal or similarly significant impact on you or others.**
 
 How We Share Your Personal Data
@@ -68,8 +68,9 @@ How We Share Your Personal Data
 
 We engage service providers that help us provide, support, and develop the Services and understand how they are used. We share Personal Data You Provide, Automatically Collected Personal Data, and Personal Data From Other Sources with these service providers as necessary to enable them to provide their services. For example:
 
+*   We use third party vendors to provide necessary information to responde to your inquiries.
 *   We use communication service providers to send notifications and/or communications to you.
-*   We integrate third-party APIs to provide search services, and we will share your input to provide these services.
+*   We integrate third-party APIs to provide search services, and we will share your input keywords to provide these services.
 *   We use analytics services providers to analyse data.
 *   We use support and safety monitoring services providers to assist us in ensuring the safety of our Services.
 
@@ -77,7 +78,7 @@ Pursuant to our instructions, these parties will access, process, or store Perso
 
 ### Our Corporate Group
 
-The Services are supported by certain entities within our corporate group. These entities process the Personal Data You Provide, Automatically Collected Personal Data, and Personal Data from Other Sources for us, as necessary to provide certain functions, such as storage, content delivery, security, research and development, analytics, customer and technical support.
+The Services are supported by certain entities within our corporate group. These entities process the Personal Data You Provide, Automatically Collected Personal Data, and Personal Data from Other Sources for us, as necessary to provide certain functions, such as storage, content delivery, security, research and development, foundation model training and optimization, analytics, customer and technical support.
 
 ### Other Third Parties
 
@@ -87,9 +88,9 @@ We share your Personal Data with the following categories of third parties in ot
 
 **Law Enforcement and Parties with Other Legal Rights**. We may access, preserve, and share the Personal Data described in “What Personal Data We Collect” with law enforcement agencies, public authorities, copyright holders, or other third parties if we have good faith belief that it is necessary to:
 
-*   comply with applicable law, legal process or government requests, as consistent with internationally recognized standards,
-*   protect the rights, property, and safety of our users, copyright holders, and others, including protecting life or preventing imminent bodily harm. For example, we may provide Personal Data (such as your IP address) to law enforcement agencies in the event of an emergency where someone’s life or safety is at risk,
-*   investigate potential violations of and enforce our Terms, Guidelines, or any other applicable terms, policies, or standards, or
+*   comply with applicable law, legal process or government requests, as consistent with internationally recognized standards, in accordance with the due process prescribed by law;
+*   protect the rights, property, and safety of our users, copyright holders, and others, including protecting life or preventing imminent bodily harm. For example, we may provide Personal Data (such as your IP address) to law enforcement agencies in the event of an emergency where someone’s life or safety is at risk;
+*   investigate potential violations of and enforce our Terms, Guidelines, or any other applicable terms, policies, or standards; or
 *   detect, investigate, prevent, or address misleading activity, copyright infringement, or other illegal activity.
 
 ### With Your Consent
@@ -148,7 +149,7 @@ When the Personal Data collected is no longer required by us, we and our service
 Where We Store Your Personal Data
 ---------------------------------
 
-The Personal Data we collect from you may be stored on a server located outside of the country where you live. To provide you with our services, we directly collect, process and store your Personal Data in People's Republic of China .
+The Personal Data we collect from you may be stored on a server located outside of the country where you live. To provide you with our services, we directly collect, process and store your Personal Data in People's Republic of China.
 
 Where required, we will use appropriate safeguards for transferring Personal Data outside of certain countries, including for one or more of the purposes as set out in this Policy, we will do so in accordance with the requirements of applicable data protection laws.
 
@@ -191,7 +192,7 @@ Please be aware that we collect your Personal Data for the purposes set out in t
 
 **Data storage**
 
-Please be aware that our servers are located in the People’s Republic of China. When you access our services, your Personal Data may be processed and stored in our servers in the People’s Republic of China. This may be a direct provision of your Personal Data to us or a transfer that we or a third-party make.
+The Personal Data we collect from you may be stored on a server located outside of the country where you live. To provide you with our services, we directly collect, process and store your Personal Data in People's Republic of China.
 
 **Your rights**
 
