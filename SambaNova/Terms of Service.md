@@ -1,5 +1,5 @@
-Terms and Conditions
-====================
+Terms & Conditions
+==================
 
 Date of Last Revision: August 13, 2020
 
