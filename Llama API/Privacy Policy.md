@@ -1609,8 +1609,6 @@ ATTN: Privacy Operations
 
 Menlo Park, CA 94025
 
-Contact the [Data Protection Officer](https://mbasic.facebook.com/privacy/policy/printable/https%3A%2F%2Flm.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fhelp.meta.com%2Fsupport%2Fprivacy%2F%3Fentry_point%3DPOLICY_SECTION%253A13-HowToContactMeta) for Meta Platforms, Inc.
-
 [](https://mbasic.facebook.com/privacy/policy/printable/%23=)
 
 Why and how we process your information
