@@ -93,6 +93,8 @@ Effective Date: April 25, 2023
 
 - - -
 
+We’re updating the Meta Global Processor Terms. The updates go into effect on March 20, 2026. [Read the new terms.](https://www.facebook.com/legal/terms/Meta-Global-Processor-Terms/preview)
+
 **Last Updated:** August 23, 2025
 
 **Meta Global Processor Terms**
@@ -199,6 +201,8 @@ For purposes of this MGPT, the following terms shall have the meanings set out b
 “**USA Data Protection Requirements**” means any and all Applicable Law related to data protection, data security, marketing, privacy, or the Processing of Personal Data in the USA including as applicable: the California Consumer Privacy Act as amended by the California Privacy Rights Act (“**CCPA**”); the Colorado Privacy Act (“**CPA**”); the Connecticut Act Concerning Personal Data Privacy and Online Monitoring (“**CTDPA**”); the Florida Digital Bill of Rights (“**FDBR**”); the Iowa Act Relating to Consumer Data Protection (“**ICDPA**”); the Montana Consumer Data Privacy Act (“**MCDPA**”); the Texas Data Privacy and Security Act (“**TDPSA**”); the Utah Consumer Privacy Act (“**UCPA**”); and the Virginia Consumer Data Protection Act (”**VCDPA**”).
 
 - - -
+
+We’re updating the Meta Global Processor Terms - European Region Terms. The updates go into effect on March 20, 2026. [Read the new terms.](https://www.facebook.com/legal/terms/Meta-Global-Processor-Terms/https%3A%2F%2Fwww.facebook.com%2Flegal%2Fterms%2FMeta-Global-Processor-Terms%2FEurope%2FPreview=)
 
   
 
