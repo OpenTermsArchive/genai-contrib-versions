@@ -503,7 +503,7 @@ Last Modified: 11/12/2025
 
 © 2026 Fireworks AI, Inc. All rights reserved.
 
-[](https://x.com/FireworksAI_HQ)[](https://www.youtube.com/@fireworksai)[](https://www.linkedin.com/company/fireworks-ai)[](https://discord.gg/fireworks)
+[](https://x.com/FireworksAI_HQ)[](https://www.youtube.com/@fireworksai)[](https://www.linkedin.com/company/fireworks-ai)[](https://discord.gg/fireworks-ai)
 
 word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word
 
