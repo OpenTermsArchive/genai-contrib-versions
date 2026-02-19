@@ -24,8 +24,6 @@ YesNo
 
 [Privacy Policy](https://tempolabsinc.mintlify.app/tempo-privacy)
 
-⌘I
-
 [x](https://www.linkedin.com/company/tempo-labs)[website](https://www.tempo.new/)[linkedin](https://linkedin.com/company/mintlify)
 
 [Powered by](https://www.mintlify.com/?utm_campaign=poweredBy&utm_medium=referral&utm_source=tempolabsinc)
