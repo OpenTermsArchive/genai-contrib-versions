@@ -60,7 +60,7 @@ Illustrations
 
 *   Most purposes explained in this notice rely on the storage or accessing of information from your device when you use an app or visit a website. For example, a vendor or publisher might need to store a cookie on your device during your first visit on a website, to be able to recognise your device during your next visits (by accessing this cookie each time).
 
-Number of Vendors seeking consent: 782
+Number of Vendors seeking consent: 784
 
 Use limited data to select advertising
 
@@ -88,7 +88,7 @@ Illustrations
 *   If you read several articles about the best bike accessories to buy, this information could be used to create a profile about your interest in bike accessories. Such a profile may be used or improved later on, on the same or a different website or app to present you with advertising for a particular bike accessory brand. If you also look at a configurator for a vehicle on a luxury car manufacturer website, this information could be combined with your interest in bikes to refine your profile and make an assumption that you are interested in luxury cycling gear.
 *   An apparel company wishes to promote its new line of high-end baby clothes. It gets in touch with an agency that has a network of clients with high income customers (such as high-end supermarkets) and asks the agency to create profiles of young parents or couples who can be assumed to be wealthy and to have a new child, so that these can later be used to present advertising within partner apps based on those profiles.
 
-Number of Vendors seeking consent: 600
+Number of Vendors seeking consent: 604
 
 Use profiles to select personalised advertising
 
@@ -101,7 +101,7 @@ Illustrations
 *   An online retailer wants to advertise a limited sale on running shoes. It wants to target advertising to users who previously looked at running shoes on its mobile app. Tracking technologies might be used to recognise that you have previously used the mobile app to consult running shoes, in order to present you with the corresponding advertisement on the app.
 *   A profile created for personalised advertising in relation to a person having searched for bike accessories on a website can be used to present the relevant advertisement for bike accessories on a mobile app of another organisation.
 
-Number of Vendors seeking consent: 601
+Number of Vendors seeking consent: 604
 
 Create profiles to personalise content
 
@@ -114,7 +114,7 @@ Illustrations
 *   You read several articles on how to build a treehouse on a social media platform. This information might be added to a profile to mark your interest in content related to outdoors as well as do-it-yourself guides (with the objective of allowing the personalisation of content, so that for example you are presented with more blog posts and articles on treehouses and wood cabins in the future).
 *   You have viewed three videos on space exploration across different TV apps. An unrelated news platform with which you have had no contact builds a profile based on that viewing behaviour, marking space exploration as a topic of possible interest for other videos.
 
-Number of Vendors seeking consent: 268
+Number of Vendors seeking consent: 270
 
 Use profiles to select personalised content
 
@@ -127,7 +127,7 @@ Illustrations
 *   You read articles on vegetarian food on a social media platform and then use the cooking app of an unrelated company. The profile built about you on the social media platform will be used to present you vegetarian recipes on the welcome screen of the cooking app.
 *   You have viewed three videos about rowing across different websites. An unrelated video sharing platform will recommend five other videos on rowing that may be of interest to you when you use your TV app, based on a profile built about you when you visited those different websites to watch online videos.
 
-Number of Vendors seeking consent: 239
+Number of Vendors seeking consent: 240
 
 Measure advertising performance
 
@@ -142,7 +142,7 @@ Illustrations
 *   You have clicked on an advertisement about a “black Friday” discount by an online shop on the website of a publisher and purchased a product. Your click will be linked to this purchase. Your interaction and that of other users will be measured to know how many clicks on the ad led to a purchase.
 *   You are one of very few to have clicked on an advertisement about an “international appreciation day” discount by an online gift shop within the app of a publisher. The publisher wants to have reports to understand how often a specific ad placement within the app, and notably the “international appreciation day” ad, has been viewed or clicked by you and other users, in order to help the publisher and its partners (such as agencies) optimise ad placements.
 
-Number of Vendors seeking consent or relying on legitimate interest: 853
+Number of Vendors seeking consent or relying on legitimate interest: 854
 
 Measure content performance
 
@@ -157,7 +157,7 @@ Illustrations
 *   You have read a blog post about hiking on a mobile app of a publisher and followed a link to a recommended and related post. Your interactions will be recorded as showing that the initial hiking post was useful to you and that it was successful in interesting you in the related post. This will be measured to know whether to produce more posts on hiking in the future and where to place them on the home screen of the mobile app.
 *   You were presented a video on fashion trends, but you and several other users stopped watching after 30 seconds. This information is then used to evaluate the right length of future videos on fashion trends.
 
-Number of Vendors seeking consent or relying on legitimate interest: 406
+Number of Vendors seeking consent or relying on legitimate interest: 407
 
 Understand audiences through statistics or combinations of data from different sources
 
@@ -172,7 +172,7 @@ Illustrations
 *   The owner of an online bookstore wants commercial reporting showing the proportion of visitors who consulted and left its site without buying, or consulted and bought the last celebrity autobiography of the month, as well as the average age and the male/female distribution of each category. Data relating to your navigation on its site and to your personal characteristics is then used and combined with other such data to produce these statistics.
 *   An advertiser wants to better understand the type of audience interacting with its adverts. It calls upon a research institute to compare the characteristics of users who interacted with the ad with typical attributes of users of similar platforms, across different devices. This comparison reveals to the advertiser that its ad audience is mainly accessing the adverts through mobile devices and is likely in the 45-60 age range.
 
-Number of Vendors seeking consent or relying on legitimate interest: 551
+Number of Vendors seeking consent or relying on legitimate interest: 553
 
 Develop and improve services
 
@@ -187,7 +187,7 @@ Illustrations
 *   A technology platform working with a social media provider notices a growth in mobile app users, and sees based on their profiles that many of them are connecting through mobile connections. It uses a new technology to deliver ads that are formatted for mobile devices and that are low-bandwidth, to improve their performance.
 *   An advertiser is looking for a way to display ads on a new type of consumer device. It collects information regarding the way users interact with this new kind of device to determine whether it can build a new mechanism for displaying advertising on this type of device.
 
-Number of Vendors seeking consent or relying on legitimate interest: 636
+Number of Vendors seeking consent or relying on legitimate interest: 638
 
 Use limited data to select content
 
@@ -202,7 +202,7 @@ Illustrations
 *   A travel magazine has published an article on its website about the new online courses proposed by a language school, to improve travelling experiences abroad. The school’s blog posts are inserted directly at the bottom of the page, and selected on the basis of your non-precise location (for instance, blog posts explaining the course curriculum for different languages than the language of the country you are situated in).
 *   A sports news mobile app has started a new section of articles covering the most recent football games. Each article includes videos hosted by a separate streaming platform showcasing the highlights of each match. If you fast-forward a video, this information may be used to select a shorter video to play next.
 
-Number of Vendors seeking consent or relying on legitimate interest: 178
+Number of Vendors seeking consent or relying on legitimate interest: 177
 
 Special Purposes (3)
 
@@ -214,7 +214,7 @@ Illustrations
 
 *   An advertising intermediary delivers ads from various advertisers to its network of partnering websites. It notices a large increase in clicks on ads relating to one advertiser, and uses data regarding the source of the clicks to determine that 80% of the clicks come from bots rather than humans.
 
-Number of Vendors seeking consent: 600
+Number of Vendors seeking consent: 602
 
 Deliver and present advertising and content
 
@@ -224,7 +224,7 @@ Illustrations
 
 *   Clicking on a link in an article might normally send you to another page or part of the article. To achieve this, 1°) your browser sends a request to a server linked to the website, 2°) the server answers back (“here is the article you asked for”), using technical information automatically included in the request sent by your device, to properly display the information / images that are part of the article you asked for. Technically, such exchange of information is necessary to deliver the content that appears on your screen.
 
-Number of Vendors seeking consent: 600
+Number of Vendors seeking consent: 602
 
 Save and communicate privacy choices
 
@@ -234,7 +234,7 @@ Illustrations
 
 *   When you visit a website and are offered a choice between consenting to the use of profiles for personalised advertising or not consenting, the choice you make is saved and made available to advertising providers, so that advertising presented to you respects that choice.
 
-Number of Vendors seeking consent: 451
+Number of Vendors seeking consent: 456
 
 Features (3)
 
@@ -242,19 +242,19 @@ Match and combine data from other data sources
 
 Information about your activity on this service may be matched and combined with other information relating to you and originating from various sources (for instance your activity on a separate online service, your use of a loyalty card in-store, or your answers to a survey), in support of the purposes explained in this notice.
 
-Number of Vendors seeking consent: 442
+Number of Vendors seeking consent: 444
 
 Link different devices
 
 In support of the purposes explained in this notice, your device might be considered as likely linked to other devices that belong to you or your household (for instance because you are logged in to the same service on both your phone and your computer, or because you may use the same Internet connection on both devices).
 
-Number of Vendors seeking consent: 373
+Number of Vendors seeking consent: 374
 
 Identify devices based on information transmitted automatically
 
 Your device might be distinguished from other devices based on information it automatically sends when accessing the Internet (for instance, the IP address of your Internet connection or the type of browser you are using) in support of the purposes exposed in this notice.
 
-Number of Vendors seeking consent: 559
+Number of Vendors seeking consent: 562
 
 Special Features (2)
 
@@ -264,7 +264,7 @@ Consent
 
 With your acceptance, your precise location (within a radius of less than 500 metres) may be used in support of the purposes explained in this notice.
 
-Number of Vendors seeking consent: 282
+Number of Vendors seeking consent: 286
 
 Actively scan device characteristics for identification
 
@@ -276,9 +276,9 @@ Number of Vendors seeking consent: 158
 
 Vendors
 
-Third party vendors (966)
+Third party vendors (969)
 
-Google Ad Tech Providers (600)
+Google Ad Tech Providers (597)
 
 Reject All Save My Preferences Accept All
 
@@ -504,6 +504,8 @@ Last Modified: 11/12/2025
 © 2026 Fireworks AI, Inc. All rights reserved.
 
 [](https://x.com/FireworksAI_HQ)[](https://www.youtube.com/@fireworksai)[](https://www.linkedin.com/company/fireworks-ai)[](https://discord.gg/fireworks-ai)
+
+![](https://t.co/1/i/adsct?bci=4&dv=Asia%2FCalcutta%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%26800%26600%264%2624%26800%26600%260%26na&eci=3&event=%7B%7D&event_id=57e803ff-3c2e-4ba3-a5ae-456f2d71fc01&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=b26e5454-f6b4-45e1-ae29-c1fb7cf0ff97&pt=Fireworks%20-%20Privacy%20Policy&tw_document_href=https%3A%2F%2Ffireworks.ai%2Fprivacy-policy&tw_iframe_status=0&txn_id=qdtdi&type=javascript&version=2.3.35)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=Asia%2FCalcutta%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%26800%26600%264%2624%26800%26600%260%26na&eci=3&event=%7B%7D&event_id=57e803ff-3c2e-4ba3-a5ae-456f2d71fc01&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=b26e5454-f6b4-45e1-ae29-c1fb7cf0ff97&pt=Fireworks%20-%20Privacy%20Policy&tw_document_href=https%3A%2F%2Ffireworks.ai%2Fprivacy-policy&tw_iframe_status=0&txn_id=qdtdi&type=javascript&version=2.3.35)
 
 word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word
 
