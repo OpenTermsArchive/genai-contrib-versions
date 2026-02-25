@@ -3,7 +3,7 @@ Last updated March 19, 2024
 Privacy Policy
 ==============
 
-Ember AB and Airon.ai, hereafter referred to as "the Company", is committed to protecting the privacy and security of your personal information. This Privacy Policy outlines how we collect, use, disclose, and protect your information when you use our services. This Privacy Policy applies to our website, products, and services offered by the Company.
+AI Iron AB and Airon.ai, hereafter referred to as "the Company", is committed to protecting the privacy and security of your personal information. This Privacy Policy outlines how we collect, use, disclose, and protect your information when you use our services. This Privacy Policy applies to our website, products, and services offered by the Company.
 
 Information We Collect
 ----------------------
@@ -93,7 +93,7 @@ Last updated March 19, 2024
 Privacy Policy
 ==============
 
-Ember AB and Airon.ai, hereafter referred to as "the Company", is committed to protecting the privacy and security of your personal information. This Privacy Policy outlines how we collect, use, disclose, and protect your information when you use our services. This Privacy Policy applies to our website, products, and services offered by the Company.
+AI Iron AB and Airon.ai, hereafter referred to as "the Company", is committed to protecting the privacy and security of your personal information. This Privacy Policy outlines how we collect, use, disclose, and protect your information when you use our services. This Privacy Policy applies to our website, products, and services offered by the Company.
 
 Reach out to sales for help
 ---------------------------
