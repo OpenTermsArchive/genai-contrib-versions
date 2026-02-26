@@ -1,5 +1,3 @@
-[Home](https://www.pirr.ai/)
-
 [About](https://www.pirr.ai/about-)
 
 [Team](https://www.pirr.ai/team)
