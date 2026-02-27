@@ -1,83 +1,204 @@
-Acceptable Use Policy
-=====================
+Ingen data lämnar Sverige
 
-**Acceptable Use Policy for Berget AI AB**
+Vi främjar AI-suveränitet för  
+innovation och tillväxt i Europa
+================================================================
 
-**Introduction** This Acceptable Use Policy (“Policy”) sets forth the standards of use for the Services (“Service”) provided by Berget AI AB (“Berget”). By accessing or using the Service, you agree to comply with this Policy. Failure to adhere to this Policy may result in suspension or termination of access to the Service, as well as other actions deemed appropriate by Berget. The Customer must ensure that all Users comply with this Policy.
+EU-anpassad inferenstjänst och AI infrastruktur - byggd av utvecklare för utvecklare.
 
-**1\. Prohibited Activities** You are not allowed to use the Service for any illegal, harmful, offensive or disruptive purposes (which will be deemed by Berget in its sole discretion). If you are uncertain whether or not your intended use of the Service could be deemed illegal, offensive or disruptive, you can contact Berget in advance and request permission for your intended use.
+[Kom igång](https://console.berget.ai/)
 
-Below are examples of actions and content which Berget considers to be illegal, harmful, offensive or disruptive (the list is not exhaustive):
+Inferens och AI-infrastruktur i en och samma tjänst
+---------------------------------------------------
 
-1.1 **Engage in Illegal Activity**: Perform or promote any activity that violates applicable laws, regulations, or legal rights of others.
+Suverän, Öppen och Hållbar AI - redo att skala upp.
 
-1.2 **Distribute Harmful Content**: Transmit or store content that is harmful, abusive, defamatory, fraudulent, or deceptive.
+### Serverlös Inferens
 
-1.3 **Violate Intellectual Property Rights**: Upload, transmit, or store content that infringes on the intellectual property rights of any individual or entity without proper authorization.
+Utnyttja kraften i världens ledande öppna språkmodeller utan att hantera infrastruktur.
 
-1.4 **Conduct Malicious Activities**: Deploy malware, viruses, or other harmful software or attempt to gain unauthorized access to networks, systems, or data.
+*   Skapa konto på minuter
+*   OpenAI-kompatibelt API
+*   Skalar med dina behov
 
-1.5 **Engage in Spam or Phishing**: Distribute unsolicited bulk messages or engage in phishing, fraud, or other deceptive practices.
+### Dedikerad Inferens
 
-1.6 **Exploit the Service**: Use the Service to build or deploy applications that facilitate illegal activities or violate the rights of others.
+Coming Soon
 
-1.7 **Undermine System Integrity**: Conduct activities that compromise the security, performance, or availability of the Service or related infrastructure. This includes intentional or careless use of the Service in excess of a typically expected server load, such as continuously high CPU or I/O use rate,
+Kör valfri modell, inklusive dina egna finetunade modeller på dedikerad kapacitet.
 
-*   intentional or careless configuration of servers that enables unauthorised third-party access or otherwise lacks adequate security requirements,
-*   measures aimed to circumvent, or interfere with the limitations or restrictions in the Service, or monitoring, controlling or charging of the Service by Berget.
+*   Privata instanser
+*   Skala med din applikation
+*   Dedikerade resurser
 
-1.8 **Harmful use of AI:** Development or deployment of AI applications that break the EU AI act regulations
+### Berget AI-plattform
 
-*   “Unacceptable” risk level Use Cases are not allowed on Berget
-*   “High” risk level use cases require specific controls (security, transparency, data, logging) to be in place - you are welcome to contact Berget for guidance on how to set this up
-*   “Limited” and “Minimal” risk levels are permitted as long as you comply with what is stipulated in regulations on transparency towards end users, GDPR and other items
+Coming Soon
 
-2\. User Responsibilities
+Ta full kontroll med en intuitiv plattform designad för utveckling och driftsättning av AI-applikationer.
+
+*   Enkel användarupplevelse
+*   Transparent resurshantering
+*   Total kostnadskontroll
+
+[Läs mer](https://berget.ai/products)
+
+Fördelar med Berget AI
+----------------------
+
+Vi hjälper organisationer (inom offentlig och privat sektor) som vill utnyttja kraften i AI med full kontroll och minimal påverkan på planeten.
+
+### Suverän AI
+
+Kör modeller där all data stannar inom EU:s gränser, vår infrastruktur finns helt i Europa och är fullt förenlig med EU:s regelverk.
+
+*   Möjliggör AI- och datasuveränitet
+*   I linje med EU:s regelverk
+*   Full kontroll över din data
+
+### (verkligt) Öppen AI
+
+Vi är förespråkare för öppen innovation och vi driftar och tillhandahåller öppna modeller. Våra tjänster är helt byggda på öppen källkod.
+
+*   Öppna modeller
+*   Öppen källkod
+*   Öppen innovation
+
+### Hållbar AI
+
+Vår infrastruktur är byggd med fokus på hållbarhet – från fossilfri el till värmeåtervinning och cirkulär hårdvara.
+
+*   100% fossilfri energi
+*   CO₂-spårning
+*   Cirkulär hårdvara
+
+Varför behöver vi Berget?
 -------------------------
 
-2.1 **Compliance with Laws**: You are responsible for ensuring that your use of the Service complies with all applicable laws and regulations. Moreover, you undertake to fulfil your contractual obligations towards third parties to the extent such obligations relate to your use of the Service (for example, you have to comply with the licence terms of any third-party software you use within the Service).
+Vi frågade några av Sveriges ledande experter inom juridik och datasäkerhet om varför en svensk molntjänst för AI och hantering av känslig data behövs.
 
-2.2 **Content Ownership and Permissions**: Ensure that you own or have obtained all necessary rights and permissions for any content you use with the Service.
+"Med en svensk molnleverantör minskar administrativt arbete och regulatorisk risk eftersom det inte finns någon tredjelandsöverföring, vilket eliminerar behovet av att hålla sig uppdaterad med regler för tredjelandsöverföring, adekvansbeslutet eller genomföra konsekvensbedömningar. Dessutom får du en leverantör som måste följa samma lagstiftning som gäller för dig, vilket innebär att mycket av dokumentationen kommer att förberedas av leverantören på ett sätt som redan är anpassat till svenska förhållanden."
 
-2.3 **Account Security**: Maintain the confidentiality of your account credentials and promptly notify Berget of any unauthorized access or suspicious activity.
+### Jim Runsten
 
-2.4 **Resource Usage**: Use the Service in a manner consistent with its intended purpose and refrain from excessive use that could disrupt service for others.
+VD Synch Advokatbyrå
 
-3\. Monitoring and Enforcement
-------------------------------
+"Bergets tillvägagångssätt med återanvänd hårdvara är smart ur både hållbarhets- och säkerhetsperspektiv. Genom att bygga systemet med antagandet att saker kan gå sönder minskas sårbarheten. Många av dagens cyberattacker utnyttjar det faktum att många servrar förblir orörda för länge utan viktiga säkerhetsuppdateringar."
 
-3.1 **Monitoring**: Berget reserves the right to monitor usage of the Service to ensure compliance with this Policy.
+### Ann-Marie Eklund Löwinder
 
-3.2 **Investigation**: In cases of suspected violations, Berget may investigate and take appropriate action, including suspending or terminating your access to the Service.
+en av Sveriges ledande IT-säkerhetsexperter
 
-3.3 **Cooperation**: You agree to cooperate with Berget during investigations into potential violations of this Policy.
+"Data är idag en av de mest värdefulla tillgångarna som finns. Det är ett rimligt affärsbeslut att träna AI-modeller i tjänster som inte använder din data för att träna någon annans modeller."
 
-4\. Consequences of Violations
-------------------------------
+### André Catry
 
-4.1 **Suspension or Termination**: Violations of this Policy may result in the suspension or termination of your access to the Service without prior notice. Berget investigates all alleged violations of the AUP and enforcing these Terms where necessary. If we take action against you pursuant to Section 13 of the main body of the Terms of Service (e.g. suspended your Account), you have the right to lodge a complaint to our internal complaint handling system via email to [complaints@berget.ai](mailto:complaints@berget.ai). If, despite your complaint, our internal complaint handling function upholds the restrictive measures taken against you, then you will have the right to commence arbitration proceedings against us in accordance with Section 30 of the main body of the Terms of Service.
+Senior rådgivare inom IT/informationssäkerhet och cyberrisk, Kahn Pedersen Advokatbyrå
 
-4.2 **Legal Action**: Berget reserves the right to seek legal remedies for any harm caused by violations of this Policy.
+Ingen data lämnar Sverige
 
-4.3 **Liability for Damages**: You may be held liable for any damages incurred by Berget or its users due to your violation of this Policy.
+Regelefterlevnad på ett enkelt sätt
+-----------------------------------
 
-The Customer is responsible for ensuring that all users of the service, including end-users, comply with this policy. In the event of a violation of this policy that results in harm or disruptions to other customers, the Customer shall indemnify Berget for reasonable costs and damages
+Oberoende, ingen legal exponering, ingen data sparas.
 
-5\. Reporting Violations
-------------------------
+### GDPR-efterlevnad
 
-If you become aware of any violations of this Policy, please report them promptly to [abuse-reporting@berget.ai](mailto:abuse-reporting@berget.ai). Berget will take reasonable steps to investigate and address reported violations.
+Byggd för dataskydd och - integritet
 
-6\. Amendments to the Policy
-----------------------------
+*   Data stannar inom EU
+*   Loggar för audits
+*   Dataminimering by design
 
-Berget reserves the right to modify this Policy at any time. Changes will be effective upon posting to [www.berget.ai](http://www.berget.ai/). Continued use of the Service after such changes constitutes your acceptance of the revised Policy.
+### NIS2-redo
 
-7\. Contact Information
------------------------
+Uppfyller cybersäkerhetskrav för kritisk infrastruktur
 
-If you have any questions or concerns about this Policy, please contact us at: [abuse-reporting@berget.ai](mailto:abuse-reporting@berget.ai)
+*   24/7 säkerhetsövervakning
+*   Incidenthanteringsplaner
+*   Regelbundna säkerhetsutvärderingar
+*   Säker leverantörskedja
 
-**Acknowledgment**
+### Schrems kompatibel
 
-By using the Service, you acknowledge that you have read, understood, and agree to comply with this Acceptable Use Policy.
+Ingen exponering för US Cloud Act
+
+*   Endast Infrastruktur i EU
+*   Ingen US-entitetsinblandning
+*   Du vet alltid var din data är
+*   Juridisk tydlighet
+
+Prisplaner för dina behov
+-------------------------
+
+Välj den plan som passar dig bäst
+
+### Trial
+
+API access
+
+Free
+
+[Kom igång](https://console.berget.ai/)
+
+€5 initial wallet credits
+
+Pay as you go (listpris)
+
+Tillgång till alla modeller
+
+Community support
+
+### Starter
+
+För det lilla projektet
+
+€25 / månad
+
+[Kom igång](https://console.berget.ai/)
+
+25€ refill per månad
+
+Automatisk billing
+
+Email-support
+
+Tillgång till alla modeller
+
+Säg upp när som helst
+
+### Developer
+
+För utvecklarteams
+
+€50 / månad
+
+[Kom igång](https://console.berget.ai/)
+
+55€ refill per månad
+
++10% extra Credits
+
+Prioriterad support
+
+Tillgång till alla modeller
+
+Bäst värde för pengarna
+
+### Enterprise
+
+När du ska skala upp
+
+€500 / månad
+
+[Kontakta Försäljning](https://berget.ai/contact)
+
+550€ refill per månad
+
++10% extra Credits
+
+Tillgång till alla modeller
+
+Dedikerad support
+
+[Se fullständig prislista](https://berget.ai/pricing)
