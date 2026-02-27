@@ -1,123 +1,204 @@
-Data Privacy Policy
-===================
+Ingen data lämnar Sverige
 
-**Last Updated:** 2025-03-10
+Vi främjar AI-suveränitet för  
+innovation och tillväxt i Europa
+================================================================
 
-Berget AI AB (“we,” “our,” or “us”) respects your privacy and is committed to protecting your personal data. This Privacy Policy explains how we collect, use, and safeguard your information when you visit our website [https://berget.ai](https://berget.ai/) in compliance with the **General Data Protection Regulation (GDPR)** and other applicable laws.
+EU-anpassad inferenstjänst och AI infrastruktur - byggd av utvecklare för utvecklare.
 
-1\. Data Controller
--------------------
+[Kom igång](https://console.berget.ai/)
 
-Berget AI AB, org. no. 559504-7522, is responsible for the processing of The Personal Data.
+Inferens och AI-infrastruktur i en och samma tjänst
+---------------------------------------------------
 
-[gdpr@berget.ai](mailto:gdpr@berget.ai) or [dpo@berget.ai](mailto:dpo@berget.ai)
+Suverän, Öppen och Hållbar AI - redo att skala upp.
 
-2\. What Personal Data We Collect
----------------------------------
+### Serverlös Inferens
 
-We may collect the following types of personal data:
+Utnyttja kraften i världens ledande öppna språkmodeller utan att hantera infrastruktur.
 
-*   **Identity Data:** Name, username, or similar identifiers.
-*   **Contact Data:** Email address, phone number, mailing address.
-*   **Technical Data:** IP address, browser type, operating system, referring URLs, and device identifiers.
-*   **Usage Data:** Information about how you use our website (e.g., pages visited, time spent).
-*   **Marketing Data:** Preferences for receiving communications from us.
+*   Skapa konto på minuter
+*   OpenAI-kompatibelt API
+*   Skalar med dina behov
 
-3\. How We Collect Your Data
-----------------------------
+### Dedikerad Inferens
 
-We collect data through:
+Coming Soon
 
-*   **Direct interactions:** When you fill out forms, subscribe to newsletters, or contact us.
-*   **Automated technologies:** Cookies, analytics tracking, and log files.
-*   **Third-party sources:** Payment processors, analytics providers, or advertising networks.
+Kör valfri modell, inklusive dina egna finetunade modeller på dedikerad kapacitet.
 
-4\. Purpose of Data Processing
-------------------------------
+*   Privata instanser
+*   Skala med din applikation
+*   Dedikerade resurser
 
-We use your personal data for the following purposes:
+### Berget AI-plattform
 
-| Purpose | Legal Basis |
-| --- | --- |
-| To provide and maintain our website | Legitimate Interest |
-| To process inquiries and customer service requests | Performance of a Contract |
-| To send marketing communications | Consent |
-| To improve website security and prevent fraud | Legitimate Interest |
-| To comply with legal obligations | Legal Obligation |
+Coming Soon
 
-**Marketing & Communications:**
+Ta full kontroll med en intuitiv plattform designad för utveckling och driftsättning av AI-applikationer.
 
-We only send marketing emails if you have given explicit consent. You can **opt out** at any time by clicking the “unsubscribe” link in our emails.
+*   Enkel användarupplevelse
+*   Transparent resurshantering
+*   Total kostnadskontroll
 
-5\. Cookies & Tracking Technologies
+[Läs mer](https://berget.ai/products)
+
+Fördelar med Berget AI
+----------------------
+
+Vi hjälper organisationer (inom offentlig och privat sektor) som vill utnyttja kraften i AI med full kontroll och minimal påverkan på planeten.
+
+### Suverän AI
+
+Kör modeller där all data stannar inom EU:s gränser, vår infrastruktur finns helt i Europa och är fullt förenlig med EU:s regelverk.
+
+*   Möjliggör AI- och datasuveränitet
+*   I linje med EU:s regelverk
+*   Full kontroll över din data
+
+### (verkligt) Öppen AI
+
+Vi är förespråkare för öppen innovation och vi driftar och tillhandahåller öppna modeller. Våra tjänster är helt byggda på öppen källkod.
+
+*   Öppna modeller
+*   Öppen källkod
+*   Öppen innovation
+
+### Hållbar AI
+
+Vår infrastruktur är byggd med fokus på hållbarhet – från fossilfri el till värmeåtervinning och cirkulär hårdvara.
+
+*   100% fossilfri energi
+*   CO₂-spårning
+*   Cirkulär hårdvara
+
+Varför behöver vi Berget?
+-------------------------
+
+Vi frågade några av Sveriges ledande experter inom juridik och datasäkerhet om varför en svensk molntjänst för AI och hantering av känslig data behövs.
+
+"Med en svensk molnleverantör minskar administrativt arbete och regulatorisk risk eftersom det inte finns någon tredjelandsöverföring, vilket eliminerar behovet av att hålla sig uppdaterad med regler för tredjelandsöverföring, adekvansbeslutet eller genomföra konsekvensbedömningar. Dessutom får du en leverantör som måste följa samma lagstiftning som gäller för dig, vilket innebär att mycket av dokumentationen kommer att förberedas av leverantören på ett sätt som redan är anpassat till svenska förhållanden."
+
+### Jim Runsten
+
+VD Synch Advokatbyrå
+
+"Bergets tillvägagångssätt med återanvänd hårdvara är smart ur både hållbarhets- och säkerhetsperspektiv. Genom att bygga systemet med antagandet att saker kan gå sönder minskas sårbarheten. Många av dagens cyberattacker utnyttjar det faktum att många servrar förblir orörda för länge utan viktiga säkerhetsuppdateringar."
+
+### Ann-Marie Eklund Löwinder
+
+en av Sveriges ledande IT-säkerhetsexperter
+
+"Data är idag en av de mest värdefulla tillgångarna som finns. Det är ett rimligt affärsbeslut att träna AI-modeller i tjänster som inte använder din data för att träna någon annans modeller."
+
+### André Catry
+
+Senior rådgivare inom IT/informationssäkerhet och cyberrisk, Kahn Pedersen Advokatbyrå
+
+Ingen data lämnar Sverige
+
+Regelefterlevnad på ett enkelt sätt
 -----------------------------------
 
-We use cookies and similar tracking technologies to improve user experience. You can manage your cookie preferences through our **Cookie Settings** page or your browser settings.
+Oberoende, ingen legal exponering, ingen data sparas.
 
-6\. Data Sharing & Third Parties
---------------------------------
+### GDPR-efterlevnad
 
-We do not sell your data. However, we may share data with:
+Byggd för dataskydd och - integritet
 
-*   **Service Providers:** Hosting, analytics, and marketing partners.
-*   **Legal Authorities:** If required by law or to protect our rights.
-*   **Business Transfers:** In case of mergers, acquisitions, or asset sales.
+*   Data stannar inom EU
+*   Loggar för audits
+*   Dataminimering by design
 
-All third parties are contractually required to comply with GDPR and maintain data security.
+### NIS2-redo
 
-7\. Data Retention
-------------------
+Uppfyller cybersäkerhetskrav för kritisk infrastruktur
 
-We retain personal data only as long as necessary for the purposes outlined in this policy. Retention periods depend on the type of data:
+*   24/7 säkerhetsövervakning
+*   Incidenthanteringsplaner
+*   Regelbundna säkerhetsutvärderingar
+*   Säker leverantörskedja
 
-*   Customer inquiries: **Up to 1 year**
-*   Marketing data: **Until consent is withdrawn**
-*   Website analytics: **Up to 26 months**
+### Schrems kompatibel
 
-When no longer needed, data is securely deleted or anonymized.
+Ingen exponering för US Cloud Act
 
-8\. Data Security
------------------
+*   Endast Infrastruktur i EU
+*   Ingen US-entitetsinblandning
+*   Du vet alltid var din data är
+*   Juridisk tydlighet
 
-We implement technical and organizational security measures to protect your data, including:
+Prisplaner för dina behov
+-------------------------
 
-*   Encrypted data storage
-*   Access controls and authentication
-*   Regular security audits
-*   Secure communication via HTTPS
+Välj den plan som passar dig bäst
 
-9\. Your Rights Under GDPR
---------------------------
+### Trial
 
-As an **EU resident**, you have the following rights:
+API access
 
-*   **Right to Access:** Request a copy of your personal data.
-*   **Right to Rectification:** Correct inaccurate or incomplete data.
-*   **Right to Erasure:** Request deletion of your data (“right to be forgotten”).
-*   **Right to Restriction:** Limit how we process your data.
-*   **Right to Data Portability:** Receive your data in a structured, machine-readable format.
-*   **Right to Object:** Object to data processing for marketing or legitimate interests.
-*   **Right to Withdraw Consent:** If processing is based on consent, you can withdraw it anytime.
+Free
 
-**To exercise your rights**, contact us at [gdpr@berget.ai](mailto:gdpr@berget.ai). We will respond within **one month**.
+[Kom igång](https://console.berget.ai/)
 
-10\. International Data Transfers
----------------------------------
+€5 initial wallet credits
 
-We see no reason whatsoever to transfer data outside of the EEA, but in the case that we should be ordered by a customer to transfer personal data outside the **European Economic Area (EEA)**, we ensure appropriate safeguards, such as:
+Pay as you go (listpris)
 
-*   **Standard Contractual Clauses (SCCs)** approved by the European Commission.
-*   **Adequacy decisions** for countries recognized by the EU as providing sufficient protection.
+Tillgång till alla modeller
 
-11\. Complaints & Supervisory Authority
----------------------------------------
+Community support
 
-If you believe we have violated GDPR, you can contact us at [gdpr@berget.ai](mailto:gdpr@berget.ai) to resolve the issue.
+### Starter
 
-File a complaint with your local **Data Protection Authority (DPA)**, [datainspektionen@datainspektionen.se](mailto:datainspektionen@datainspektionen.se)  
-Phone: +46(0)‭8-657 61 00
+För det lilla projektet
 
-12\. Changes to This Policy
----------------------------
+€25 / månad
 
-We may update this policy from time to time. Any changes will be posted on this page with an updated revision date.
+[Kom igång](https://console.berget.ai/)
+
+25€ refill per månad
+
+Automatisk billing
+
+Email-support
+
+Tillgång till alla modeller
+
+Säg upp när som helst
+
+### Developer
+
+För utvecklarteams
+
+€50 / månad
+
+[Kom igång](https://console.berget.ai/)
+
+55€ refill per månad
+
++10% extra Credits
+
+Prioriterad support
+
+Tillgång till alla modeller
+
+Bäst värde för pengarna
+
+### Enterprise
+
+När du ska skala upp
+
+€500 / månad
+
+[Kontakta Försäljning](https://berget.ai/contact)
+
+550€ refill per månad
+
++10% extra Credits
+
+Tillgång till alla modeller
+
+Dedikerad support
+
+[Se fullständig prislista](https://berget.ai/pricing)
