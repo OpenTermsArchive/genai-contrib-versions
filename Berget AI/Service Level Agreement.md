@@ -1,30 +1,204 @@
-Service Level Agreement
-=======================
+Ingen data lämnar Sverige
 
-**Last Updated:** 2025-03-24
+Vi främjar AI-suveränitet för  
+innovation och tillväxt i Europa
+================================================================
 
-1\. **Scope.** This service level agreement (“SLA”) is an integral part of the Agreement between Berget and the Customer. This SLA does not apply to: (i) Free Trials; (ii) Berget website (iii) serverless inference services
+EU-anpassad inferenstjänst och AI infrastruktur - byggd av utvecklare för utvecklare.
 
-2\. **Service Guarantee.** Subject to the exemptions set out in Sections 1 and 8 of this SLA, we will guarantee you the availability of the Services. For all unscheduled interruptions in the provision of the Service that last longer than five (5) minutes, you will be entitled to an SLA-compensation in accordance with this SLA. The availability guarantee is applied on a per Service-item basis and is not applicable to such Service-items that are not directly affected by the interruption. For example, if you have five virtual servers and one of them is unavailable, the SLA-compensation will be calculated based on that one server’s downtime and not based on your entire Service portfolio.
+[Kom igång](https://console.berget.ai/)
 
-3\. **Scheduled Interruptions.** We will notify you by e-mail or by publishing a notice on Berget’s website about scheduled interruptions in the provision of the Service at least 24 hours prior to the interruption, with the exception of important security updates and patches which we may deploy without prior notice.
+Inferens och AI-infrastruktur i en och samma tjänst
+---------------------------------------------------
 
-4\. **Error Notifications.** If you detect an interruption in the Service, you have to notify us by sending an e-mail to [outages@berget.ai](mailto:outages@berget.ai). The interruption in the Service is deemed to begin when the failure starts to affect your use of the Service, and to end when the failure has been corrected. We will maintain a system status page at [https://status.berget.ai](https://status.berget.ai/) where we will post information about identified interruptions and their resolution status.
+Suverän, Öppen och Hållbar AI - redo att skala upp.
 
-5\. **Payment of Compensation.** If you are eligible for an SLA-compensation under this SLA, you must claim the SLA-compensation within 15 (fifteen) days after the failure has been corrected by contacting our Support Team at [support@berget.ai](mailto:support@berget.ai) and requesting the SLA-compensation. The SLA-compensation will be deposited to your Account in the form of Credits and it may not be exchanged for cash or other forms of payment.
+### Serverlös Inferens
 
-6\. **Amount of SLA-compensation.** The amount of the SLA-compensation will be 50 (fifty) times Berget’s service fees charged for the interrupted Service-item allocated for the period of time when the use of that Service-item was interrupted. The maximum SLA-compensation for an individual interruption shall be limited to an amount equal to the service fees charged by Berget for the interrupted Service-item during 30 (thirty) calendar days immediately preceding the interruption. The total sum of aggregated SLA-compensations during any 12-month period shall be limited to an amount equal to the average monthly service fee charged by Berget for the interrupted Service during that 12-month period multiplied by 2,5.
+Utnyttja kraften i världens ledande öppna språkmodeller utan att hantera infrastruktur.
 
-7\. **Sole Remedy.** The SLA-compensation set out above will be your sole remedy for any interruptions in the Service. In case of a disagreement over the amount of the SLA-compensation payable to the Customer, Berget’s decision on the issue will be binding on the Parties until and unless a competent court rules otherwise.
+*   Skapa konto på minuter
+*   OpenAI-kompatibelt API
+*   Skalar med dina behov
 
-8\. **Exemptions from Service Guarantee.** The following situations will be exempt from Berget’s service guarantee and thus not subject to SLA-compensation:
+### Dedikerad Inferens
 
-1.  Scheduled interruptions and deployment of important security updates and patches.
-2.  Force Majeure events.
-3.  Failures caused by errors in Third-Party Products utilised by the Customer within the Service.
-4.  Failures in products or services which are not part of the Service or provided by Berget.
-5.  Failures caused by the Customer’s actions contrary to user instructions or resulting from the Customer’s operating systems or application software used within the Service.
-6.  Interruptions in the Service relating to the Customer’s violation of or failure to comply with these Terms or a User’s violations of the Acceptable Use Policy.
-7.  Failures caused by hostile actions of third parties, such as denial-of-service attacks.
-8.  Interruptions relating to actions Berget is obliged to take pursuant to applicable laws or Governmental Authority’s orders.
-9.  Interruptions resulting from the Customer not having sufficient balance of Credits on the Account for the use of the Service at the time of the interruption.
+Coming Soon
+
+Kör valfri modell, inklusive dina egna finetunade modeller på dedikerad kapacitet.
+
+*   Privata instanser
+*   Skala med din applikation
+*   Dedikerade resurser
+
+### Berget AI-plattform
+
+Coming Soon
+
+Ta full kontroll med en intuitiv plattform designad för utveckling och driftsättning av AI-applikationer.
+
+*   Enkel användarupplevelse
+*   Transparent resurshantering
+*   Total kostnadskontroll
+
+[Läs mer](https://berget.ai/products)
+
+Fördelar med Berget AI
+----------------------
+
+Vi hjälper organisationer (inom offentlig och privat sektor) som vill utnyttja kraften i AI med full kontroll och minimal påverkan på planeten.
+
+### Suverän AI
+
+Kör modeller där all data stannar inom EU:s gränser, vår infrastruktur finns helt i Europa och är fullt förenlig med EU:s regelverk.
+
+*   Möjliggör AI- och datasuveränitet
+*   I linje med EU:s regelverk
+*   Full kontroll över din data
+
+### (verkligt) Öppen AI
+
+Vi är förespråkare för öppen innovation och vi driftar och tillhandahåller öppna modeller. Våra tjänster är helt byggda på öppen källkod.
+
+*   Öppna modeller
+*   Öppen källkod
+*   Öppen innovation
+
+### Hållbar AI
+
+Vår infrastruktur är byggd med fokus på hållbarhet – från fossilfri el till värmeåtervinning och cirkulär hårdvara.
+
+*   100% fossilfri energi
+*   CO₂-spårning
+*   Cirkulär hårdvara
+
+Varför behöver vi Berget?
+-------------------------
+
+Vi frågade några av Sveriges ledande experter inom juridik och datasäkerhet om varför en svensk molntjänst för AI och hantering av känslig data behövs.
+
+"Med en svensk molnleverantör minskar administrativt arbete och regulatorisk risk eftersom det inte finns någon tredjelandsöverföring, vilket eliminerar behovet av att hålla sig uppdaterad med regler för tredjelandsöverföring, adekvansbeslutet eller genomföra konsekvensbedömningar. Dessutom får du en leverantör som måste följa samma lagstiftning som gäller för dig, vilket innebär att mycket av dokumentationen kommer att förberedas av leverantören på ett sätt som redan är anpassat till svenska förhållanden."
+
+### Jim Runsten
+
+VD Synch Advokatbyrå
+
+"Bergets tillvägagångssätt med återanvänd hårdvara är smart ur både hållbarhets- och säkerhetsperspektiv. Genom att bygga systemet med antagandet att saker kan gå sönder minskas sårbarheten. Många av dagens cyberattacker utnyttjar det faktum att många servrar förblir orörda för länge utan viktiga säkerhetsuppdateringar."
+
+### Ann-Marie Eklund Löwinder
+
+en av Sveriges ledande IT-säkerhetsexperter
+
+"Data är idag en av de mest värdefulla tillgångarna som finns. Det är ett rimligt affärsbeslut att träna AI-modeller i tjänster som inte använder din data för att träna någon annans modeller."
+
+### André Catry
+
+Senior rådgivare inom IT/informationssäkerhet och cyberrisk, Kahn Pedersen Advokatbyrå
+
+Ingen data lämnar Sverige
+
+Regelefterlevnad på ett enkelt sätt
+-----------------------------------
+
+Oberoende, ingen legal exponering, ingen data sparas.
+
+### GDPR-efterlevnad
+
+Byggd för dataskydd och - integritet
+
+*   Data stannar inom EU
+*   Loggar för audits
+*   Dataminimering by design
+
+### NIS2-redo
+
+Uppfyller cybersäkerhetskrav för kritisk infrastruktur
+
+*   24/7 säkerhetsövervakning
+*   Incidenthanteringsplaner
+*   Regelbundna säkerhetsutvärderingar
+*   Säker leverantörskedja
+
+### Schrems kompatibel
+
+Ingen exponering för US Cloud Act
+
+*   Endast Infrastruktur i EU
+*   Ingen US-entitetsinblandning
+*   Du vet alltid var din data är
+*   Juridisk tydlighet
+
+Prisplaner för dina behov
+-------------------------
+
+Välj den plan som passar dig bäst
+
+### Trial
+
+API access
+
+Free
+
+[Kom igång](https://console.berget.ai/)
+
+€5 initial wallet credits
+
+Pay as you go (listpris)
+
+Tillgång till alla modeller
+
+Community support
+
+### Starter
+
+För det lilla projektet
+
+€25 / månad
+
+[Kom igång](https://console.berget.ai/)
+
+25€ refill per månad
+
+Automatisk billing
+
+Email-support
+
+Tillgång till alla modeller
+
+Säg upp när som helst
+
+### Developer
+
+För utvecklarteams
+
+€50 / månad
+
+[Kom igång](https://console.berget.ai/)
+
+55€ refill per månad
+
++10% extra Credits
+
+Prioriterad support
+
+Tillgång till alla modeller
+
+Bäst värde för pengarna
+
+### Enterprise
+
+När du ska skala upp
+
+€500 / månad
+
+[Kontakta Försäljning](https://berget.ai/contact)
+
+550€ refill per månad
+
++10% extra Credits
+
+Tillgång till alla modeller
+
+Dedikerad support
+
+[Se fullständig prislista](https://berget.ai/pricing)
