@@ -1,7 +1,21 @@
-Privacy
-=======
+Legal
 
-Updated DECEMBER 17, 2025
+Privacy Policy
+==============
+
+Updated December 17, 2025
+
+Table of contents
+
+[1\. Introduction](#1-introduction)
+
+[2\. Collecting and Using Your Personal Data](#2-collecting-and-using-your-personal-data)
+
+[2.3 Sharing of Your Personal Data](#23-sharing-of-your-personal-data)
+
+[2.4 Retention of Your Personal Data](#24-retention-of-your-personal-data)
+
+[2.5 Transfer of Your Personal Data](#25-transfer-of-your-personal-data)
 
 1\. Introduction
 ----------------
