@@ -5,6 +5,7 @@
 *   [Enterprise](https://lovable.dev/enterprise-landing)
 *   [Pricing](https://lovable.dev/pricing)
 *   [Community](https://lovable.dev/community)
+*   [Security](https://lovable.dev/security)
 
 Log inGet started
 
