@@ -1,7 +1,41 @@
+Legal
+
 Terms of Service
 ================
 
-Updated DECEMBER 17, 2025
+Updated December 17, 2025
+
+Table of contents
+
+[1\. Services](#1-services)
+
+[2\. Your Responsibilities](#2-your-responsibilities)
+
+[3\. Your Content](#3-your-content)
+
+[4\. Restrictions](#4-restrictions)
+
+[5\. Professional Services](#5-professional-services)
+
+[6\. Fees](#6-fees)
+
+[7\. Intellectual Property](#7-intellectual-property)
+
+[8\. DMCA Copyright Infringement Notices and Counternotices](#8-dmca-copyright-infringement-notices-and-counternotices)
+
+[9\. Confidentiality](#9-confidentiality)
+
+[10\. Term and Termination](#10-term-and-termination)
+
+[11\. Warranties and Disclaimers](#11-warranties-and-disclaimers)
+
+[12\. Indemnification](#12-indemnification)
+
+[13\. Limitation of Liability](#13-limitation-of-liability)
+
+[14\. General Terms](#14-general-terms)
+
+[15\. General Terms](#15-general-terms)
 
 Welcome to the website for Together AI, which is owned and operated by Together Computer, Inc., a Delaware corporation (the “Company,” “we,” or “us”). The Company has developed and makes available programmatic APIs and web interfaces to host, use, fine-tune, and train large AI models (the “Service(s)”). The Company may also provide training, migration, or other professional services to you (“Professional Support”).
 
@@ -127,3 +161,5 @@ https://blackforestlabs.ai/terms-of-service/
 Use of Services with NVIDIA Inference Microservices is subject to NVIDIA AI Enterprise terms: [_https://www.nvidia.com/en-us/agreements/enterprise-software/product-specific-terms-for-ai-products/_](https://www.nvidia.com/en-us/agreements/enterprise-software/product-specific-terms-for-ai-products/)_; and_ [_https://www.nvidia.com/en-us/agreements/enterprise-software/nvidia-software-license-agreement/_](https://www.nvidia.com/en-us/agreements/enterprise-software/nvidia-software-license-agreement/)‍
 
 [https://runware.ai/terms](https://runware.ai/terms)
+
+‍
