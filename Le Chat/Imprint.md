@@ -15,7 +15,7 @@ The publication director of the website at https://mistral.ai/ is Arthur Mensch,
 Hosting
 -------
 
-The company tasked with hosting the https://mistral.ai/ website is Vercel Inc, 650 California St, San Francisco, CA 94108, US.
+The company tasked with hosting the https://mistral.ai/ website is Netlify, Inc., located at 101 2nd Street, San Francisco, CA 94105. 
 
                                                                    ...::-=-.                  
                                                          ..:::-----------*%%*-:               
