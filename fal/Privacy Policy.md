@@ -1,8 +1,41 @@
+[Nano Banana 2 is here 🍌 4x faster, lower cost, better quality](https://fal.ai/models/fal-ai/nano-banana-2)
+
+![](/landing/bg-side-page.svg)![](/landing/bg-mobile-side-page.svg)
+
+[fal logo](https://fal.ai/)
+
+[Explore](https://fal.ai/models)[Documentation](https://docs.fal.ai/)[Pricing](https://fal.ai/pricing)[Enterprise](https://fal.ai/enterprise)[Research Grants](https://fal.ai/grants)
+
+[Contact Sales](https://fal.ai/enterprise#contact-sales)[Login](https://fal.ai/login)
+
+[](https://fal.ai/)
+
+[Model Gallery](https://fal.ai/models)[Documentation](https://docs.fal.ai/)[Pricing](https://fal.ai/pricing)[Enterprise](https://fal.ai/enterprise)[Research Grants](https://fal.ai/grants)
+
+[Get started](https://fal.ai/login)[Contact Sales](https://fal.ai/enterprise#contact-sales)
+
+Legal
+=====
+
+Legal Documents
+---------------
+
+[Terms of Service](https://fal.ai/legal/terms-of-service)
+
+### Supplemental Terms
+
+[API Services](https://fal.ai/legal/api-services)[Compute Infrastructure](https://fal.ai/legal/compute-infrastructure)
+
+[Privacy Policy](https://fal.ai/legal/privacy-policy)[Acceptable Use Policy](https://fal.ai/legal/acceptable-use-policy)
+
+Privacy Policy
+--------------
+
 **FAL PRIVACY POLICY**
 
-**Last Updated:** **April 20****th****, 2025**
+**Last Updated:** **April 20th, 2025**
 
-This Privacy Policy describes how fal - Features & Labels Inc. ("**fal**," "**we**," or "**us**") collects, uses, discloses, and otherwise processes information about you when you access or use our website, [https://fal.ai/](https://fal.ai/) and other online products and services that link to this Privacy Policy (collectively, our "**Services**") and when you otherwise interact with us such as through our customer support channels.
+This Privacy Policy describes how fal - Features & Labels Inc. ("**fal**," "**we**," or "**us**") collects, uses, discloses, and otherwise processes information about you when you access or use our website, [/](https://fal.ai/) and other online products and services that link to this Privacy Policy (collectively, our "**Services**") and when you otherwise interact with us such as through our customer support channels.
 
 fal's primary business offering is an AI-powered generative media platform for developers to integrate into their applications, though we also offer a version of our platform directly to individuals through our Services. If you are an enterprise user of the Services, and your use is governed by an enterprise contract, we handle your personal information as a service provider (sometimes called a "processor") on behalf of the enterprise customer. Personal information processed on behalf of our enterprise customers is therefore not subject to this Privacy Policy. If you are an enterprise user of our Services, please contact the enterprise customer who has provided you with access to our Services.
 
@@ -10,21 +43,21 @@ We may change this Privacy Policy from time to time. If we make changes, we will
 
 **CONTENTS**
 
-[Collection of Information](#CollectionofInformation)
+[Collection of Information](#collection-of-information)
 
-[Use of Information](#UseOfInformation)
+[Use of Information](#use-of-information)
 
-[Targeted Advertising and Analytics](#TargetedAdvertisingandAnalytics)
+[Targeted Advertising and Analytics](#targeted-advertising-and-analytics)
 
-[Disclosure of Information](#DisclosuresofInformation)
+[Disclosure of Information](#disclosure-of-information)
 
-[Your Choices](#YourPrivacyChoices)
+[Your Choices](#your-choices)
 
-[Additional Information for Individuals in Europe](#Europe)
+[Additional Information for Individuals in Europe](#additional-information-for-individuals-in-europe)
 
-[Contact Us](#ContactUs)
+[Contact Us](#contact-us)
 
-### COLLECTION OF INFORMATION
+##### [](#collection-of-information)COLLECTION OF INFORMATION
 
 The information we collect about you depends on how you use our Services or otherwise interact with us. In this section, we describe the categories of information we collect and the sources of this information.
 
@@ -38,7 +71,7 @@ We automatically collect information about your interactions with or us or our S
 
 *   **Transactional Information:** When you make a purchase, we collect information about the transaction, such as product details, purchase price, and the date and location of the transaction.
 *   **Device, Usage, and Activity Information:** We collect information about how you access our Services, including data about the device and network you use, such as your hardware model, operating system version, mobile network, IP address, unique device identifiers, and browser type. We also collect information about your activity on our Services, such as the route by which you access our Services, access dates and times and, browsing behavior (such as pages viewed and links clicked), and information about your activity on specific pages (such as mouse movements and keystrokes).
-*   **Information Collected by Cookies and Similar Tracking Technologies:** We use tracking technologies, such as cookies, pixels, and session replay technology to collect information about your interactions with the Services and our marketing communications. These technologies help us improve our Services and marketing communications, personalize your experience, and analyze your interactions with us, including to see which areas and features of our Services are popular and count visits. For more information see the [Targeted Advertising and Analytics](#TargetedAdvertisingandAnalytics) and the [Your Choices](#YourPrivacyChoices) sections below.
+*   **Information Collected by Cookies and Similar Tracking Technologies:** We use tracking technologies, such as cookies, pixels, and session replay technology to collect information about your interactions with the Services and our marketing communications. These technologies help us improve our Services and marketing communications, personalize your experience, and analyze your interactions with us, including to see which areas and features of our Services are popular and count visits. For more information see the [Targeted Advertising and Analytics](#targeted-advertising-and-analytics) and the [Your Choices](#your-choices) sections below.
 
 **Information We Collect from Other Sources**
 
@@ -50,28 +83,28 @@ Additionally, when you create or log into your fal account through a third-party
 
 We may derive information or draw inferences about you based on the information we collect. For example, we may infer your approximate location based on your IP address.
 
-### USE OF INFORMATION
+##### [](#use-of-information)USE OF INFORMATION
 
 We use the information we collect to provide, maintain, and improve the Services. We also use the information we collect to:
 
 *   Process and fulfill your orders;
 *   Personalize your experience with us;
 *   Send you technical notices, security alerts, support messages, and other transactional or relationship messages;
-*   Send you marketing communications such as newsletters, promotional materials, and other information that may interest you (see the [Your Choices](#YourPrivacyChoices) section below for information about how to opt out of these communications at any time);
+*   Send you marketing communications such as newsletters, promotional materials, and other information that may interest you (see the [Your Choices](#your-choices) section below for information about how to opt out of these communications at any time);
 *   Monitor and analyze trends, usage, and activities in connection with our products and services;
-*   Target advertisements to you on third-party platforms and websites (for more information and to opt out, see the [Targeted Advertising and Analytics](#TargetedAdvertisingandAnalytics) section below);
+*   Target advertisements to you on third-party platforms and websites (for more information and to opt out, see the [Targeted Advertising and Analytics](#targeted-advertising-and-analytics) section below);
 *   Detect, investigate, respond to, prosecute, and help protect against security incidents and other malicious, deceptive, fraudulent, or illegal activity, and help protect the rights and property of fal and others; and
 *   Comply with our legal and financial obligations.
 
-### TARGETED ADVERTISING AND ANALYTICS
+##### [](#targeted-advertising-and-analytics)TARGETED ADVERTISING AND ANALYTICS
 
 We engage others to provide analytics services, serve advertisements, and perform related services such as advertising fal to you on third-party sites and services. To do this, fal and these partners may use cookies, web beacons, pixels, SDKs, device identifiers, and other technologies to collect information about your use of our Services and other websites and mobile apps, including your IP address, web browser and mobile network information, pages viewed, time spent on pages, links clicked, order information, and conversion information. This information is used to deliver advertising targeted to you on other companies' sites or mobile apps, understand the effectiveness of this advertising, analyze and track data, determine the popularity of certain content, and better understand your activity.
 
-You can usually adjust your browser settings to remove or reject browser cookies. You may also learn more about interest-based ads, or opt out of having your web browsing information used for behavioral advertising purposes by companies that participate in the Digital Advertising Alliance, by visiting [www.aboutads.info/choices](http://www.aboutads.info/choices).
+You can usually adjust your browser settings to remove or reject browser cookies. You may also learn more about interest-based ads, or opt out of having your web browsing information used for behavioral advertising purposes by companies that participate in the Digital Advertising Alliance, by visiting [www.aboutads.info/choices](https://www.aboutads.info/choices).
 
-### DISCLOSURE OF INFORMATION
+##### [](#disclosure-of-information)DISCLOSURE OF INFORMATION
 
-We disclose personal information as described in the [Targeted Advertising and Analytics](#TargetedAdvertisingandAnalytics) section above and in the following scenarios:
+We disclose personal information as described in the [Targeted Advertising and Analytics](#targeted-advertising-and-analytics) section above and in the following scenarios:
 
 *   **Vendors and Service Providers**. We make personal information available to our vendors, service providers, contractors, and consultants who perform services on our behalf, such as companies that assist us with web hosting, GPU hosting, infrastructure, internal and external communication, payment processing, fraud prevention and security, customer service, analytics, service monitoring, and marketing.
 *   **Other Users of the Services**. If you are a member of a Team Account, other members of the Team Account may view billing information, API keys, and AI model requests (including any input and output data) associated with the Team Account.
@@ -83,7 +116,7 @@ We disclose personal information as described in the [Targeted Advertising and A
 
 We also disclose aggregated or de-identified information that cannot reasonably be used to identify you. We maintain and use this information only in a de-identified fashion and will not attempt to re-identify such information, except as permitted by law.
 
-### YOUR CHOICES
+##### [](#your-choices)YOUR CHOICES
 
 **Account Information**
 
@@ -91,13 +124,13 @@ You can access, correct, and delete certain information stored within your fal a
 
 **Cookies and Similar Tracking Technologies**
 
-We use cookies and similar tracking technologies, as [described above](#TargetedAdvertisingandAnalytics). You can usually adjust your browser settings to remove or reject browser cookies. Please note that removing or rejecting cookies could affect some of the functionality of our Services.
+We use cookies and similar tracking technologies, as [described above](#targeted-advertising-and-analytics). You can usually adjust your browser settings to remove or reject browser cookies. Please note that removing or rejecting cookies could affect some of the functionality of our Services.
 
 **Communications Preferences**
 
 You may opt out of receiving promotional emails from fal by following the instructions in those communications. If you opt out, we may still send you non-promotional emails, such as those about your account or purchases.
 
-### ADDITIONAL INFORMATION FOR INDIVIDUALS IN EUROPE
+##### [](#additional-information-for-individuals-in-europe)ADDITIONAL INFORMATION FOR INDIVIDUALS IN EUROPE
 
 If you are located in Europe, the following section applies to you.
 
@@ -130,6 +163,22 @@ For individuals in the UK: [https://ico.org.uk/global/contact-us/](https://ico.o
 
 For individuals in Switzerland: [https://www.edoeb.admin.ch/edoeb/en/home/the-fdpic/contact.html](https://www.edoeb.admin.ch/edoeb/en/home/the-fdpic/contact.html)
 
-### CONTACT US
+##### [](#contact-us)CONTACT US
 
 If you have questions about this Privacy Policy, please contact us at [support@fal.ai](mailto:support@fal.ai).
+
+#### Learn More
+
+[Status](https://status.fal.ai/)[About Us](https://fal.ai/about)[Documentation](https://docs.fal.ai/)[Careers](https://fal.ai/careers)[Pricing](https://fal.ai/pricing)[Blog](https://blog.fal.ai/)[Enterprise](https://fal.ai/enterprise)[Get in touch](mailto:support@fal.ai)[Gen Media Report 2026](https://fal.ai/gen-media-report-volume-1)[Grants](https://fal.ai/grants)[Learn](https://fal.ai/learn)[Legal](https://fal.ai/legal)[Report Content](https://fal.ai/report-content)
+
+Models[Flux 2](https://fal.ai/models/fal-ai/flux-2-flex)[Kling 3.0](https://fal.ai/models/fal-ai/kling-video/o3/standard/image-to-video)[Veo 3.1](https://fal.ai/models/fal-ai/veo3.1/first-last-frame-to-video)[Nano Banana Pro](https://fal.ai/models/fal-ai/nano-banana-pro/edit)[Explore More](https://fal.ai/models)
+
+#### Playgrounds
+
+[Sandbox](https://fal.ai/sandbox)[Workflows](https://fal.ai/workflows)[Training](https://fal.ai/models/fal-ai/flux-lora-fast-training)[Demos](https://fal.ai/demos)
+
+#### Socials
+
+[Discord](https://discord.gg/fal-ai)[GitHub](https://github.com/fal-ai)[Reddit](https://www.reddit.com/r/fal/)[Twitter](https://twitter.com/fal)[Linkedin](https://www.linkedin.com/company/features-and-labels/)[Instagram](https://www.instagram.com/madeonfal)[TikTok](https://www.tiktok.com/@madeonfal)
+
+features and labels, 2025. All Rights Reserved. [Terms of Service](https://fal.ai/legal/terms-of-service) and [Privacy Policy](https://fal.ai/legal/privacy-policy)
