@@ -1,4 +1,4 @@
-[Nano Banana 2 is here 🍌 4x faster, lower cost, better quality](https://fal.ai/models/fal-ai/nano-banana-2)
+[Run models all in one Sandbox 🏖️](https://fal.ai/sandbox)
 
 ![](/landing/bg-side-page.svg)![](/landing/bg-mobile-side-page.svg)
 
@@ -117,9 +117,9 @@ We may make changes to these Terms. The “_Last Updated_” date above indicate
         1.  terminate or suspend your access to all or part of the Services if your Customer Input is reasonably likely, in our sole determination, to violate applicable law or these Terms;
         2.  take any action with respect to your Customer Input that is necessary or appropriate, in Company’s sole discretion, to ensure compliance with applicable law and these Terms or to protect any third-party rights, including third-party intellectual property and privacy rights; or
         3.  cooperate fully with any law enforcement authorities or court order requesting or directing us to disclose the identity or other information of anyone submitting any materials on or through the Services.
-    7.  Your or your End Users’ use our API services is governed by our API Services Supplemental Terms located at [https://fal.ai/legal/api-terms](https://fal.ai/legal/api-terms).
+    7.  Your or your End Users’ use our API services is governed by our API Services Supplemental Terms located at [https://fal.ai/legal/api-services](https://fal.ai/legal/api-services).
         
-    8.  Your or your End Users’ use of our compute infrastructure services is governed by our Compute Infrastructure Supplemental Terms located at [https://fal.ai/legal/compute-terms](https://fal.ai/legal/compute-terms).
+    8.  Your or your End Users’ use of our compute infrastructure services is governed by our Compute Infrastructure Supplemental Terms located at [https://fal.ai/legal/compute-infrastructure](https://fal.ai/legal/compute-infrastructure).
         
 7.  **Acceptable Use** You agree to use our Services in the manner authorized by these Terms of Service and our Acceptable Use Policy located at [https://fal.ai/legal/acceptable-use](https://fal.ai/legal/acceptable-use). You agree that you will not use our Services other for their intended purpose, and that you will not use our Services in any manner that violates applicable laws or regulations.
     
