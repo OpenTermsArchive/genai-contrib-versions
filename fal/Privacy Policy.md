@@ -1,4 +1,4 @@
-[Nano Banana 2 is here 🍌 4x faster, lower cost, better quality](https://fal.ai/models/fal-ai/nano-banana-2)
+[Run models all in one Sandbox 🏖️](https://fal.ai/sandbox)
 
 ![](/landing/bg-side-page.svg)![](/landing/bg-mobile-side-page.svg)
 
