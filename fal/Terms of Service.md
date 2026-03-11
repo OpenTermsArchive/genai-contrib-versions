@@ -240,7 +240,7 @@ A court will have authority to enforce the bellwether and mediation processes de
 
 #### Learn More
 
-[Status](https://status.fal.ai/)[About Us](https://fal.ai/about)[Documentation](https://docs.fal.ai/)[Careers](https://fal.ai/careers)[Pricing](https://fal.ai/pricing)[Blog](https://blog.fal.ai/)[Enterprise](https://fal.ai/enterprise)[Get in touch](mailto:support@fal.ai)[Gen Media Report 2026](https://fal.ai/gen-media-report-volume-1)[Grants](https://fal.ai/grants)[Learn](https://fal.ai/learn)[Legal](https://fal.ai/legal)[Report Content](https://fal.ai/report-content)
+[Status](https://status.fal.ai/)[About Us](https://fal.ai/about)[Documentation](https://docs.fal.ai/)[Careers](https://fal.ai/careers)[Pricing](https://fal.ai/pricing)[Blog](https://blog.fal.ai/)[Enterprise](https://fal.ai/enterprise)[Get in touch](mailto:support@fal.ai)[Gen Media Report 2026](https://fal.ai/gen-media-report-volume-1)[Grants](https://fal.ai/grants)[Events](https://fal.ai/events)[Learn](https://fal.ai/learn)[Legal](https://fal.ai/legal)[Report Content](https://fal.ai/report-content)
 
 Models[Flux 2](https://fal.ai/models/fal-ai/flux-2-flex)[Kling 3.0](https://fal.ai/models/fal-ai/kling-video/o3/standard/image-to-video)[Veo 3.1](https://fal.ai/models/fal-ai/veo3.1/first-last-frame-to-video)[Nano Banana Pro](https://fal.ai/models/fal-ai/nano-banana-pro/edit)[Explore More](https://fal.ai/models)
 
