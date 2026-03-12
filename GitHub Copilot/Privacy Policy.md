@@ -1,7 +1,7 @@
 GitHub General Privacy Statement
 ================================
 
-View page as Markdown
+Copy as Markdown
 
 In this article
 ---------------
