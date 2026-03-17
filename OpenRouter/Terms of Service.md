@@ -1,7 +1,7 @@
 Terms of Service
 ================
 
-_Last Updated: March 12, 2026_
+_Last Updated: March 16, 2026_
 
 Welcome, and thank you for your interest in OpenRouter, Inc. (“**OpenRouter**,” “**we**,” or “**us**”) and our website at [https://openrouter.ai/](https://openrouter.ai/) (“**Site**”), along with our related websites, networks, applications, and other services provided by us (collectively, our “**Service**”). These Terms of Service are a legally binding contract between you and OpenRouter regarding your use of the Service.
 
@@ -130,7 +130,7 @@ As Red Teaming is a violation of many AI Model Terms, OpenRouter allows Red Team
 
 You may terminate your account at any time by contacting customer service at support@openrouter.ai. If you terminate your account, you remain obligated to pay all outstanding fees, if any, incurred prior to termination relating to your use of the Service. If you violate any provision of these Terms, your permission from us to use the Service will terminate automatically, and any unused Credits will not be refunded.
 
-In addition, OpenRouter may in its sole discretion terminate your user account on the Service or suspend or terminate your access to the Service at any time for any reason or no reason, with or without notice. We also reserve the right to modify or discontinue the Service at any time (including by limiting or discontinuing certain features of the Service), temporarily or permanently, without notice to you. We will have no liability whatsoever on account of any change to the Service or any suspension or termination of your access to or use of the Service. Except for OpenRouter's termination of your account for violation of these Terms, any Credits remaining in your account upon termination will be refunded to you through your original payment method within thirty (30) days of termination.
+In addition, OpenRouter may in its sole discretion terminate your user account on the Service or suspend or terminate your access to the Service at any time for any reason or no reason, with or without notice. We also reserve the right to modify or discontinue the Service at any time (including by limiting or discontinuing certain features of the Service), temporarily or permanently, without notice to you. We will have no liability whatsoever on account of any change to the Service or any suspension or termination of your access to or use of the Service. If you are an Enterprise customer, any Credits remaining in your account upon termination will be refunded to you through your original payment method within thirty (30) days of termination unless OpenRouter has terminated your account for violation of these Terms.
 
 ### 9\. Privacy Policy; Additional Terms
 
