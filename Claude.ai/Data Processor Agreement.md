@@ -22,11 +22,11 @@ A.6. **"GDPR"** means Regulation (EU) 2016/679.
 
 A.7. **"Security Breach"** means a breach of Anthropic’s security leading to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or unauthorized access to, Customer Personal Data.
 
-A.8. **"Standard Contractual Clauses"** or **“SCCs”** means Module Two (controller to processor) or Module Three (processor to processor) of the Standard Contractual Clauses for the transfer of personal data to third countries pursuant to Regulation (EU) 2016/679 of the European Parliament and the Council approved by European Commission Implementing Decision (EU) 2021/914 of 4 June 2021, available at [https://eurlex.europa.eu/eli/dec\_impl/2021/914/oj](https://eurlex.europa.eu/eli/dec_impl/2021/914/oj).
+A.8. **"Standard Contractual Clauses"** or **“SCCs”** means Module Two (controller to processor) or Module Three (processor to processor) of the Standard Contractual Clauses for the transfer of personal data to third countries pursuant to Regulation (EU) 2016/679 of the European Parliament and the Council approved by European Commission Implementing Decision (EU) 2021/914 of 4 June 2021, available at https://eurlex.europa.eu/eli/dec\_impl/2021/914/oj.
 
 A.9. **"Subprocessor"** means an entity engaged by Anthropic to process Customer Personal Data.
 
-A.10. **“UK Addendum”** means the International Data Transfer Addendum to the SCCs, issued by the Information Commissioner under S119A(1) Data Protection Act 2018, available at [https://ico.org.uk/media/for-organisations/documents/4019539/international-data-transfer-addendum.pdf](https://ico.org.uk/media/for-organisations/documents/4019539/international-data-transfer-addendum.pdf)).
+A.10. **“UK Addendum”** means the International Data Transfer Addendum to the SCCs, issued by the Information Commissioner under S119A(1) Data Protection Act 2018, available at [https://ico.org.uk/media2/migrated/4019538/international-data-transfer-agreement.pdf](https://ico.org.uk/media2/migrated/4019538/international-data-transfer-agreement.pdf)).
 
 A.11. The terms **“personal data”**, **“data subject”**, **“processing”**, **“controller”**, and **“processor”** as used in this DPA have the meanings given by Applicable Data Protection Laws or, absent any such meaning or law, by GDPR.
 
