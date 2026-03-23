@@ -301,6 +301,16 @@ Sana Labs AB, reg. no. 559060–6579 E-mail: [legal@sanalabs.com](mailto:legal@s
 
 [](https://sanalabs.com/)
 
+UTM Term
+
+UTM Source
+
+UTM Campaign
+
+UTM Medium
+
+UTM Content
+
 **Sana**
 
 *   [Overview](https://sanalabs.com/products/sana)
