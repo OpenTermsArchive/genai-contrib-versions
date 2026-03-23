@@ -407,6 +407,7 @@ View our Data Processing Agreement here: [www.lovable.dev/data-processing-agree
 *   [Videos](https://lovable.dev/videos)
 *   [Blog](https://lovable.dev/blog)
 *   [Support](https://lovable.dev/support)
+*   [Reviews](https://lovable.dev/reviews)
 
 ### Legal
 
