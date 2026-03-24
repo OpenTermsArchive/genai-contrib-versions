@@ -418,6 +418,7 @@ View our Data Processing Agreement here: [www.lovable.dev/data-processing-agree
 *   [Report abuse](https://lovable.dev/abuse)
 *   [Report security concerns](https://lovable.dev/security)
 *   [DPA](https://lovable.dev/data-processing-agreement)
+*   [Enterprise terms](https://lovable.dev/legal)
 
 ### Community
 
