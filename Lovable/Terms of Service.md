@@ -910,6 +910,7 @@ Address: 1111B South Governors Avenue, Dover, DE 19904, USA
 *   [Report abuse](https://lovable.dev/abuse)
 *   [Report security concerns](https://lovable.dev/security)
 *   [DPA](https://lovable.dev/data-processing-agreement)
+*   [Enterprise terms](https://lovable.dev/legal)
 
 ### Community
 
