@@ -905,12 +905,12 @@ Address: 1111B South Governors Avenue, Dover, DE 19904, USA
 
 *   [Privacy policy](https://lovable.dev/privacy)
 *   [Cookie settings](https://lovable.dev/do-not-sell-or-share-my-personal-information)
-*   [Terms of Service](https://lovable.dev/terms)
+*   [Enterprise terms](https://lovable.dev/legal)
+*   [General terms](https://lovable.dev/terms)
 *   [Platform rules](https://lovable.dev/platform-rules)
 *   [Report abuse](https://lovable.dev/abuse)
 *   [Report security concerns](https://lovable.dev/security)
 *   [DPA](https://lovable.dev/data-processing-agreement)
-*   [Enterprise terms](https://lovable.dev/legal)
 
 ### Community
 
