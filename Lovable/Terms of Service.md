@@ -371,7 +371,7 @@ We respect intellectual property rights and comply with the Digital Millennium C
 
 Our designated agent for DMCA notices is:
 
-*   **Email:** [feedback@lovable.dev](mailto:feedback@lovable.dev)
+*   **Email:** [\[email protected\]](https://lovable.dev/cdn-cgi/l/email-protection)
 *   **Address:** 1111B South Governors Avenue, Dover, DE 19904, USA
 
 If your content has been removed in response to a DMCA notice and you believe this was in error, you may send us a counter-notice that complies with the DMCA. Upon receipt of a valid counter-notice, we may reinstate the material in accordance with the DMCA.
@@ -386,7 +386,7 @@ In accordance with the DMCA and other applicable law, we have adopted a policy o
 
 You may use the Services only if:
 
-*   you are at least eighteen (18) years old or the age of majority in your jurisdiction and have the legal capacity to enter into a binding contract. The Services are not intended for individuals under the age of eighteen (18), and we do not knowingly collect or solicit personal data from anyone under this age. If we discover that we have collected personal data from a minor without verifiable parental consent, we will promptly delete that information. If you believe we may have collected such data, please contact us at [privacy@lovable.dev](mailto:privacy@lovable.dev).
+*   you are at least eighteen (18) years old or the age of majority in your jurisdiction and have the legal capacity to enter into a binding contract. The Services are not intended for individuals under the age of eighteen (18), and we do not knowingly collect or solicit personal data from anyone under this age. If we discover that we have collected personal data from a minor without verifiable parental consent, we will promptly delete that information. If you believe we may have collected such data, please contact us at [\[email protected\]](https://lovable.dev/cdn-cgi/l/email-protection).
 
 OR
 
@@ -401,7 +401,7 @@ We may provide notices to you (including changes to these Terms, updates to our 
 
 All legal notices to us must be sent to:
 
-*   Email: [feedback@lovable.dev](mailto:feedback@lovable.dev)
+*   Email: [\[email protected\]](https://lovable.dev/cdn-cgi/l/email-protection)
 *   Address: 1111B South Governors Avenue, Dover, DE 19904, USA
 
 Notices sent by email are deemed received when sent; notices sent by mail are deemed received three (3) business days after mailing.
@@ -435,7 +435,7 @@ If any provision of these Terms is found invalid or unenforceable, the remaining
 
 **Contact information**
 
-Email: [feedback@lovable.dev](mailto:feedback@lovable.dev)  
+Email: [\[email protected\]](https://lovable.dev/cdn-cgi/l/email-protection)  
 Address: 1111B South Governors Avenue, Dover, DE 19904, USA
 
 Version:
@@ -796,7 +796,7 @@ We respect intellectual property rights and comply with the Digital Millennium C
 
 Our designated agent for DMCA notices is:
 
-*   **Email:** [feedback@lovable.dev](mailto:feedback@lovable.dev)
+*   **Email:** [\[email protected\]](https://lovable.dev/cdn-cgi/l/email-protection)
 *   **Address:** 1111B South Governors Avenue, Dover, DE 19904, USA
 
 If your content has been removed in response to a DMCA notice and you believe this was in error, you may send us a counter-notice that complies with the DMCA. Upon receipt of a valid counter-notice, we may reinstate the material in accordance with the DMCA.
@@ -811,7 +811,7 @@ In accordance with the DMCA and other applicable law, we have adopted a policy o
 
 You may use the Services only if:
 
-*   you are at least eighteen (18) years old or the age of majority in your jurisdiction and have the legal capacity to enter into a binding contract. The Services are not intended for individuals under the age of eighteen (18), and we do not knowingly collect or solicit personal data from anyone under this age. If we discover that we have collected personal data from a minor without verifiable parental consent, we will promptly delete that information. If you believe we may have collected such data, please contact us at [privacy@lovable.dev](mailto:privacy@lovable.dev).
+*   you are at least eighteen (18) years old or the age of majority in your jurisdiction and have the legal capacity to enter into a binding contract. The Services are not intended for individuals under the age of eighteen (18), and we do not knowingly collect or solicit personal data from anyone under this age. If we discover that we have collected personal data from a minor without verifiable parental consent, we will promptly delete that information. If you believe we may have collected such data, please contact us at [\[email protected\]](https://lovable.dev/cdn-cgi/l/email-protection).
 
 OR
 
@@ -826,7 +826,7 @@ We may provide notices to you (including changes to these Terms, updates to our 
 
 All legal notices to us must be sent to:
 
-*   Email: [feedback@lovable.dev](mailto:feedback@lovable.dev)
+*   Email: [\[email protected\]](https://lovable.dev/cdn-cgi/l/email-protection)
 *   Address: 1111B South Governors Avenue, Dover, DE 19904, USA
 
 Notices sent by email are deemed received when sent; notices sent by mail are deemed received three (3) business days after mailing.
@@ -860,7 +860,7 @@ If any provision of these Terms is found invalid or unenforceable, the remaining
 
 **Contact information**
 
-Email: [feedback@lovable.dev](mailto:feedback@lovable.dev)  
+Email: [\[email protected\]](https://lovable.dev/cdn-cgi/l/email-protection)  
 Address: 1111B South Governors Avenue, Dover, DE 19904, USA
 
 [](https://lovable.dev/)
@@ -900,6 +900,7 @@ Address: 1111B South Governors Avenue, Dover, DE 19904, USA
 *   [Blog](https://lovable.dev/blog)
 *   [Support](https://lovable.dev/support)
 *   [Reviews](https://lovable.dev/reviews)
+*   [FAQs](https://lovable.dev/faq)
 
 ### Legal
 
