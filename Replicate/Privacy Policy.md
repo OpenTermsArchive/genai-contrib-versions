@@ -1,5 +1,5 @@
 Privacy policy
---------------
+==============
 
 **Last Updated: November 14, 2024**
 
