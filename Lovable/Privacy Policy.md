@@ -413,7 +413,8 @@ View our Data Processing Agreement here: [www.lovable.dev/data-processing-agree
 ### Legal
 
 *   [Privacy policy](https://lovable.dev/privacy)
-*   [Cookie settings](https://lovable.dev/do-not-sell-or-share-my-personal-information)
+*   [Do not sell or share my personal information](https://lovable.dev/do-not-sell-or-share-my-personal-information)
+*   [Cookie settings](https://lovable.dev/cookie-policy)
 *   [Enterprise terms](https://lovable.dev/legal)
 *   [General terms](https://lovable.dev/terms)
 *   [Platform rules](https://lovable.dev/platform-rules)
