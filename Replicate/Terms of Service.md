@@ -1,5 +1,5 @@
-Terms of Service
-----------------
+Terms of service
+================
 
 Last Update: November 24, 2025
 
