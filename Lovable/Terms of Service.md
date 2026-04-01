@@ -896,6 +896,7 @@ Address: 1111B South Governors Avenue, Dover, DE 19904, USA
 *   [Learn](https://docs.lovable.dev/introduction/welcome)
 *   [Templates](https://lovable.dev/templates)
 *   [Guides](https://lovable.dev/guides)
+*   [Connectors](https://lovable.dev/connect)
 *   [Videos](https://lovable.dev/videos)
 *   [Blog](https://lovable.dev/blog)
 *   [Support](https://lovable.dev/support)
@@ -911,7 +912,7 @@ Address: 1111B South Governors Avenue, Dover, DE 19904, USA
 *   [General terms](https://lovable.dev/terms)
 *   [Platform rules](https://lovable.dev/platform-rules)
 *   [Report abuse](https://lovable.dev/abuse)
-*   [Report security concerns](https://lovable.dev/security)
+*   [Report security concerns](https://lovable.dev/security-issues)
 *   [DPA](https://lovable.dev/data-processing-agreement)
 
 ### Community
