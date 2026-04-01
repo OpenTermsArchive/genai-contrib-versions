@@ -404,6 +404,7 @@ View our Data Processing Agreement here: [www.lovable.dev/data-processing-agree
 *   [Learn](https://docs.lovable.dev/introduction/welcome)
 *   [Templates](https://lovable.dev/templates)
 *   [Guides](https://lovable.dev/guides)
+*   [Connectors](https://lovable.dev/connect)
 *   [Videos](https://lovable.dev/videos)
 *   [Blog](https://lovable.dev/blog)
 *   [Support](https://lovable.dev/support)
@@ -419,7 +420,7 @@ View our Data Processing Agreement here: [www.lovable.dev/data-processing-agree
 *   [General terms](https://lovable.dev/terms)
 *   [Platform rules](https://lovable.dev/platform-rules)
 *   [Report abuse](https://lovable.dev/abuse)
-*   [Report security concerns](https://lovable.dev/security)
+*   [Report security concerns](https://lovable.dev/security-issues)
 *   [DPA](https://lovable.dev/data-processing-agreement)
 
 ### Community
