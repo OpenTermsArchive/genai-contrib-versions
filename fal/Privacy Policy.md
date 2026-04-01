@@ -179,6 +179,6 @@ Models[Flux 2](https://fal.ai/models/fal-ai/flux-2-flex)[Kling 3.0](https://fal.
 
 #### Socials
 
-[Discord](https://discord.gg/fal-ai)[GitHub](https://github.com/fal-ai)[Reddit](https://www.reddit.com/r/fal/)[Twitter](https://twitter.com/fal)[Linkedin](https://www.linkedin.com/company/features-and-labels/)[Instagram](https://www.instagram.com/madeonfal)[TikTok](https://www.tiktok.com/@madeonfal)
+[Discord](https://discord.gg/fal-ai)[GitHub](https://github.com/fal-ai)[Reddit](https://www.reddit.com/r/fal/)[Twitter](https://twitter.com/fal)[LinkedIn](https://www.linkedin.com/company/features-and-labels/)[YouTube](https://www.youtube.com/@Fal.AI.Official)[Instagram](https://www.instagram.com/madeonfal)[TikTok](https://www.tiktok.com/@madeonfal)
 
 features and labels, 2025. All Rights Reserved. [Terms of Service](https://fal.ai/legal/terms-of-service) and [Privacy Policy](https://fal.ai/legal/privacy-policy)
