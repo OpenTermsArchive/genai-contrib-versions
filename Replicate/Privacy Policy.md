@@ -1,9 +1,9 @@
 Privacy policy
 ==============
 
-**Last Updated: November 14, 2024**
+**Last Updated: April 1, 2026**
 
-At Replicate, Inc. (“**Replicate**”, “**we**”, “**us**”, or “**our**”), we are committed to protecting your personal information and your right to privacy. We want you to be fully informed about the information we collect, how it is used, shared, and protected, and the choices you have with it and explain the privacy and data practices at Replicate.
+At Replicate, LLC. (“**Replicate**”, “**we**”, “**us**”, or “**our**”), we are committed to protecting your personal information and your right to privacy. We want you to be fully informed about the information we collect, how it is used, shared, and protected, and the choices you have with it and explain the privacy and data practices at Replicate.
 
 This privacy policy (the “**Policy**”) applies to all information collected through our website located at [https://www.Replicate.com](https://www.replicate.com/) (the “**Website**”) and/or any related services, sales, marketing or events (we refer to all of these collectively in this Policy as the (collectively, "**Services**").
 
@@ -128,7 +128,7 @@ We may revise this Policy from time to time. Review it occasionally so that you 
 
 If you have any questions about our privacy or security practices, or if you would like to request access to or correction of your personal information, you can contact Replicate by mail, telephone, or e-mail:
 
-Replicate, Inc.  
-2261 Market Street #4056  
-San Francisco, CA 94114  
+Replicate, LLC.  
+101 Townsend Street  
+San Francisco, CA 94107  
 [privacy@replicate.com](mailto:privacy@replicate.com)
