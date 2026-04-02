@@ -167,6 +167,11 @@ For individuals in Switzerland: [https://www.edoeb.admin.ch/edoeb/en/home/the-fd
 
 If you have questions about this Privacy Policy, please contact us at [support@fal.ai](mailto:support@fal.ai).
 
+Ready to transform your enterprise with AI?
+-------------------------------------------
+
+[Contact Sales](https://fal.ai/enterprise#contact-sales)
+
 #### Learn More
 
 [Status](https://status.fal.ai/)[About Us](https://fal.ai/about)[Documentation](https://docs.fal.ai/)[Careers](https://job-boards.greenhouse.io/fal)[Pricing](https://fal.ai/pricing)[Blog](https://blog.fal.ai/)[Enterprise](https://fal.ai/enterprise)[Get in touch](mailto:support@fal.ai)[Gen Media Report 2026](https://fal.ai/gen-media-report-volume-1)[Grants](https://fal.ai/grants)[Events](https://fal.ai/events)[Learn](https://fal.ai/learn)[Legal](https://fal.ai/legal)[Report Content](https://fal.ai/report-content)
