@@ -109,7 +109,7 @@ To exercise your rights, you or an authorized agent may submit a request by emai
 *   **Automated decision-making**: Anthropic does not engage in decision making based solely on automated processing or profiling in a manner which produces a legal effect (i.e., impacts your legal rights) or significantly affects you in a similar way (e.g., significantly affects your financial circumstances or ability to access essential goods or services).
 *   **Sale & targeted Anthropic marketing of its products and services**. Anthropic does not “sell” your personal data as that term is defined by applicable laws and regulations. You can opt-out of sharing your personal data for targeted advertising to promote our products and services, and we will honor global privacy controls. To learn more, [click here](https://www.anthropic.com/legal/cookies).
 
-Anthropic gives you access to a variety of tools to help you manage your data. You can access these in your [Privacy Settings](https://claude.ai/redirect/website.v1.e2dfed55-57d6-4309-9702-cec560ee5c8c/settings/privacy).
+Anthropic gives you access to a variety of tools to help you manage your data. You can access these in your [Privacy Settings](https://claude.ai/redirect/website.v1.5df17921-8b36-4a41-92b9-385d822b559b/settings/privacy).
 
 5\. Data Transfers
 ------------------
