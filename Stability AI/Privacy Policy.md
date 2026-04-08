@@ -212,7 +212,7 @@ Stability AI is unlocking the power of open-source generative AI to expand human
 
 #### Applications
 
-[Dream Studio](https://dreamstudio.stability.ai/)
+[Brand Studio](https://stability.ai/brandstudio)
 
 [Stable Audio](https://stableaudio.com/)
 
