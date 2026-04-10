@@ -3,7 +3,7 @@ Terms of Service
 
 Effective: July 31, 2025 (see [previous versions](https://stability.ai/prior-tos))
 
-Welcome to Stability AI!   By accessing or using our Services, you agree to these Terms of Service (“Terms”), which govern your access to and use of Dream Studio, Stable Audio, Stable Assistant, Stable Artisan, Stability’s Application Programming Interface (“API”) and our websites, and any associated software applications, and any underlying technologies, along with any future apps or services that link to these Terms (together, our “Services”).  These Terms include our [Acceptable Use Policy](https://stability.ai/use-policy).  Please also read our [Privacy Policy](https://stability.ai/privacypolicy), which describes how we process personal data.  
+Welcome to Stability AI!   By accessing or using our Services, you agree to these Terms of Service (“Terms”), which govern your access to and use of Brand Studio, Stable Audio, Stable Assistant, Stable Artisan, Stability’s Application Programming Interface (“API”) and our websites, and any associated software applications, and any underlying technologies, along with any future apps or services that link to these Terms (together, our “Services”).  These Terms include our [Acceptable Use Policy](https://stability.ai/use-policy).  Please also read our [Privacy Policy](https://stability.ai/privacypolicy), which describes how we process personal data.  
 
 **IMPORTANT ARBITRATION NOTICE**:  IF YOU ARE IN THE UNITED STATES OR CANADA, YOU AGREE THAT DISPUTES BETWEEN YOU AND STABILITY WILL BE RESOLVED BY BINDING, INDIVIDUAL ARBITRATION AND YOU WAIVE YOUR RIGHT TO PARTICIPATE IN A CLASS ACTION LAWSUIT OR CLASS-WIDE ARBITRATION.  WE EXPLAIN SOME EXCEPTIONS AND HOW YOU CAN OPT OUT BELOW IN SECTION 13.  
 
@@ -26,7 +26,7 @@ Stability AI (“Stability”) is a multi-modal generative AI company that devel
 
 ### **3\. Using our Services**
 
-**a. Compliance**.  You may access and use our Services only in compliance with our Terms, our [Acceptable Use Policy](https://stability.ai/use-policy), and supplemental terms or guidelines we may post on our Services.  In the event of any conflict between these Terms and any other Stability or third-party terms applicable to any portion of our technology, such as open source license terms, those other terms will control for that portion of the Stability technology and to the extent of any conflict.
+**a. Compliance**. You may access and use our Services only in compliance with our Terms, our [Acceptable Use Policy](https://stability.ai/use-policy), and supplemental terms or guidelines we may post on our Services.  In the event of any conflict between these Terms and any other Stability or third-party terms applicable to any portion of our technology, such as open source license terms, those other terms will control for that portion of the Stability technology and to the extent of any conflict.
 
 **b. Use Restrictions**. You may not access or use, or help another person to access or use our Services in any of the following circumstances:
 
@@ -63,7 +63,7 @@ You may submit text, images, or other inputs or prompts (“Inputs”) to our Se
 
 ### **5\. Supplementary Resources (e.g., LoRAs)**.
 
-_To the extent you are using Dream Studio, this Section 5 applies to you, but it does not apply to all other “Services.”_  For users of Dream Studio, you may have the ability to train and share parameter-efficient supplementary resources, including Low-Rank Adaptations (“LoRAs”), Weight-Decomposed Low-Rank Adaptations (“DoRAs”), Bi-Dimensional Weight-Decomposed Low-Rank Adaptations (“BoRAs”), or similar technologies (collectively, “LoRAs”), on our Services. 
+_To the extent you are using Brand Studio, this Section 5 applies to you, but it does not apply to all other “Services.”_  For users of Brand Studio, you may have the ability to train and share parameter-efficient supplementary resources, including Low-Rank Adaptations (“LoRAs”), Weight-Decomposed Low-Rank Adaptations (“DoRAs”), Bi-Dimensional Weight-Decomposed Low-Rank Adaptations (“BoRAs”), or similar technologies (collectively, “LoRAs”), on our Services. 
 
 **a. For Trainers of LoRAs**
 
@@ -71,15 +71,13 @@ _To the extent you are using Dream Studio, this Section 5 applies to you, but it
     
 2.  **Sharing your LoRA**.  If you choose to share your LoRA, 
     
-
-1.  you grant to Stability a nonexclusive, worldwide, irrevocable, royalty-free license to host, use, reproduce, and make available  to others on the Services; and 
-    
-2.  you grant to users of your model a nonexclusive, worldwide, irrevocable, royalty-free license to use, store, and create derivative works from your LoRA and its output.  
-    
-3.  you must ensure that any information you publish about your LoRA is complete, accurate, and not misleading.
-    
-
-4.  **Removal**.  Stability may remove your LoRA from Dream Studio at any time, for any reason, without notice.
+    1.  you grant to Stability a nonexclusive, worldwide, irrevocable, royalty-free license to host, use, reproduce, and make available  to others on the Services; and 
+        
+    2.  you grant to users of your model a nonexclusive, worldwide, irrevocable, royalty-free license to use, store, and create derivative works from your LoRA and its output.  
+        
+    3.  you must ensure that any information you publish about your LoRA is complete, accurate, and not misleading.
+        
+3.  **Removal**.  Stability may remove your LoRA from Brand Studio at any time, for any reason, without notice.
     
 
 **b. For Users of LoRAs**.  You should only use LoRAs that you trust.  These LoRAs are user-generated and may be removed by either the trainer or Stability at any time without notice.  If you encounter a LoRA that appears to violate our policies or applicable law, please report it to us.
@@ -134,7 +132,7 @@ We have implemented the procedures described in the Digital Millennium Copyright
 
 We will terminate or disable your use of our website in appropriate circumstances if we deem you to be a repeat copyright infringer.
 
-**Notices must be sent to****:**
+**Notices must be sent to:**
 
 Attn:  Stability Designated Agent
 
@@ -190,7 +188,7 @@ YOU AND STABILITY AGREE TO THE FOLLOWING MANDATORY ARBITRATION AND CLASS ACTION 
 
 **b. Opt Out.**  You may opt-out and not be bound by the arbitration and class action waiver provisions by emailing a written notice of your decision to opt-out to [legal@stability.ai](mailto:legal@stability.ai).  The notice must be sent within 30 days of account creation or within 30 days of any updates to these arbitration terms having taken effect.  If you opt out of an update, the previous agreed upon arbitration terms will apply, and you will remain bound to arbitrate under that agreement.
 
-**c. Informal dispute resolution**.  Before taking legal action, we both agree to try to resolve any disputes informally by email.  You can contact us at [legal@stability.ai](mailto:legal@stability.ai).  If we cannot resolve the issue within 60 days, either of us can start the arbitration process.  During this 60-day period, if either of us requests a meeting to discuss a settlement, we both agree to attend.  If a party is represented by counsel, the party’s counsel may participate in the conference, but both parties (you and Stability) shall also fully participate in the conference.  Any statute of limitations will be tolled while we try to resolve issues through this informal process.  Engaging in this informal dispute resolution process is a requirement that must be fulfilled before commencing arbitration. An arbitration shall be dismissed if it was filed without fully and completely complying with these informal dispute resolution procedures. If an arbitration is dismissed because a party willfully failed to comply with these informal dispute resolution procedures, the arbitrator may order the non-compliant party to pay any arbitration filing fees and costs incurred by the other party.
+**c. Informal dispute resolution**.  Before taking legal action, we both agree to try to resolve any disputes informally by email.  You can contact us at [legal@stability.ai](mailto:legal@stability.ai). If we cannot resolve the issue within 60 days, either of us can start the arbitration process.  During this 60-day period, if either of us requests a meeting to discuss a settlement, we both agree to attend.  If a party is represented by counsel, the party’s counsel may participate in the conference, but both parties (you and Stability) shall also fully participate in the conference.  Any statute of limitations will be tolled while we try to resolve issues through this informal process.  Engaging in this informal dispute resolution process is a requirement that must be fulfilled before commencing arbitration. An arbitration shall be dismissed if it was filed without fully and completely complying with these informal dispute resolution procedures. If an arbitration is dismissed because a party willfully failed to comply with these informal dispute resolution procedures, the arbitrator may order the non-compliant party to pay any arbitration filing fees and costs incurred by the other party.
 
 **d. Arbitration forum**.  If we are unable to resolve the dispute, either of us may begin arbitration with National Arbitration and Mediation (“NAM”) under its Comprehensive Dispute Resolution Rules and Procedures and/or Supplemental Rules for Mass Arbitration Filings ([here](https://www.namadr.com/resources/rules-fees-forms/)).  
 
