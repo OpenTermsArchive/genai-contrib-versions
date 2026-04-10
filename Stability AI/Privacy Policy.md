@@ -3,7 +3,7 @@ Privacy Policy
 
 Effective: July 31, 2025 (see [previous versions](https://stability.ai/prior-pp))
 
-Stability AI (“Stability”) is a multi-modal generative AI company providing products and services you can use to create and generate content or Outputs (as defined below).  This Privacy Policy explains how we collect, use, and when we may disclose your personal data when you use our website, applications, and other places where Stability acts as a _data controller_ – for example, when you interact with our applications such as Dream Studio or Stable Audio, or our Application Programming Interface (“API”) (collectively, our “Services”).
+Stability AI (“Stability”) is a multi-modal generative AI company providing products and services you can use to create and generate content or Outputs (as defined below).  This Privacy Policy explains how we collect, use, and when we may disclose your personal data when you use our website, applications, and other places where Stability acts as a _data controller_ – for example, when you interact with our applications such as Brand Studio or Stable Audio, or our Application Programming Interface (“API”) (collectively, our “Services”).
 
 ### **1\. Collection of Personal Data**
 
