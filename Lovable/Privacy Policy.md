@@ -1,15 +1,14 @@
 [](https://lovable.dev/)
 
-*   Solutions
-*   Resources
-*   [Enterprise](https://lovable.dev/enterprise-landing)
-*   [Pricing](https://lovable.dev/pricing)
-*   [Community](https://lovable.dev/community)
-*   [Security](https://lovable.dev/security)
-
-Log inGet started
+Get started
 
 [](https://lovable.dev/)
+
+*   Solutions
+*   Resources
+*   [Community](https://lovable.dev/community)
+*   [Pricing](https://lovable.dev/pricing)
+*   [Security](https://lovable.dev/security)
 
 Log inGet started
 
