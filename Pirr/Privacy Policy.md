@@ -2,13 +2,15 @@
 
 [Team](https://www.pirr.ai/team)
 
-[FAQs](https://www.pirr.ai/faqs)
+[Events](https://pirr.as.me/schedule/82a2cfdb)
 
 [Press](https://www.pirr.ai/press-1)
 
 [Contact](https://www.pirr.ai/contact)
 
 [Premium](https://www.pirr.ai/premium)
+
+[FAQs](https://www.pirr.ai/faqs)
 
 ![](https://images.squarespace-cdn.com/content/v1/6012f8400bfcfd193b1f8436/e5f2aac1-b875-4928-a96a-d3ae97c79836/pexels-cottonbro-studio-4009363.jpg)
 
