@@ -1,11 +1,11 @@
 Service Level Agreement
 =======================
 
-**Last Updated:** 2025-03-24
+**Last Updated:** 2025-10-16
 
 1\. **Scope.** This service level agreement (“SLA”) is an integral part of the Agreement between Berget and the Customer. This SLA does not apply to: (i) Free Trials; (ii) Berget website (iii) serverless inference services
 
-2\. **Service Guarantee.** Subject to the exemptions set out in Sections 1 and 8 of this SLA, we will guarantee you the availability of the Services. For all unscheduled interruptions in the provision of the Service that last longer than five (5) minutes, you will be entitled to an SLA-compensation in accordance with this SLA. The availability guarantee is applied on a per Service-item basis and is not applicable to such Service-items that are not directly affected by the interruption. For example, if you have five virtual servers and one of them is unavailable, the SLA-compensation will be calculated based on that one server’s downtime and not based on your entire Service portfolio.
+2\. **Service Guarantee.** Subject to the exemptions set out in Sections 1 and 8 of this SLA, we will guarantee you the availability of the Services. For all unscheduled interruptions in the provision of the Service that last longer than five (5) minutes, you will be entitled to an SLA-compensation in accordance with this SLA. The availability guarantee is applied on a per Service-item basis and is not applicable to such Service-items that are not directly affected by the interruption. For example, if you have five kubernetes clusters and one of them is unavailable, the SLA-compensation will be calculated based on that one cluster downtime and not based on your entire Service portfolio.
 
 3\. **Scheduled Interruptions.** We will notify you by e-mail or by publishing a notice on Berget’s website about scheduled interruptions in the provision of the Service at least 24 hours prior to the interruption, with the exception of important security updates and patches which we may deploy without prior notice.
 
