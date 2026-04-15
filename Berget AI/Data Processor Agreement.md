@@ -1,5 +1,7 @@
 Data Processing Agreement
-=========================
+-------------------------
+
+**Last updated:** 2026-04-08
 
 1\. Scope
 ---------
@@ -156,6 +158,10 @@ Therefore Berget considers some of its Affiliates as subprocessors regardless of
 
 The following list describes in which cases Berget Affiliates will be utilised in the provision of the Services:
 
-*   GetGeek AB (Org nr: 559073-1039), provides services to Berget AI AB with regards to network and server design and operations and support
-    
 *   Acebit AB (Org nr: 559265-3538), provides services to Berget AI AB with regards to network and server design and operations and support
+    
+*   Toriv AB (Org nr: 559052-0937), provides services to Berget AI AB with regards to network and server design and operations and support
+    
+*   Obenet AB (Org nr: 556898-6763), provides colocation services to Berget AI AB
+    
+*   Stripe Payments Europe, Limited (“SPEL”), processes payments for customers using card payments
