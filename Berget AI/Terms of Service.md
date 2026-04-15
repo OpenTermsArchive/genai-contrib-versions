@@ -1,7 +1,7 @@
 Terms of Service
 ================
 
-**Latest updated:** 2025-03-24
+**Latest updated:** 2025-10-16
 
 1.  Scope
     -----
@@ -70,9 +70,9 @@ When used in these Terms of Service, the definitions below have the following me
 4\. Service Account
 -------------------
 
-4.1. To use the Service you have to register and create a service account (“Account”). You can create multiple sub-accounts under the Account. When registering to the Service, and at any time during the term of the Agreement, you must provide true, accurate and complete information as required by Berget, and keep your information up-to-date. If you provide inaccurate, incomplete or fraudulent information, we have the right to suspend and/or terminate your access to and use of the Service in accordance with Section 13 below.
+4.1. To use the Service you have to register and create a service account (“Account”). When registering to the Service, and at any time during the term of the Agreement, you must provide true, accurate and complete information as required by Berget, and keep your information up-to-date. If you provide inaccurate, incomplete or fraudulent information, we have the right to suspend and/or terminate your access to and use of the Service in accordance with Section 13 below.
 
-4.2. After you have created the Account, you and the Users can setup and provision services - such actions are considered Orders. You will be responsible for all Orders made under your Account, whether by you, the Users, or your systems automatically. You will be responsible for the payment of all service fees based on the Orders made under your Account. Berget will be deemed to have accepted the Order if Berget supplies the ordered Service. We reserve the right to limit or restrict your ability to place Orders.
+4.2. After you have created the Account, you and the Users can setup and provision services - such actions are considered Orders. You will be responsible for all Orders made under your Account, whether by you, the Users, or your systems automatically. You will be responsible for the payment of all service fees based on the Orders made under your Account. Berget will be deemed to have accepted the Order if Berget supplies the ordered Service. We reserve the right to limit or restrict your ability to place Orders. We can also reject any order, impose qoutas and throttle usage. We may also delay provisioning for risk. compliance, capacity or security reasons.
 
 4.3. You will be liable for all activities conducted in the Service under your Account, including any actions taken by the Users. You must comply, and you must ensure that the Users comply with the AUP and all user instructions relating to the Service. You will be responsible for any violations of the AUP or the user instructions by the Users.
 
@@ -94,13 +94,15 @@ When used in these Terms of Service, the definitions below have the following me
 
 6.3. We will strive to correct possible deficiencies in the Service, but if such correction is not commercially reasonable for Berget and the deficiency has a material effect on your use of the Service, you have the right to terminate the deficient Service.
 
-6.4. You are entitled to compensation for unscheduled interruptions in the provision of the Service in accordance with the SLA. The SLA-compensations will be paid in the form of service credits and may not be exchanged for cash or other forms of payment.
+6.4. If you use services with an attached SLA, you are entitled to compensation for unscheduled interruptions in the provision of the Service in accordance with the SLA. The SLA-compensations will be paid in the form of service credits and may not be exchanged for cash or other forms of payment.
 
 6.5. In all other respects the Service is provided on “as-is” and “as-available” basis, and Berget will not give the Customer any warranty or guarantee, express or implied, for the Service, its merchantability, fitness for any particular purpose, performance, or non-infringement. The Service is not designed to be error-free or uninterrupted and therefore it is neither intended nor fit for purposes that require fail-safe performance. The remedies set forth in this Section 6 will be your sole and exclusive remedies for any defects, deficiencies or interruptions in the Service.
 
 6.6 Berget maintains commercially reasonable business continuity and disaster recovery measures designed to restore the availability of the Service in the event of an incident. While Berget does not guarantee uninterrupted service, we implement redundant infrastructure and regular data backups for core systems, excluding Customer Data unless otherwise agreed in writing.
 
 6.7 Berget applies industry-standard technical and organizational measures to secure its infrastructure, including encryption in transit, network isolation, access controls, and system monitoring. Berget is actively working toward ISO 27001 certification to formalize its information security management system. More information about our security practices is available upon request.
+
+6.8 Using AI Models carries certain risks including but not limited to hallucinations, unsafe or biased outputs accuracy/completeness of outputs, third-party model behavior, benchmark/performance variability, compatibility of models across versions. Berget does not guarantee 3rd party model output, outputs may be outputs may be inaccurate, incomplete, offensive, or unsuitable, customer must evaluate outputs before use, customer is responsible for human review where appropriate.
 
 7\. Data Retention
 ------------------
@@ -146,20 +148,24 @@ Support access channels are depending on your monthly plan and we provide suppor
 
 11.1. The rates applicable to the Service are available on Berget’s website at [https://berget.ai](https://berget.ai/) and shown in the Control Panel when ordering the Service.
 
-The actual service fee will be determined based on your use of the Service as defined by reserved resources. Unless otherwise agreed, we will charge the Service on an hourly basis, meaning you will pay a service fee in advance for each 60-minute period that you use the Service.
+For resource based services, the actual service fee will be determined based on your use of the Service as defined by reserved resources. Unless otherwise agreed, we will charge the Service on an hourly basis, meaning you will pay a service fee in advance for each 60-minute period that you use the Service.
 
 Serverless Inference services are charged on a per token basis, prices are on a per model basis - updated prices for API calls are always available at [https://berget.ai/pricing/](https://berget.ai/pricing/)
 
+Other services can be charged per seat, per feature or other metrics and usually billed on a monthly basis.
+
 11.2. Applicable value added tax (VAT) and other applicable duties and taxes will be added to the prices, unless the prices are specified “VAT inclusive”.
 
-11.3. Berget has the right to increase the prices at any time by providing at least 30 (thirty) days’ advance notice to the Customer.
+11.3. Berget has the right to adjust the prices at any time by providing at least 30 (thirty) days’ advance notice to the Customer.
 
 12\. Payment Terms and Service Credits
 --------------------------------------
 
-12.1. Unless otherwise agreed in writing, we will charge the Service by debiting prepaid Credits from your Account. The Credits are non-refundable and non-transferable unless otherwise decided by Berget at its sole discretion. Through your Account, you can download invoices for the Credits you have purchased.
+12.1. Unless otherwise agreed in writing, we will charge the Service by debiting prepaid Credits from your Account. The Credits are non-refundable and non-transferable unless otherwise decided by Berget at its sole discretion. Through your Account, you can download invoices for the Credits you have purchased. Credtis have no cash value, are not legal tender, deposit, stored value, or electronic money. Credits are are only a contractual prepayment mechanism for Services and may not be redeemed except where mandatory law requires.
 
-12.2. To use the Service, you must have a positive Credit balance on your Account. It is your responsibility to ensure that you have sufficient amount of Credits deposited on your Account at all times to cover the service fees associated with the Service you have subscribed for.
+12.2. To use the Service, you must have a positive Credit balance on your Account. It is your responsibility to ensure that you have sufficient amount of Credits deposited on your Account at all times to cover the service fees associated with the Service you have subscribed for. You can configure your account to auto-top-up to avoid service interuptions.
+
+Unused credits are rolled over to the next billing period and are generally valid for 12 months - after which any unused credits will be voided. Credits can be charged for features, seats / users, resources and inference services - each service and service bundle specifies pricing and pricing mechanism.
 
 If your Credit balance runs out (zero or negative balance), we have the right to suspend your use of the Service. If you do not remedy the negative or zero balance and deposit Credits to your Account within a reasonable time determined by Berget (at a minimum fourteen (14) days), we will consider the Agreement terminated and will close your Account.
 
@@ -368,6 +374,9 @@ Customer: the customer contact email provided when creating the Account.
 31\. Governing Law and Arbitration
 ----------------------------------
 
-31.1. The Agreement will be governed by the substantive laws of Sweden, with the exception of any conflict of law principles. Any dispute, controversy or claim arising out of or relating to the Agreement, or the breach, termination or validity thereof, shall be finally settled by arbitration in accordance with the Arbitration Rules of the Stockholm Chamber of Commerce. The seat of arbitration shall be Stockholm, Sweden, and the language of the arbitration shall be English.
+31.1. The Agreement will be governed by the substantive laws of Sweden, with the exception of any conflict of law principles. Any dispute, controversy or claim arising out of or relating to the Agreement, or the breach, termination or validity thereof, shall be finally settled by either
+
+*   For Swedish customers - Swedish court
+*   For non Swedish based customers - arbitration in accordance with the Arbitration Rules of the Stockholm Chamber of Commerce. The seat of arbitration shall be Stockholm, Sweden, and the language of the arbitration shall be English.
 
 31.2. Notwithstanding the above, Berget may file any debt collection action against the Customer for any outstanding amounts payable by the Customer under the Agreement in any court of competent jurisdiction in the Customer’s domicile.
