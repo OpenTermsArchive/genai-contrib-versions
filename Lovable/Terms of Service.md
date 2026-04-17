@@ -911,6 +911,7 @@ Address: 1111B South Governors Avenue, Dover, DE 19904, USA
 *   [Enterprise terms](https://lovable.dev/legal)
 *   [General terms](https://lovable.dev/terms)
 *   [Desktop app terms](https://lovable.dev/desktop-app-terms)
+*   [Domain registration terms](https://lovable.dev/domain-registration-terms)
 *   [Platform rules](https://lovable.dev/platform-rules)
 *   [Report abuse](https://lovable.dev/abuse)
 *   [Report security concerns](https://lovable.dev/security-issues)
