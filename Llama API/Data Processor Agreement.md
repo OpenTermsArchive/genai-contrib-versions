@@ -1,11 +1,17 @@
+[Legal Home](https://forwork.meta.com/ie/legal/)
+
+[Meta for Work Legal](https://forwork.meta.com/ie/legal/meta-for-work/)
+
+Meta Horizon Managed Solutions List of Sub-Processors and Subcontractors
+
 Meta Horizon Managed Solutions List of Sub-Processors and Subcontractors
 ========================================================================
 
-Effective date: 13 November 2023
+Effective from 13 November 2023
 
-Data centre infrastructure
+Data Center Infrastructure
 
-| Entity | Processing location |
+| Entity | Processing Location |
 | --- | --- |
 | Andale, Inc. | United States |
 | Cassin Networks Aps | Denmark |
@@ -29,7 +35,7 @@ Data centre infrastructure
 
 Meta Affiliates
 
-| Entity | Processing location |
+| Entity | Processing Location |
 | --- | --- |
 | Meta Canada Ltd | Canada |
 | Meta France Sarl | France |
