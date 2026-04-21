@@ -1,4 +1,4 @@
-[Seedance 2.0 by ByteDance is now live on fal! 🚀](https://fal.ai/models/bytedance/seedance-2.0/fast/text-to-video)
+[Seedance 2.0 is now on fal! 🚀](https://fal.ai/models/bytedance/seedance-2.0/image-to-video)
 
 ![](/landing/bg-side-page.svg)![](/landing/bg-mobile-side-page.svg)
 
