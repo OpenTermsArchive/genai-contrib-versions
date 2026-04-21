@@ -1,15 +1,17 @@
 DeepSeek Open Platform Terms of Service
 =======================================
 
-> Last Update: March 27, 2026
+> Release date: April 22, 2026
+> 
+> Effective date: April 29, 2026
 
 Dear developers, welcome to the DeepSeek Open Platform!
 
-The DeepSeek Open Platform is owned and operated by Hangzhou DeepSeek Artificial Intelligence Co., Ltd.(hereinafter referred to as **"DeepSeek"** or **"we"**). The "DeepSeek Open Platform Terms of Service" (hereinafter referred to as **"these Terms"**) serves as a Specific Agreement to the "[**DeepSeek Terms of Use**](https://cdn.deepseek.com/policies/en-US/deepseek-terms-of-use.html)" and specifically applies to your use of the application programming interface or other developer tools provided by this platform as an individual developer or on behalf of an enterprise developer (hereinafter referred to as **"developer"** or **"****you****"**) for developing applications, services, or tools for internal organizational use or end users.
+The DeepSeek Open Platform is owned and operated by Hangzhou DeepSeek Artificial Intelligence Co., Ltd.(hereinafter referred to as **"DeepSeek"** or **"we"**). The "DeepSeek Open Platform Terms of Service" (hereinafter referred to as **"these Terms"**) serves as a Specific Agreement to the "[DeepSeek Terms of Use](https://cdn.deepseek.com/policies/en-US/deepseek-terms-of-use.html)" and specifically applies to your use of the application programming interface or other developer tools provided by this platform as an individual developer or on behalf of an enterprise developer (hereinafter referred to as **"developer"** or **"****you****"**) for developing applications, services, or tools for internal organizational use or end users.
 
-Before using the DeepSeek Open Platform services (hereinafter referred to as "the Services"), please carefully read and understand the "[**DeepSeek Terms of Use**](https://cdn.deepseek.com/policies/en-US/deepseek-terms-of-use.html)", these Terms and any other relevant agreements, policies, or guidelines supplementary to this platform, which constitute the terms and conditions you must adhere to when using the DeepSeek Open Platform. We particularly advise you to read (minors under the age of 18 shall read in the presence of a legal guardian) and fully understand all these Terms.
+Before using the DeepSeek Open Platform services (hereinafter referred to as "the Services"), please carefully read and understand the "[DeepSeek Terms of Use](https://cdn.deepseek.com/policies/en-US/deepseek-terms-of-use.html)", these Terms and any other relevant agreements, policies, or guidelines supplementary to this platform, which constitute the terms and conditions you must adhere to when using the DeepSeek Open Platform. We particularly advise you to read (minors under the age of 18 shall read in the presence of a legal guardian) and fully understand all these Terms.
 
-Please be aware that by clicking confirmation on the web page, checking a box, or any other means indicating your consent to "[**DeepSeek Terms of Use**](https://cdn.deepseek.com/policies/en-US/deepseek-terms-of-use.html)", these Terms or by actually using our Services, it indicates that we have reached an agreement on these Terms and other relevant agreements, and you have accepted all the terms and applicable conditions mentioned, agreeing to be bound by these Terms. If you do not agree with any part of these Terms or cannot accurately understand our interpretation of the terms in these Terms, please click disagree or cease using this Service.
+Please be aware that by clicking confirmation on the web page, checking a box, or any other means indicating your consent to "[DeepSeek Terms of Use](https://cdn.deepseek.com/policies/en-US/deepseek-terms-of-use.html)", these Terms or by actually using our Services, it indicates that we have reached an agreement on these Terms and other relevant agreements, and you have accepted all the terms and applicable conditions mentioned, agreeing to be bound by these Terms. If you do not agree with any part of these Terms or cannot accurately understand our interpretation of the terms in these Terms, please click disagree or cease using this Service.
 
 Services
 --------
@@ -25,14 +27,14 @@ Services
 Accounts
 --------
 
-2.1 The Open Platform Service and the chat service use the same account. You should register, log in, and use the account according to the requirements of the "[**DeepSeek Terms of Use**](https://cdn.deepseek.com/policies/en-US/deepseek-terms-of-use.html)", and comply with the legal regulations and account management requirements in the "[**DeepSeek Terms of Use**](https://cdn.deepseek.com/policies/en-US/deepseek-terms-of-use.html)".
+2.1 The Open Platform Service and the chat service use the same account. You should register, log in, and use the account according to the requirements of the "[DeepSeek Terms of Use](https://cdn.deepseek.com/policies/en-US/deepseek-terms-of-use.html)", and comply with the legal regulations and account management requirements in the "[DeepSeek Terms of Use](https://cdn.deepseek.com/policies/en-US/deepseek-terms-of-use.html)".
 
 2.2 The API key you create through your account is a necessary credential for calling the open platform API interface. Please keep your created API key securely, prevent any form of leakage, do not share or publicly disclose your API key with others, and do not expose it in browser or other client-side code. You will be solely responsible for any fees incurred and losses caused by sharing or leaking the API key.
 
 Requirements and Restrictions
 -----------------------------
 
-3.1 As a user of this Open Platform Service, you should procure that both of you and your end users comply with the requirements of the "[**DeepSeek Terms of Use**](https://cdn.deepseek.com/policies/en-US/deepseek-terms-of-use.html)" (especially regarding user conduct norms), adhering to principles of voluntariness, equality, fairness, and good faith, without violating any applicable law, not using this service to infringe upon the legitimate rights and interests of others or to seek improper gains, and not disrupting the normal order of the internet platform.
+3.1 As a user of this Open Platform Service, you should procure that both of you and your end users comply with the requirements of the "[DeepSeek Terms of Use](https://cdn.deepseek.com/policies/en-US/deepseek-terms-of-use.html)" (especially regarding user conduct norms), adhering to principles of voluntariness, equality, fairness, and good faith, without violating any applicable law, not using this service to infringe upon the legitimate rights and interests of others or to seek improper gains, and not disrupting the normal order of the internet platform.
 
 3.2 The DeepSeek Open Platform provides neutral, basic model technology services. These Services are only a part of the downstream systems, applications, or functions in the value chain and cannot determine the intended purpose and use of the Services. As the provider and operator of downstream systems, applications, or functions, you are responsible for these systems, applications, or functions. You must assume the corresponding legal responsibilities and obligations, and establish agreements with your end users regarding their rights and obligations. It is also your duty to regulate and manage the usage behavior of end users.
 
@@ -58,7 +60,19 @@ Intellectual Property, Personal Data and Other Rights
 
 5.2 Without our permission, you or your end users shall not use any trademarks, service marks, trade names, domain names, website names, company logos (LOGOs), URLs, or other prominent brand features related to the Services, including but not limited to "DeepSeek," etc., in any way, either singly or in combination. You are not allowed to display, use, or apply for registration of trademarks, domain names, etc., related to the aforementioned terms in any way, and you shall not perform acts that expressly or implicitly indicate the right to display, use, or otherwise deal with these identifiers to others.
 
-5.3 We will collect and process the personal information you provide as the data subject in accordance with the "[**DeepSeek Privacy Policy**](https://cdn.deepseek.com/policies/en-US/deepseek-privacy-policy.html)". However, when your end users access downstream systems, applications, or functions that you've developed based on the open platform, the processing rules for their collected personal information are not covered by this privacy policy. As the controller of personal information processing activities in that scenario, you should disclose the relevant privacy policy to your end users.
+5.3 You shall not engage in the following improper uses of our brand identifiers, including but not limited to:
+
+(1) Implying in any form the existence of a joint venture, partnership, controlling relationship, agency, franchise, or other special relationship with us that exceeds the relationship between a technology provider and an API user;
+
+(2) Placing our name, logo, or model name prominently or using it side by side with your own logo in your products, services, websites, promotional materials, bidding documents, or business proposals, so as to mislead others into believing that you are our co-creator, contributor, investor, or brand endorser;
+
+(3) Describing the relationship between the parties using misleading terms such as “official cooperation”, “strategic partner”, “authorized cooperation”, “certified integrator”, “officially endorsed/recommended by DeepSeek”, or similar expressions;
+
+(4) Associating our brand elements with content or scenarios that are illegal or non‑compliant, contrary to public order and good morals, politically sensitive, vulgar, pornographic, gambling‑related, violent, or infringe upon third‑party rights.
+
+5.4 If you breach any provision of this Section, such breach shall constitute a fundamental breach regardless of whether it causes us actual damages. We reserve the right to unilaterally terminate the Agreement, forfeit any unconsumed balance in your account, hold you liable for breach of contract, and require you to issue a public statement confirming that no special cooperative relationship exists between the parties.
+
+5.5 We will collect and process the personal information you provide as the data subject in accordance with the "[DeepSeek Privacy Policy](https://cdn.deepseek.com/policies/en-US/deepseek-privacy-policy.html)". However, when your end users access downstream systems, applications, or functions that you've developed based on the open platform, the processing rules for their collected personal information are not covered by this privacy policy. As the controller of personal information processing activities in that scenario, you should disclose the relevant privacy policy to your end users.
 
 Fee and Payment
 ---------------
@@ -76,13 +90,11 @@ Disclaimer of Warranties, Limitations of Liability, and Indemnity
 
 7.1 You acknowledge and agree that you
 
-(a) shall procure and guarantee that your end users shall comply with the requirements of these Terms as well as [DeepSeek Terms of Use](https://cdn.deepseek.com/policies/en-US/deepseek-terms-of-use.html), adhering to principles of voluntariness, equality, fairness, and good faith, without violating any applicable law, not using this service to infringe upon the legitimate rights and interests of others or to seek improper gains, and not disrupting the normal order of the internet platform;
+(a) shall procure and guarantee that you and your end users shall adhere to principles of voluntariness, equality, fairness, and good faith, without violating any applicable law, not using this service to infringe upon the legitimate rights and interests of others or to seek improper gains, and not disrupting the normal order of the internet platform;
 
-(b) shall be jointly and severally liable for end users' breach of the Section 7.1 (a).
+(b) shall be jointly and severally liable for any losses and damaged caused to us arising out of or relating to end users' breach of the Section 7.1 (a).
 
-(c) in the event any disputes arises between you and any end users, such disputes shall be solely resolved between you and such end users, and you shall release DeepSeek from any and all such disputes;
-
-(d) DeepSeek makes no representations or warranties whatsoever, and shall not be liable for any damages, liabilities, losses (including any loss of data or profits), or any other consequences that you may incur arising out of or in relation to your end users' usage of the Open Platform Services.
+(c) to the extent permitted by applicanble law, in the event any disputes arises between you and any end users, such disputes shall be solely resolved between you and such end users, and you shall release DeepSeek from any and all such disputes.
 
 7.2 DeepSeek reserves the right to independently judge and take measures against you, including issuing warnings, setting deadlines for correction, restricting account functions, restricting or suspending usage, locking or closing accounts, prohibiting re-registration, deleting relevant content, etc., without the need for prior notification, if DeepSeek believes or determines that:
 
@@ -108,7 +120,11 @@ We have the right to announce the results of the actions taken and, based on the
 
 (5) WITH RESPECT TO THIRD PARTY OFFERINGS.
 
-7.5 You agree to indemnify, defend, and hold us and our affiliates and licensors (if any) harmless against any liabilities, damages, and costs (including reasonable attorneys' fees) payable to a third party arising out of a breach by you or any user of your account of these Terms, your violation of all applicable laws and regulations or third party rights, your fraud or other illegal acts, or your intentional misconduct or gross negligence, to the extent permiteed by the applicable law.
+7.5 Under no circumstances shall we be liable for any inaccessibility, disruption, divulge, delay, suspension or error of the Services, information and data arising from network connection failures, power outages, strikes, labor disputes, riots, insurrections, civil disturbances, fires, floods, storms, explosions, force majeure, acts of war, governmental actions, orders of international or domestic courts, hacking attacks, Internet viruses, technical adjustments by network operators, temporary government controls, or any other causes beyond our reasonable control.
+
+7.6 We may launch new features from time to time. You are advised that services may be unstable during the testing period of such new features. Unless otherwise expressly provided by law, we do not guarantee the stability or other aspects of features in the testing phase.
+
+7.7 You agree to indemnify, defend, and hold us and our affiliates and licensors (if any) harmless against any liabilities, damages, and costs (including reasonable attorneys' fees) payable to a third party arising out of a breach by you or any user of your account of these Terms, your violation of all applicable laws and regulations or third party rights, your fraud or other illegal acts, or your intentional misconduct or gross negligence, to the extent permiteed by the applicable law.
 
 AI Generated content
 --------------------
@@ -132,7 +148,7 @@ Governing Law and Jurisdiction
 Miscellaneous
 -------------
 
-11.1 Your acceptance of these Terms includes acceptance of any modifications DeepSeek makes to any term at any time. We have the right to modify these Terms at any time, and the updated Terms will be announced through appropriate channels such as the official website. In order to provide you with better services or to comply with changes in national laws, regulations, policy adjustments, technical conditions, product functionalities, and other requirements, we may revise these Terms from time to time. The revised content will form an integral part of these Terms. Once announced, it replaces the original terms. Please refer to the latest version of these Terms on the official website. If you do not accept the modified terms, please stop using the Service immediately. Your continued usage of the Service will be considered as your acceptance of the modified terms.  
+11.1 We have the right to modify these Terms at any time, and the updated Terms will be announced through appropriate channels such as the official website. In order to provide you with better services or to comply with changes in national laws, regulations, policy adjustments, technical conditions, product functionalities, and other requirements, we may revise these Terms from time to time. The revised content will form an integral part of these Terms and shall take effect seven (7) days after release. Please refer to the latest version of these Terms on the official website. If you do not accept the modified terms, please stop using the Service immediately. Your continued usage of the Service will be considered as your acceptance of the modified terms.  
 11.2 If you notice any violation of laws and regulations or breach of these Terms or you have any opinions or suggestions regarding these Terms or the Service, please contact us through the following methods or directly contact our sales staff:  
 Online Complaints and Feedback Portal: Click the “Contact us” button on the product interface after logging in.  
 Contact Email: [api-service@deepseek.com](mailto:api-service@deepseek.com)
