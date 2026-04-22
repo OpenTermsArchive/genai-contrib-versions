@@ -1,4 +1,4 @@
-[Seedance 2.0 is now on fal! 🚀](https://fal.ai/models/bytedance/seedance-2.0/image-to-video)
+[Chat GPT Images 2.0 is now on fal! 🚀](https://fal.ai/models/openai/gpt-image-2/edit)
 
 ![](/landing/bg-side-page.svg)![](/landing/bg-mobile-side-page.svg)
 
@@ -249,7 +249,7 @@ Ready to transform your enterprise with AI?
 
 [Status](https://status.fal.ai/)[About Us](https://fal.ai/about)[Documentation](https://docs.fal.ai/)[Careers](https://job-boards.greenhouse.io/fal)[Pricing](https://fal.ai/pricing)[Blog](https://blog.fal.ai/)[Enterprise](https://fal.ai/enterprise)[Get in touch](mailto:support@fal.ai)[Gen Media Report 2026](https://fal.ai/gen-media-report-volume-1)[Grants](https://fal.ai/grants)[Events](https://fal.ai/events)[Learn](https://fal.ai/learn)[Legal](https://fal.ai/legal)[Report Content](https://fal.ai/report-content)
 
-Models[Seedance 2.0](https://fal.ai/seedance-2.0)[Flux 2](https://fal.ai/models/fal-ai/flux-2-flex)[Kling 3.0](https://fal.ai/models/fal-ai/kling-video/o3/standard/image-to-video)[Veo 3.1](https://fal.ai/models/fal-ai/veo3.1/first-last-frame-to-video)[Nano Banana Pro](https://fal.ai/models/fal-ai/nano-banana-pro/edit)[Explore More](https://fal.ai/models)
+Models[ChatGPT Images 2.0](https://fal.ai/gpt-image-2)[Seedance 2.0](https://fal.ai/seedance-2.0)[Flux 2](https://fal.ai/models/fal-ai/flux-2-flex)[Kling 3.0](https://fal.ai/models/fal-ai/kling-video/o3/standard/image-to-video)[Veo 3.1](https://fal.ai/models/fal-ai/veo3.1/first-last-frame-to-video)[Nano Banana Pro](https://fal.ai/models/fal-ai/nano-banana-pro/edit)[Explore More](https://fal.ai/models)
 
 #### Playgrounds
 
