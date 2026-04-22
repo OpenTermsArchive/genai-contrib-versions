@@ -1,6 +1,8 @@
+ 
+
 Privacy Notice![](images/image1.png)
 
-Last updated:  21 August 2025
+Last updated:  22 April 2026
 
 * * *
 
@@ -22,9 +24,25 @@ We only use your personal data for the purposes specified in this Privacy Notice
     =====================================
     
 
+Data protection laws often distinguish between “controllers” and  “processors” of personal information. While some laws may use different terminology, the core concept remains the same. A controller decides why and how personal information is handled. A processor only handles personal information on behalf of a controller, following their instructions. Depending on the situation, Sana can be either a controller or a processor.
+
 If you are a User of a Company Subscriber, we process your personal data in the capacity of data processor or service provider, when providing our services to our customer that is a company subscriber (i.e., the entity that invited you to use the service, for example, your employer). In relation to such processing, the company subscriber is data controller or business and hence responsible for providing information to you about its processing of personal data and addressing your rights as a data subject. We will endeavor to provide assistance to our customers to address any concerns you may have in accordance with the terms of our contract with such customer. Additionally, for any deidentified data that we collect from you on behalf of our customer or receive directly from a customer in our role as a data processor or service provider, we commit to processing that deidentified data only in a deidentified fashion and will not attempt to re-identify personal data.
 
-Sana is the data controller for the processing of your personal data other than when we act as a processor or service provider on behalf of a customer that is a company subscriber, as described above. Sana is responsible for ensuring that the processing is carried out in accordance with applicable legislation. If you have any questions regarding the processing of your personal data, you will find our contact details at the end of this Privacy Notice.
+Sana is the data controller for the processing of your personal data other than when we act as a processor or service provider on behalf of a customer that is a company subscriber, as described above. Sana is responsible for ensuring that the processing is carried out in accordance with applicable legislation. If you have any questions regarding the processing of your personal data, you will find our contact details at the end of this Privacy Notice. This Privacy Notice only applies when Sana is acting as a controller or joint controller for your personal information.
+
+Joint Controllership with Workday
+
+For certain activities—specifically relating to integrated services and joint marketing campaigns regarding products, services and events from Workday—Sana acts as a joint controller with Workday, Inc. and Workday Limited (collectively, “Workday”). Depending on your location, either Workday Limited (if you are in the EEA, UK, or Switzerland) or Workday, Inc. (for all other individuals) shares responsibility with Sana for protecting your personal data.
+
+As between Workday and Sana, Workday serves as the primary point of contact and is primarily responsible for:
+
+*   Preparing and providing you with the primary privacy notice regarding these joint activities;
+*   Fulfilling any requests you make to exercise your data protection rights;
+*   Ensuring appropriate technical and organizational security measures are implemented on their systems;
+*   Reporting any personal data breaches that may occur within their infrastructure in accordance with data protection law; and
+*   Ensuring appropriate safeguards have been implemented in respect of any international transfers of personal information they facilitate.
+
+Sana and Workday cooperate closely to ensure full compliance with data protection principles. While we encourage you to contact Workday primarily for questions regarding these joint activities (contact details are available in [Workday’s Privacy Statement](https://www.workday.com/en-us/privacy.html#who-is-responsible-for-your-personal-info)), you retain the right under the GDPR to exercise your rights against either Sana or Workday.
 
 2.  Our use of your personal data
     =============================
@@ -38,7 +56,7 @@ Sana is the data controller for the processing of your personal data other than
     ===============================
     
 
-The personal data that we process about you is data that you have provided us with or that we have otherwise acquired as part of the provision of our services. We collect personal data:
+The personal data that we process about you is data that you have provided us with or that we have otherwise acquired as part of the provision of our services. We collect personal data in the following events:
 
 *   Business with company subscriber: If you are a User of a Company Subscriber, when we initiate a business relationship with a new company subscriber;
 *   Account Creation: When you create an account to use our services, create a new user for that account or complete transactions through our websites, such as fulfilling an order for our services;
@@ -55,6 +73,7 @@ The personal data that we process about you is data that you have provided us wi
 We may also collect or receive information about you from other sources such as public registers. If you are a User of a Company Subscriber, we may collect personal data provided by the company subscriber, for example when the company subscriber invites you to use the service. We collect personal data from other sources such as:
 
 *   If you are a User of a Company Subscriber, the company subscriber;
+*   Workday (in connection with joint marketing initiatives regarding products, services and events from Workday, we may receive your business contact information and marketing preferences from Workday, Inc. or Workday Limited);
 *   Public registers;
 *   UC (a business and credit reference agency);
 *   Swedish Companies Registration Office (Sw. Bolagsverket);
@@ -131,10 +150,10 @@ Below you can find more information about our processing of your personal data i
 | What we do:<br><br>We process your personal data in order to provide our support services, account services, etc. | Legal basis:<br><br>Performance of Contract. | Retention period: <br><br>Personal data stored to administer the provision of the services will be stored during the time period that it is necessary in order to fulfill the purposes with our processing, which is usually as long as you are a user of the services. We may also need to store your personal data for a reasonable time thereafter in order to administer the ending of your account and fulfill any terms of our agreement with our customer. |
 | Purpose: For statistics, analysis, business development, improvement of services and recruiting. |     |     |
 | Categories of personal data:<br><br>*   User<br>*   Content<br>*   Device<br>*   User activity<br>*   Telemetry<br>*   Technical support and feedback<br>*   Billing and administration<br>*   Any information shared through meetings / email / chat communication with us |     |     |
-| What we do:<br><br>We use your personal data within our market and customer analyses of our services which mainly constitute usage statistics, interaction data provided by the User, and data from customer analyses.<br><br>We also use third party tracking services to provide relevant and tailored services. We do not share your personal data with our affiliates and / or partners of Sana.<br><br>The result of our analysis is used to get insight into the needs of our users and understand how we can improve our services.<br><br>We will ensure the personal data is pseudonymized and anonymized to the extent possible for us to fulfill the purpose of processing.<br><br>For Self-Serve Users in Sana Agents, which are not within the Civic Tier, we may review your Content to understand the use of our services and improve the user experience. You can opt out from this feature at any time within the Sana Agents platform. We do not review specific Content of Civic Tier Users or Users of Company Subscribers.<br><br>We, or any of our third party service providers, do not use your personal data to train artificial intelligence and/or machine learning models. | Legal basis:<br><br>Legitimate Interest. Processing is necessary for our legitimate interest in analyzing the use of our services and websites in order to improve our business and services or develop new services.<br><br>Consent. Your consent, in relation to the processing of personal data in the form of cookies that is not necessary for the function of the service, in order to analyze the use of our website and our services. | Retention period: <br><br>Personal data stored in order to create statistics, analysis, and business development will be retained as long as necessary to fulfill the purpose, but no longer than one year without anonymizing it. |
+| What we do:<br><br>We use your personal data within our market and customer analyses of our services which mainly constitute usage statistics, interaction data provided by the User, and data from customer analyses.<br><br>We also use third party tracking services to provide relevant and tailored services.<br><br>The result of our analysis is used to get insight into the needs of our users and understand how we can improve our services.<br><br>We will ensure the personal data is pseudonymized and anonymized to the extent possible for us to fulfill the purpose of processing.<br><br>For Self-Serve Users in Sana Agents, which are not within the Civic Tier, we may review your Content to understand the use of our services and improve the user experience. You can opt out from this feature at any time within the Sana Agents platform. We do not review specific Content of Civic Tier Users or Users of Company Subscribers.<br><br>We, or any of our third party service providers, do not use your personal data to train artificial intelligence and/or machine learning models. | Legal basis:<br><br>Legitimate Interest. Processing is necessary for our legitimate interest in analyzing the use of our services and websites in order to improve our business and services or develop new services.<br><br>Consent. Your consent, in relation to the processing of personal data in the form of cookies that is not necessary for the function of the service, in order to analyze the use of our website and our services. | Retention period: <br><br>Personal data stored in order to create statistics, analysis, and business development will be retained as long as necessary to fulfill the purpose, but no longer than one year without anonymizing it. |
 | Purpose: To market our Company and services through newsletters, social media, publications, and events |     |     |
-| Categories of personal data:<br><br>*   User<br>*   Billing and administration<br>*   IP Address<br>*   Any information shared through meetings / email / chat communication with us |     |     |
-| What we do:<br><br>We process your personal data within the scope of our marketing, as we provide relevant and tailored communication to our audience. We do not share your personal data with our affiliates and / or partners. | Legal basis:<br><br>Legitimate Interest. Processing is necessary for the purposes of our legitimate interests to be able to market our services. Sana’s legitimate interest outweighs the data subjects’ right to privacy as Sana processes personal data that is not characterized by sensitivity to data subjects’ integrity and because the data subject has the right to object to the processing of their personal data for marketing purposes.<br><br>Consent. Your opt-in consent, in relation to our processing of your personal data in social media, publications, and events, when the applicable law requires it. | Retention period:<br><br>Personal data processed to contact you for marketing purposes will be stored for one year from the date when we collected your data or the date when we last used your data to contact you. You may at any time unsubscribe from our mailings. If you unsubscribe, you will no longer receive mailings. |
+| Categories of personal data:<br><br>*   Business contact information such as name, email, telephone number, company name, job details, and address<br>*   User<br>*   Billing and administration<br>*   IP Address<br>*   Any information shared through meetings / email / chat communication with us |     |     |
+| What we do:<br><br>We process your personal data within the scope of our marketing, as we provide relevant and tailored communication to our audience. This includes conducting joint marketing campaigns with Workday and syncing your marketing preferences to ensure your communication choices are respected. | Legal basis:<br><br>Legitimate Interest. Processing is necessary for the purposes of our legitimate interests to be able to market our services. Sana’s legitimate interest outweighs the data subjects’ right to privacy as Sana processes personal data that is not characterized by sensitivity to data subjects’ integrity and because the data subject has the right to object to the processing of their personal data for marketing purposes.<br><br>Consent. Your opt-in consent, in relation to our processing of your personal data in social media, publications, and events, including joint marketing activities with Workday, when the applicable law requires it. | Retention period:<br><br>Personal data processed to contact you for marketing purposes will be stored for one year from the date when we collected your data or the date when we last used your data to contact you. You may at any time unsubscribe from our mailings. If you unsubscribe, you will no longer receive mailings. |
 | Purpose:  To prevent fraud and other abuse. |     |     |
 | Categories of personal data:<br><br>*   User<br>*   Content<br>*   Device<br>*   User activity<br>*   Telemetry<br>*   Technical support and feedback<br>*   Any additional information you share through email / chat communication with us |     |     |
 | What we do:<br><br>We process your personal data in order to prevent fraud and other abuse of our services or etc. | Legal basis:<br><br>Legitimate Interest. Legitimate interest of preventing fraud related to our services and ensuring that our services and/or websites are not used for other purposes than intended. | Retention period: <br><br>We will store your personal data for the purposes to prevent fraud and other abuse as long as you are necessary to fulfill the purpose but no longer than one year. |
@@ -176,6 +195,7 @@ We may share personal data with third parties that are trusted recipients and wi
 
 *   Company Subscriber. If you are a User of a Company Subscriber, the respective Company Subscriber under the terms of the Agreement;
 *   Sana subsidiaries and affiliates.
+*   Strategic partners and joint controllers. We may share your personal data, including your business contact information and marketing preferences, with Workday where we conduct joint marketing campaigns or offer integrated services. This ensures that your interactions are seamless and that your marketing preferences are respected across our joint initiatives.
 *   Third party service providers. Our third-party vendors and other service providers and contractors have access to your personal data, which may be raw personal data obtained from third party sources such as Google Workspace APIs (see section 2.1.2), to help carry out the services they are performing for us or on behalf of us. This may include vendors and providers who provide email or electronic communication services, tax, legal and accounting services, product fulfilment, payment processing, customer support, fraud prevention and detection, data enhancement, web hosting and cloud storage, research, analytics, and artificial intelligence, machine learning and statistical services. Such as for example, Google (Google Ireland Limited), Intercom (Intercom R&D Unlimited Company), Open AI (Open AI LP), SFDC Sweden AB (Salesforce.com, inc.), Slack (Slack Technologies, LLC), Segment (Segment.io, Inc.). We, or any of our third party service providers, do not use your personal data to train artificial intelligence and/or machine learning models.
 *   Other third parties. A buyer or other successor in the event of reorganization or changes to our business.
 *   Law Enforcement. In certain circumstances, we may also need to disclose personal data upon the request from authorities or to third parties in connection with court proceedings or business acquisition or combination processes, or other similar processes.
@@ -208,7 +228,7 @@ You will not be charged for requesting information, for communication, or measur
 
 As a data subject you have the following rights:
 
-Access to your personal data. This means that you have the right to request access to the personal data that we hold about you. You also have the right to be provided, at no cost, a copy of the personal data about you that we are processing. We have the right to charge a reasonable administration fee if you request further copies. If you make a request in electronic form, e.g. via email, we will provide you with the information in a commonly used electronic format.
+Access to your personal data. This means that you have the right to request access to the personal data that we hold about you. You also have the right to be provided, at no cost, a copy of the personal data about you that we are processing. We have the right to charge a reasonable administration fee if you request further copies. If you make a request in electronic form, we will provide you with the information in a commonly used electronic format.
 
 Rectification of your personal data. At your request or on our own initiative, we will correct, anonymize, delete or complement data that is inaccurate, incomplete, or misleading. You also have the right to complete any incomplete personal data if something relevant is missing.
 
@@ -222,7 +242,7 @@ Erasure of your personal data. You have the right to request that we delete you
 
 However, there may be legal requirements or other compelling reasons that prevent us from immediately erasing your personal data. We will then stop processing your personal data for purposes other than in compliance with the law or where there are no compelling legitimate grounds for doing so.
 
-In the event you would like to exercise your right for the erasure of your personal data, please use [this form](https://www.google.com/url?q=https://gdpr.eu/wp-content/uploads/2019/01/RIGHT-TO-ERASURE-REQUEST-FORM.pdf&sa=D&source=editors&ust=1757083339617312&usg=AOvVaw2T6qY7dc-l5m-vdyFgJk7L) and send an email with the subject line “Erasure of Personal Data Request” and the completed form attached to [privacy@sanalabs.com](mailto:privacy@sanalabs.com). We will confirm receipt of the completed form and take reasonable steps to ensure you are the data subject. Upon verification, we will complete the erasure without undue delay.
+To ensure your privacy requests are handled securely and efficiently, Workday manages privacy operations and data subject requests on behalf of Sana. Whether your request relates to services provided solely by Sana, or to our joint processing activities with Workday, please submit your request directly through [Workday’s online form](https://privacyportal.onetrust.com/webform/357a9b19-175a-4089-bf85-0b287eda10d7/4d1d8abc-1aaa-43de-804e-3958a0180c51). We will confirm receipt of the completed form and take reasonable steps to ensure you are the data subject. Upon verification, we will complete the erasure without undue delay.
 
 Restriction of processing. This means that we temporarily restrict the processing of your data. You have the right to request restriction under certain conditions, e.g. when: you consider your data to be inaccurate and you have requested rectification as defined above, while we establish the accuracy of the data; the processing is unlawful and you do not want the data to be erased; as the personal data controller, we no longer need the personal data for our processing purposes, but you need them to be able to establish, exercise, or defend a legal claim; or you have objected to processing as defined in Section 9.3.1, while waiting for us to consider whether our legitimate interests override yours.
 
@@ -250,7 +270,7 @@ If you are a resident of California, you have rights under the California Consum
 *   Right to Limit the Use of Sensitive Personal Information: Sana does not use or disclose sensitive personal information for purposes other than those permitted under the CCPA/CPRA.
 *   Right to Non-Discrimination: You will not be discriminated against for exercising your privacy rights.
 
-To exercise these rights, please contact us at [privacy@sanalabs.com](mailto:privacy@sanalabs.com). If you are using Sana through your employer or another enterprise customer, we may direct your request to the enterprise customer, who is the business (controller) responsible for your data.
+To ensure your privacy requests are handled securely and efficiently, Workday manages privacy operations and data subject requests on behalf of Sana. Whether your request relates to services provided solely by Sana, or to our joint processing activities with Workday, please submit your request directly through [Workday’s online form](https://privacyportal.onetrust.com/webform/357a9b19-175a-4089-bf85-0b287eda10d7/4d1d8abc-1aaa-43de-804e-3958a0180c51). If you are using Sana through your employer or another enterprise customer, we may direct your request to the enterprise customer, who is the business (controller) responsible for your data.
 
 Rights under the Australian Privacy Act
 
@@ -258,7 +278,7 @@ In addition to the rights already described in this Privacy Notice, you have the
 
 *   Access the personal information we hold about you (APP 12).
 *   Request correction of your personal information if it is inaccurate, out-of-date, incomplete, or misleading (APP 13).
-*   Complain about our handling of your personal information. We will respond to your complaint in a timely manner. If you are not satisfied with our response, you may lodge a complaint with the Office of the Australian Information Commissioner (OAIC) at [www.oaic.gov.au](https://www.google.com/url?q=http://www.oaic.gov.au&sa=D&source=editors&ust=1757083339623172&usg=AOvVaw2aJMR_n3HYeakmCrXhDx_S).
+*   Complain about our handling of your personal information. We will respond to your complaint in a timely manner. If you are not satisfied with our response, you may lodge a complaint with the Office of the Australian Information Commissioner (OAIC) at [www.oaic.gov.au](http://www.oaic.gov.au/).
 
 We also comply with Australia’s Notifiable Data Breaches (NDB) scheme, which means we will notify you and the OAIC if a data breach is likely to result in serious harm to you.
 
@@ -274,14 +294,14 @@ We strongly advise you to be cautious and to protect your own personal data. You
     =========================================
     
 
-Our services are not directed to or intended for children under 18 years of age, other than the free services provided to Civic Tier users above the age of 13 years. Processing of personal data relating to children using our Civic Tier services is subject to our [Children’s Privacy Policy](https://www.google.com/url?q=https://sanalabs.com/download/legal/privacy-policy-children.pdf&sa=D&source=editors&ust=1757083339624958&usg=AOvVaw13fcBZWdj_yG7wneCNUynI). We do not knowingly collect personal data from children under 13 under any circumstance. If you have reason to believe that a child under 13 has provided personal data to Sana via the service, we ask you to contact us at [privacy@sanalabs.com](mailto:privacy@sanalabs.com). We will investigate every report and, if applicable, delete the personal data from our systems.
-=============================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
+Our services are not directed to or intended for children under 18 years of age, other than the free services provided to Civic Tier users above the age of 13 years. Processing of personal data relating to children using our Civic Tier services is subject to our [Children’s Privacy Policy](https://sanalabs.com/download/legal/privacy-policy-children.pdf). We do not knowingly collect personal data from children under 13 under any circumstance. If you have reason to believe that a child under 13 has provided personal data to Sana via the service, we ask you to contact us at [privacy@sanalabs.com](mailto:privacy@sanalabs.com). We will investigate every report and, if applicable, delete the personal data from our systems.
+======================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
 
 10.  Cookies
      =======
      
 
-We use cookies that may include personal data to improve, analyze and administer our websites and services and your experience of them. You can find more information about this in our [Cookie Notice](https://www.google.com/url?q=https://sanalabs.com/download/legal/Cookie-Notice.pdf&sa=D&source=editors&ust=1757083339625681&usg=AOvVaw1bMBEftR-XF0hEt6st7Fds).
+We use cookies that may include personal data to improve, analyze and administer our websites and services and your experience of them. You can find more information about this in our [Cookie Notice](https://sanalabs.com/download/legal/Cookie-Notice.pdf).
 
 11.  Changes to the Privacy Notice
      =============================
@@ -295,9 +315,13 @@ We have the right to make changes to this Privacy Notice at any time. When we ma
 
 Do not hesitate to contact us if you have any questions about this Privacy Notice, our processing of your personal data, or if you wish to exercise your rights.
 
-Sana is the data controller of your personal data processed under this Privacy Notice, unless you are a User of a Company Subscriber. We have appointed a Data Protection Officer who can be contacted by emailing our Privacy Mailbox at [privacy@sanalabs.com](mailto:privacy@sanalabs.com) - please mark the subject line of the email ‘For the attention of Sana’s Data Protection Officer'. You can also raise any privacy-related questions by contacting our Support Team on the Sana platform.
+Sana is the data controller of your personal data processed under this Privacy Notice, unless you are a User of a Company Subscriber, or where we act as a joint controller with Workday. If you have any questions about this Privacy Notice, wish to exercise your rights, or contact our Data Protection Officer, please submit your request through [Workday’s online form](https://privacyportal.onetrust.com/webform/357a9b19-175a-4089-bf85-0b287eda10d7/4d1d8abc-1aaa-43de-804e-3958a0180c51).  
 
-Sana Labs AB, reg. no. 559060–6579 E-mail: [legal@sanalabs.com](mailto:legal@sanalabs.com) Website: [https://sanalabs.com/](https://www.google.com/url?q=https://sanalabs.com/&sa=D&source=editors&ust=1757083339626937&usg=AOvVaw2f2g9HlMxKAE66Li3AfQrQ)
+Sana Labs AB  
+559060–6579  
+Riddargatan 32,  
+114 57 Stockholm,  
+Sweden  
 
 [](https://sanalabs.com/)
 
