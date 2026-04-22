@@ -71,8 +71,8 @@ By submitting content, you hereby grant to SambaNova the irrevocable right to us
 You may file a notification of such infringement with our Designated Agent as set forth below:
 
 SambaNova Systems  
-71 Daggett Drive, #20  
-San Jose, CA 95134  
+2460 N. First St, Suite #100  
+San Jose, CA 95131  
 [legal@sambanova.ai](mailto:legal@sambanova.ai)
 
 We may give notice of a claim of copyright infringement to our users by means of a general notice on the Site, electronic mail to a user’s email address in our records, or by written communication sent by first-class mail to a user’s address in our records.
@@ -103,9 +103,9 @@ If a counter-notice is received by our Designated Agent, we may send a copy of t
 **19\. Notices; Contacts:** All notices, demands and other communications hereunder shall be in writing and shall be effective upon receipt, provided that we may provide notice to you by posting announcements on the Site or sending an e-mail to you at the e-mail address that is currently associated with your account if you have one, or as otherwise provided under Section 18 (Communications between SambaNova and You) above. Any such e-mail notice to you will be deemed given on the day it is sent. Except as specified in the next sentence, all notices to us of a legal nature shall be in writing and shall be sent by certified first-class U.S. mail, return receipt requested, to:
 
 Attention:  
-SambaNova Systems Legal  
-71 Daggett Drive, #20  
-San Jose, CA 95134
+SambaNova Legal  
+2460 N First St, Suite #100  
+San Jose, CA 95131
 
 All notices regarding copyright or other intellectual property infringement issues shall be sent in accordance with our intellectual property policy described above under the heading “Copyright Complaints.” If you have any questions about these Terms, then please contact us at [legal@sambanova.ai](mailto:legal@sambanova.ai) or at the address set forth above.
 
