@@ -5,7 +5,7 @@ Date of Last Revision: May 27, 2023
 
 **Overview**
 
-SambaNova Systems, Inc. (“SambaNova”, “we”, “us”, or “our”), 71 Daggett Drive, #20, San Jose, CA 95134, is providing this privacy policy (hereinafter the “Privacy Policy”) to explain our personal information practices with respect to our website, communications, notifications and related services (“Services”). This Privacy Policy applies only to the use and collection of data by us in the course of our Services.
+SambaNova Systems, Inc. (“SambaNova”, “we”, “us”, or “our”), 2460 N. First St, Suite #100, San Jose, CA 95131, is providing this privacy policy (hereinafter the “Privacy Policy”) to explain our personal information practices with respect to our website, communications, notifications and related services (“Services”). This Privacy Policy applies only to the use and collection of data by us in the course of our Services.
 
 Where and as permitted by applicable law, by using our Services, you acknowledge the terms of this Privacy Policy and, if you provide us with information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with a natural person or household, such as a name, postal address, e-mail address, telephone number (hereinafter “Personal Information”), you acknowledge the collection, use, and disclosure of your Personal Information as described in this Privacy Policy. We encourage you to read this Privacy Policy before sharing Personal Information as it provides important information regarding your access to and use of our Services, our data and privacy practices, and explains your rights.
 
@@ -202,4 +202,4 @@ To exercise any of your rights, please contact us by email at [privacy@sambanova
 
 **Contact Us**
 
-If you have any questions regarding our Privacy Policy, or need to access the policy in an alternative format due to a disability, please contact us at [privacy@sambanova.ai](mailto:privacy@sambanova.ai) .
+If you have any questions regarding our Privacy Policy, or need to access the policy in an alternative format due to a disability, please contact us at [privacy@sambanova.ai](mailto:privacy@sambanova.ai).
