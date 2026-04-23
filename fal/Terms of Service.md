@@ -1,4 +1,4 @@
-[ChatGPT Images 2.0 is now on fal! 🚀](https://fal.ai/models/openai/gpt-image-2/edit)
+[GPT Image 2 is now on fal! 🚀](https://fal.ai/models/openai/gpt-image-2/edit)
 
 ![](/landing/bg-side-page.svg)![](/landing/bg-mobile-side-page.svg)
 
