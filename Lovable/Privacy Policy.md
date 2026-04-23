@@ -232,7 +232,7 @@ Lovable will not discriminate against you for exercising your privacy rights. If
      If you have questions, concerns, or wish to exercise your privacy rights, please contact us. We have appointed a Data Protection Officer (DPO) that you can contact at:  
      a. Email: [dpo@lovable.dev](mailto:dpo@lovable.dev)  
      b. Representative name: Assenteo Ltd  
-     c. EU Address: Lovable Labs AB, Box 190, 101 23, Stockholm, Sweden
+     c. EU Address: Lovable Labs AB, Regeringsgatan 25, 111 53 Stockholm, Sweden
      
      We aim to respond to verified data-subject requests within thirty (30) days, or longer where permitted under applicable law, in which case we will notify you of the delay and reason. If you believe your inquiry has not been satisfactorily resolved, you may lodge a complaint with your local supervisory authority, the Irish Data Protection Commission, the UK Information Commissioner's Office, or the Swiss FDPIC, as appropriate.
      
@@ -460,7 +460,7 @@ Lovable will not discriminate against you for exercising your privacy rights. If
      If you have questions, concerns, or wish to exercise your privacy rights, please contact us. We have appointed a Data Protection Officer (DPO) that you can contact at:  
      a. Email: [dpo@lovable.dev](mailto:dpo@lovable.dev)  
      b. Representative name: Assenteo Ltd  
-     c. EU Address: Lovable Labs AB, Box 190, 101 23, Stockholm, Sweden
+     c. EU Address: Lovable Labs AB, Regeringsgatan 25, 111 53 Stockholm, Sweden
      
      We aim to respond to verified data-subject requests within thirty (30) days, or longer where permitted under applicable law, in which case we will notify you of the delay and reason. If you believe your inquiry has not been satisfactorily resolved, you may lodge a complaint with your local supervisory authority, the Irish Data Protection Commission, the UK Information Commissioner's Office, or the Swiss FDPIC, as appropriate.
      
