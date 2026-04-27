@@ -525,7 +525,7 @@ Lovable will not discriminate against you for exercising your privacy rights. If
 
 ### Community
 
-*   [Apply to our expert program](https://lovable.dev/experts/apply)
+*   [Apply to our expert program](https://lovable.dev/partners)
 *   [Hire a Lovable expert](https://lovable.dev/experts)
 *   [Affiliates](https://lovable.dev/affiliates)
 *   [Code of conduct](https://lovable.dev/community-code-of-conduct)
