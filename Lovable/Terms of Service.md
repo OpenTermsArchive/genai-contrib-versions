@@ -919,7 +919,7 @@ Address: 1111B South Governors Avenue, Dover, DE 19904, USA
 
 ### Community
 
-*   [Apply to our expert program](https://lovable.dev/experts/apply)
+*   [Apply to our expert program](https://lovable.dev/partners)
 *   [Hire a Lovable expert](https://lovable.dev/experts)
 *   [Affiliates](https://lovable.dev/affiliates)
 *   [Code of conduct](https://lovable.dev/community-code-of-conduct)
