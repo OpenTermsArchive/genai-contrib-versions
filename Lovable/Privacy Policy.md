@@ -1,8 +1,8 @@
-[](https://lovable.dev/)
+[](https://lovable.dev/home)
 
 Get started
 
-[](https://lovable.dev/)
+[](https://lovable.dev/home)
 
 *   Solutions
 *   Resources
@@ -468,7 +468,7 @@ Lovable will not discriminate against you for exercising your privacy rights. If
      This Policy, together with the Terms of Service constitutes the entire agreement between you and Lovable regarding privacy and data protection in connection with the Services.
      
 
-[](https://lovable.dev/)
+[](https://lovable.dev/home)
 
 ### Company
 
