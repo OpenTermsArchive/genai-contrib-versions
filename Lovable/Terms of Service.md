@@ -1,8 +1,8 @@
-[](https://lovable.dev/)
+[](https://lovable.dev/home)
 
 Get started
 
-[](https://lovable.dev/)
+[](https://lovable.dev/home)
 
 *   Solutions
 *   Resources
@@ -862,7 +862,7 @@ If any provision of these Terms is found invalid or unenforceable, the remaining
 Email: [feedback@lovable.dev](mailto:feedback@lovable.dev)  
 Address: 1111B South Governors Avenue, Dover, DE 19904, USA
 
-[](https://lovable.dev/)
+[](https://lovable.dev/home)
 
 ### Company
 
