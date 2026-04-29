@@ -85,7 +85,7 @@ LFM License
 
 The LFM Open License v1.0 sets out the terms under which you can use our models. This page includes a summary of this license, a FAQ, and the full license text, along with a comparison to Apache 2.0.
 
-**Last Updated: July 9, 2025**
+**Last Updated: April 28th, 2026**
 
 Summary
 -------
@@ -116,6 +116,11 @@ Here are some common questions and answers about our LFM Open License.
     No. The license does not have a "copyleft" requirement. You can keep your fine-tuned models proprietary.
 5.  **What about non-profits, universities, or researchers?**   
     Our license specifically exempts qualified non-profits. They are free to use the models for non-commercial or research purposes, with no thresholds on revenue.
+6.  **Can a model hosting platform or repository (Hugging Face, or similar services) host LFMs and make them available for free download, even if the operator of the platform or repository is an entity that exceeds the $10 million revenue threshold specified in the license?  
+    ‍**Yes. Section 4 of the LFM Open License permits redistribution of the Work "in any medium," provided the distributor meets the standard redistribution conditions (including providing a copy of the license and retaining attribution notices). A platform that hosts LFMs and makes them available for users to download, free of charge, is acting as a distribution channel, not making Commercial Use of the models within the meaning of Section 5.Downstream users who obtain LFM models through these platforms receive the models under the full terms of the LFM Open License, including the Commercial Use Limitation in Section 5. The hosting platform's role as a distributor does not modify or waive any license terms for end users.To comply with Section 4, platforms hosting LFM models should:
+    *   Include or link to a copy of the LFM Open License alongside the model files
+    *   Retain all copyright, patent, trademark, and attribution notices
+    *   Include the NOTICE file, if one is provided with the distribution
 
 ### How is the LFM Open License different from the standard Apache 2.0 License?
 
