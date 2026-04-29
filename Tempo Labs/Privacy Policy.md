@@ -5,6 +5,13 @@ Privacy Policy
 
 Tempo Privacy Policy
 
+> Documentation Index
+> -------------------
+> 
+> Fetch the complete documentation index at: [https://tempolabsinc.mintlify.app/llms.txt](https://tempolabsinc.mintlify.app/llms.txt)
+> 
+> Use this file to discover all available pages before exploring further.
+
 [​](#tempo-privacy-policy)
 
 Tempo Privacy Policy
