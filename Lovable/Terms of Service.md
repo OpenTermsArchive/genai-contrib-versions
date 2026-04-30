@@ -912,14 +912,14 @@ Address: 1111B South Governors Avenue, Dover, DE 19904, USA
 *   [General terms](https://lovable.dev/terms)
 *   [Desktop app terms](https://lovable.dev/desktop-app-terms)
 *   [Domain registration terms](https://lovable.dev/domain-registration-terms)
-*   [Platform rules](https://lovable.dev/platform-rules)
+*   [Platform rules](https://rules.lovable.dev/)
 *   [Report abuse](https://lovable.dev/abuse)
 *   [Report security concerns](https://lovable.dev/security-issues)
 *   [DPA](https://lovable.dev/data-processing-agreement)
 
 ### Community
 
-*   [Apply to our expert program](https://lovable.dev/partners)
+*   [Become a partner](https://lovable.dev/partners)
 *   [Hire a Lovable expert](https://lovable.dev/experts)
 *   [Affiliates](https://lovable.dev/affiliates)
 *   [Code of conduct](https://lovable.dev/community-code-of-conduct)
