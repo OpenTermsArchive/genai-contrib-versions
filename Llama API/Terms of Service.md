@@ -12,84 +12,84 @@ Release Date: April 29, 2025These Llama API Terms of Service (“Terms”) are a
 
 Data Security Terms
 
-These Data Security Terms apply when they are expressly incorporated by reference into terms for Meta Products (any such terms, “**Applicable Product Terms**”), such as the [Meta Business Tools Terms](https://www.facebook.com/legal/terms/businesstools), or the [Customer List Custom Audience Terms](https://www.facebook.com/legal/terms/customaudience). Capitalized terms used but not defined in these Data Security Terms have the meanings given in the Applicable Product Terms. These Data Security Terms describe the minimum security standards that Meta maintains applicable to the Meta Products made available under the Applicable Product Terms (“**Applicable Products**”), including the data you send to Meta using the Applicable Products (“**Covered Data**”).
+These Data Security Terms apply when they are expressly incorporated by reference into terms for Meta Products (any such terms, "**Applicable Product Terms**"), such as the [Meta Business Tools Terms](https://www.facebook.com/legal/terms/businesstools), or the [Customer List Custom Audience Terms](https://www.facebook.com/legal/terms/customaudience). Terms used but not defined in these Data Security Terms have the meanings given in the applicable product terms. These Data Security Terms describe the minimum security standards that Meta maintains applicable to the Meta Products made available under the applicable product terms ("**applicable products**"), including the data you send to Meta using the applicable products ("**covered data**").
 
-*   **Organization of Information Security.** Meta has personnel responsible for oversight of security of the Applicable Products.
+*   **Organisation of information security.** Meta has personnel responsible for oversight of security of the applicable products.
   
-*   **Physical and Environmental Security.** Meta’s security measures will include controls designed to provide reasonable assurance that physical access to Meta data centers is limited to authorized persons and that environmental controls are established to detect, prevent, and control destruction due to environmental hazards. The controls will include:
+*   **Physical and environmental security.** Meta's security measures will include controls designed to provide reasonable assurance that physical access to Meta data centres is limited to authorised persons and that environmental controls are established to detect, prevent and control destruction due to environmental hazards. The controls will include:
     
-    *   Logging and auditing of physical access to the data center by employees and contractors;
-    *   Camera surveillance systems at the data center;
-    *   Systems that monitor and control the temperature and humidity for the computer equipment at the data center;
-    *   Power supply and backup generators at the data center;
-    *   Procedures for secure deletion and disposal of data, subject to the Applicable Product Terms; and
-    *   Protocols requiring ID cards for entry to all Meta facilities for all personnel working on the Applicable Products.
+    *   Logging and auditing of physical access to the data centre by employees and contractors;
+    *   Camera surveillance systems at the data centre;
+    *   Systems that monitor and control the temperature and humidity for the computer equipment at the data centre;
+    *   Power supply and backup generators at the data centre;
+    *   Procedures for secure deletion and disposal of data, subject to the applicable product terms; and
+    *   Protocols requiring ID cards for entry to all Meta facilities for all personnel working on the applicable products.
     
   
 *   **Personnel**
     
-    *   Training. Meta will ensure that all personnel with access to Covered Data undergo security training.
-    *   Screening and Background Checks. Meta will have a process for:
+    *   Training. Meta will ensure that all personnel with access to covered data undergo security training.
+    *   Screening and background checks. Meta will have a process for:
         
-        *   verifying the identity of the personnel with access to Covered Data; and
-        *   performing background checks, where legally permissible, on personnel working on or supporting aspects pertaining to the Applicable Products in accordance with Meta standards.
+        *   verifying the identity of the personnel with access to covered data; and
+        *   performing background checks, where legally permissible, on personnel working on or supporting aspects pertaining to the applicable products in accordance with Meta standards.
         
-    *   Personnel Security Breach. Meta will take disciplinary action in the event of unauthorized access to Covered Data by Meta personnel, including, where legally permissible, punishments up to and including termination.
+    *   Personnel security breach. Meta will take disciplinary action in the event of unauthorised access to covered data by Meta personnel, including, where legally permissible, punishments up to and including termination.
     
   
-*   **Security Testing.** Meta will perform regular security and vulnerability testing to assess whether key controls are implemented properly and are effective.
+*   **Security testing.** Meta will perform regular security and vulnerability testing to assess whether key controls are implemented properly and are effective.
   
-*   **Access Control.**
+*   **Access control.**
     
-    *   Password Management. Meta has established and will maintain procedures for password management for its personnel, designed to ensure passwords are personal to each individual, and inaccessible to unauthorized persons, including at minimum:
+    *   Password management. Meta has established and will maintain procedures for password management for its personnel, designed to ensure that passwords are personal to each individual, and inaccessible to unauthorised persons, including at minimum:
         
-        *   password provisioning, including procedures designed to verify the identity of the user prior to a new, replacement, or temporary password;
+        *   password provisioning, including procedures designed to verify the identity of the user prior to a new, replacement or temporary password;
         *   cryptographically protecting passwords when stored in computer systems or in transit over the network;
         *   altering default passwords from vendors;
         *   strong passwords relative to their intended use; and
         *   education on good password practices.
         
       
-    *   Access Management. Meta will also control and monitor its personnel’s access to its systems using the following:
+    *   Access management. Meta will also control and monitor its personnel's access to its systems using the following:
         
         *   established procedures for changing and revoking access rights and user IDs, without undue delay;
         *   established procedures for reporting and revoking compromised access credentials (passwords, tokens etc.);
-        *   maintaining appropriate security logs including where applicable with userid and timestamp;
-        *   synchronizing clocks with NTP; and
+        *   maintaining appropriate security logs including where applicable with user ID and timestamp;
+        *   synchronising clocks with NTP; and
         *   Logging the following minimum user access management events:
             
-            *   Authorization changes;
+            *   Authorisation changes;
             *   Failed and successful authentication and access attempts; and
             *   Read and write operations.
             
         
     
   
-*   **Communications Security**
+*   **Communications security**
     
-    *   Network Security
+    *   Network security
         
         *   Meta will employ technology that is consistent with industry standards for network segregation.
         *   Remote network access to Meta systems will require encrypted communication via secured protocols and use of multi-factor authentication.
         
-    *   Protection of Data in Transit
+    *   Protection of data in transit
         
         *   Meta will enforce use of appropriate protocols designed to protect the confidentiality of data in transit over public networks.
         
     
   
-*   **Vulnerability Management.** Meta has instituted and will maintain a vulnerability management program covering the Applicable Products that includes definitions of roles and responsibilities for vulnerability monitoring, vulnerability risk assessment, and patch deployment.
+*   **Vulnerability management.** Meta has instituted and will maintain a vulnerability management programme covering the applicable products that includes definitions of roles and responsibilities for vulnerability monitoring, vulnerability risk assessment and patch deployment.
   
-*   **Security Incident Management**
+*   **Security incident management**
     
-    *   Security Incident Response. Meta will maintain a security incident response plan for monitoring, detecting, and handling possible security incidents affecting Covered Data. The security incident response plan at least includes definitions of roles and responsibility, communication, and post-mortem reviews, including root cause analysis and remediation plans.
-    *   Monitoring. Meta will monitor for any security breaches and malicious activity affecting Covered Data.
+    *   Security incident response. Meta will maintain a security incident response plan for monitoring, detecting and handling possible security incidents affecting covered data. The security incident response plan at least includes definitions of roles and responsibility, communication, and post-mortem reviews, including root cause analysis and remediation plans.
+    *   Monitoring. Meta will monitor for any security breaches and malicious activity affecting covered data.
     
 
-In the event of any express conflict between the Applicable Product Terms and these Data Security Terms, the Applicable Product Terms will govern solely with respect to your use of the Applicable Products and solely to the extent of the conflict. Meta may update these Data Security Terms from time to time to reflect evolving security standards.
+In the event of any express conflict between the applicable product terms and these Data Security Terms, the applicable product terms will govern solely with respect to your use of the applicable products and solely to the extent of the conflict. Meta may update these Data Security Terms from time to time to reflect evolving security standards.
 
   
-Effective Date: April 25, 2023
+Effective date: 25 April 2023
 
 - - -
 
