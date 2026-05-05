@@ -7,6 +7,7 @@ Get started
 *   Solutions
 *   Resources
 *   [Community](https://lovable.dev/community)
+*   [Enterprise](https://lovable.dev/enterprise-landing)
 *   [Pricing](https://lovable.dev/pricing)
 *   [Security](https://lovable.dev/security)
 
