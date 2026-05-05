@@ -28,7 +28,7 @@ Legal Documents
 
 [API Services](https://fal.ai/legal/api-services)[Compute Infrastructure](https://fal.ai/legal/compute-infrastructure)
 
-[Privacy Policy](https://fal.ai/legal/privacy-policy)[Acceptable Use Policy](https://fal.ai/legal/acceptable-use-policy)
+[Privacy Policy](https://fal.ai/legal/privacy-policy)[Acceptable Use Policy](https://fal.ai/legal/acceptable-use-policy)[Trust & Safety](https://fal.ai/legal/trust-and-safety)
 
 Privacy Policy
 --------------
@@ -176,7 +176,7 @@ Ready to transform your enterprise with AI?
 
 #### Learn More
 
-[Status](https://status.fal.ai/)[About Us](https://fal.ai/about)[Documentation](https://docs.fal.ai/)[Careers](https://job-boards.greenhouse.io/fal)[Pricing](https://fal.ai/pricing)[Blog](https://blog.fal.ai/)[Enterprise](https://fal.ai/enterprise)[Get in touch](mailto:support@fal.ai)[Gen Media Report 2026](https://fal.ai/gen-media-report-volume-1)[Grants](https://fal.ai/grants)[Events](https://fal.ai/events)[Learn](https://fal.ai/learn)[Legal](https://fal.ai/legal)[Report Content](https://fal.ai/report-content)
+[Status](https://status.fal.ai/)[About Us](https://fal.ai/about)[Documentation](https://docs.fal.ai/)[Trust & Safety](https://fal.ai/legal/trust-and-safety)[Careers](https://job-boards.greenhouse.io/fal)[Pricing](https://fal.ai/pricing)[Blog](https://blog.fal.ai/)[Enterprise](https://fal.ai/enterprise)[Get in touch](mailto:support@fal.ai)[Report Content](https://fal.ai/report-content)[Grants](https://fal.ai/grants)[Events](https://fal.ai/events)[Legal](https://fal.ai/legal)[Learn](https://fal.ai/learn)[Gen Media Report 2026](https://fal.ai/gen-media-report-volume-1)
 
 Models[GPT Image 2](https://fal.ai/gpt-image-2)[Seedance 2.0](https://fal.ai/seedance-2.0)[Flux 2](https://fal.ai/models/fal-ai/flux-2-flex)[Kling 3.0](https://fal.ai/models/fal-ai/kling-video/o3/standard/image-to-video)[Veo 3.1](https://fal.ai/models/fal-ai/veo3.1/first-last-frame-to-video)[Nano Banana Pro](https://fal.ai/models/fal-ai/nano-banana-pro/edit)[Explore More](https://fal.ai/models)
 
