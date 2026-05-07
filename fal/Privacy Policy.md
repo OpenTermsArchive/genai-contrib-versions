@@ -188,4 +188,4 @@ Models[GPT Image 2](https://fal.ai/gpt-image-2)[Seedance 2.0](https://fal.ai/see
 
 [Discord](https://discord.gg/fal-ai)[GitHub](https://github.com/fal-ai)[Reddit](https://www.reddit.com/r/fal/)[Twitter](https://twitter.com/fal)[LinkedIn](https://www.linkedin.com/company/features-and-labels/)[YouTube](https://www.youtube.com/@Fal.AI.Official)[Instagram](https://www.instagram.com/madeonfal)[TikTok](https://www.tiktok.com/@madeonfal)
 
-features and labels, 2025. All Rights Reserved. [Terms of Service](https://fal.ai/legal/terms-of-service) and [Privacy Policy](https://fal.ai/legal/privacy-policy)
+features and labels, 2026. All Rights Reserved. [Terms of Service](https://fal.ai/legal/terms-of-service) and [Privacy Policy](https://fal.ai/legal/privacy-policy)
