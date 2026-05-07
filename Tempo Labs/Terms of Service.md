@@ -31,7 +31,7 @@ YesNo
 
 [Privacy Policy](https://tempolabsinc.mintlify.app/tempo-privacy)
 
-Ctrl+I
+⌘I
 
 [x](https://www.linkedin.com/company/tempo-labs)[website](https://www.tempo.new/)[linkedin](https://linkedin.com/company/mintlify)
 
