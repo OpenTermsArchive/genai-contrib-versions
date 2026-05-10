@@ -307,7 +307,7 @@ YesNo
 
 [Building Mobile Apps with Expo](https://tempolabsinc.mintlify.app/Mobile)[Terms of Service](https://tempolabsinc.mintlify.app/tempo-terms)
 
-Ctrl+I
+⌘I
 
 [x](https://www.linkedin.com/company/tempo-labs)[website](https://www.tempo.new/)[linkedin](https://linkedin.com/company/mintlify)
 
