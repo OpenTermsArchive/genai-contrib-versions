@@ -260,11 +260,3 @@ Models[GPT Image 2](https://fal.ai/gpt-image-2)[Seedance 2.0](https://fal.ai/see
 [Discord](https://discord.gg/fal-ai)[GitHub](https://github.com/fal-ai)[Reddit](https://www.reddit.com/r/fal/)[Twitter](https://twitter.com/fal)[LinkedIn](https://www.linkedin.com/company/features-and-labels/)[YouTube](https://www.youtube.com/@Fal.AI.Official)[Instagram](https://www.instagram.com/madeonfal)[TikTok](https://www.tiktok.com/@madeonfal)
 
 features and labels, 2026. All Rights Reserved. [Terms of Service](https://fal.ai/legal/terms-of-service) and [Privacy Policy](https://fal.ai/legal/privacy-policy)
-
-1.  ![Serverless: Aggregate Analytics](https://refinery.fal.media/url/https%3A%2F%2Fir7z8qsacw4tk54b.public.blob.vercel-storage.com%2Fannouncements%2Fapps-1-XAcS9fcnKT21BlReDPfpfDN7moy2B5.png/tr:w-1920,q-80/apps-1-XAcS9fcnKT21BlReDPfpfDN7moy2B5.webp)
-    
-    ### Serverless: Aggregate Analytics
-    
-    Your Serverless apps homepage now includes a unified analytics dashboard to monitor capacity, traffic, request health, GPU/CPU usage, and top apps across all apps.
-    
-    [See Changelog](https://fal.ai/docs/changelog#aggregate-analytics-components)
