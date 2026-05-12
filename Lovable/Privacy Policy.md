@@ -519,6 +519,7 @@ Lovable will not discriminate against you for exercising your privacy rights. If
 *   [General terms](https://lovable.dev/terms)
 *   [Desktop app terms](https://lovable.dev/desktop-app-terms)
 *   [Domain registration terms](https://lovable.dev/domain-registration-terms)
+*   [DMCA copyright policy](https://lovable.dev/dmca)
 *   [Platform rules](https://rules.lovable.dev/)
 *   [Report abuse](https://lovable.dev/abuse)
 *   [Report security concerns](https://lovable.dev/security-issues)
