@@ -1,74 +1,198 @@
 Privacy Policy
 --------------
 
-#### 1\. Introduction
+Last Updated: May 12, 2026
 
-StackBlitz values your privacy. This Privacy Policy details important information regarding the use and disclosure of your information collected on stackblitz.com. This Privacy Policy is incorporated into and is subject to StackBlitz’s Terms of Service. Your use of stackblitz.com and any personal information you provide on or through stackblitz.com remains subject to this Privacy Policy and StackBlitz’s Terms of Service.
+### 1\. Introduction
 
-Special Note to International Users. Stackblitz.com is hosted in the United States and is intended for and directed to users in the United States. If you are an user accessing stackblitz.com from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of stackblitz.com, which is governed by U.S. law, this Privacy Policy, and StackBlitz’s Terms of Service, you are transferring your personal information to the United States and you consent to that transfer.
+StackBlitz, Inc. (“Bolt,” “we,” “us,” or “our”) respects your privacy and is committed to protecting it through this Privacy Policy. This Privacy Policy describes how we collect, use, disclose, and safeguard personal information when you visit our website(s) or use the Bolt application and related services (collectively, the “Services”).
 
-#### 2\. Information StackBlitz Receives from You
+### 2\. Information StackBlitz Receives from You
 
-You provide certain personally identifiable information (such as your name and email address) to StackBlitz when you register for an account or correspond with us. In addition, if you choose to purchase products or services from us, then StackBlitz will ask you for additional information including your credit card information and billing address. StackBlitz may also seek ask you for demographic information including your age, gender, preferences and interests.
+This Privacy Policy applies to personal information collected:
 
-#### 3\. Information StackBlitz Collects
+*   through our public website Bolt.new, and
+*   through the Bolt application and related services (the “App”).
 
-Cookies Information. When you visit stackblitz.com, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. StackBlitz uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of stackblitz.com may not function properly if the ability to accept cookies is disabled.
+This Privacy Policy governs information about users of Bolt, including website visitors and account holders.
 
-Log File Information. When you use stackblitz.com, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol (“IP”) address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.
+It does not apply to personal data processed by our customers within applications they build or deploy using Bolt, which is governed by applicable customer agreements and data processing addenda (“DPA”), where applicable.
 
-Clear Gifs Information. When you use stackblitz.com, we may employ “clear gifs” (a.k.a. Web Beacons) which are used to track the online usage patterns of our Users anonymously (i.e., in a non-personally-identifiable manner). In addition, we may also use clear gifs in HTML-based emails sent to our Users to track which emails are opened by recipients.
+### 3\. Information We Collect
 
-Third-Parties. StackBlitz may receive personally identifiable information about you from third parties, including, for example, information about your transactions, purchase history, or relationships with various product and service providers, and your use of certain applications. For example, if you access stackblitz.com through a third-party connection or log-in, for example, through Facebook Connect, by “following,” “liking,” linking your account to the stackblitz.com service that third party may pass certain information about your use of its service to StackBlitz. This information could include, but is not limited to, the user ID associated with your account, any information you have permitted the third party to share with us, and any information you have made public in connection with that service. You should always review, and if necessary, adjust your privacy settings on third-party websites and services before linking or connecting them to stackblitz.com.
+#### A. Information You Provide
 
-Analytics Information: We use third-party analytics tools to help us measure traffic and usage trends for stackblitz.com. These tools collect information sent by your browser as part of a web page request, including the web pages you visit, your browser add-ons, your browser’s width and height, and other information that assists us in improving stackblitz.com and the products or services offered at stackblitz.com. We collect and use this analytics information in aggregate form such that it cannot reasonably be manipulated to identify any particular individual user.
+We collect information you provide directly, including:
 
-#### 4\. The Way StackBlitz Uses Information
+*   account registration details (e.g., name, email address),
+*   billing and payment information,
+*   communications with us (support requests, feedback),
+*   prompts, code, configuration files, and other content submitted through the App.
 
-Contact its Users. We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major changes to stackblitz.com or for customer service purposes).
+#### B. Files and Attachments Submitted Through the App
 
-Improve Stackblitz.com. We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous User usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of stackblitz.com and to create new features, promotions, functionality, and services by storing, tracking, and analyzing our users’ preferences and trends. We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit stackblitz.com; (b) monitor the effectiveness of our marketing campaigns; and (c) monitor aggregate metrics such as total number of visitors, pages viewed, etc.
+When you upload or attach files to a project, conversation, or prompt within the App (including files used to “build” or “plan”):
 
-#### 5\. When StackBlitz Discloses Information
+*   Storage: Files are stored in connection with your account and associated projects. Data retention practices for such files are described in the Data Retention section below.
+*   AI Processing: When you explicitly attach files to an AI prompt, relevant portions of those files may be transmitted to third-party AI service providers solely to generate responses. These providers do not receive ongoing or independent access to your files and retain such inputs only for limited periods.
+*   Subprocessors: File storage and processing may involve trusted subprocessors, including cloud infrastructure providers and AI service providers that support the operation of AI features. A current list of subprocessors may be found here.
 
-Provide Services. We provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our privacy policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.
+#### C. Sensitive Personal Information
 
-However, we do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.
+Bolt does not intentionally collect or process special categories of personal data (such as health information, biometric data, precise location data, or government-issued identifiers). Users should not submit sensitive personal information in prompts, code, or uploaded files.
 
-We do share non-personally-identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on stackblitz.com.
+#### D. Information Collected Automatically (Website)
 
-Legal Requests and Comply with State and Federal Laws. We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant.
+When you visit our website, we automatically collect certain information, including:
 
-StackBlitz also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that StackBlitz believes, in good faith, is appropriate or necessary to enforce our Terms of Service, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of stackblitz.com.
+*   IP address,
+*   approximate location (such as country),
+*   browser and device information,
+*   usage and interaction data (e.g., clicks on key features).
 
-In the Event of Merger, Sale, or Bankruptcy. In the event that StackBlitz is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors rights generally, we may not be able to control how your personal information is treated, transferred, or used.
+We use cookies, web beacons, and similar technologies to collect this information.
 
-Third-party Advertisers, Links to Other Sites. StackBlitz may allow other companies, called third-party ad servers or ad networks, to serve advertisements within stackblitz.com. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the stackblitz.com. They automatically receive your IP address when this happens.
+### 4\. Cookies, Web Beacons, and Tracking Technologies
 
-These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. StackBlitz does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.
+We and our service providers use cookies, web beacons, and similar technologies to:
 
-You should consult the respective privacy policies of these third-party ad servers or ad networks. StackBlitz’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+*   analyze website usage,
+*   improve performance and functionality,
+*   understand engagement and marketing effectiveness.
 
-#### 6\. Your Choices
+We do not display third-party advertisements on our website. However, we may use web beacons or similar technologies to support retargeting or promotional campaigns on third-party platforms.
 
-You may, of course, decline to submit personally identifiable information through stackblitz.com, in which case StackBlitz may not be able to provide certain services to you.
+You may control cookies through your browser settings and available preference tools.
 
-You may update or correct your personal profile information and email preferences at any time by visiting your account profile page.
+### 5\. AI Features and Content Processing
 
-#### 7\. Our Commitment To Data Security
+Bolt provides artificial intelligence–powered features that generate, modify, analyze, or assist with software code and related content (“AI Features”).
 
-StackBlitz uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to StackBlitz and stackblitz.com and you do so at your own risk. Once we receive your transmission of information, StackBlitz makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
+To provide these features, we process:
 
-If StackBlitz learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. StackBlitz may post a notice on stackblitz.com if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us at [](mailto:hello@stackblitz.com)[hello@stackblitz.com](mailto:hello@stackblitz.com).
+*   prompts, code, configuration files, and related inputs (“AI Inputs”), and
+*   content generated by the Services (“AI Outputs”).
 
-#### 8\. Changes and updates to this Privacy Policy
+#### Use of AI Content
 
-This Privacy Policy may be revised periodically and this will be reflected by the “effective date” below. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Policy in effect when we received the personal information you provided. Your continued use of stackblitz.com constitutes your agreement to this Privacy Policy and any future revisions.
+We may use AI Inputs and AI Outputs to operate, maintain, and improve the Services, including improving AI performance, reliability, and safety. Such use shall be on aggregated, anonymized, or de-identified data.
 
-For revisions to this Privacy Policy that may be materially less restrictive on our use or disclosure of the personal information you have already provided to us, we will attempt to obtain your consent before implementing such revisions with respect to such information.
+#### Customer Control
 
-#### 9\. How to Contact Us
+Depending on account type or plan, users may have the ability to limit or opt out of the use of AI Inputs and AI Outputs for model training or improvement, as described in product documentation or account settings.
 
-If you have any questions about this Privacy Policy or stackblitz.com, please contact us at [](mailto:hello@stackblitz.com)[hello@stackblitz.com](mailto:hello@stackblitz.com) or 2443 Fillmore St #380-7122, San Fransisco, CA 94115.
+#### Third-Party AI Providers
 
-Effective Date: July 20, 2017
+Bolt relies on third-party AI service providers to deliver certain AI Features. These providers process AI Inputs solely to provide services to Bolt and are subject to contractual confidentiality and data protection obligations.
+
+### 6\. Legal Basis
+
+For individuals located in the European Union or United Kingdom, we process personal data only where we have a valid legal basis under applicable data protection laws. These legal bases include:
+
+*   Performance of a contract, such as providing and operating the Services;
+*   Legitimate interests, such as improving the Services, ensuring security, preventing fraud, and understanding usage trends, provided such interests are not overridden by your rights;
+*   Compliance with legal obligations; and
+*   Consent, where required by law, such as for certain cookies or marketing communications.
+
+Where we rely on legitimate interests, we consider and balance any potential impact on your rights.
+
+### 7\. How We Use Information
+
+We process personal information for the following purposes:
+
+*   to provide, operate, and maintain the Services;
+*   to manage accounts and process transactions;
+*   to communicate with users, including support and service-related notices;
+*   to monitor, analyze, and improve the performance and security of the Services;
+*   to prevent fraud, abuse, and unauthorized access; and
+*   to comply with legal obligations and enforce our agreements.
+
+We do not process personal information in a manner that is incompatible with these purposes.
+
+### 8\. How We Share Information
+
+#### A. Service Providers and Subprocessors
+
+We share information with trusted service providers who perform services on our behalf, including hosting, analytics, billing, customer support, and AI processing. These providers are authorized to process information only as necessary to provide services to Bolt.
+
+#### B. Legal and Business Transfers
+
+We may disclose information if required by law or in connection with a merger, acquisition, or sale of assets.
+
+### 9\. International Data Transfers
+
+Bolt is headquartered in the United States, and personal information may be transferred to, processed, and stored in countries outside of your jurisdiction, including the United States.
+
+Where required by law, we rely on appropriate safeguards for such transfers, such as standard contractual clauses approved by relevant authorities or other lawful transfer mechanisms.
+
+### 10\. Published Projects and Shared Content
+
+Bolt may allow users to publish, deploy, or share applications, codebases, or projects (“Published Projects”).
+
+*   Public or shared content may be accessible to third parties.
+*   Published Projects may include third-party services, APIs, or integrations selected by the user.
+*   Users are responsible for ensuring Published Projects comply with applicable privacy and data protection laws.
+
+Security Reminder: Do not include secrets, API keys, passwords, or confidential information in prompts, source code, or publicly shared content.
+
+### 11\. Data Retention
+
+We retain personal information and user content for as long as necessary to provide the Services, support active accounts, comply with legal obligations, resolve disputes, and enforce our agreements. Active Accounts. Personal information and user content associated with an account are retained while the account remains active.
+
+Voluntary Account Closure. When an account is voluntarily closed, the account and associated data enter an inactive or expired state. We will delete or anonymize such data within a commercially reasonable period following account closure not to exceed thirty days, subject to backup retention, legal obligations, and security requirements.
+
+Account Suspension. If an account is suspended (for example, due to non-payment or other account-related issues), associated data may be retained during a limited grace period to allow for potential account reinstatement. During this period, data may be inaccessible until the account is restored to good standing.
+
+Abuse or Policy Violations. If an account is suspended or terminated due to abuse of the Services or violation of applicable terms or policies, we may permanently disable the account and delete associated data, subject to applicable legal requirements.
+
+Backups and Residual Copies. Residual copies of personal information and user content may persist in backups, logs, or archival systems for a limited period following deletion or account termination. Such data will not be used for active processing except as necessary for security, fraud prevention, or legal compliance.
+
+Users may request deletion of personal information by contacting us. Data deletion requests are handled in accordance with internal access controls and data management procedures. Retention periods are determined based on the nature of the data, the purposes for which it is processed, and applicable legal requirements.
+
+### 12\. Do-Not-Track Signals
+
+Some browsers transmit “Do-Not-Track” signals. Because there is no industry-standard interpretation, Bolt does not currently respond to DNT signals. However, where required by applicable law, we recognize browser-based Global Privacy Control (GPC) signals as a valid request to opt out of certain data sharing or targeted advertising.
+
+### 13\. European Union and United Kingdom Privacy Rights
+
+If you are located in the European Union or United Kingdom, you have certain rights under applicable data protection laws, including the right to:
+
+*   access your personal data;
+*   request correction or erasure of your personal data;
+*   restrict or object to processing of your personal data;
+*   request data portability; and
+*   withdraw consent at any time where processing is based on consent.
+
+You also have the right to lodge a complaint with a supervisory authority in your country of residence, place of work, or where you believe a violation has occurred.
+
+You may exercise these rights by contacting us at [privacy@stackblitz.com](mailto:privacy@stackblitz.com).
+
+To protect privacy and security, we may take steps to verify your identity before fulfilling your request. Requests may be subject to certain exceptions or limitations permitted by applicable law. Authorized agents may submit requests on behalf of individuals where permitted by law, provided we are able to verify the agent’s authority. We will not discriminate against you for exercising your privacy rights.
+
+### 14\. U.S. State Privacy Rights
+
+Residents of certain U.S. states, including California, may have rights under applicable privacy laws, such as the California Consumer Privacy Act (CCPA) and California Privacy Rights Act (CPRA). These rights may include the right to know, access, correct, delete, or obtain a copy of personal information we collect, and the right to opt out of certain data uses.
+
+Bolt does not sell personal information as defined under the CCPA. However, we may share limited identifiers or device information with advertising or analytics partners to support marketing or promotional campaigns. Where required by law, users may opt out of such sharing.
+
+Requests may be submitted to [privacy@stackblitz.com](mailto:privacy@stackblitz.com). Appeals may be submitted by replying to our response or contacting us with “Privacy Appeal” in the subject line.
+
+To protect privacy and security, we may take steps to verify your identity before fulfilling your request. Requests may be subject to certain exceptions or limitations permitted by applicable law.
+
+Authorized agents may submit requests on behalf of individuals where permitted by law, provided we are able to verify the agent’s authority.
+
+We will not discriminate against you for exercising your privacy rights.
+
+### 15\. Contact Us
+
+For privacy-related inquiries, contact us at [privacy@stackblitz.com](mailto:privacy@stackblitz.com).
+
+Enterprise customers should note that customer data processing is governed by applicable DPAs rather than solely by this Privacy Policy.
+
+### 16\. Updates To Privacy Policy
+
+We may update this Privacy Policy from time to time to reflect changes in our practices, technologies, legal requirements, or other factors. When we do so, we will update the “Last Updated” date at the top of this policy.
+
+If we make material changes, we will provide notice through the Services or by other appropriate means where required by law.
+
+Your continued use of the Services after any update indicates your acceptance of the revised Privacy Policy.
