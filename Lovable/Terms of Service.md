@@ -13,7 +13,7 @@ Get started
 
 Log inGet started
 
-Version:
+Version:January 19, 2026 (Latest)
 
 **Terms of Service**
 ====================
@@ -438,7 +438,7 @@ If any provision of these Terms is found invalid or unenforceable, the remaining
 Email: [feedback@lovable.dev](mailto:feedback@lovable.dev)  
 Address: 1111B South Governors Avenue, Dover, DE 19904, USA
 
-Version:
+Version:January 19, 2026 (Latest)
 
 **Terms of Service**
 ====================
@@ -901,7 +901,6 @@ Address: 1111B South Governors Avenue, Dover, DE 19904, USA
 *   [Blog](https://lovable.dev/blog)
 *   [Support](https://lovable.dev/support)
 *   [Reviews](https://lovable.dev/reviews)
-*   [FAQs](https://lovable.dev/faq)
 *   [Sitemap](https://lovable.dev/sitemap)
 
 ### Legal
