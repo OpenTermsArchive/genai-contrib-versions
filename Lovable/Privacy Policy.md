@@ -13,7 +13,7 @@ Get started
 
 Log inGet started
 
-Version:
+Version:April 14, 2026 (Latest)
 
 Privacy Policy
 ==============
@@ -241,7 +241,7 @@ Lovable will not discriminate against you for exercising your privacy rights. If
      This Policy, together with the Terms of Service constitutes the entire agreement between you and Lovable regarding privacy and data protection in connection with the Services.
      
 
-Version:
+Version:April 14, 2026 (Latest)
 
 Privacy Policy
 ==============
@@ -507,7 +507,6 @@ Lovable will not discriminate against you for exercising your privacy rights. If
 *   [Blog](https://lovable.dev/blog)
 *   [Support](https://lovable.dev/support)
 *   [Reviews](https://lovable.dev/reviews)
-*   [FAQs](https://lovable.dev/faq)
 *   [Sitemap](https://lovable.dev/sitemap)
 
 ### Legal
