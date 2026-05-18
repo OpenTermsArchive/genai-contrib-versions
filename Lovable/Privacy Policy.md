@@ -528,7 +528,7 @@ Lovable will not discriminate against you for exercising your privacy rights. If
 
 *   [Become a partner](https://lovable.dev/partners)
 *   [Hire a Lovable expert](https://lovable.dev/experts)
-*   [Affiliates](https://lovable.dev/affiliates)
+*   [Affiliates](https://lovable.dev/partners/affiliates)
 *   [Code of conduct](https://lovable.dev/community-code-of-conduct)
 *   [Discord](https://discord.com/invite/lovable-dev)
 *   [Reddit](https://reddit.com/r/lovable)
