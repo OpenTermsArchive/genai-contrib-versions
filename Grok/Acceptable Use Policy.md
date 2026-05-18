@@ -30,3 +30,5 @@ You are free to use our Service as you see fit so long as you use it to be a goo
     
 
 We report suspected child sexual abuse material to the National Center for Missing and Exploited Children.
+
+You can report violative content to xAI directly from Grok by clicking/tapping the three dots and choosing "Report Issue". Alternatively, you can email xAI directly at [support@x.ai](mailto:support@x.ai).
