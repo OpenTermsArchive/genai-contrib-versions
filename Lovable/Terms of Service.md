@@ -922,7 +922,7 @@ Address: 1111B South Governors Avenue, Dover, DE 19904, USA
 
 *   [Become a partner](https://lovable.dev/partners)
 *   [Hire a Lovable expert](https://lovable.dev/experts)
-*   [Affiliates](https://lovable.dev/affiliates)
+*   [Affiliates](https://lovable.dev/partners/affiliates)
 *   [Code of conduct](https://lovable.dev/community-code-of-conduct)
 *   [Discord](https://discord.com/invite/lovable-dev)
 *   [Reddit](https://reddit.com/r/lovable)
