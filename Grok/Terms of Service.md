@@ -36,10 +36,10 @@ Mobile App Specific Terms
 
 Regional Specific Terms
 
-[**Terms of Service - Consumer**](#terms-of-service---consumer)
-===============================================================
+[Terms of Service - Consumer](#terms-of-service---consumer)
+===========================================================
 
-_Effective: November 4, 2025 ([previous version](https://x.ai/legal/terms-of-service/previous-2025-06-09))_
+_Effective: April 10, 2026 ([previous version](https://x.ai/legal/terms-of-service/previous-2025-11-04))_
 
 [**Welcome to xAI!**](#welcome-to-xai)
 --------------------------------------
@@ -73,7 +73,7 @@ xAI is a company working on building artificial intelligence to accelerate human
 
 **What you can do.** Subject to your compliance with these Terms, you may access and use our Service. You must comply with all applicable laws as well as our [Acceptable Use Policy](https://x.ai/legal/acceptable-use-policy) and any other documentation, guidelines, or policies we make available to you, including on our [website](https://x.ai/legal).
 
-**What you cannot do.** Prohibited uses of our Service include any illegal, harmful, or abusive activities, including but not limited to::
+**What you cannot do.** Prohibited uses of our Service include any illegal, harmful, or abusive activities, including but not limited to:
 
 *   _Detrimentally impacting the Service, including by:_
     *   Modifying, copying, leasing, selling, reselling, distributing, distilling, manipulating, using bots to access, reverse engineering, or decompiling our Service
@@ -205,9 +205,9 @@ The above information must be submitted to our Copyright Agent at: Attn: Legal -
 [**Dispute Resolution**](#dispute-resolution)
 ---------------------------------------------
 
-**Class Action and Jury Trial Waiver** BY ENTERING INTO THESE TERMS, YOU AND XAI ARE EACH WAIVING THE RIGHT TO A TRIAL BY JURY OR TO BRING, JOIN, OR PARTICIPATE IN ANY PURPORTED CLASS ACTION, COLLECTIVE ACTION, PRIVATE ATTORNEY GENERAL ACTION, OR OTHER REPRESENTATIVE PROCEEDING OF ANY KIND AS A PLAINTIFF OR CLASS MEMBER. THE FOREGOING APPLIES TO ALL USERS (BOTH NATURAL PERSONS AND ENTITIES), REGARDLESS OF WHETHER YOU HAVE OBTAINED OR USED THE SERVICE FOR PERSONAL, COMMERCIAL, OR OTHER PURPOSES. To the extent permitted by law, you also waive the right to participate as a plaintiff or class member in any purported class action, collective action or representative action proceeding against our corporate affiliates.
+**Class Action and Jury Trial Waiver.** BY ENTERING INTO THESE TERMS, YOU AND XAI ARE EACH WAIVING THE RIGHT TO A TRIAL BY JURY OR TO BRING, JOIN, OR PARTICIPATE IN ANY PURPORTED CLASS ACTION, COLLECTIVE ACTION, PRIVATE ATTORNEY GENERAL ACTION, OR OTHER REPRESENTATIVE PROCEEDING OF ANY KIND AS A PLAINTIFF OR CLASS MEMBER. THE FOREGOING APPLIES TO ALL USERS (BOTH NATURAL PERSONS AND ENTITIES), REGARDLESS OF WHETHER YOU HAVE OBTAINED OR USED THE SERVICE FOR PERSONAL, COMMERCIAL, OR OTHER PURPOSES. To the extent permitted by law, you also waive the right to participate as a plaintiff or class member in any purported class action, collective action or representative action proceeding against our corporate affiliates.
 
-**Governing Law; Jurisdiction and Venue.** The laws of the State of Texas, excluding its choice of law provisions, will govern these Terms and any dispute that arises between you and us, notwithstanding any other agreement between you and us to the contrary. Notwithstanding any other agreement to the contrary, all disputes related to these Terms, the Service, or any patents – including without limitation disputes related to or arising from any Content (whether your or others' Content), or your or others' use of the Service or the complete or partial termination thereof – shall be brought and must proceed exclusively in the federal U.S. District Court for the Northern District of Texas or state courts located in Tarrant County, Texas, United States, and you consent to personal jurisdiction in those forums and waive any objection as to inconvenient forum. For the avoidance of doubt, the choice of law and forum selection provisions of this paragraph shall apply regardless of whether a dispute or any claims contained therein are based in contract, tort, statute, common law, or otherwise, and the choice of law and forum selection provisions of this paragraph shall apply to pending and future disputes and shall apply to your dispute regardless of when the conduct relating to the dispute arose or occurred. The choice of law and forum selection provisions of this paragraph shall also extend to disputes involving our U.S. corporate affiliates, who are intended third-party beneficiaries of this paragraph. Without prejudice to the foregoing, you agree that, in its sole discretion, xAI may bring any claim, cause of action, or dispute we have against you in any competent court in the country in which you reside that has jurisdiction and venue over the claim.
+**Governing Law; Jurisdiction and Venue.** The laws of the State of Texas, excluding its choice of law provisions, will govern these Terms and any dispute that arises between you and us, notwithstanding any other agreement between you and us to the contrary. Notwithstanding any other agreement to the contrary, all disputes related to these Terms, the Service, or any patents – including without limitation disputes related to or arising from any Content (whether your or others' Content), or your or others' use of the Service or the complete or partial termination thereof – shall be brought and must proceed exclusively in the federal U.S. District Court for the Northern District of Texas or state courts located in Wichita County or Tarrant County, Texas, United States, and you consent to personal jurisdiction in those forums and waive any objection as to inconvenient forum. For the avoidance of doubt, the choice of law and forum selection provisions of this paragraph shall apply regardless of whether a dispute or any claims contained therein are based in contract, tort, statute, common law, or otherwise, and the choice of law and forum selection provisions of this paragraph shall apply to pending and future disputes and shall apply to your dispute regardless of when the conduct relating to the dispute arose or occurred. The choice of law and forum selection provisions of this paragraph shall also extend to disputes involving our U.S. corporate affiliates, who are intended third-party beneficiaries of this paragraph. Without prejudice to the foregoing, you agree that, in its sole discretion, xAI may bring any claim, cause of action, or dispute we have against you in any competent court in the country in which you reside that has jurisdiction and venue over the claim.
 
 If you are a federal, state, or local government entity in the United States using the Service in your official capacity and legally unable to accept the controlling law, jurisdiction or venue clauses above, then those clauses do not apply to you. For such U.S. federal government entities, these Terms and any action related thereto will be governed by the laws of the United States of America (without reference to conflict of laws) and, in the absence of federal law and to the extent permitted under federal law, the laws of the State of Texas (excluding choice of law).
 
@@ -240,13 +240,43 @@ To use any mobile App, you must have a mobile device that is compatible with suc
 [**Regional Specific Terms**](#regional-specific-terms)
 -------------------------------------------------------
 
-**Australian Residents.** If you are an Australian resident, you may report child safety issues to the eSafety Commission with this [webform](https://www.esafety.gov.au/report/how-to-report-serious-online-abuse-illegal-restricted-content#filling-out-a-report-form).
+**Australian Residents: Online Safety Terms and Information**
 
-**California Residents.** The provider of the Service is set forth herein. If you are a California resident, in accordance with Cal. Civ. Code §1789.3, you may report complaints to the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs by contacting it in writing at 1625 North Market Blvd., Suite N 112 Sacramento, CA 95834, or by telephone at (800) 952-5210 or (916) 445-1254.
+In Australia, your use of Grok is subject to the terms and conditions as set out in xAI's [Terms of Service](https://x.ai/legal/terms-of-service) and [Acceptable Use Policy](https://x.ai/legal/acceptable-use-policy), as well as the terms set out and referred to on this page. In case of inconsistency, these Australia Online Safety Terms shall prevail with respect to Australian users, and will govern your use of Grok.
+
+You may not upload or attempt to generate any of the following:
+
+*   Child sexual exploitation material;
+*   Material that advocates carrying out a terrorist act;
+*   Material that promotes, incites or instructs in matters of crime or violence;
+*   Material that promotes or incites drug-related illegal activities;
+*   Material depicting abhorrent or offensive fetish or fantasy practices, for example, incest.
+
+We may suspend or terminate your account or cease providing you with all or part of the service if you attempt to use Grok for any of these purposes. We may also delete the violative content from the service.
+
+We use age assurance measures to determine whether users in Australia are under 18. Until we are able to determine if a user is 18 or over, they may not be able to access 18+ adult content.
+
+We also allow users to limit their access or exposure to media that may contain 18+ adult content in _Settings > Data Control_.
+
+You can report violative content to xAI directly from Grok by clicking/tapping the three dots and choosing _"Report Issue"_.
+
+Alternatively, you can email xAI directly at [support@x.ai](mailto:support@x.ai).
+
+If you would like to submit a complaint about: a) xAI’s handling of reports or b) xAI’s compliance with the Online Safety Act, you may do so by sending an email to [support@x.ai](mailto:support@x.ai).
+
+**Information about the Australian eSafety Commissioner**
+
+The Australian eSafety Commissioner is the online safety regulator. You can learn more [here](https://www.esafety.gov.au/).  
+If you would like to submit a complaint to the eSafety Commissioner, you can do so [here](https://www.esafety.gov.au/report).  
+You may also find information about counselling and support services [here](https://www.esafety.gov.au/about-us/counselling-support-services).
+
+**California Residents.**
+
+The provider of the Service is set forth herein. If you are a California resident, in accordance with Cal. Civ. Code §1789.3, you may report complaints to the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs by contacting it in writing at 1625 North Market Blvd., Suite N 112 Sacramento, CA 95834, or by telephone at (800) 952-5210 or (916) 445-1254.
 
 **European Economic Area (EEA), United Kingdom (UK) or Switzerland Residents ("Europe Specific Terms" or “EST”)**
 
-*   **EST Definition of Consumer.** For the purposes of these Europe Specific Terms "European Consumers" are individuals with a habitual place of residence in the EEA, UK or Switzerland acting for purposes that are wholly or mainly outside that individual's trade, business, craft or profession.
+*   **EST Definition of Consumer.** For the purposes of these Europe Specific Terms "**European Consumers**" are individuals with a habitual place of residence in the EEA, UK or Switzerland acting for purposes that are wholly or mainly outside that individual's trade, business, craft or profession.
     
 *   **EST Order Process.** As a European-Consumer, you are responsible for ensuring that your information is complete and accurate. The order process allows you to check and amend any errors before submitting your registration. Once you submit, we will begin processing it immediately. We will not file a copy of any contract formed between you and us.
     
@@ -267,3 +297,5 @@ To use any mobile App, you must have a mobile device that is compatible with suc
 *   **EST No Release; Indemnity.** The Release Section and Indemnity Section of the Terms shall not be applicable to European-Consumers subject to these Europe Specific Terms.
     
 *   **EST Changes to the Terms.** With respect to European-Consumers, xAI may unilaterally make changes to these Terms (including the Europe Specific Terms) when it is necessary to do so, particularly as a result of changes of law or to ensure a better functionality of the Service. xAI shall take proportionate measures, if required, to notify Users in advance of such changes to the Terms, such notification may take the form of an in-Service notification or an email for a material change. If you do not agree to the amended Terms, you may object and must discontinue your use of the Service. If you do not object and continue to use the Service, you will be deemed to have acknowledged the amendment and agreed to be bound by it.
+    
+*   **EST Points of Contact for DSA Purposes.** For the purposes of the EU Digital Services Act, xAI’s point of contact for recipients is [xaidsasupport@x.ai](mailto:xaidsasupport@x.ai). The point of contact for Member States’ authorities, the Commission and the Board is [xaidsa@x.ai](mailto:xaidsa@x.ai). Pursuant to Article 13 of the DSA, X.AI LLC has appointed EDSR, through its representative office in Estonia, as the legal representative. Contact: EDSR at Valukoja 8/2, 2nd floor, Tallinn, Estonia, EE-11415. Email: [dsa@edsr.eu](mailto:dsa@edsr.eu). Phone [+3726991640](tel:+3726991640).
