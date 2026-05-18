@@ -35,7 +35,7 @@ Table of contents
 
 [14\. General Terms](#14-general-terms)
 
-[15\. General Terms](#15-general-terms)
+[15\. Third-Party Notices](#15-third-party-notices)
 
 Welcome to the website for Together AI, which is owned and operated by Together Computer, Inc., a Delaware corporation (the “Company,” “we,” or “us”). The Company has developed and makes available programmatic APIs and web interfaces to host, use, fine-tune, and train large AI models (the “Service(s)”). The Company may also provide training, migration, or other professional services to you (“Professional Support”).
 
@@ -147,8 +147,8 @@ Except for a party's indemnification obligations, gross negligence, willful misc
 9.  This Agreement comprises the entire agreement between you and the Company with respect to its subject matter and supersedes all prior and contemporaneous proposals, statements, sales materials or presentations, and agreements (oral and written). No oral or written information or advice given by the Company, its agents, or employees will create a warranty or in any way increase the scope of the warranties in this Agreement.
 10.  Neither party will be deemed in breach hereunder for any cessation, interruption, or delay in the performance of its obligations due to causes beyond its reasonable control (“Force Majeure Event”), including earthquake, flood, or other natural disaster, act of God, labor controversy, civil disturbance, terrorism, war (whether or not officially declared), cyber attacks (e.g., denial of service attacks), or the inability to obtain sufficient supplies, transportation, or other essential commodity or service required in the conduct of its business, or any change in or the adoption of any law, regulation, judgment, or decree.
 
-15\. General Terms
-------------------
+15\. Third-Party Notices
+------------------------
 
 https://ai.meta.com/llama/license/
 
