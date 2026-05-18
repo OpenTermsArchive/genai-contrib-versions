@@ -24,10 +24,10 @@
 
 12\. How to contact us about privacy requests
 
-[**xAI Privacy Policy**](#xai-privacy-policy)
-=============================================
+[xAI Privacy Policy](#xai-privacy-policy)
+=========================================
 
-_Effective: July 10, 2025_
+_Effective: April 4, 2026 ([previous version](https://x.ai/legal/privacy-policy/previous-2025-07-10))_
 
 At X.AI LLC ("**xAI**", "**our**", "**us**" or "**we**"), we value your privacy and are committed to being fair, accountable, and transparent in how we handle your personal information. Our Privacy Policy outlines how we collect, use, and disclose your personal information when you use our websites and applications (the Grok mobile app ([iOS](https://apps.apple.com/app/grok/id6670324846) or [Android](https://play.google.com/store/apps/details?id=ai.x.grok)) or the [Grok.com](http://grok.com/) website), and other xAI services (our "**Service**"). It also describes your privacy rights.
 
@@ -97,10 +97,22 @@ We may collect personal information from you and about you. Some examples of the
     *   How we may collect it: Public X posts are provided by X and internet search data is provided by internet search providers.
     *   How we may use it: To provide, analyze, and maintain our Service; to provide support and assistance in relation to our Service; to develop and improve our Service and to conduct research; to ensure the security and integrity of our Service; for legal purposes.
     *   How we may disclose it: To our contracted service providers; in connection with business transfers, for legal purposes; and to our related companies
-*   **Cookies and Similar Technologies**: We and our service providers use cookies and other similar technologies to operate and improve our Services. Cookies help us to recognize you, customize or personalize your experience, analyze the use of our Services to make it safer and more useful to you. For details about our use of cookies, please read our Cookie Policy.
+*   **Cookies and Similar Technologies**: We and our service providers use cookies and other similar technologies to operate and improve our Services. This data obtained from these cookies and similar technologies may be used for several different purposes, including to:
+    
+*   Provide useful features to simplify your experience with our Services;
+    
+*   Deliver relevant content and targeted advertising;
+    
+*   Monitor, evaluate and optimize the use and operation of our Site and applications; and
+    
+*   Analyze traffic on our sites and on third-party sites.
     
 
-We do not aim to collect sensitive personal information (ex., information related to racial or ethnic origin, political opinions, religion or other beliefs, health, biometric scans, criminal background, or trade union membership) and ask that you do not provide us with any such information. In addition, in relation to Grok's training, xAI does not process training data for the purposes of inferring or deriving any sensitive or special category data about individuals, and we do not actively seek out data sources that include sensitive or special category data.
+For details about our use of cookies, please read our [Cookie Policy](https://x.ai/legal/cookie-policy).
+
+*   **Google Apps Using Google OAuth**: For users who opt to connect to Google Apps via Google OAuth, xAI shall not use any Google Apps content for any of its internal AI or other training purposes (such as training its machine learning models), including developing new products or services based on such content.
+
+We do not aim to collect sensitive personal information (ex., information related to racial or ethnic origin, political opinions, religion or other beliefs, health, biometric scans, criminal background, or trade union membership) and ask that you do not provide us with any such information. In addition, in relation to Grok's training, xAI does not process training data for the purposes of inferring or deriving any sensitive or special category data about individuals, and we do not actively seek out data sources that include sensitive or special category data, nor is any uploaded image used for identification purposes.
 
 [**3\. How we may use personal information**](#3-how-we-may-use-personal-information)
 -------------------------------------------------------------------------------------
@@ -115,9 +127,6 @@ We may use your personal information for a variety of purposes. Below, you will 
 *   For legal purposes: For example, to comply with our legal obligations and to protect the rights, privacy, safety, or property of our users, xAI, or third-parties. This may include detecting what country you are located in so we can comply with relevant legal obligations.
 
 We may aggregate, pseudoanonymize, or de-identify your information so that it no longer identifies you and use this information for the purposes described above, such as to analyze the way our Service is being used, to improve and add features to them, and to conduct research. We will maintain and use pseudoanonymized or de-identified information in pseudoanonymized or de-identified form and will not attempt to reidentify the information, unless required by law.
-
-**We do not sell your personal information or use it for marketing:** We do not sell personal information or share personal information for targeted or cross-contextual advertising purposes.  
-We do not collect and use your personal information for marketing purposes and do not share your personal information with third-parties for the purpose of marketing.
 
 [**4\. How we may disclose personal information**](#4-how-we-may-disclose-personal-information)
 -----------------------------------------------------------------------------------------------
@@ -155,22 +164,20 @@ Our Service may contain links to external websites or social media platforms tha
 [**8\. Children under the age of 13**](#8-children-under-the-age-of-13)
 -----------------------------------------------------------------------
 
-As noted in the [Terms of Service](https://x.ai/terms-of-service), our Service is not directed at children or minors under the age of 13 and we do not knowingly collect any personal information from them. While we have taken measures to limit undesirable training data and outputs, Grok could produce output that is not appropriate for all ages. Parents of teenagers between the ages of 13 and 17 years old must agree to the Terms of Service and are urged to exercise care in monitoring the use of this Service by their teenagers. Depending on how a user interacts with the Service, including which modes the user purposely selects, the Service may have content such as some suggestive dialogue, coarse language, crude humor, sexual situations, or violence.  
-If you are a child under the age of 13, please do not attempt to register for or otherwise use our Service. Please contact us [here](mailto:privacy@x.ai) if you are aware that we may have inadvertently collected personal information from a child under the age of 13.
+As noted in the [Terms of Service](https://x.ai/terms-of-service), our Service is not directed at children or minors under the age of 13 and we do not knowingly collect any personal information from them. While we have taken measures to limit undesirable training data and outputs, Grok could produce output that is not appropriate for all ages. Parents of teenagers between the ages of 13 and 17 years old must agree to the Terms of Service and are urged to exercise care in monitoring the use of this Service by their teenagers. Depending on how a user interacts with the Service, including which modes the user purposely selects, the Service may have content such as some suggestive dialogue, coarse language, crude humor, sexual situations, or violence. If you are a child under the age of 13, please do not attempt to register for or otherwise use our Service. Please contact us [here](mailto:privacy@x.ai) if you are aware that we may have inadvertently collected personal information from a child under the age of 13.
 
 [**9\. Privacy rights and choices**](#9-privacy-rights-and-choices)
 -------------------------------------------------------------------
 
 Depending on where you are located and subject to applicable legal exceptions, you may have certain rights in relation to your personal information. For information on the privacy rights that may be available to you under European privacy laws, please review [xAI’s Europe Privacy Policy Addendum](https://x.ai/legal/europe-privacy-policy-addendum).
 
-*   You may have the right to request to access, correct, update or delete your personal information, subject to certain applicable legal exceptions.  
-    Please note that we cannot guarantee the factual accuracy of Output from our models. If Output contains factually inaccurate personal information relating to you, you can submit a correction request and we will make reasonable efforts to correct this information — but due to the technical complexity of our models, it may not be feasible for us to do so.
+*   You may have the right to request to access, correct, update or delete your personal information, subject to certain applicable legal exceptions. Please note that we cannot guarantee the factual accuracy of Output from our models. If Output contains factually inaccurate personal information relating to you, you can submit a correction request and we will make reasonable efforts to correct this information — but due to the technical complexity of our models, it may not be feasible for us to do so.
 *   If we have collected and processed your personal information with your consent, then you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.
 *   The right to submit certain privacy requests through an Authorized Agent.
 *   The right to be free from discrimination for exercising the rights afforded to you under applicable privacy laws.
 *   The right to appeal a decision we make about your rights request.
 
-Exercising your rights: Some of these rights may be exercised in the xAI Service but for others you will need to submit a request at [https://xai-privacy.relyance.ai/](https://xai-privacy.relyance.ai/) and include your full legal name, email address, and city, state/province, and country of residence. Once you have submitted your request, we will respond within the time frame permitted by applicable privacy laws.
+Exercising your rights: Some of these rights may be exercised in the xAI Service but for others you will need to submit a request at [https://x.ai/privacy-portal/](https://x.ai/privacy-portal/) and include your full legal name, email address, and city, state/province, and country of residence. Once you have submitted your request, we will respond within the time frame permitted by applicable privacy laws.
 
 Please note, however, that your personal information may be exempt from such requests in certain circumstances, for example if we need to keep using your information to comply with our own legal obligations or to establish, exercise or defend legal claims. If an exception applies, we will inform you when responding to your request.
 
@@ -178,7 +185,7 @@ Verification: In order to protect your personal information, your ability to exe
 
 Authorized Agents: To exercise your rights using an Authorized Agent (as defined under applicable law), you must provide your Authorized Agent with written permission to exercise your rights on your behalf, and we may request a copy of this written permission from your Authorized Agent when they make a request on your behalf. We reserve the right to deny a request from an Authorized Agent that does not submit proof that they have been authorized by you to act on your behalf.
 
-Appeals: If we refuse to take action on a request within a reasonable period of time after receiving your request, you may appeal our decision via [https://xai-privacy.relyance.ai/](https://xai-privacy.relyance.ai/). In such an appeal, you must (1) provide sufficient information to allow us to verify that you are the person about whom the original request pertains and to identify the original request, and (2) provide a description of the basis of your appeal. Please note that your appeal will be subject to your rights and obligations afforded to you under applicable law. We respond to all appeal requests as soon as we reasonably can, and no later than legally required.
+Appeals: If we refuse to take action on a request within a reasonable period of time after receiving your request, you may appeal our decision via [https://x.ai/privacy-portal/](https://x.ai/privacy-portal/). In such an appeal, you must (1) provide sufficient information to allow us to verify that you are the person about whom the original request pertains and to identify the original request, and (2) provide a description of the basis of your appeal. Please note that your appeal will be subject to your rights and obligations afforded to you under applicable law. We respond to all appeal requests as soon as we reasonably can, and no later than legally required.
 
 For more information on your rights with respect to data we use to train our models, please read our [Consumer FAQs](https://x.ai/legal/faq).
 
@@ -192,15 +199,14 @@ We may update our Privacy Policy from time to time. When we do, we will publish 
 [**11\. Child safety issues**](#11-child-safety-issues)
 -------------------------------------------------------
 
-To report child safety issues to us, please contact us [here](mailto:childsafety@x.ai).  
-Residents of Australia can find resources regarding child safety and reporting [here](https://www.esafety.gov.au/report/how-to-report-serious-online-abuse-illegal-restricted-content#filling-out-a-report-form).
+To report child safety issues to us, please contact us [here](mailto:childsafety@x.ai). Residents of Australia can find resources regarding child safety and reporting [here](https://www.esafety.gov.au/report/how-to-report-serious-online-abuse-illegal-restricted-content#filling-out-a-report-form).
 
 [**12\. How to contact us about privacy requests**](#12-how-to-contact-us-about-privacy-requests)
 -------------------------------------------------------------------------------------------------
 
-If you have any queries or complaints about our collection, use, or storage of your personal information, or if you wish to exercise any of your rights in relation to your personal information, please contact us at [https://xai-privacy.relyance.ai/](https://xai-privacy.relyance.ai/) or by the following contact details:
+If you have any queries or complaints about our collection, use, or storage of your personal information, or if you wish to exercise any of your rights in relation to your personal information, please contact us at [https://x.ai/privacy-portal/](https://x.ai/privacy-portal/) or by the following contact details:
 
-*   For the fastest response for world-wide requests and in the USA: x.AI LLC, [https://xai-privacy.relyance.ai/](https://xai-privacy.relyance.ai/)
+*   For the fastest response for world-wide requests and in the USA: x.AI LLC, [https://x.ai/privacy-portal/](https://x.ai/privacy-portal/)
 
 **Other contacts for privacy requests:**
 
@@ -285,9 +291,9 @@ We have [Google Payments](https://payments.google.com/payments/apis-secure/u/0/g
 *   You have the right to complain to a supervisory authority about our collection and use of your personal information. For more information, please contact your local supervisory authority. Contact details for supervisory authorities in the EEA and the UK are available [here](https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm). Certain supervisory authorities may require that you exhaust our own internal complaints process before looking into your complaint.
 *   In France, you can choose to ask us to keep or destroy your personal information, after your death, to a nominated third party. You may also be able to ask us to disclose your personal information, after your death, to a specified recipient.
 
-If you have an xAI account to access the Service, some of these rights may be exercised through your account. See [Consumer FAQs](https://x.ai/legal/faq). Rights not exercisable through your account to the extent they may be applicable, can be exercised by contacting us at [https://xai-privacy.relyance.ai/](https://xai-privacy.relyance.ai/).
+If you have an xAI account to access the Service, some of these rights may be exercised through your account. See [Consumer FAQs](https://x.ai/legal/faq). Rights not exercisable through your account to the extent they may be applicable, can be exercised by contacting us at [https://x.ai/privacy-portal/](https://x.ai/privacy-portal/).
 
-If you are not a user of the Service but wish to exercise any of the above rights to the extent that they may be applicable, you can do so by contacting us at [https://xai-privacy.relyance.ai/](https://xai-privacy.relyance.ai/).
+If you are not a user of the Service but wish to exercise any of the above rights to the extent that they may be applicable, you can do so by contacting us at [https://x.ai/privacy-portal/](https://x.ai/privacy-portal/).
 
 Sometimes your personal information may be exempt from such requests, for example if we need to keep using your information to comply with our own legal obligations or to establish, exercise or defend legal claims. If an exception applies, we will inform you when responding to your request. We may request that you provide us with information necessary to confirm your identity before responding to your request.
 
