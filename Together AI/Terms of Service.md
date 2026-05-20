@@ -3,7 +3,7 @@ Legal
 Terms of Service
 ================
 
-Updated December 17, 2025
+Updated May 19, 2026
 
 Table of contents
 
@@ -81,6 +81,7 @@ The Company may perform Professional Services as described in an order form, whi
 1.  In addition to any fees set forth in an applicable order form, you will pay the Company all fees charged to your account according to the prices and terms on the applicable [pricing page](https://www.together.ai/pricing) or as otherwise agreed in writing (collectively, “Fees”). You will provide complete and accurate billing information, including a valid and authorized payment method. Your account will be charged an initial prepaid balance. You authorize the Company to replenish your account by charging a minimum or the higher average monthly usage to Customer’s payment instrument each time Customer’s account balance falls below the replenishment threshold. You authorize the Company, its affiliates, and its third-party payment processor(s) to charge your payment method for the Fees. Except as otherwise specified herein or in such order form, payment obligations are non-cancelable and non-pro-ratable for partial months, and fees paid are non-refundable.  
 2.  The Company may suspend your access to the Services immediately upon notice if you fail to pay any amounts hereunder at least five (5) days past the applicable due date.
 3.  All amounts payable hereunder are exclusive of any sales, use, and other taxes or duties, however designated (collectively “Taxes”). You will be solely responsible for payment of all Taxes.
+4.  Credits or prepaid balances funded via ACH, wire transfer, or other delayed-settlement payment methods will not be available for use until the Company has received and confirmed clearance of the underlying funds. The Company is not responsible for any delays in Service access resulting from the time required for such payments to clear, or for any failed, reversed, or returned payments.
 
 7\. Intellectual Property
 -------------------------
