@@ -1,4 +1,4 @@
-[Happy Horse 1.0 is now on fal](https://fal.ai/models/alibaba/happy-horse/image-to-video/playground)
+[fal Assets is now live!](https://fal.ai/assets)
 
 ![](/landing/bg-side-page.svg)![](/landing/bg-mobile-side-page.svg)
 
