@@ -1,6 +1,8 @@
-Europe Terms of Use | OpenAI
+OpenAI
 
 Select language
+
+…
 
 Updated: January 16, 2026
 
