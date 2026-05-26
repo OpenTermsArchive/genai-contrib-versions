@@ -182,7 +182,7 @@ Models[GPT Image 2](https://fal.ai/gpt-image-2)[Seedance 2.0](https://fal.ai/see
 
 #### Playgrounds
 
-[Sandbox](https://fal.ai/sandbox)[Workflows](https://fal.ai/workflows)[Training](https://fal.ai/models/fal-ai/flux-lora-fast-training)[Demos](https://fal.ai/demos)
+[Sandbox](https://fal.ai/sandbox)[Workflows](https://fal.ai/workflows)[Training](https://fal.ai/models/fal-ai/flux-lora-fast-training)[Background Remover](https://fal.ai/tools/background-remover)
 
 #### Socials
 
