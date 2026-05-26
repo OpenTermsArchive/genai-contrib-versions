@@ -80,4 +80,4 @@ Users may flag any image for moderator review by right-clicking selecting Apps, 
 
 [![web-report.png](/hc/article_attachments/33734790406413)](https://docs.midjourney.com/hc/article_attachments/33734790406413)
 
-[![MJ_Report_App.png](/hc/article_attachments/32015016592397)](https://docs.midjourney.com/hc/article_attachments/32015016592397)
+[![MJ\_Report\_App.png](/hc/article_attachments/32015016592397)](https://docs.midjourney.com/hc/article_attachments/32015016592397)
