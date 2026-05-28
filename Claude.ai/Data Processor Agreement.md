@@ -410,4 +410,4 @@ Anthropic’s list of subprocessors is available at [https://www.anthropic.com/s
 | Intercom<br><br>•<br><br>User support<br><br>United States<br><br>Products: All Products except Claude for Government |
 | ![Nutun](/doc?s=735n1ig46w9br2ibmnec0o)<br><br>Nutun<br><br>•<br><br>User support<br><br>South Africa<br><br>Products: All Products except Claude for Government<br><br>[More Information](https://www.nutun.com/) |
 | ![Logo for Boldr](/logos/boldrimpact.com)<br><br>Boldr<br><br>•<br><br>User support<br><br>Canada<br><br>Products: All Products except Claude for Government<br><br>[More Information](https://boldrimpact.com/) |
-| ![Logo for Twilio](/logos/www.twilio.com)<br><br>Twilio<br><br>•<br><br>Analytics, email/SMS communications<br><br>United States<br><br>Products: All Products except Claude for Government |
+| Twilio<br><br>•<br><br>Analytics, email/SMS communications<br><br>United States<br><br>Products: All Products except Claude for Government |
