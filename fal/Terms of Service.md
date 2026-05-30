@@ -12,7 +12,7 @@
 
 [Model Gallery](https://fal.ai/models)[Documentation](https://docs.fal.ai/)[Pricing](https://fal.ai/pricing)[Enterprise](https://fal.ai/enterprise)Resources
 
-[Blog](https://blog.fal.ai/)[Events](https://fal.ai/events)[Research Grants](https://fal.ai/grants)[Careers](https://fal.ai/careers)
+[Blog](https://blog.fal.ai/)[Learn](https://fal.ai/learn)[Events](https://fal.ai/events)[Research Grants](https://fal.ai/grants)[Careers](https://fal.ai/careers)
 
 [Get started](https://fal.ai/login)[Contact Sales](https://fal.ai/enterprise#contact-sales)
 
