@@ -38,7 +38,7 @@ When used in these Terms of Service, the definitions below have the following me
 
 **“Service(s)”** means all services, software and content provided by Berget, including Berget’s cloud infrastructure services (such as compute, storage, networking), support services, the Control Dashboard, and Berget AI website.
 
-**“Service Descriptions”** means the documents that describe the Service in detail, available at: [https://berget.ai/docs](https://berget.ai/docs)
+**“Service Descriptions”** means the documents that describe the Service in detail.
 
 **“Order”** means an order submitted by the Customer to Berget specifying the Service that the Customer orders. Orders can be submitted by the Customer or Users manually via the Control Dashboard or by contacting Berget’s customer support, or automatically through the Application Programming Interfaces (APIs) of the Service or by other automated means to manage the Service.
 
@@ -59,9 +59,9 @@ When used in these Terms of Service, the definitions below have the following me
 
 (4) Acceptable Use Policy (“AUP”) and
 
-(5) the Service Descriptions ([https://berget.ai/docs](https://berget.ai/docs))
+(5) the Service Descriptions
 
-1–5 together are the “Terms”. All agreement documents are available on Berget AI website: [https://berget.ai](https://berget.ai/)
+1-5 together are the “Terms”. All agreement documents are available on Berget AI website: [https://berget.ai](https://berget.ai/)
 
 3.2. In case of a conflict or ambiguity between the agreement documents, the order of precedence shall be: (1.) DPA, (2.) the main body of Terms of Service, (3.) SLA, (4.) AUP, (5.) Service Descriptions.
 
@@ -198,8 +198,7 @@ Unless otherwise required by law, we will retain your Customer Data for a period
 15\. Use Restrictions
 ---------------------
 
-15.1. You are not permitted and not entitled to permit the Users or any other parties to use the Service for any illegal, harmful, fraudulent, infringing or offensive purposes or to transmit, distribute, store or display any information or content that is illegal, harmful, fraudulent, infringing or offensive, as determined by Berget in its sole discretion. The list below contains examples of prohibited actions and content (the list is not exhaustive):  
-(i) copy, redistribute, reproduce, record, transfer, perform or display to the public, broadcast, or make available to the public any part of the Service, or otherwise make any use of the Service which is not expressly permitted under the Agreement or applicable law or which infringes the intellectual property rights (such as copyright) in the Service or any part of it or any other intellectual property rights of third parties;
+15.1. You are not permitted and not entitled to permit the Users or any other parties to use the Service for any illegal, harmful, fraudulent, infringing or offensive purposes or to transmit, distribute, store or display any information or content that is illegal, harmful, fraudulent, infringing or offensive, as determined by Berget in its sole discretion. The list below contains examples of prohibited actions and content (the list is not exhaustive): (i) copy, redistribute, reproduce, record, transfer, perform or display to the public, broadcast, or make available to the public any part of the Service, or otherwise make any use of the Service which is not expressly permitted under the Agreement or applicable law or which infringes the intellectual property rights (such as copyright) in the Service or any part of it or any other intellectual property rights of third parties;
 
 (ii) use the Service in any manner that could damage, disable, overburden or impair the Service;
 
@@ -228,26 +227,15 @@ Unless otherwise required by law, we will retain your Customer Data for a period
 16\. Indemnifications
 ---------------------
 
-16.1. Berget will at its own expense defend the Customer against any claim brought against the Customer alleging that the Service infringes the intellectual property rights of a third party, and will pay any damages finally settled or awarded by a competent court of law in a trial to the third party with respect to such claim, provided that the Customer:  
-(i) immediately notifies Berget in writing about the claim, and in any case no later than within 30 (thirty) days after receiving the claim;  
-(ii) gives Berget the sole control of the defence and all related settlement negotiations in relation to the claim; and  
-(iii) provides Berget with reasonable assistance and all information necessary in the defence of the claim, as well as necessary authorisations by the Customer to allow Berget to defend or settle the claim on behalf of the Customer.
+16.1. Berget will at its own expense defend the Customer against any claim brought against the Customer alleging that the Service infringes the intellectual property rights of a third party, and will pay any damages finally settled or awarded by a competent court of law in a trial to the third party with respect to such claim, provided that the Customer: (i) immediately notifies Berget in writing about the claim, and in any case no later than within 30 (thirty) days after receiving the claim; (ii) gives Berget the sole control of the defence and all related settlement negotiations in relation to the claim; and (iii) provides Berget with reasonable assistance and all information necessary in the defence of the claim, as well as necessary authorisations by the Customer to allow Berget to defend or settle the claim on behalf of the Customer.
 
-16.2. At any time, if Berget reasonably deems that any part of the Service infringes the intellectual property rights of a third party, Berget has the right, at its own expense and sole discretion, to:  
-(i) modify the Service or any part of it to eliminate the infringement in such a manner that the modified Service complies with the Agreement; or  
-(ii) procure to the Customer the needed licence to allow for continued use of the Service.  
-If neither of the aforementioned alternatives are reasonably possible, Berget has the right to terminate the Agreement and Berget will refund the service fees paid for the Service by the Customer less the proportion of the service fees corresponding to the time the Customer has been able to use the Service in accordance with the Agreement.
+16.2. At any time, if Berget reasonably deems that any part of the Service infringes the intellectual property rights of a third party, Berget has the right, at its own expense and sole discretion, to: (i) modify the Service or any part of it to eliminate the infringement in such a manner that the modified Service complies with the Agreement; or (ii) procure to the Customer the needed licence to allow for continued use of the Service. If neither of the aforementioned alternatives are reasonably possible, Berget has the right to terminate the Agreement and Berget will refund the service fees paid for the Service by the Customer less the proportion of the service fees corresponding to the time the Customer has been able to use the Service in accordance with the Agreement.
 
-16.3. Berget shall not, however, be liable for any infringement of third-party intellectual property rights or claim thereof if the claim:  
-(i) is made by an Affiliate of the Customer;  
-(ii) results from a modification of or an addition to the Service done by the Customer, a User, or any third-party at the Customer’s request;  
-(iii) results from the use of the Service in combination with any product or service not provided or approved by Berget;  
-(iv) could have been avoided by using the latest available version of the Service provided by Berget; or  
-(v) is not related to the Service, or is related to a part of the Service for which Berget is not responsible for pursuant to the Agreement.
+16.3. Berget shall not, however, be liable for any infringement of third-party intellectual property rights or claim thereof if the claim: (i) is made by an Affiliate of the Customer; (ii) results from a modification of or an addition to the Service done by the Customer, a User, or any third-party at the Customer’s request; (iii) results from the use of the Service in combination with any product or service not provided or approved by Berget; (iv) could have been avoided by using the latest available version of the Service provided by Berget; or (v) is not related to the Service, or is related to a part of the Service for which Berget is not responsible for pursuant to the Agreement.
 
 16.4. If the third-party claimant is adjudged liable or agrees in a settlement to pay a compensation to the Customer, then the Customer shall remit such compensation to Berget immediately after receiving it from the third-party claimant.
 
-16.5. The Clauses 16.1–16.4 above contain Berget’s entire liability and the Customer’s sole and exclusive remedy in case the Service infringes on third-party intellectual property rights.
+16.5. The Clauses 16.1-16.4 above contain Berget’s entire liability and the Customer’s sole and exclusive remedy in case the Service infringes on third-party intellectual property rights.
 
 16.6. The Customer shall, at its own expense, defend and hold Berget harmless against any third-party claims, including investigations by Governmental Authorities, brought against Berget (“Claim”) as a result of any breach of the Agreement by the Customer and/or User, and indemnify Berget against: (i) any damages awarded by a court of law to the third-party claimant; (ii) any liabilities imposed on Berget as a result of the Claim; (iii) any settlement costs and fees approved by the Customer and paid by Berget to the third-party claimant; and (iv) any costs and expenses (including reasonable attorneys’ fees) suffered or incurred by Berget as a result of the Claim.
 
@@ -269,12 +257,7 @@ If neither of the aforementioned alternatives are reasonably possible, Berget ha
 
 18.2. All Confidential Information shall remain the property of the disclosing Party, and the receiving Party shall keep it confidential and refrain from using it otherwise than for the purposes of the Agreement. The Parties shall limit access to the Confidential Information within their organisations to only those Affiliates, employees, directors, officers, agents, and advisors (including attorneys, accountants, and consultants) (collectively, “Associates”) who need to access the Confidential Information for the purposes of the Agreement. The receiving Party shall ensure that its Associates are bound by confidentiality obligations at least as protective as those set forth herein before disclosing any Confidential Information.
 
-18.3. The confidentiality obligations herein shall not apply to Confidential Information which:  
-(i) is or becomes known publicly through no wrongful act or omission of the receiving Party;  
-(ii) was known to the receiving Party prior to the disclosure hereunder, and has not been obtained directly or indirectly from the disclosing Party;  
-(iii) is lawfully disclosed to the receiving Party in good faith by a third party having rights therein without restriction on disclosure;  
-(iv) has been approved for release by the disclosing Party; or  
-(v) has been independently developed by the receiving Party without the use of and prior to receiving the Confidential Information from the disclosing Party.
+18.3. The confidentiality obligations herein shall not apply to Confidential Information which: (i) is or becomes known publicly through no wrongful act or omission of the receiving Party; (ii) was known to the receiving Party prior to the disclosure hereunder, and has not been obtained directly or indirectly from the disclosing Party; (iii) is lawfully disclosed to the receiving Party in good faith by a third party having rights therein without restriction on disclosure; (iv) has been approved for release by the disclosing Party; or (v) has been independently developed by the receiving Party without the use of and prior to receiving the Confidential Information from the disclosing Party.
 
 18.4. Notwithstanding the above, the receiving Party may disclose Confidential Information to third parties where compelled to do so by law or an order of Governmental Authority. Unless prohibited by law or an order of Governmental Authority, the receiving Party shall take reasonable steps to notify the disclosing Party of such disclosure request or order.
 
@@ -329,9 +312,7 @@ You have the right to terminate the Agreement for any reason by issuing at least
 25\. Termination for Cause
 --------------------------
 
-Either Party may terminate the Agreement with immediate effect if the other Party:  
-(i) has materially breached the Agreement and has not remedied the breach within 10 (ten) business days from the receipt of a written notice thereof from the other Party; or  
-(ii) files for bankruptcy or debt rescheduling program, is put into liquidation, or is made subject to any other similar procedures, ceases its payments, or fails to pay its invoices when due.
+Either Party may terminate the Agreement with immediate effect if the other Party: (i) has materially breached the Agreement and has not remedied the breach within 10 (ten) business days from the receipt of a written notice thereof from the other Party; or (ii) files for bankruptcy or debt rescheduling program, is put into liquidation, or is made subject to any other similar procedures, ceases its payments, or fails to pay its invoices when due.
 
 26\. Entire Agreement and Amendments
 ------------------------------------
@@ -360,10 +341,7 @@ If any provision of the Agreement is ruled unenforceable by a court of competent
 30\. Notices
 ------------
 
-30.1. Notices and approvals under this Agreement must be in writing and must be:  
-(i) delivered by courier or registered mail to the party’s registered business address; or  
-(ii) sent by email to the following addresses (or another address substituted by the party):  
-Berget: to: [support@berget.ai](mailto:support@berget.ai), cc: [legal@berget.ai](mailto:legal@berget.ai)
+30.1. Notices and approvals under this Agreement must be in writing and must be: (i) delivered by courier or registered mail to the party’s registered business address; or (ii) sent by email to the following addresses (or another address substituted by the party): Berget: to: [support@berget.ai](mailto:support@berget.ai), cc: [legal@berget.ai](mailto:legal@berget.ai)
 
 Customer: the customer contact email provided when creating the Account.
 
@@ -377,6 +355,7 @@ Customer: the customer contact email provided when creating the Account.
 31.1. The Agreement will be governed by the substantive laws of Sweden, with the exception of any conflict of law principles. Any dispute, controversy or claim arising out of or relating to the Agreement, or the breach, termination or validity thereof, shall be finally settled by either
 
 *   For Swedish customers - Swedish court
+    
 *   For non Swedish based customers - arbitration in accordance with the Arbitration Rules of the Stockholm Chamber of Commerce. The seat of arbitration shall be Stockholm, Sweden, and the language of the arbitration shall be English.
-
-31.2. Notwithstanding the above, Berget may file any debt collection action against the Customer for any outstanding amounts payable by the Customer under the Agreement in any court of competent jurisdiction in the Customer’s domicile.
+    
+    31.2. Notwithstanding the above, Berget may file any debt collection action against the Customer for any outstanding amounts payable by the Customer under the Agreement in any court of competent jurisdiction in the Customer’s domicile.
