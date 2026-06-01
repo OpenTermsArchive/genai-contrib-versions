@@ -32,9 +32,11 @@ Below are examples of actions and content which Berget considers to be illegal, 
 1.7 **Undermine System Integrity**: Conduct activities that compromise the security, performance, or availability of the Service or related infrastructure. This includes intentional or careless use of the Service in excess of a typically expected server load, such as continuously high CPU or I/O use rate,
 
 *   intentional or careless configuration of servers that enables unauthorised third-party access or otherwise lacks adequate security requirements,
+    
 *   measures aimed to circumvent, or interfere with the limitations or restrictions in the Service, or monitoring, controlling or charging of the Service by Berget.
-
-1.8 **Use of Artificial Intelligence Systems**
+    
+    1.8 **Use of Artificial Intelligence Systems**
+    
 
 You may use the Service to develop, train, host, or deploy artificial intelligence (“AI”) systems. You acknowledge and agree that:
 
