@@ -503,6 +503,7 @@ Lovable will not discriminate against you for exercising your privacy rights. If
 *   [Templates](https://lovable.dev/templates)
 *   [Guides](https://lovable.dev/guides)
 *   [Connectors](https://lovable.dev/connect)
+*   [MCP server](https://lovable.dev/mcp)
 *   [Videos](https://lovable.dev/videos)
 *   [Blog](https://lovable.dev/blog)
 *   [Support](https://lovable.dev/support)
