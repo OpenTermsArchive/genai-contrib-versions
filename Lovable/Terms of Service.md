@@ -897,6 +897,7 @@ Address: 1111B South Governors Avenue, Dover, DE 19904, USA
 *   [Templates](https://lovable.dev/templates)
 *   [Guides](https://lovable.dev/guides)
 *   [Connectors](https://lovable.dev/connect)
+*   [MCP server](https://lovable.dev/mcp)
 *   [Videos](https://lovable.dev/videos)
 *   [Blog](https://lovable.dev/blog)
 *   [Support](https://lovable.dev/support)
