@@ -1,11 +1,3 @@
-*   Legal
-    
-
-Legal notice.
-=============
-
-Legal notice.
-
 Editor
 ------
 
