@@ -340,7 +340,6 @@ UTM Content
 *   [Overview](https://sanalabs.com/products/sana)
 *   [AI agents](https://sanalabs.com/products/sana/ai-agents)
 *   [Enterprise search](https://sanalabs.com/products/sana/enterprise-search)
-*   [iOS app](https://sanalabs.com/products/sana/ios-app)
 *   [Solutions](#)
     
     Industries
@@ -371,7 +370,6 @@ UTM Content
 *   [Overview](https://sanalabs.com/products/sana-learn)
 *   [Learning management](https://sanalabs.com/products/sana-learn/learning-management)
 *   [Content creation](https://sanalabs.com/products/sana-learn/content-creation)
-*   [AI tutor](https://sanalabs.com/products/sana-learn/ai-tutor)
 *   [Solutions](#)
     
     *   [Sales enablement](https://sanalabs.com/products/sana-learn/solutions/sales-enablement)
