@@ -5,7 +5,7 @@ In accordance with the provisions of article 6(I) (1) of law no. 2004-575 of 21 
 
 Mistral, a simplified joint stock company with capital of EUR 15,000, listed on the Paris Trade and Companies Register (R.C.S.) under number 952 418 325, with registered offices at 15 RUE DES HALLES, 75001 PARIS, FRANCE.
 
-Contact email address:  [contact@mistral.ai](mailto:contact@mistral.ai) .
+Contact email address: [contact@mistral.ai](mailto:contact@mistral.ai).
 
 * * *
 
@@ -64,7 +64,7 @@ In accordance with the provisions of article 6(I) (1) of law no. 2004-575 of 21 
 
 Mistral, a simplified joint stock company with capital of EUR 15,000, listed on the Paris Trade and Companies Register (R.C.S.) under number 952 418 325, with registered offices at 15 RUE DES HALLES, 75001 PARIS, FRANCE.
 
-Contact email address:  [contact@mistral.ai](mailto:contact@mistral.ai) .
+Contact email address: [contact@mistral.ai](mailto:contact@mistral.ai).
 
 * * *
 
