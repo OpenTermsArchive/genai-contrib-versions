@@ -13,53 +13,65 @@ Get started
 
 Log inGet started
 
-Version:January 19, 2026 (Latest)
+Version:June 16, 2026 (Latest)
 
 **Terms of Service**
 ====================
 
-_Last Updated:_ _**January 19, 2026**_  
-_Effective Date:_ _**January 20, 2026**_
+_Last Updated:_ _**June 16, 2026**_  
+_Effective Date\*:_ _**August 15, 2026**_
 
 **Introduction**
 ----------------
 
-These terms constitute a legal agreement between you and **Lovable Labs Incorporated** ("**Lovable**," "**we**," or "**us**"). Your use of **lovable.dev** (the "**Site**") and the services made available on the Site (the "**Services**") is subject to these Terms of Service (these "**Terms**"). By using the Site and any of our Services, you:
+These Terms of Service ("**Terms**") and our [Platform Rules](https://lovable.dev/platform-rules) constitute a legal agreement between you and **Lovable Labs Incorporated** ("**Lovable**," "**we**," or "**us**") to use **lovable.dev** (the "**Site**") and other products and services made available on the Site, along with any associated apps, software, and websites (the "**Services**"). By using the Site and any of our Services, you:
 
 *   Acknowledge that you have read and understood these Terms;
 *   Agree to be bound by these Terms;
 *   Agree to our [Privacy Policy](https://lovable.dev/privacy); and
 *   Commit to comply with all applicable laws and regulations.
 
-If you are accepting these Terms on behalf of a company or other legal entity, you represent and warrant that you have the authority to bind such entity to these Terms.
+You may accept these Terms as an individual acting on your own behalf, or on behalf of a company or other legal entity. If you accept on behalf of an entity, you represent and warrant that you have the authority to bind that entity to these Terms, and in that case "**you**" and "**your**" refer to that entity. By using the Services, you represent and warrant that you meet these requirements.
 
-We may revise these Terms at any time by posting updated terms on the Site or providing you with notice. Your continued use of the Services after any such changes constitutes your acceptance of the revised Terms.
+We may revise these Terms from time to time. For material changes, we will provide at least thirty (30) days' advance notice by email or through the Services before they take effect, except where a shorter period is required to comply with law or to address a security or legal risk. If you expressly accept the changes before the end of the notice period (for example, by clicking to accept them in the Services), the revised Terms will take effect as of the date of your acceptance. Otherwise, your continued use of the Services after the changes take effect constitutes your acceptance of the revised Terms.
 
 **Definitions**
 ===============
 
-When we use the following terms in these Terms, here’s what we mean:
+When we use the following terms in these Terms, here's what we mean:
 
-*   **"AI Gateway"** means our optional managed API service that lets you access third-party artificial intelligence models (for example, OpenAI, Google, or OpenRouter) through our infrastructure.
-*   **"Credits"** means the prepaid, non-refundable, non-redeemable units you purchase or receive to use the Services. Credits are consumed as you use the Platform, Lovable Cloud, the AI Gateway, or other usage-based features.
+*   **"AI Gateway"** means our optional managed API service that lets you access third-party artificial intelligence models through our infrastructure.
+*   **"Credits"** means the prepaid, non-refundable, non-redeemable units you purchase or receive to use the Services, as described on our [Pricing Page](https://lovable.dev/pricing). Credits are consumed as you use the Platform, Lovable Cloud, the AI Gateway, or other usage-based features. The value of a Credit and the rate at which Credits are consumed for a given action depend on your subscription plan and the feature used, and a Credit on one plan may not equate to a Credit on another.
 *   **"Customer Data"** means any content, code, text, images, files, or other data that you input, upload, submit, host, or generate through the Services, including applications you create using the Platform. Customer Data does not include Usage Data or Lovable Materials.
-*   **"Free Credits"** means promotional or trial credits we grant you (for example, $25 per month for Lovable Cloud and $1 per month for the AI Gateway).
 *   **"Infrastructure Provider(s)"** means third-party providers of hosting, database, storage, networking, or related infrastructure services we use to provide Lovable Cloud (for example, Supabase).
-*   **"Lovable Cloud"** means our optional cloud hosting and back-end environment, which may include database hosting, authentication, file and object storage, and API endpoints. Lovable Cloud is provisioned on third-party infrastructure (currently Supabase).
+*   **"Lovable Cloud"** means our optional cloud hosting and back-end environment, which may include database hosting, authentication, file and object storage, and API endpoints. Lovable Cloud may be provisioned on third-party infrastructure.
 *   **"Lovable Materials"** means the Platform, the Services, the Site, and all related software, technology, documentation, tools, templates, algorithms, models, interfaces, content, and other materials that we develop, provide, or make available, together with all improvements, modifications, and derivative works. Lovable Materials do not include your Customer Data.
-*   **"Paid Credits"** means Lovable Application Credits you purchase through the Site or otherwise and use for your requests in Lovable chat.
-*   **"Paid Cloud Credits"** means Lovable Cloud Service Credits you purchase through the Site or otherwise and use for running your applications with Lovable Cloud feature enabled.
-*   **"Personally Identifiable Information" or "PII"** means any information that identifies, relates to, describes, or could reasonably be linked to a specific individual.
 *   **"Platform"** means our software platform, accessible through the Site, that lets you create applications and websites by interacting with artificial intelligence.
-*   **"Services"** means the Platform and all related features, tools, modules, integrations, and support services we make available to you under these Terms, including, where applicable, Lovable Cloud and the AI Gateway.
-*   **"Site"** means lovable.dev and any associated domains or subdomains we control.
-*   **"Third-Party AI Provider(s)"** means external providers of artificial intelligence models or related services that you can access through the AI Gateway (for example, OpenAI, Google, or OpenRouter).
-*   **"Usage Data"** means telemetry, logs, performance data, usage metrics, and other technical data generated by or in connection with your use of the Services. Usage Data does not include Customer Data or PII.
+*   **"Third-Party AI Provider(s)"** means external providers of artificial intelligence models or related services that you can access through the AI Gateway (for example, OpenAI, Google, or Anthropic).
+*   **"Usage Data"** means telemetry, logs, performance data, usage metrics, and other technical data generated by or in connection with your use of the Services. Usage Data does not include Customer Data.
+
+**Your Account**
+================
+
+Minimum Age
+-----------
+
+You must be at least 18 years old, or the age of majority in your jurisdiction, to use the Services. If you are under 18, you must have your parent or legal guardian's permission to use the Services.
+
+Creation
+--------
+
+To use the Services, you may need to create an account and provide certain information, such as your email address and a password. You agree to keep that information accurate, current, and complete, to update it promptly if it changes, and to allow us to use it to communicate with you about the Services. Notices we send using the contact information associated with your account satisfy any requirement to provide you with legal notice.
+
+Organization Accounts
+---------------------
+
+If you register or sign in using an email address belonging to your employer or another organization, we may treat your account as managed by that organization. Managed account administrators may access, manage, retain, suspend, or terminate the account and its contents, including any associated Customer Data. We will notify you when we treat your account as managed, or rely on the organization to do so where it has agreed to.
 
 **License to Use Our Services**
 ===============================
 
-Subject to these Terms, we grant you a limited, personal, non-exclusive, non-transferable, revocable license to access and use the Services for your personal or internal business purposes, as permitted by your subscription plan. This license does not give you any ownership interest in the Services or Lovable Materials, and all rights not expressly granted are reserved by us. This license terminates immediately if you violate these Terms or your account is terminated for any reason.
+Subject to these Terms, we grant you a limited, non-exclusive, non-transferable, worldwide, revocable license to access and use the Services, as permitted in your subscription plan, for your personal or internal business purposes - including to create, deploy, operate, and make available the applications, websites, and other products you build using the Services, and to permit your end users to access and use those projects. This license does not give you any ownership interest in the Services or Lovable Materials, and all rights not expressly granted are reserved by us. This license terminates immediately if you violate these Terms or your account is terminated for any reason.
 
 **License Restrictions**
 ========================
@@ -76,14 +88,19 @@ You agree not to, and not to allow others to:
 *   overload, disrupt, or interfere with the normal operation of the Services;
 *   use the Services to harass, defame, impersonate, or otherwise harm others;
 *   use the Services in violation of applicable laws, regulations, export controls, or sanctions;
+*   use the Services in violation of our [Platform Rules](https://lovable.dev/platform-rules) or any acceptable use policy we publish;
 *   use the Services to generate or disseminate harmful, misleading, unlawful, or infringing content;
 *   misrepresent AI Output as human-generated in contexts where it could cause harm or deception;
 *   use AI Output without appropriate review in high-risk or sensitive contexts (including medical, legal, financial, or safety-critical uses);
 *   extract, reconstruct, or attempt to determine model weights, training data, or system logic;
+*   use our name, logos or other trademarks in connection with any product or service other than Services, or in any way that implies our affiliation, endorsement or sponsorship without us expressly permitting; or
 *   use the Services, AI Output, or prompts to train, develop, or improve competing AI models.
 
-Subdomain Usage and Management
-------------------------------
+**Subdomain Usage and Management**
+==================================
+
+Subdomains
+----------
 
 If you use our Services to deploy applications or websites on subdomains under lovable.app (for example, \[your-site-name\].lovable.app), you acknowledge and agree that:
 
@@ -94,217 +111,153 @@ If you use our Services to deploy applications or websites on subdomains under l
     *   addressing abuse, policy violations, inappropriate content, or violations of our [Platform Rules](https://lovable.dev/platform-rules);
     *   recycling inactive or underutilized subdomain names, particularly common word or single word subdomains;
     *   technical, operational, or business reasons.
-*   We will generally provide a **7 days advance notice** before reclaiming a subdomain to allow you time to transition to a custom domain or challenge the reclamation. However, we reserve the right to reclaim subdomains immediately without notice when necessary to address urgent issues, including but not limited to violations of our [Platform Rules](https://lovable.dev/platform-rules), legal requirements, security threats, or abuse.
+*   We will generally provide a 7 days' advance notice before reclaiming a subdomain to allow you time to transition to a custom domain or challenge the reclamation. However, we reserve the right to reclaim subdomains immediately without notice when necessary to address urgent issues, including but not limited to violations of our [Platform Rules](https://lovable.dev/platform-rules), legal requirements, security threats, or abuse.
 *   You have no proprietary, possessory, or ongoing rights to any specific subdomain, and reclamation of a subdomain does not entitle you to a refund or any other compensation.
 *   You should not rely on the permanent availability of any particular subdomain and should use custom domains for mission-critical applications.
 *   All content hosted on lovable.app subdomains must comply with our [Platform Rules](https://lovable.dev/platform-rules).
 
-Username Usage and Management
------------------------------
+Usernames
+---------
 
 If you create a username on the Platform, you acknowledge and agree that we reserve the right, at our sole discretion, to reclaim, reassign, or terminate any username at any time and for any reason, including but not limited to: (a) usernames that are inappropriate, offensive, or violate our [Platform Rules](https://lovable.dev/platform-rules); (b) usernames that impersonate or could be confused with official Lovable pages, features, or routes (such as "home," "projects," "settings," or similar); or (c) usernames that impersonate another company, brand, or individual. You have no proprietary or ongoing rights to any specific username, and reclamation of a username does not entitle you to a refund or any other compensation.
 
-Suspension and Termination for Breach
+**Subscriptions, Fees, and Payments**
 =====================================
 
-We may suspend or terminate your account, access to the Services, or any portion of them immediately if we reasonably believe you have violated these Terms (including the License Restrictions above) or engaged in fraudulent, abusive, or unlawful activity. Suspension or termination does not limit any other remedies available to us under law or equity, and you remain responsible for all fees and charges incurred up to the date of suspension or termination.
+Subscriptions
+-------------
 
-**Billing & Payments**
-======================
+You can use the Platform under a free or paid plan, as described on our [Pricing Page](https://lovable.dev/pricing). Paid plans are billed in advance on a monthly or annual basis and renew automatically unless you cancel before the renewal date in your account settings. Plan limits (for example, seats, features, or usage thresholds) are described on our [Pricing Page](https://lovable.dev/pricing) and may change from time to time. Except where required by law, subscription fees are non-refundable.
 
-Platform Subscriptions
+Credits
+-------
 
-You can use the Platform under a free or paid plan, as described on the Site. Paid plans are billed in advance on a monthly or annual basis and renew automatically unless you cancel before the renewal date in your account settings. Plan limits (for example, seats, features, or usage thresholds) are described on the Site and may change from time to time. Except where required by law, subscription fees are non-refundable.
+The Credits we offer, their prices, the Services they apply to, and how they roll over, expire, or are forfeited are described on our [Pricing Page](https://lovable.dev/pricing). Credits are prepaid and, except where required by law, non-refundable, and non-redeemable for cash or any value; they represent only a limited license to access the Services and are not deposits, stored value, or financial instruments. Paid Credits may be used only while your subscription is active. If you cancel or your subscription otherwise ends but you have rolled-over Credits remaining, those Credits are frozen and remain available for reactivation until their expiry; resubscribing reactivates them. Freezing does not change the expiry date of any Credits.
 
-Credits and Separate Balances (Optional Services)
+Purchasing and Auto-Reload
+--------------------------
 
-Lovable Cloud and the AI Gateway run on Cloud Credits. You have two separate balances - one for Lovable Cloud and one for the AI Gateway. Cloud Credits are consumed as you use those Services and are in addition to any Platform subscription fees.
-
-**Free vs. Paid Credits**
-
-*   Free Credits: We may grant Free Credits (for example, $25/month for Lovable Cloud and $1/month for the AI Gateway).
-*   Paid Credits: You can buy Paid Credits anytime. Credits don't earn interest and have no cash or stored-value equivalent.
-*   Paid Cloud Credits: You can buy Paid Cloud Credits anytime. Paid Cloud Credits don't earn interest and have no cash or stored-value equivalent.
-
-**Credit Rollover and Expiration**
-
-*   Free Credits: Daily Free Credits are granted to users daily or on a specific schedule according to their plan and agreement automatically. Daily Free Credits expire at the end of the day and do not roll over. Promotional Free Credits expire at the end of each monthly billing cycle and do not roll over.
-*   Monthly Plans: Unused credits from your monthly allocation roll over to the next billing period, up to a maximum of one (1) times your monthly credit allocation. When this cap is reached, any additional unused credits beyond the cap will not roll over.
-*   Annual Plans: Unused credits from your monthly allocation roll over to the next billing period, up to a maximum of twelve (12) times your monthly credit allocation. When this cap is reached, any additional unused credits beyond the cap will not roll over.
-*   Rollover credits are used before your current billing period's credits when you use the Services.
-*   Rollover credits remain available as long as you maintain an active paid subscription plan. Upon plan change, cancellation, or downgrade, rollover credits are subject to forfeiture as described in the "Refunds and Termination" section.
-
-Buying Credits and Auto-Reload
-
-You may purchase Credits through Stripe or another third-party payment processor that we designate from time to time. By purchasing Credits, you agree to be bound by the applicable terms and conditions of the payment processor in addition to these Terms. You may also enable auto-reload so that your balance is automatically replenished when it falls below a threshold you select. We rely solely on the records, calculations, and determinations of our designated payment processor with respect to payments, metering, invoicing, and account balances, and you agree that those determinations are final and binding absent manifest error.
+You may purchase Credits through Stripe or another third-party payment processor that we designate from time to time. By purchasing Credits, you agree to be bound by the applicable terms and conditions of the payment processor in addition to these Terms. You may also enable auto-reload so that your balance is automatically replenished when it falls below a threshold you select.
 
 Invoices and Records
+--------------------
 
-We issue monthly invoices that show: (a) your Platform subscription charges (if any), and (b) your usage by Service (Lovable Cloud vs. AI Gateway). Invoices are generated based on the records of our designated third-party payment processor (such as Stripe). We rely solely on the records, calculations, and determinations of that payment processor with respect to payments, metering, invoicing, and account balances, and you agree that those determinations are final and binding absent manifest error.
+We send you a monthly invoice for your Platform subscription and top-up charges, based on the records of our third-party payment processor. We use reasonable efforts to meter usage accurately, though metering depends on third-party services. You agree that our usage metering, billing records, and our payment processor's records, calculations, and decisions about payments, usage, invoicing, and account balances are authoritative and, absent an obvious error, final and binding.
 
-No Refunds; Not a Financial Instrument
+Taxes
+-----
 
-Credits are prepaid, non-refundable, and non-redeemable for cash or any other value. Credits represent only a limited license to access the Services and are not deposits, stored value, or financial instruments. For rollover and expiration rules, see the "**Credit Rollover and Expiration"** section above. For forfeiture rules, see the "**Refunds and Termination"** section.
+You're responsible for all transaction taxes, such as sales, use, VAT, and GST, and any duties or government charges, that apply to your purchase or use of the Services, other than taxes based on our net income. Where tax isn't already included in the price, it's added and shown at checkout and on your invoice.
 
-Metering and Third-Party Dependencies
+We calculate tax based on the information you provide (including your billing address and any tax registration number) and the rate in force at the time of the charge. You agree to keep that information accurate and current, and you remain responsible for any tax, interest, or penalties resulting from information that's incorrect or incomplete. Tax rates and rules change over time and differ by location; any change applies automatically to charges arising on or after it takes effect and is not a change to our prices.
 
-We use reasonable efforts to meter usage accurately, but metering depends on third-party services (including Stripe, Supabase, and Third-Party AI Providers). By using the Services, you agree that our metering and billing records are authoritative.
+If you buy as a business, you agree to provide a valid VAT, GST, or equivalent registration number where one applies. If you're exempt from any tax, you must give us valid documentation before the relevant charge; exemptions apply only from the date we accept it, not retrospectively. Where a payment processor or app store is required to collect and remit tax as the seller of record, its tax treatment applies to that purchase.
 
-### Taxes and Withholding
+**Term, Suspension, and Termination**
+=====================================
 
-Fees and Credits are exclusive of taxes. You’re responsible for any taxes, duties, or government charges that apply, other than taxes based on our income.
+Term
+----
+
+These Terms begin when you first accept them or start using the Services and continue until terminated.
+
+Your Right to Terminate
+-----------------------
+
+You may terminate your account and stop using the Services at any time through your account settings.
+
+Our Right to Terminate or Suspend
+---------------------------------
+
+We may terminate your account or access to the Services for convenience by giving you advance notice, and we may discontinue or modify the Services, in whole or in part, at any time on reasonable advance notice where practicable. We may also suspend or terminate your account or access to the Services immediately, without prior notice, if we reasonably believe you have materially breached these Terms (including the License Restrictions) or engaged in fraudulent, abusive, or unlawful activity, or where we must do so to comply with law or to address a security risk. Suspension or termination does not limit any other remedies available to us, and you remain responsible for all fees and charges incurred up to the date of suspension or termination.
+
+Effect of Termination
+---------------------
+
+On termination, your right to access the Services ends. You remain responsible for all fees and charges incurred up to the effective date of termination.
+
+Credit Forfeiture
+-----------------
+
+If we terminate your account or the Services for your material breach, or for fraud or abuse, any remaining Credits are forfeited, except where applicable law requires otherwise. If you cancel, your remaining Credits remain available until the end of the then-current billing period. If we terminate for any reason not attributable to you, any remaining Credits are applied to fees owed through the effective date of termination, after which they expire.
+
+No Refunds
+----------
+
+Except where required by applicable law, all fees are non-refundable. Nothing in this section limits any statutory refund, cancellation, or withdrawal rights you may have as a consumer.
 
 **Service Dependencies and Availability**
 =========================================
 
-We provide the Services, including the Platform, Lovable Cloud, and the AI Gateway, using a combination of our own technology and third-party providers. These include Infrastructure Providers for Lovable Cloud and Third-Party AI Providers (such as OpenAI, Google, and OpenRouter) for the AI Gateway. Because we do not fully control these providers, we cannot guarantee the uninterrupted availability, performance, or security of the Services. You understand and agree that interruptions, delays, or errors may occur, and that we will not be responsible for issues caused by those providers or by events beyond our reasonable control (including force majeure events).
+We provide the Services, including the Platform, Lovable Cloud, and the AI Gateway, using a combination of our own technology and third-party providers. These include Infrastructure Providers for Lovable Cloud and Third-Party AI Providers for the AI Gateway. Because we do not fully control these providers, we cannot guarantee the uninterrupted availability, performance, or security of the Services. You understand and agree that interruptions, delays, or errors may occur, and that we will not be responsible for issues caused by those providers or by events beyond our reasonable control (including force majeure events).
 
-**AI Use Disclaimer**
-=====================
+**Beta or Experimental Features**
+=================================
 
-The Services may use artificial intelligence models to generate code, content, or other outputs ("AI Output"). AI Output may contain errors, inaccuracies, or other issues and should not be relied upon without independent review and testing. You are solely responsible for reviewing, validating, and using any AI Output, whether it is generated through:
+From time to time, we may make features available that are identified as beta, preview, or experimental ("**Beta Features**"). Beta Features may be incomplete, may change at any time, and may be modified, suspended, or discontinued without notice and without liability to you. They are provided "as is" and "as available," without warranties of any kind, and are excluded from any service levels, support commitments, and indemnification obligations. Beta Features may be subject to additional terms, which form part of the Additional Terms described in these Terms. Your use of Beta Features is voluntary and at your own risk.
 
-*   our Platform’s integrated AI;
-*   the AI Gateway (via Third-Party AI Providers such as OpenAI, Google, or OpenRouter); or
+**AI Output**
+=============
+
+The Services may use artificial intelligence models to generate code, content, or other outputs ("**AI Output**"). AI Output may contain errors, inaccuracies, or other issues and should not be relied upon without independent review and testing. You are solely responsible for reviewing, validating, and using any AI Output, whether it is generated through:
+
+*   our Platform's integrated AI;
+*   the AI Gateway (via Third-Party AI Providers); or
 *   any model or API that you connect to the Services.
 
-You assume full responsibility for your use of AI Output and agree not to rely on it for critical or high-risk functions (including medical, legal, financial, or safety-related purposes) without appropriate safeguards. AI Output may be similar or identical to content generated for other users who submit similar prompts. We do not guarantee that AI Output will be unique, free of third-party rights, accurate, or suitable for any particular purpose.
+You assume full responsibility for your use of AI Output and agree not to rely on it for critical or high-risk functions (including medical, legal, financial, or safety-related purposes) without appropriate safeguards. AI Output may be similar or identical to content generated for other users who submit similar prompts. We do not guarantee that AI Output will be unique, free of third-party rights, accurate, suitable for any particular purpose, or that it will build, repair, complete, or improve any application or project or achieve any particular result. Credits are consumed by each AI action based on the effort and resources used, regardless of the outcome, and are non-refundable and non-restorable even where the AI Output is erroneous, incomplete, or must be regenerated, except where applicable law requires otherwise.
 
-**Customer Data and Privacy**
-=============================
+**Your Content and Data**
+=========================
 
-### No Sensitive Data
+Rights in Customer Data
+-----------------------
 
-You agree not to upload, input, or otherwise provide any protected health information under HIPAA, or any other sensitive categories of data (such as financial account numbers, government identifiers, or biometric data). Our Services are not designed to handle that type of data, and we disclaim all responsibility if you choose to submit it.
-
-### Use of Infrastructure and AI Providers
-
-The Services, including the Platform, Lovable Cloud, and the AI Gateway, run in part on Infrastructure Providers (for example, Supabase and other hosting or database providers). In addition, the Platform and the AI Gateway both transmit your inputs, prompts, and related data to artificial intelligence systems, including large language models and other machine learning models, in order to generate code, content, or other outputs. These systems may be provided by us, by Third-Party AI Providers (such as OpenAI, Google, or OpenRouter), or by models that you connect yourself. By using the Services, you consent to these transfers, processing, and storage.
-
-### Rights in Customer Data
-
-Except for PII, you grant us a worldwide, perpetual, royalty-free license to use, copy, modify, process, analyze, and otherwise exploit your Customer Data for our business purposes, including without limitation:
+You grant us a worldwide, perpetual, royalty-free license to use, copy, modify, process, analyze, and otherwise exploit your Customer Data for our business purposes, including without limitation:
 
 *   operating, maintaining, and improving the Services;
 *   developing and training artificial intelligence and machine learning models;
 *   creating benchmarks, analytics, and insights; and
 *   any other lawful business purpose.
 
-If you do not want your Customer Data used for model training or other business purposes, you may opt out by contacting us or by upgrading to a Business plan that provides enhanced data-handling controls.
+We may use your Customer Data to develop and train artificial intelligence and machine learning models. You may tell us at any time that you do not want your Customer Data used for model training or the other business purposes described above, and we will honor that request for prospective use, free of charge and regardless of your plan.
 
-### Use of PII
+We may also create de-identified, anonymized, or aggregated data from your Customer Data, and we may retain and use that data on a perpetual basis for any lawful business purpose; such data does not identify you and is no longer your Customer Data. This license is granted notwithstanding any confidentiality obligations in these Terms and survives to the extent needed to give effect to the purposes above. Our handling of personal data is described in our [Privacy Policy](https://lovable.dev/privacy), which governs and prevails over this section to the extent of any conflict.
 
-We will not use raw or identifiable PII for model training. We do not sell PII and we do not share it with third parties for advertising or marketing. However, we may anonymize and aggregate PII, and once anonymized and aggregated, we may use it for any business purpose without restriction.
+No Sensitive Data
+-----------------
 
-### Retention and Deletion
+Unless your plan or a separate written agreement with us (such as a data processing addendum or enterprise service agreement) expressly permits it, you agree not to upload, input, or otherwise provide through the Services any protected health information subject to HIPAA, or other special or sensitive categories of data (including financial account numbers, payment card data, government identifiers, or biometric data). Our standard Services are not designed to serve as a system of record for, or to provide regulatory-grade safeguards for, such data.
 
-*   We may retain indefinitely Customer Data in an anonymized and aggregated form for the purposes set out in the "Rights in Customer Data" section.
-*   We can retain PII as long as reasonably necessary to provide the Services.
-*   We may also retain specific PII, after account closure or deletion requests, for fraud prevention, legal defense, or to comply with our legal obligations.
-*   Deleted data may persist in backups for a limited time before being permanently removed.
-*   Usage Data and anonymized or aggregated information may be retained indefinitely.
+If you provide sensitive data in violation of this section, you do so at your own risk, you are solely responsible for ensuring you have a lawful basis and any required consents, and you agree to indemnify us for any claims arising from your submission of that data. We may remove such data or suspend the associated Services where we become aware of non-compliant use.
 
-### Infrastructure Provider Use of Data
+Your Responsibilities
+---------------------
 
-Certain Infrastructure Providers may have the right under their own terms to use aggregated or anonymized usage data derived from your activity for their own business purposes. By using the Services, you acknowledge and agree to those providers’ rights.
+You are responsible for your Customer Data and for the applications and projects you build, deploy, and make available using the Services, including for having all rights, consents, and a lawful basis for the data you process through the Platform, Lovable Cloud, the AI Gateway, or any model or service you connect, and for complying with the terms of any provider you connect.
 
-### Customer Responsibility
+**Use of Infrastructure and AI Providers**
+==========================================
 
-You are responsible for ensuring that your use of the Services, including transfers of Customer Data through the Platform, Lovable Cloud, the AI Gateway, or any model or service you connect, complies with applicable data protection and privacy laws.
-
-**Refunds and Termination**
-===========================
-
-### Forfeiture on Termination
-
-If your account/Services are terminated by us for a breach of the Terms by you, any remaining Credits (Free or Paid) will be forfeited. If you cancel your account/Services, the remaining Credits will remain available until the end of billing period. If we terminate your account/Services for any reason other than your breach of the Terms (including for security, legal, or other reasons not attributable to you), any remaining Credits will be applied to fees owed through the effective date of termination, after which they will expire.
-
-No Refunds
-
-Except where required by law, all fees are non-refundable.
-
-Effect of Termination
-
-Termination of your account or these Terms ends your right to access the Services, but does not affect any rights or obligations that, by their nature, should continue (for example, intellectual property rights, disclaimers, limitations of liability, indemnification, and payment obligations).
-
-**Marketing and Promotions**
-============================
-
-### Promotional Credits and Offers
-
-From time to time, we may provide you with promotional credits or other promotional offers, such as free access to the AI Gateway for a limited period. Promotional credits and offers are provided at our sole discretion and may be modified or discontinued at any time.
-
-### Restrictions
-
-Promotional credits and offers:
-
-*   are non-transferable, non-refundable, and non-redeemable for cash or any other value;
-*   may be limited to specific Services (for example, only the AI Gateway);
-*   expire as stated in the promotion, or if no expiration is stated, at the end of the then-current billing cycle; and
-*   may not be combined with other promotions unless we expressly permit it.
-
-### Revocation
-
-We may revoke, cancel, or adjust promotional credits or offers at any time if we reasonably believe they were obtained fraudulently, used in violation of these Terms, or provided in error.
-
-Affiliate Program Terms
-=======================
-
-By participating in Lovable's affiliate program, you agree to the following terms:
-
-No Self-Referrals
-
-Affiliates may not refer themselves. Self-referrals will be automatically blocked and may result in account termination.
-
-No Brand Bidding
-
-Affiliates may not bid on "Lovable" or any misspellings or variations of the brand in paid search ads (e.g., Google Ads). Violations will result in forfeiture of all commissions in the month where a violation occurred, permanent exclusion from affiliate commissions for any users acquired through brand bidding (as these users would have found Lovable organically), and possible account deactivation.
-
-No Search Engine Traffic
-
-Affiliates are also generally not permitted to generate commissions by driving traffic to their link via search engine ads.
-
-No Spam or Misleading Promotions
-
-Affiliates may not use spammy tactics, misleading claims, or false endorsements in promoting Lovable. This includes fake discounts, deceptive landing pages, or unauthorized use of brand assets.
-
-Payouts Are Conditional
-
-Rewards are only granted for valid, completed signups that meet the criteria set in the campaign.  
-Fraudulent or incomplete referrals will not be paid out.
-
-Termination Rights
-
-Lovable reserves the right to revoke affiliate access and withhold commissions for any violation  
-of these Terms or behavior that appears fraudulent, abusive, or misaligned with Lovable's values.
+The Services, including the Platform, Lovable Cloud, and the AI Gateway, run in part on Infrastructure Providers (for example, Supabase and other hosting or database providers). In addition, the Platform and the AI Gateway both transmit your inputs, prompts, and related data to artificial intelligence systems, including large language models and other machine learning models, in order to generate code, content, or other outputs. These systems may be provided by us, by Third-Party AI Providers, or by models that you connect yourself. We are not responsible for how third-party infrastructure or AI providers handle data under their own terms; their processing is described in our [Privacy Policy](https://lovable.dev/privacy). Your use of any Third-Party AI Provider through the AI Gateway, and of any model you connect, is subject to that provider's own terms and any region-specific or data-localization restrictions they impose, and you agree to comply with them. Unless we expressly agree otherwise in writing, we do not guarantee that data transmitted through the Platform or the AI Gateway will be processed or stored in any particular country or region. By using the Services, you consent to these transfers, processing, and storage.
 
 **Ownership**
 =============
 
-### Our Rights
+Our Rights
+----------
 
-We (and our licensors) own all rights, title, and interest in and to the Services and Lovable Materials. This includes the Platform, Lovable Cloud, the AI Gateway, the Site, all underlying software, infrastructure, technology, databases, APIs, models, algorithms, interfaces, and tools, and all improvements, modifications, or derivative works of the foregoing. Except for the limited license we grant you under these Terms, we reserve all rights in and to the Services and Lovable Materials.
+We (and our licensors) own all rights, title, and interest in and to the Services and Lovable Materials. This includes the Platform, Lovable Cloud, the AI Gateway, the Site, all underlying software, infrastructure, technology, databases, APIs, models, algorithms, interfaces, and tools, and all improvements, modifications, or derivative works of the foregoing. Except for the limited license we grant you under these Terms, we reserve all rights in and to the Services and Lovable Materials. We own all Usage Data generated by or in connection with your use of the Services. We may use Usage Data for any business purpose, including monitoring, analytics, benchmarking, improving the Services, and developing new features or offerings.
 
-### Your Rights
+Your Rights
+-----------
 
 As between us, you own your Customer Data, including the applications, websites, or other projects you build using the Services. As between us, you also own any AI Output generated for you through the Services, subject to any third-party rights in the underlying models, training data, or outputs.
-
-### Usage Data
-
-We own all Usage Data generated by or in connection with your use of the Services. We may use Usage Data for any business purpose, including monitoring, analytics, benchmarking, improving the Services, and developing new features or offerings.
-
-### Feedback
-
-If you provide us with any feedback, suggestions, ideas, or other information relating to the Services or our business ("Feedback"), you agree that we may use, copy, modify, distribute, publish, or otherwise exploit that Feedback for any purpose, in any form, and through any medium, without restriction or compensation to you. You also agree that we have no obligation to keep Feedback confidential.
-
-### Relationship to Other Terms
-
-Nothing in these Terms transfers ownership of Customer Data or AI Output to us, or ownership of the Services or Lovable Materials to you.
 
 **Disclaimers of Warranties**
 =============================
 
-THE SERVICES (INCLUDING THE PLATFORM, LOVABLE CLOUD, THE AI GATEWAY, AND ALL AI OUTPUT) ARE PROVIDED "AS IS" AND "AS AVAILABLE." WE AND OUR LICENSORS AND PROVIDERS MAKE NO WARRANTIES, EXPRESS OR IMPLIED, ABOUT THE SERVICES OR ANY RESULTS YOU MAY OBTAIN. TO THE FULLEST EXTENT PERMITTED BY LAW, WE DISCLAIM ALL IMPLIED WARRANTIES, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE DO NOT GUARANTEE THAT THE SERVICES WILL BE UNINTERRUPTED, SECURE, ERROR-FREE, OR FREE OF HARMFUL CODE, OR THAT AI OUTPUT WILL BE ACCURATE, RELIABLE, OR SUITABLE FOR YOUR INTENDED USE.
+**THE SERVICES (INCLUDING THE PLATFORM, LOVABLE CLOUD, THE AI GATEWAY, AND ALL AI OUTPUT) ARE PROVIDED "AS IS" AND "AS AVAILABLE." WE AND OUR LICENSORS AND PROVIDERS MAKE NO WARRANTIES, EXPRESS OR IMPLIED, ABOUT THE SERVICES OR ANY RESULTS YOU MAY OBTAIN. TO THE FULLEST EXTENT PERMITTED BY LAW, WE DISCLAIM ALL IMPLIED WARRANTIES, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE DO NOT GUARANTEE THAT THE SERVICES WILL BE UNINTERRUPTED, SECURE, ERROR-FREE, OR FREE OF HARMFUL CODE, OR THAT AI OUTPUT WILL BE ACCURATE, RELIABLE, OR SUITABLE FOR YOUR INTENDED USE.**
 
 **Indemnification**
 ===================
@@ -321,17 +274,6 @@ You agree to indemnify and hold us harmless from any claims, damages, losses, or
 
 **TO THE FULLEST EXTENT PERMITTED BY LAW, WE AND OUR LICENSORS, PROVIDERS, AFFILIATES, AND OFFICERS WILL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, INCLUDING LOST PROFITS, LOST DATA, BUSINESS INTERRUPTION, OR LOSS OF GOODWILL, ARISING OUT OF OR RELATING TO THE SERVICES OR THESE TERMS, EVEN IF WE WERE ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, EXCEPT TO THE EXTENT SUCH LIABILITY CANNOT BE LIMITED UNDER APPLICABLE LAW. WITHOUT LIMITING THE FOREGOING, WE WILL NOT BE LIABLE FOR ANY DOWNTIME, FAILURES, DELAYS, OR OTHER ISSUES CAUSED BY INFRASTRUCTURE PROVIDERS, THIRD-PARTY AI PROVIDERS, OR OTHER THIRD PARTIES; FOR ERRORS OR INACCURACIES IN AI OUTPUT; FOR ANY ACT OR OMISSION BY YOU, YOUR USERS, OR ANYONE USING YOUR ACCOUNT; OR FOR LOSS OF CUSTOMER DATA, EXCEPT TO THE EXTENT CAUSED BY OUR GROSS NEGLIGENCE OR WILLFUL MISCONDUCT. IN NO EVENT WILL OUR TOTAL LIABILITY FOR ALL CLAIMS ARISING OUT OF OR RELATING TO THE SERVICES OR THESE TERMS, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, OR ANY OTHER LEGAL THEORY, EXCEED THE AMOUNT YOU PAID US FOR THE SERVICES IN THE TWELVE (12) MONTHS IMMEDIATELY PRECEDING THE CLAIM, EXCEPT TO THE EXTENT SUCH LIABILITY CANNOT BE LIMITED UNDER APPLICABLE LAW.**
 
-**Term and Termination**
-========================
-
-These Terms begin when you first accept them or start using the Services and continue until terminated.
-
-You may terminate your account and stop using the Services at any time through your account settings.
-
-We may terminate your account or access to the Services for convenience by providing you with advance notice, or as otherwise provided in the "**Suspension and Termination for Breach"** section. We may also discontinue or modify the Services in whole or in part at any time by providing you with advance notice.
-
-Upon termination, your right to access the Services ends immediately. You remain responsible for all fees and charges incurred up to the date of termination. Any unused Credits are forfeited as described in the **"Refunds and Termination"** section.
-
 **Governing Law and Dispute Resolution**
 ========================================
 
@@ -341,150 +283,139 @@ You agree that the state and federal courts located in Delaware will have exclus
 
 Any dispute with us must be brought on an individual basis and not as a plaintiff or class member in any purported class, consolidated, or representative proceeding. You and Lovable each waive any right to a jury trial in any legal proceeding arising out of or related to these Terms or the Services.
 
-Our failure to enforce any right or provision in these Terms will not be considered a waiver of those rights. If any provision of these Terms is found to be invalid or unenforceable, the remaining provisions will remain in full force and effect.
-
 **Survival**
 ============
 
 The provisions of these Terms relating to intellectual property, data rights, disclaimers, limitations of liability, indemnification, governing law, and any other terms that by their nature should survive, will continue in effect after termination of your account or these Terms.
 
-**Publicity Rights**
-====================
+**Copyrights and Illegal Content**
+==================================
 
-If you are a business entity, you grant us a non-exclusive, worldwide, royalty-free license to use your name, logo, and trademarks ("Marks") to identify you as a customer on our website, in customer lists, pitch materials, investor presentations, and other marketing and promotional materials.
+DMCA
+----
+
+We respect intellectual property rights and comply with the Digital Millennium Copyright Act ("**DMCA**"). To report copyright infringement, or to submit a counter-notice, see our [DMCA Policy](https://lovable.dev/dmca), available at [lovable.dev/dmca](https://lovable.dev/dmca), which is incorporated into these Terms by reference.
+
+Illegal Content and DSA Contact Points
+--------------------------------------
+
+If you believe content hosted through the Services is illegal or violates these Terms, you may report it to us at [abuse@lovable.dev](mailto:abuse@lovable.dev). For the purposes of Articles 11 and 12 of the EU Digital Services Act, our electronic point of contact for users and authorities is [dsa-contact@lovable.dev](mailto:dsa-contact@lovable.dev). Communications may be made in English.
+
+**Miscellaneous**
+=================
+
+Publicity Rights
+----------------
+
+If you are a business entity, you grant us a non-exclusive, worldwide, royalty-free license to use your name, logo, and trademarks ("**Marks**") to identify you as a customer on our website, in customer lists, pitch materials, investor presentations, and other marketing and promotional materials.
 
 You may revoke this license at any time by giving us written notice. After we receive your notice, we will make commercially reasonable efforts to stop using your Marks in new materials, but we are not required to recall or destroy materials already in use.
 
 You represent and warrant that you have all necessary rights to grant this license and that our use of your Marks as permitted here will not infringe or misappropriate any third-party rights.
 
-**DMCA Compliance**
-===================
+Feedback
+--------
 
-We respect intellectual property rights and comply with the Digital Millennium Copyright Act ("DMCA"). If you believe your copyrighted work has been copied and made available through the Services in a way that constitutes infringement, please send a written notice to our designated agent with the following information:
+If you provide us with any feedback, suggestions, ideas, or other information relating to the Services or our business ("**Feedback**"), you agree that we may use, copy, modify, distribute, publish, or otherwise exploit that Feedback for any purpose, in any form, and through any medium, without restriction or compensation to you. You also agree that we have no obligation to keep Feedback confidential.
 
-*   Identification of the copyrighted work claimed to have been infringed;
-*   Identification of the material that is claimed to be infringing, and information reasonably sufficient to permit us to locate the material;
-*   Your contact information, including name, address, phone number, and email address;
-*   A statement that you have a good-faith belief that the use of the material is not authorized by the copyright owner, its agent, or the law;
-*   A statement that the information in the notice is accurate, and under penalty of perjury, that you are the copyright owner or authorized to act on behalf of the owner; and
-*   Your physical or electronic signature.
+Entire Agreement
+----------------
 
-Our designated agent for DMCA notices is:
+These Terms, together with our [Platform Rules](https://lovable.dev/platform-rules) and any additional, supplemental, or product-specific terms we make available or present to you for particular products, features, or services (collectively, "**Additional Terms**"), are the entire agreement between you and us regarding the Services and supersede all prior or contemporaneous agreements, communications, and understandings (whether written or oral) relating to the Services. Any Additional Terms are incorporated into and form part of these Terms when you access or use the applicable product, feature, or service. In the event of a conflict between these Terms and any Additional Terms, the Additional Terms prevail to the extent of the inconsistency, solely with respect to the product, feature, or service to which they apply.
 
-*   **Email:** [feedback@lovable.dev](mailto:feedback@lovable.dev)
-*   **Address:** 1111B South Governors Avenue, Dover, DE 19904, USA
+Assignment
+----------
 
-If your content has been removed in response to a DMCA notice and you believe this was in error, you may send us a counter-notice that complies with the DMCA. Upon receipt of a valid counter-notice, we may reinstate the material in accordance with the DMCA.
+You may not assign, delegate, or transfer these Terms, by operation of law or otherwise, without our prior written consent. We may assign, delegate, or transfer these Terms, in whole or in part, without restriction.
 
-**Repeat Infringer Policy**
-===========================
-
-In accordance with the DMCA and other applicable law, we have adopted a policy of terminating, in appropriate circumstances and at our sole discretion, accounts of users who are determined to be repeat infringers. We may also limit access to the Services and/or terminate the accounts of any users who infringe the intellectual property rights of others, even if not deemed repeat infringers.
-
-**Eligibility**
-===============
-
-You may use the Services only if:
-
-*   you are at least eighteen (18) years old or the age of majority in your jurisdiction and have the legal capacity to enter into a binding contract. The Services are not intended for individuals under the age of eighteen (18), and we do not knowingly collect or solicit personal data from anyone under this age. If we discover that we have collected personal data from a minor without verifiable parental consent, we will promptly delete that information. If you believe we may have collected such data, please contact us at [privacy@lovable.dev](mailto:privacy@lovable.dev).
-
-OR
-
-*   you are younger than eighteen (18) years old and participate in an organized event under the supervision of adults and facilitators, for which Lovable has been informed in advance to set up accounts and platform policies for secure and safe processing of participant data in a compliant way.
-
-By using the Services, you represent and warrant that you meet these requirements. If you are using the Services on behalf of a company or other entity, you further represent that you have authority to bind that entity to these Terms.
-
-**Notices**
-===========
-
-We may provide notices to you (including changes to these Terms, updates to our Services, or other important information) by email to the address associated with your account, through in-product notifications, or by posting on our website. Notices are deemed given when sent.
-
-All legal notices to us must be sent to:
-
-*   Email: [feedback@lovable.dev](mailto:feedback@lovable.dev)
-*   Address: 1111B South Governors Avenue, Dover, DE 19904, USA
-
-Notices sent by email are deemed received when sent; notices sent by mail are deemed received three (3) business days after mailing.
-
-**Miscellaneous**
-=================
-
-**Entire Agreement**
-
-These Terms are the entire agreement between you and us regarding the Services and supersede all prior or contemporaneous agreements, communications, and understandings (whether written or oral) relating to the Services.
-
-**Assignment**
-
-You may not assign, delegate, or transfer these Terms, by operation of law or otherwise, without our prior written consent. We may assign, delegate, or transfer these Terms, in whole or in part, without restriction. Any attempt to assign in violation of this section is void.
-
-**Export Controls and Sanctions**
-
-You may not use the Services if you are located in, or acting on behalf of a person or entity located in, a country or territory that is subject to U.S. government embargoes or sanctions (including Cuba, Iran, North Korea, Russia, Syria, and the Crimea, Donetsk, or Luhansk regions of Ukraine), or if you are on any U.S. government list of restricted or prohibited parties. You represent and warrant that you are not subject to such restrictions.
-
-**Beta or Experimental Features**
-
-From time to time, we may make features available that are identified as beta, preview, or experimental. Such features may be incomplete, may change at any time, and may be discontinued without notice. They are provided "as is," without warranties of any kind, and may be subject to additional terms.
-
-**Waiver**
+Waiver
+------
 
 Our failure to enforce any provision of these Terms is not a waiver of our right to do so later.
 
-**Severability**
+Severability
+------------
 
 If any provision of these Terms is found invalid or unenforceable, the remaining provisions will remain in full force and effect.
 
-**Contact information**
+Export Controls and Sanctions
+-----------------------------
 
-Email: [feedback@lovable.dev](mailto:feedback@lovable.dev)  
-Address: 1111B South Governors Avenue, Dover, DE 19904, USA
+You must comply with all applicable export control and sanctions laws, including those of the United States, the European Union, and the United Kingdom. You may not use the Services if you are located in, ordinarily resident in, or acting on behalf of a person or entity located in, a country or territory subject to comprehensive embargoes or sanctions, or if you are listed on, or owned or controlled by a party listed on, any applicable restricted- or denied-party list. You may not use the Services for any purpose prohibited by these laws, or make them available to any person subject to such restrictions. You represent and warrant that you are not subject to these restrictions.
 
-Version:January 19, 2026 (Latest)
+Notices
+-------
+
+We may provide notices to you - including Service announcements and updates such as new features, changes, pricing updates, changes to these Terms, or other important information about your account - by email to the address associated with your account, through in-product notifications, or by posting on our website, and you consent to receiving these notices. Notices are effective when sent or posted. You are responsible for keeping your account email address current; if your email address is not valid, any notice sent to that address will nevertheless be deemed to have been sent and received.
+
+All notices to us must be sent to the following email: [support@lovable.dev](mailto:support@lovable.dev)
+
+**Contact**
+===========
+
+If you have any questions about these Terms or the Services, you can contact us by email at [support@lovable.dev](mailto:support@lovable.dev).
+
+\*Unless earlier expressly accepted.
+
+Version:June 16, 2026 (Latest)
 
 **Terms of Service**
 ====================
 
-_Last Updated:_ _**January 19, 2026**_  
-_Effective Date:_ _**January 20, 2026**_
+_Last Updated:_ _**June 16, 2026**_  
+_Effective Date\*:_ _**August 15, 2026**_
 
 **Introduction**
 ----------------
 
-These terms constitute a legal agreement between you and **Lovable Labs Incorporated** ("**Lovable**," "**we**," or "**us**"). Your use of **lovable.dev** (the "**Site**") and the services made available on the Site (the "**Services**") is subject to these Terms of Service (these "**Terms**"). By using the Site and any of our Services, you:
+These Terms of Service ("**Terms**") and our [Platform Rules](https://lovable.dev/platform-rules) constitute a legal agreement between you and **Lovable Labs Incorporated** ("**Lovable**," "**we**," or "**us**") to use **lovable.dev** (the "**Site**") and other products and services made available on the Site, along with any associated apps, software, and websites (the "**Services**"). By using the Site and any of our Services, you:
 
 *   Acknowledge that you have read and understood these Terms;
 *   Agree to be bound by these Terms;
 *   Agree to our [Privacy Policy](https://lovable.dev/privacy); and
 *   Commit to comply with all applicable laws and regulations.
 
-If you are accepting these Terms on behalf of a company or other legal entity, you represent and warrant that you have the authority to bind such entity to these Terms.
+You may accept these Terms as an individual acting on your own behalf, or on behalf of a company or other legal entity. If you accept on behalf of an entity, you represent and warrant that you have the authority to bind that entity to these Terms, and in that case "**you**" and "**your**" refer to that entity. By using the Services, you represent and warrant that you meet these requirements.
 
-We may revise these Terms at any time by posting updated terms on the Site or providing you with notice. Your continued use of the Services after any such changes constitutes your acceptance of the revised Terms.
+We may revise these Terms from time to time. For material changes, we will provide at least thirty (30) days' advance notice by email or through the Services before they take effect, except where a shorter period is required to comply with law or to address a security or legal risk. If you expressly accept the changes before the end of the notice period (for example, by clicking to accept them in the Services), the revised Terms will take effect as of the date of your acceptance. Otherwise, your continued use of the Services after the changes take effect constitutes your acceptance of the revised Terms.
 
 **Definitions**
 ===============
 
-When we use the following terms in these Terms, here’s what we mean:
+When we use the following terms in these Terms, here's what we mean:
 
-*   **"AI Gateway"** means our optional managed API service that lets you access third-party artificial intelligence models (for example, OpenAI, Google, or OpenRouter) through our infrastructure.
-*   **"Credits"** means the prepaid, non-refundable, non-redeemable units you purchase or receive to use the Services. Credits are consumed as you use the Platform, Lovable Cloud, the AI Gateway, or other usage-based features.
+*   **"AI Gateway"** means our optional managed API service that lets you access third-party artificial intelligence models through our infrastructure.
+*   **"Credits"** means the prepaid, non-refundable, non-redeemable units you purchase or receive to use the Services, as described on our [Pricing Page](https://lovable.dev/pricing). Credits are consumed as you use the Platform, Lovable Cloud, the AI Gateway, or other usage-based features. The value of a Credit and the rate at which Credits are consumed for a given action depend on your subscription plan and the feature used, and a Credit on one plan may not equate to a Credit on another.
 *   **"Customer Data"** means any content, code, text, images, files, or other data that you input, upload, submit, host, or generate through the Services, including applications you create using the Platform. Customer Data does not include Usage Data or Lovable Materials.
-*   **"Free Credits"** means promotional or trial credits we grant you (for example, $25 per month for Lovable Cloud and $1 per month for the AI Gateway).
 *   **"Infrastructure Provider(s)"** means third-party providers of hosting, database, storage, networking, or related infrastructure services we use to provide Lovable Cloud (for example, Supabase).
-*   **"Lovable Cloud"** means our optional cloud hosting and back-end environment, which may include database hosting, authentication, file and object storage, and API endpoints. Lovable Cloud is provisioned on third-party infrastructure (currently Supabase).
+*   **"Lovable Cloud"** means our optional cloud hosting and back-end environment, which may include database hosting, authentication, file and object storage, and API endpoints. Lovable Cloud may be provisioned on third-party infrastructure.
 *   **"Lovable Materials"** means the Platform, the Services, the Site, and all related software, technology, documentation, tools, templates, algorithms, models, interfaces, content, and other materials that we develop, provide, or make available, together with all improvements, modifications, and derivative works. Lovable Materials do not include your Customer Data.
-*   **"Paid Credits"** means Lovable Application Credits you purchase through the Site or otherwise and use for your requests in Lovable chat.
-*   **"Paid Cloud Credits"** means Lovable Cloud Service Credits you purchase through the Site or otherwise and use for running your applications with Lovable Cloud feature enabled.
-*   **"Personally Identifiable Information" or "PII"** means any information that identifies, relates to, describes, or could reasonably be linked to a specific individual.
 *   **"Platform"** means our software platform, accessible through the Site, that lets you create applications and websites by interacting with artificial intelligence.
-*   **"Services"** means the Platform and all related features, tools, modules, integrations, and support services we make available to you under these Terms, including, where applicable, Lovable Cloud and the AI Gateway.
-*   **"Site"** means lovable.dev and any associated domains or subdomains we control.
-*   **"Third-Party AI Provider(s)"** means external providers of artificial intelligence models or related services that you can access through the AI Gateway (for example, OpenAI, Google, or OpenRouter).
-*   **"Usage Data"** means telemetry, logs, performance data, usage metrics, and other technical data generated by or in connection with your use of the Services. Usage Data does not include Customer Data or PII.
+*   **"Third-Party AI Provider(s)"** means external providers of artificial intelligence models or related services that you can access through the AI Gateway (for example, OpenAI, Google, or Anthropic).
+*   **"Usage Data"** means telemetry, logs, performance data, usage metrics, and other technical data generated by or in connection with your use of the Services. Usage Data does not include Customer Data.
+
+**Your Account**
+================
+
+Minimum Age
+-----------
+
+You must be at least 18 years old, or the age of majority in your jurisdiction, to use the Services. If you are under 18, you must have your parent or legal guardian's permission to use the Services.
+
+Creation
+--------
+
+To use the Services, you may need to create an account and provide certain information, such as your email address and a password. You agree to keep that information accurate, current, and complete, to update it promptly if it changes, and to allow us to use it to communicate with you about the Services. Notices we send using the contact information associated with your account satisfy any requirement to provide you with legal notice.
+
+Organization Accounts
+---------------------
+
+If you register or sign in using an email address belonging to your employer or another organization, we may treat your account as managed by that organization. Managed account administrators may access, manage, retain, suspend, or terminate the account and its contents, including any associated Customer Data. We will notify you when we treat your account as managed, or rely on the organization to do so where it has agreed to.
 
 **License to Use Our Services**
 ===============================
 
-Subject to these Terms, we grant you a limited, personal, non-exclusive, non-transferable, revocable license to access and use the Services for your personal or internal business purposes, as permitted by your subscription plan. This license does not give you any ownership interest in the Services or Lovable Materials, and all rights not expressly granted are reserved by us. This license terminates immediately if you violate these Terms or your account is terminated for any reason.
+Subject to these Terms, we grant you a limited, non-exclusive, non-transferable, worldwide, revocable license to access and use the Services, as permitted in your subscription plan, for your personal or internal business purposes - including to create, deploy, operate, and make available the applications, websites, and other products you build using the Services, and to permit your end users to access and use those projects. This license does not give you any ownership interest in the Services or Lovable Materials, and all rights not expressly granted are reserved by us. This license terminates immediately if you violate these Terms or your account is terminated for any reason.
 
 **License Restrictions**
 ========================
@@ -501,14 +432,19 @@ You agree not to, and not to allow others to:
 *   overload, disrupt, or interfere with the normal operation of the Services;
 *   use the Services to harass, defame, impersonate, or otherwise harm others;
 *   use the Services in violation of applicable laws, regulations, export controls, or sanctions;
+*   use the Services in violation of our [Platform Rules](https://lovable.dev/platform-rules) or any acceptable use policy we publish;
 *   use the Services to generate or disseminate harmful, misleading, unlawful, or infringing content;
 *   misrepresent AI Output as human-generated in contexts where it could cause harm or deception;
 *   use AI Output without appropriate review in high-risk or sensitive contexts (including medical, legal, financial, or safety-critical uses);
 *   extract, reconstruct, or attempt to determine model weights, training data, or system logic;
+*   use our name, logos or other trademarks in connection with any product or service other than Services, or in any way that implies our affiliation, endorsement or sponsorship without us expressly permitting; or
 *   use the Services, AI Output, or prompts to train, develop, or improve competing AI models.
 
-Subdomain Usage and Management
-------------------------------
+**Subdomain Usage and Management**
+==================================
+
+Subdomains
+----------
 
 If you use our Services to deploy applications or websites on subdomains under lovable.app (for example, \[your-site-name\].lovable.app), you acknowledge and agree that:
 
@@ -519,217 +455,153 @@ If you use our Services to deploy applications or websites on subdomains under l
     *   addressing abuse, policy violations, inappropriate content, or violations of our [Platform Rules](https://lovable.dev/platform-rules);
     *   recycling inactive or underutilized subdomain names, particularly common word or single word subdomains;
     *   technical, operational, or business reasons.
-*   We will generally provide a **7 days advance notice** before reclaiming a subdomain to allow you time to transition to a custom domain or challenge the reclamation. However, we reserve the right to reclaim subdomains immediately without notice when necessary to address urgent issues, including but not limited to violations of our [Platform Rules](https://lovable.dev/platform-rules), legal requirements, security threats, or abuse.
+*   We will generally provide a 7 days' advance notice before reclaiming a subdomain to allow you time to transition to a custom domain or challenge the reclamation. However, we reserve the right to reclaim subdomains immediately without notice when necessary to address urgent issues, including but not limited to violations of our [Platform Rules](https://lovable.dev/platform-rules), legal requirements, security threats, or abuse.
 *   You have no proprietary, possessory, or ongoing rights to any specific subdomain, and reclamation of a subdomain does not entitle you to a refund or any other compensation.
 *   You should not rely on the permanent availability of any particular subdomain and should use custom domains for mission-critical applications.
 *   All content hosted on lovable.app subdomains must comply with our [Platform Rules](https://lovable.dev/platform-rules).
 
-Username Usage and Management
------------------------------
+Usernames
+---------
 
 If you create a username on the Platform, you acknowledge and agree that we reserve the right, at our sole discretion, to reclaim, reassign, or terminate any username at any time and for any reason, including but not limited to: (a) usernames that are inappropriate, offensive, or violate our [Platform Rules](https://lovable.dev/platform-rules); (b) usernames that impersonate or could be confused with official Lovable pages, features, or routes (such as "home," "projects," "settings," or similar); or (c) usernames that impersonate another company, brand, or individual. You have no proprietary or ongoing rights to any specific username, and reclamation of a username does not entitle you to a refund or any other compensation.
 
-Suspension and Termination for Breach
+**Subscriptions, Fees, and Payments**
 =====================================
 
-We may suspend or terminate your account, access to the Services, or any portion of them immediately if we reasonably believe you have violated these Terms (including the License Restrictions above) or engaged in fraudulent, abusive, or unlawful activity. Suspension or termination does not limit any other remedies available to us under law or equity, and you remain responsible for all fees and charges incurred up to the date of suspension or termination.
+Subscriptions
+-------------
 
-**Billing & Payments**
-======================
+You can use the Platform under a free or paid plan, as described on our [Pricing Page](https://lovable.dev/pricing). Paid plans are billed in advance on a monthly or annual basis and renew automatically unless you cancel before the renewal date in your account settings. Plan limits (for example, seats, features, or usage thresholds) are described on our [Pricing Page](https://lovable.dev/pricing) and may change from time to time. Except where required by law, subscription fees are non-refundable.
 
-Platform Subscriptions
+Credits
+-------
 
-You can use the Platform under a free or paid plan, as described on the Site. Paid plans are billed in advance on a monthly or annual basis and renew automatically unless you cancel before the renewal date in your account settings. Plan limits (for example, seats, features, or usage thresholds) are described on the Site and may change from time to time. Except where required by law, subscription fees are non-refundable.
+The Credits we offer, their prices, the Services they apply to, and how they roll over, expire, or are forfeited are described on our [Pricing Page](https://lovable.dev/pricing). Credits are prepaid and, except where required by law, non-refundable, and non-redeemable for cash or any value; they represent only a limited license to access the Services and are not deposits, stored value, or financial instruments. Paid Credits may be used only while your subscription is active. If you cancel or your subscription otherwise ends but you have rolled-over Credits remaining, those Credits are frozen and remain available for reactivation until their expiry; resubscribing reactivates them. Freezing does not change the expiry date of any Credits.
 
-Credits and Separate Balances (Optional Services)
+Purchasing and Auto-Reload
+--------------------------
 
-Lovable Cloud and the AI Gateway run on Cloud Credits. You have two separate balances - one for Lovable Cloud and one for the AI Gateway. Cloud Credits are consumed as you use those Services and are in addition to any Platform subscription fees.
-
-**Free vs. Paid Credits**
-
-*   Free Credits: We may grant Free Credits (for example, $25/month for Lovable Cloud and $1/month for the AI Gateway).
-*   Paid Credits: You can buy Paid Credits anytime. Credits don't earn interest and have no cash or stored-value equivalent.
-*   Paid Cloud Credits: You can buy Paid Cloud Credits anytime. Paid Cloud Credits don't earn interest and have no cash or stored-value equivalent.
-
-**Credit Rollover and Expiration**
-
-*   Free Credits: Daily Free Credits are granted to users daily or on a specific schedule according to their plan and agreement automatically. Daily Free Credits expire at the end of the day and do not roll over. Promotional Free Credits expire at the end of each monthly billing cycle and do not roll over.
-*   Monthly Plans: Unused credits from your monthly allocation roll over to the next billing period, up to a maximum of one (1) times your monthly credit allocation. When this cap is reached, any additional unused credits beyond the cap will not roll over.
-*   Annual Plans: Unused credits from your monthly allocation roll over to the next billing period, up to a maximum of twelve (12) times your monthly credit allocation. When this cap is reached, any additional unused credits beyond the cap will not roll over.
-*   Rollover credits are used before your current billing period's credits when you use the Services.
-*   Rollover credits remain available as long as you maintain an active paid subscription plan. Upon plan change, cancellation, or downgrade, rollover credits are subject to forfeiture as described in the "Refunds and Termination" section.
-
-Buying Credits and Auto-Reload
-
-You may purchase Credits through Stripe or another third-party payment processor that we designate from time to time. By purchasing Credits, you agree to be bound by the applicable terms and conditions of the payment processor in addition to these Terms. You may also enable auto-reload so that your balance is automatically replenished when it falls below a threshold you select. We rely solely on the records, calculations, and determinations of our designated payment processor with respect to payments, metering, invoicing, and account balances, and you agree that those determinations are final and binding absent manifest error.
+You may purchase Credits through Stripe or another third-party payment processor that we designate from time to time. By purchasing Credits, you agree to be bound by the applicable terms and conditions of the payment processor in addition to these Terms. You may also enable auto-reload so that your balance is automatically replenished when it falls below a threshold you select.
 
 Invoices and Records
+--------------------
 
-We issue monthly invoices that show: (a) your Platform subscription charges (if any), and (b) your usage by Service (Lovable Cloud vs. AI Gateway). Invoices are generated based on the records of our designated third-party payment processor (such as Stripe). We rely solely on the records, calculations, and determinations of that payment processor with respect to payments, metering, invoicing, and account balances, and you agree that those determinations are final and binding absent manifest error.
+We send you a monthly invoice for your Platform subscription and top-up charges, based on the records of our third-party payment processor. We use reasonable efforts to meter usage accurately, though metering depends on third-party services. You agree that our usage metering, billing records, and our payment processor's records, calculations, and decisions about payments, usage, invoicing, and account balances are authoritative and, absent an obvious error, final and binding.
 
-No Refunds; Not a Financial Instrument
+Taxes
+-----
 
-Credits are prepaid, non-refundable, and non-redeemable for cash or any other value. Credits represent only a limited license to access the Services and are not deposits, stored value, or financial instruments. For rollover and expiration rules, see the "**Credit Rollover and Expiration"** section above. For forfeiture rules, see the "**Refunds and Termination"** section.
+You're responsible for all transaction taxes, such as sales, use, VAT, and GST, and any duties or government charges, that apply to your purchase or use of the Services, other than taxes based on our net income. Where tax isn't already included in the price, it's added and shown at checkout and on your invoice.
 
-Metering and Third-Party Dependencies
+We calculate tax based on the information you provide (including your billing address and any tax registration number) and the rate in force at the time of the charge. You agree to keep that information accurate and current, and you remain responsible for any tax, interest, or penalties resulting from information that's incorrect or incomplete. Tax rates and rules change over time and differ by location; any change applies automatically to charges arising on or after it takes effect and is not a change to our prices.
 
-We use reasonable efforts to meter usage accurately, but metering depends on third-party services (including Stripe, Supabase, and Third-Party AI Providers). By using the Services, you agree that our metering and billing records are authoritative.
+If you buy as a business, you agree to provide a valid VAT, GST, or equivalent registration number where one applies. If you're exempt from any tax, you must give us valid documentation before the relevant charge; exemptions apply only from the date we accept it, not retrospectively. Where a payment processor or app store is required to collect and remit tax as the seller of record, its tax treatment applies to that purchase.
 
-### Taxes and Withholding
+**Term, Suspension, and Termination**
+=====================================
 
-Fees and Credits are exclusive of taxes. You’re responsible for any taxes, duties, or government charges that apply, other than taxes based on our income.
+Term
+----
+
+These Terms begin when you first accept them or start using the Services and continue until terminated.
+
+Your Right to Terminate
+-----------------------
+
+You may terminate your account and stop using the Services at any time through your account settings.
+
+Our Right to Terminate or Suspend
+---------------------------------
+
+We may terminate your account or access to the Services for convenience by giving you advance notice, and we may discontinue or modify the Services, in whole or in part, at any time on reasonable advance notice where practicable. We may also suspend or terminate your account or access to the Services immediately, without prior notice, if we reasonably believe you have materially breached these Terms (including the License Restrictions) or engaged in fraudulent, abusive, or unlawful activity, or where we must do so to comply with law or to address a security risk. Suspension or termination does not limit any other remedies available to us, and you remain responsible for all fees and charges incurred up to the date of suspension or termination.
+
+Effect of Termination
+---------------------
+
+On termination, your right to access the Services ends. You remain responsible for all fees and charges incurred up to the effective date of termination.
+
+Credit Forfeiture
+-----------------
+
+If we terminate your account or the Services for your material breach, or for fraud or abuse, any remaining Credits are forfeited, except where applicable law requires otherwise. If you cancel, your remaining Credits remain available until the end of the then-current billing period. If we terminate for any reason not attributable to you, any remaining Credits are applied to fees owed through the effective date of termination, after which they expire.
+
+No Refunds
+----------
+
+Except where required by applicable law, all fees are non-refundable. Nothing in this section limits any statutory refund, cancellation, or withdrawal rights you may have as a consumer.
 
 **Service Dependencies and Availability**
 =========================================
 
-We provide the Services, including the Platform, Lovable Cloud, and the AI Gateway, using a combination of our own technology and third-party providers. These include Infrastructure Providers for Lovable Cloud and Third-Party AI Providers (such as OpenAI, Google, and OpenRouter) for the AI Gateway. Because we do not fully control these providers, we cannot guarantee the uninterrupted availability, performance, or security of the Services. You understand and agree that interruptions, delays, or errors may occur, and that we will not be responsible for issues caused by those providers or by events beyond our reasonable control (including force majeure events).
+We provide the Services, including the Platform, Lovable Cloud, and the AI Gateway, using a combination of our own technology and third-party providers. These include Infrastructure Providers for Lovable Cloud and Third-Party AI Providers for the AI Gateway. Because we do not fully control these providers, we cannot guarantee the uninterrupted availability, performance, or security of the Services. You understand and agree that interruptions, delays, or errors may occur, and that we will not be responsible for issues caused by those providers or by events beyond our reasonable control (including force majeure events).
 
-**AI Use Disclaimer**
-=====================
+**Beta or Experimental Features**
+=================================
 
-The Services may use artificial intelligence models to generate code, content, or other outputs ("AI Output"). AI Output may contain errors, inaccuracies, or other issues and should not be relied upon without independent review and testing. You are solely responsible for reviewing, validating, and using any AI Output, whether it is generated through:
+From time to time, we may make features available that are identified as beta, preview, or experimental ("**Beta Features**"). Beta Features may be incomplete, may change at any time, and may be modified, suspended, or discontinued without notice and without liability to you. They are provided "as is" and "as available," without warranties of any kind, and are excluded from any service levels, support commitments, and indemnification obligations. Beta Features may be subject to additional terms, which form part of the Additional Terms described in these Terms. Your use of Beta Features is voluntary and at your own risk.
 
-*   our Platform’s integrated AI;
-*   the AI Gateway (via Third-Party AI Providers such as OpenAI, Google, or OpenRouter); or
+**AI Output**
+=============
+
+The Services may use artificial intelligence models to generate code, content, or other outputs ("**AI Output**"). AI Output may contain errors, inaccuracies, or other issues and should not be relied upon without independent review and testing. You are solely responsible for reviewing, validating, and using any AI Output, whether it is generated through:
+
+*   our Platform's integrated AI;
+*   the AI Gateway (via Third-Party AI Providers); or
 *   any model or API that you connect to the Services.
 
-You assume full responsibility for your use of AI Output and agree not to rely on it for critical or high-risk functions (including medical, legal, financial, or safety-related purposes) without appropriate safeguards. AI Output may be similar or identical to content generated for other users who submit similar prompts. We do not guarantee that AI Output will be unique, free of third-party rights, accurate, or suitable for any particular purpose.
+You assume full responsibility for your use of AI Output and agree not to rely on it for critical or high-risk functions (including medical, legal, financial, or safety-related purposes) without appropriate safeguards. AI Output may be similar or identical to content generated for other users who submit similar prompts. We do not guarantee that AI Output will be unique, free of third-party rights, accurate, suitable for any particular purpose, or that it will build, repair, complete, or improve any application or project or achieve any particular result. Credits are consumed by each AI action based on the effort and resources used, regardless of the outcome, and are non-refundable and non-restorable even where the AI Output is erroneous, incomplete, or must be regenerated, except where applicable law requires otherwise.
 
-**Customer Data and Privacy**
-=============================
+**Your Content and Data**
+=========================
 
-### No Sensitive Data
+Rights in Customer Data
+-----------------------
 
-You agree not to upload, input, or otherwise provide any protected health information under HIPAA, or any other sensitive categories of data (such as financial account numbers, government identifiers, or biometric data). Our Services are not designed to handle that type of data, and we disclaim all responsibility if you choose to submit it.
-
-### Use of Infrastructure and AI Providers
-
-The Services, including the Platform, Lovable Cloud, and the AI Gateway, run in part on Infrastructure Providers (for example, Supabase and other hosting or database providers). In addition, the Platform and the AI Gateway both transmit your inputs, prompts, and related data to artificial intelligence systems, including large language models and other machine learning models, in order to generate code, content, or other outputs. These systems may be provided by us, by Third-Party AI Providers (such as OpenAI, Google, or OpenRouter), or by models that you connect yourself. By using the Services, you consent to these transfers, processing, and storage.
-
-### Rights in Customer Data
-
-Except for PII, you grant us a worldwide, perpetual, royalty-free license to use, copy, modify, process, analyze, and otherwise exploit your Customer Data for our business purposes, including without limitation:
+You grant us a worldwide, perpetual, royalty-free license to use, copy, modify, process, analyze, and otherwise exploit your Customer Data for our business purposes, including without limitation:
 
 *   operating, maintaining, and improving the Services;
 *   developing and training artificial intelligence and machine learning models;
 *   creating benchmarks, analytics, and insights; and
 *   any other lawful business purpose.
 
-If you do not want your Customer Data used for model training or other business purposes, you may opt out by contacting us or by upgrading to a Business plan that provides enhanced data-handling controls.
+We may use your Customer Data to develop and train artificial intelligence and machine learning models. You may tell us at any time that you do not want your Customer Data used for model training or the other business purposes described above, and we will honor that request for prospective use, free of charge and regardless of your plan.
 
-### Use of PII
+We may also create de-identified, anonymized, or aggregated data from your Customer Data, and we may retain and use that data on a perpetual basis for any lawful business purpose; such data does not identify you and is no longer your Customer Data. This license is granted notwithstanding any confidentiality obligations in these Terms and survives to the extent needed to give effect to the purposes above. Our handling of personal data is described in our [Privacy Policy](https://lovable.dev/privacy), which governs and prevails over this section to the extent of any conflict.
 
-We will not use raw or identifiable PII for model training. We do not sell PII and we do not share it with third parties for advertising or marketing. However, we may anonymize and aggregate PII, and once anonymized and aggregated, we may use it for any business purpose without restriction.
+No Sensitive Data
+-----------------
 
-### Retention and Deletion
+Unless your plan or a separate written agreement with us (such as a data processing addendum or enterprise service agreement) expressly permits it, you agree not to upload, input, or otherwise provide through the Services any protected health information subject to HIPAA, or other special or sensitive categories of data (including financial account numbers, payment card data, government identifiers, or biometric data). Our standard Services are not designed to serve as a system of record for, or to provide regulatory-grade safeguards for, such data.
 
-*   We may retain indefinitely Customer Data in an anonymized and aggregated form for the purposes set out in the "Rights in Customer Data" section.
-*   We can retain PII as long as reasonably necessary to provide the Services.
-*   We may also retain specific PII, after account closure or deletion requests, for fraud prevention, legal defense, or to comply with our legal obligations.
-*   Deleted data may persist in backups for a limited time before being permanently removed.
-*   Usage Data and anonymized or aggregated information may be retained indefinitely.
+If you provide sensitive data in violation of this section, you do so at your own risk, you are solely responsible for ensuring you have a lawful basis and any required consents, and you agree to indemnify us for any claims arising from your submission of that data. We may remove such data or suspend the associated Services where we become aware of non-compliant use.
 
-### Infrastructure Provider Use of Data
+Your Responsibilities
+---------------------
 
-Certain Infrastructure Providers may have the right under their own terms to use aggregated or anonymized usage data derived from your activity for their own business purposes. By using the Services, you acknowledge and agree to those providers’ rights.
+You are responsible for your Customer Data and for the applications and projects you build, deploy, and make available using the Services, including for having all rights, consents, and a lawful basis for the data you process through the Platform, Lovable Cloud, the AI Gateway, or any model or service you connect, and for complying with the terms of any provider you connect.
 
-### Customer Responsibility
+**Use of Infrastructure and AI Providers**
+==========================================
 
-You are responsible for ensuring that your use of the Services, including transfers of Customer Data through the Platform, Lovable Cloud, the AI Gateway, or any model or service you connect, complies with applicable data protection and privacy laws.
-
-**Refunds and Termination**
-===========================
-
-### Forfeiture on Termination
-
-If your account/Services are terminated by us for a breach of the Terms by you, any remaining Credits (Free or Paid) will be forfeited. If you cancel your account/Services, the remaining Credits will remain available until the end of billing period. If we terminate your account/Services for any reason other than your breach of the Terms (including for security, legal, or other reasons not attributable to you), any remaining Credits will be applied to fees owed through the effective date of termination, after which they will expire.
-
-No Refunds
-
-Except where required by law, all fees are non-refundable.
-
-Effect of Termination
-
-Termination of your account or these Terms ends your right to access the Services, but does not affect any rights or obligations that, by their nature, should continue (for example, intellectual property rights, disclaimers, limitations of liability, indemnification, and payment obligations).
-
-**Marketing and Promotions**
-============================
-
-### Promotional Credits and Offers
-
-From time to time, we may provide you with promotional credits or other promotional offers, such as free access to the AI Gateway for a limited period. Promotional credits and offers are provided at our sole discretion and may be modified or discontinued at any time.
-
-### Restrictions
-
-Promotional credits and offers:
-
-*   are non-transferable, non-refundable, and non-redeemable for cash or any other value;
-*   may be limited to specific Services (for example, only the AI Gateway);
-*   expire as stated in the promotion, or if no expiration is stated, at the end of the then-current billing cycle; and
-*   may not be combined with other promotions unless we expressly permit it.
-
-### Revocation
-
-We may revoke, cancel, or adjust promotional credits or offers at any time if we reasonably believe they were obtained fraudulently, used in violation of these Terms, or provided in error.
-
-Affiliate Program Terms
-=======================
-
-By participating in Lovable's affiliate program, you agree to the following terms:
-
-No Self-Referrals
-
-Affiliates may not refer themselves. Self-referrals will be automatically blocked and may result in account termination.
-
-No Brand Bidding
-
-Affiliates may not bid on "Lovable" or any misspellings or variations of the brand in paid search ads (e.g., Google Ads). Violations will result in forfeiture of all commissions in the month where a violation occurred, permanent exclusion from affiliate commissions for any users acquired through brand bidding (as these users would have found Lovable organically), and possible account deactivation.
-
-No Search Engine Traffic
-
-Affiliates are also generally not permitted to generate commissions by driving traffic to their link via search engine ads.
-
-No Spam or Misleading Promotions
-
-Affiliates may not use spammy tactics, misleading claims, or false endorsements in promoting Lovable. This includes fake discounts, deceptive landing pages, or unauthorized use of brand assets.
-
-Payouts Are Conditional
-
-Rewards are only granted for valid, completed signups that meet the criteria set in the campaign.  
-Fraudulent or incomplete referrals will not be paid out.
-
-Termination Rights
-
-Lovable reserves the right to revoke affiliate access and withhold commissions for any violation  
-of these Terms or behavior that appears fraudulent, abusive, or misaligned with Lovable's values.
+The Services, including the Platform, Lovable Cloud, and the AI Gateway, run in part on Infrastructure Providers (for example, Supabase and other hosting or database providers). In addition, the Platform and the AI Gateway both transmit your inputs, prompts, and related data to artificial intelligence systems, including large language models and other machine learning models, in order to generate code, content, or other outputs. These systems may be provided by us, by Third-Party AI Providers, or by models that you connect yourself. We are not responsible for how third-party infrastructure or AI providers handle data under their own terms; their processing is described in our [Privacy Policy](https://lovable.dev/privacy). Your use of any Third-Party AI Provider through the AI Gateway, and of any model you connect, is subject to that provider's own terms and any region-specific or data-localization restrictions they impose, and you agree to comply with them. Unless we expressly agree otherwise in writing, we do not guarantee that data transmitted through the Platform or the AI Gateway will be processed or stored in any particular country or region. By using the Services, you consent to these transfers, processing, and storage.
 
 **Ownership**
 =============
 
-### Our Rights
+Our Rights
+----------
 
-We (and our licensors) own all rights, title, and interest in and to the Services and Lovable Materials. This includes the Platform, Lovable Cloud, the AI Gateway, the Site, all underlying software, infrastructure, technology, databases, APIs, models, algorithms, interfaces, and tools, and all improvements, modifications, or derivative works of the foregoing. Except for the limited license we grant you under these Terms, we reserve all rights in and to the Services and Lovable Materials.
+We (and our licensors) own all rights, title, and interest in and to the Services and Lovable Materials. This includes the Platform, Lovable Cloud, the AI Gateway, the Site, all underlying software, infrastructure, technology, databases, APIs, models, algorithms, interfaces, and tools, and all improvements, modifications, or derivative works of the foregoing. Except for the limited license we grant you under these Terms, we reserve all rights in and to the Services and Lovable Materials. We own all Usage Data generated by or in connection with your use of the Services. We may use Usage Data for any business purpose, including monitoring, analytics, benchmarking, improving the Services, and developing new features or offerings.
 
-### Your Rights
+Your Rights
+-----------
 
 As between us, you own your Customer Data, including the applications, websites, or other projects you build using the Services. As between us, you also own any AI Output generated for you through the Services, subject to any third-party rights in the underlying models, training data, or outputs.
-
-### Usage Data
-
-We own all Usage Data generated by or in connection with your use of the Services. We may use Usage Data for any business purpose, including monitoring, analytics, benchmarking, improving the Services, and developing new features or offerings.
-
-### Feedback
-
-If you provide us with any feedback, suggestions, ideas, or other information relating to the Services or our business ("Feedback"), you agree that we may use, copy, modify, distribute, publish, or otherwise exploit that Feedback for any purpose, in any form, and through any medium, without restriction or compensation to you. You also agree that we have no obligation to keep Feedback confidential.
-
-### Relationship to Other Terms
-
-Nothing in these Terms transfers ownership of Customer Data or AI Output to us, or ownership of the Services or Lovable Materials to you.
 
 **Disclaimers of Warranties**
 =============================
 
-THE SERVICES (INCLUDING THE PLATFORM, LOVABLE CLOUD, THE AI GATEWAY, AND ALL AI OUTPUT) ARE PROVIDED "AS IS" AND "AS AVAILABLE." WE AND OUR LICENSORS AND PROVIDERS MAKE NO WARRANTIES, EXPRESS OR IMPLIED, ABOUT THE SERVICES OR ANY RESULTS YOU MAY OBTAIN. TO THE FULLEST EXTENT PERMITTED BY LAW, WE DISCLAIM ALL IMPLIED WARRANTIES, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE DO NOT GUARANTEE THAT THE SERVICES WILL BE UNINTERRUPTED, SECURE, ERROR-FREE, OR FREE OF HARMFUL CODE, OR THAT AI OUTPUT WILL BE ACCURATE, RELIABLE, OR SUITABLE FOR YOUR INTENDED USE.
+**THE SERVICES (INCLUDING THE PLATFORM, LOVABLE CLOUD, THE AI GATEWAY, AND ALL AI OUTPUT) ARE PROVIDED "AS IS" AND "AS AVAILABLE." WE AND OUR LICENSORS AND PROVIDERS MAKE NO WARRANTIES, EXPRESS OR IMPLIED, ABOUT THE SERVICES OR ANY RESULTS YOU MAY OBTAIN. TO THE FULLEST EXTENT PERMITTED BY LAW, WE DISCLAIM ALL IMPLIED WARRANTIES, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE DO NOT GUARANTEE THAT THE SERVICES WILL BE UNINTERRUPTED, SECURE, ERROR-FREE, OR FREE OF HARMFUL CODE, OR THAT AI OUTPUT WILL BE ACCURATE, RELIABLE, OR SUITABLE FOR YOUR INTENDED USE.**
 
 **Indemnification**
 ===================
@@ -746,17 +618,6 @@ You agree to indemnify and hold us harmless from any claims, damages, losses, or
 
 **TO THE FULLEST EXTENT PERMITTED BY LAW, WE AND OUR LICENSORS, PROVIDERS, AFFILIATES, AND OFFICERS WILL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, INCLUDING LOST PROFITS, LOST DATA, BUSINESS INTERRUPTION, OR LOSS OF GOODWILL, ARISING OUT OF OR RELATING TO THE SERVICES OR THESE TERMS, EVEN IF WE WERE ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, EXCEPT TO THE EXTENT SUCH LIABILITY CANNOT BE LIMITED UNDER APPLICABLE LAW. WITHOUT LIMITING THE FOREGOING, WE WILL NOT BE LIABLE FOR ANY DOWNTIME, FAILURES, DELAYS, OR OTHER ISSUES CAUSED BY INFRASTRUCTURE PROVIDERS, THIRD-PARTY AI PROVIDERS, OR OTHER THIRD PARTIES; FOR ERRORS OR INACCURACIES IN AI OUTPUT; FOR ANY ACT OR OMISSION BY YOU, YOUR USERS, OR ANYONE USING YOUR ACCOUNT; OR FOR LOSS OF CUSTOMER DATA, EXCEPT TO THE EXTENT CAUSED BY OUR GROSS NEGLIGENCE OR WILLFUL MISCONDUCT. IN NO EVENT WILL OUR TOTAL LIABILITY FOR ALL CLAIMS ARISING OUT OF OR RELATING TO THE SERVICES OR THESE TERMS, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, OR ANY OTHER LEGAL THEORY, EXCEED THE AMOUNT YOU PAID US FOR THE SERVICES IN THE TWELVE (12) MONTHS IMMEDIATELY PRECEDING THE CLAIM, EXCEPT TO THE EXTENT SUCH LIABILITY CANNOT BE LIMITED UNDER APPLICABLE LAW.**
 
-**Term and Termination**
-========================
-
-These Terms begin when you first accept them or start using the Services and continue until terminated.
-
-You may terminate your account and stop using the Services at any time through your account settings.
-
-We may terminate your account or access to the Services for convenience by providing you with advance notice, or as otherwise provided in the "**Suspension and Termination for Breach"** section. We may also discontinue or modify the Services in whole or in part at any time by providing you with advance notice.
-
-Upon termination, your right to access the Services ends immediately. You remain responsible for all fees and charges incurred up to the date of termination. Any unused Credits are forfeited as described in the **"Refunds and Termination"** section.
-
 **Governing Law and Dispute Resolution**
 ========================================
 
@@ -766,102 +627,79 @@ You agree that the state and federal courts located in Delaware will have exclus
 
 Any dispute with us must be brought on an individual basis and not as a plaintiff or class member in any purported class, consolidated, or representative proceeding. You and Lovable each waive any right to a jury trial in any legal proceeding arising out of or related to these Terms or the Services.
 
-Our failure to enforce any right or provision in these Terms will not be considered a waiver of those rights. If any provision of these Terms is found to be invalid or unenforceable, the remaining provisions will remain in full force and effect.
-
 **Survival**
 ============
 
 The provisions of these Terms relating to intellectual property, data rights, disclaimers, limitations of liability, indemnification, governing law, and any other terms that by their nature should survive, will continue in effect after termination of your account or these Terms.
 
-**Publicity Rights**
-====================
+**Copyrights and Illegal Content**
+==================================
 
-If you are a business entity, you grant us a non-exclusive, worldwide, royalty-free license to use your name, logo, and trademarks ("Marks") to identify you as a customer on our website, in customer lists, pitch materials, investor presentations, and other marketing and promotional materials.
+DMCA
+----
+
+We respect intellectual property rights and comply with the Digital Millennium Copyright Act ("**DMCA**"). To report copyright infringement, or to submit a counter-notice, see our [DMCA Policy](https://lovable.dev/dmca), available at [lovable.dev/dmca](https://lovable.dev/dmca), which is incorporated into these Terms by reference.
+
+Illegal Content and DSA Contact Points
+--------------------------------------
+
+If you believe content hosted through the Services is illegal or violates these Terms, you may report it to us at [abuse@lovable.dev](mailto:abuse@lovable.dev). For the purposes of Articles 11 and 12 of the EU Digital Services Act, our electronic point of contact for users and authorities is [dsa-contact@lovable.dev](mailto:dsa-contact@lovable.dev). Communications may be made in English.
+
+**Miscellaneous**
+=================
+
+Publicity Rights
+----------------
+
+If you are a business entity, you grant us a non-exclusive, worldwide, royalty-free license to use your name, logo, and trademarks ("**Marks**") to identify you as a customer on our website, in customer lists, pitch materials, investor presentations, and other marketing and promotional materials.
 
 You may revoke this license at any time by giving us written notice. After we receive your notice, we will make commercially reasonable efforts to stop using your Marks in new materials, but we are not required to recall or destroy materials already in use.
 
 You represent and warrant that you have all necessary rights to grant this license and that our use of your Marks as permitted here will not infringe or misappropriate any third-party rights.
 
-**DMCA Compliance**
-===================
+Feedback
+--------
 
-We respect intellectual property rights and comply with the Digital Millennium Copyright Act ("DMCA"). If you believe your copyrighted work has been copied and made available through the Services in a way that constitutes infringement, please send a written notice to our designated agent with the following information:
+If you provide us with any feedback, suggestions, ideas, or other information relating to the Services or our business ("**Feedback**"), you agree that we may use, copy, modify, distribute, publish, or otherwise exploit that Feedback for any purpose, in any form, and through any medium, without restriction or compensation to you. You also agree that we have no obligation to keep Feedback confidential.
 
-*   Identification of the copyrighted work claimed to have been infringed;
-*   Identification of the material that is claimed to be infringing, and information reasonably sufficient to permit us to locate the material;
-*   Your contact information, including name, address, phone number, and email address;
-*   A statement that you have a good-faith belief that the use of the material is not authorized by the copyright owner, its agent, or the law;
-*   A statement that the information in the notice is accurate, and under penalty of perjury, that you are the copyright owner or authorized to act on behalf of the owner; and
-*   Your physical or electronic signature.
+Entire Agreement
+----------------
 
-Our designated agent for DMCA notices is:
+These Terms, together with our [Platform Rules](https://lovable.dev/platform-rules) and any additional, supplemental, or product-specific terms we make available or present to you for particular products, features, or services (collectively, "**Additional Terms**"), are the entire agreement between you and us regarding the Services and supersede all prior or contemporaneous agreements, communications, and understandings (whether written or oral) relating to the Services. Any Additional Terms are incorporated into and form part of these Terms when you access or use the applicable product, feature, or service. In the event of a conflict between these Terms and any Additional Terms, the Additional Terms prevail to the extent of the inconsistency, solely with respect to the product, feature, or service to which they apply.
 
-*   **Email:** [feedback@lovable.dev](mailto:feedback@lovable.dev)
-*   **Address:** 1111B South Governors Avenue, Dover, DE 19904, USA
+Assignment
+----------
 
-If your content has been removed in response to a DMCA notice and you believe this was in error, you may send us a counter-notice that complies with the DMCA. Upon receipt of a valid counter-notice, we may reinstate the material in accordance with the DMCA.
+You may not assign, delegate, or transfer these Terms, by operation of law or otherwise, without our prior written consent. We may assign, delegate, or transfer these Terms, in whole or in part, without restriction.
 
-**Repeat Infringer Policy**
-===========================
-
-In accordance with the DMCA and other applicable law, we have adopted a policy of terminating, in appropriate circumstances and at our sole discretion, accounts of users who are determined to be repeat infringers. We may also limit access to the Services and/or terminate the accounts of any users who infringe the intellectual property rights of others, even if not deemed repeat infringers.
-
-**Eligibility**
-===============
-
-You may use the Services only if:
-
-*   you are at least eighteen (18) years old or the age of majority in your jurisdiction and have the legal capacity to enter into a binding contract. The Services are not intended for individuals under the age of eighteen (18), and we do not knowingly collect or solicit personal data from anyone under this age. If we discover that we have collected personal data from a minor without verifiable parental consent, we will promptly delete that information. If you believe we may have collected such data, please contact us at [privacy@lovable.dev](mailto:privacy@lovable.dev).
-
-OR
-
-*   you are younger than eighteen (18) years old and participate in an organized event under the supervision of adults and facilitators, for which Lovable has been informed in advance to set up accounts and platform policies for secure and safe processing of participant data in a compliant way.
-
-By using the Services, you represent and warrant that you meet these requirements. If you are using the Services on behalf of a company or other entity, you further represent that you have authority to bind that entity to these Terms.
-
-**Notices**
-===========
-
-We may provide notices to you (including changes to these Terms, updates to our Services, or other important information) by email to the address associated with your account, through in-product notifications, or by posting on our website. Notices are deemed given when sent.
-
-All legal notices to us must be sent to:
-
-*   Email: [feedback@lovable.dev](mailto:feedback@lovable.dev)
-*   Address: 1111B South Governors Avenue, Dover, DE 19904, USA
-
-Notices sent by email are deemed received when sent; notices sent by mail are deemed received three (3) business days after mailing.
-
-**Miscellaneous**
-=================
-
-**Entire Agreement**
-
-These Terms are the entire agreement between you and us regarding the Services and supersede all prior or contemporaneous agreements, communications, and understandings (whether written or oral) relating to the Services.
-
-**Assignment**
-
-You may not assign, delegate, or transfer these Terms, by operation of law or otherwise, without our prior written consent. We may assign, delegate, or transfer these Terms, in whole or in part, without restriction. Any attempt to assign in violation of this section is void.
-
-**Export Controls and Sanctions**
-
-You may not use the Services if you are located in, or acting on behalf of a person or entity located in, a country or territory that is subject to U.S. government embargoes or sanctions (including Cuba, Iran, North Korea, Russia, Syria, and the Crimea, Donetsk, or Luhansk regions of Ukraine), or if you are on any U.S. government list of restricted or prohibited parties. You represent and warrant that you are not subject to such restrictions.
-
-**Beta or Experimental Features**
-
-From time to time, we may make features available that are identified as beta, preview, or experimental. Such features may be incomplete, may change at any time, and may be discontinued without notice. They are provided "as is," without warranties of any kind, and may be subject to additional terms.
-
-**Waiver**
+Waiver
+------
 
 Our failure to enforce any provision of these Terms is not a waiver of our right to do so later.
 
-**Severability**
+Severability
+------------
 
 If any provision of these Terms is found invalid or unenforceable, the remaining provisions will remain in full force and effect.
 
-**Contact information**
+Export Controls and Sanctions
+-----------------------------
 
-Email: [feedback@lovable.dev](mailto:feedback@lovable.dev)  
-Address: 1111B South Governors Avenue, Dover, DE 19904, USA
+You must comply with all applicable export control and sanctions laws, including those of the United States, the European Union, and the United Kingdom. You may not use the Services if you are located in, ordinarily resident in, or acting on behalf of a person or entity located in, a country or territory subject to comprehensive embargoes or sanctions, or if you are listed on, or owned or controlled by a party listed on, any applicable restricted- or denied-party list. You may not use the Services for any purpose prohibited by these laws, or make them available to any person subject to such restrictions. You represent and warrant that you are not subject to these restrictions.
+
+Notices
+-------
+
+We may provide notices to you - including Service announcements and updates such as new features, changes, pricing updates, changes to these Terms, or other important information about your account - by email to the address associated with your account, through in-product notifications, or by posting on our website, and you consent to receiving these notices. Notices are effective when sent or posted. You are responsible for keeping your account email address current; if your email address is not valid, any notice sent to that address will nevertheless be deemed to have been sent and received.
+
+All notices to us must be sent to the following email: [support@lovable.dev](mailto:support@lovable.dev)
+
+**Contact**
+===========
+
+If you have any questions about these Terms or the Services, you can contact us by email at [support@lovable.dev](mailto:support@lovable.dev).
+
+\*Unless earlier expressly accepted.
 
 [](https://lovable.dev/home)
 
