@@ -4,11 +4,15 @@
 
 [fal logo](https://fal.ai/)
 
-[Explore](https://fal.ai/models)[Documentation](https://docs.fal.ai/)[Pricing](https://fal.ai/pricing)[Enterprise](https://fal.ai/enterprise)Resources
+Products[Explore](https://fal.ai/models)[Documentation](https://docs.fal.ai/)[Pricing](https://fal.ai/pricing)[Enterprise](https://fal.ai/enterprise)Resources
 
 [Contact Sales](https://fal.ai/enterprise#contact-sales)[Login](https://fal.ai/login)
 
 [](https://fal.ai/)
+
+Products
+
+[Model APIs](https://fal.ai/models)[Serverless](https://fal.ai/serverless)[Compute](https://fal.ai/docs/documentation/compute)
 
 [Model Gallery](https://fal.ai/models)[Documentation](https://docs.fal.ai/)[Pricing](https://fal.ai/pricing)[Enterprise](https://fal.ai/enterprise)Resources
 
