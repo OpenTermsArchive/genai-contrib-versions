@@ -1,7 +1,7 @@
 Terms of Service
 ================
 
-Last modified: Jun 15, 2026
+Last modified: Jun 16, 2026
 
 Welcome, and thank you for your interest in Civit AI, Inc. (“Civitai,” “we,” or “us”) and our website at [civitai.com](https://civitai.com/), along with our related websites, hosted applications, mobile or other downloadable applications, and other services provided by us (collectively, the “Service”). These Terms of Service are a legally binding contract between you and Civitai regarding your use of the Service.
 
