@@ -118,7 +118,7 @@ Product
 
 Company
 
-[About](https://www.airon.ai/about)[Terms & Conditions](https://www.airon.ai/legal/terms-and-conditions)[Privacy Policy](https://www.airon.ai/legal/privacy-policy)[Cookie Settings](#)
+[About](https://www.airon.ai/about)[Career](https://www.airon.ai/career)[Terms & Conditions](https://www.airon.ai/legal/terms-and-conditions)[Privacy Policy](https://www.airon.ai/legal/privacy-policy)[Cookie Settings](#)
 
 Get started
 
