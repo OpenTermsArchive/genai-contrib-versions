@@ -473,6 +473,10 @@ Last Modified: 11/12/2025
 
 ![Fireworks Logo](https://cdn.sanity.io/images/pv37i0yn/production/2095949f01e1cf9cf0841096b67d547d9dbfba2e-215x24.svg "Fireworks Logo")
 
+Explore us in AI tools
+
+[![ChatGPT](https://cdn.sanity.io/images/pv37i0yn/production/6189327d2d2333bc8c52778c8d6764f877b0d52b-24x24.svg "ChatGPT")ChatGPT](https://chatgpt.com/?q=Tell%20me%20about%20Fireworks%20AI%2C%20what%20they%20do%2C%20their%20inference%20platform%2C%20and%20how%20I%20can%20get%20started.)[![Claude](https://cdn.sanity.io/images/pv37i0yn/production/b4e82fa15b9c9f7195f623b2f6c52cfaf4786748-24x24.svg "Claude")Claude](https://claude.ai/new?q=Tell%20me%20about%20Fireworks%20AI%2C%20what%20they%20do%2C%20their%20inference%20platform%2C%20and%20how%20I%20can%20get%20started.%0A)[![Grok](https://cdn.sanity.io/images/pv37i0yn/production/80298b64edd00071a5365b8fe0e61c75306bc686-24x24.svg "Grok")Grok](https://grok.com/?q=Tell%20me%20about%20Fireworks%20AI%2C%20what%20they%20do%2C%20their%20inference%20platform%2C%20and%20how%20I%20can%20get%20started.)[![Perplexity](https://cdn.sanity.io/images/pv37i0yn/production/71544a4e34a8af67e99892788a7c0d432dc53d22-24x24.svg "Perplexity")Perplexity](https://www.perplexity.ai/?q=Tell%20me%20about%20Fireworks%20AI%2C%20what%20they%20do%2C%20their%20inference%20platform%2C%20and%20how%20I%20can%20get%20started.)[![CoPliot](https://cdn.sanity.io/images/pv37i0yn/production/edca137c37e4b36819fa06effcd362da93cf564b-24x24.svg "CoPliot")CoPilot](https://copilot.microsoft.com/?q=Tell%20me%20about%20Fireworks%20AI%2C%20what%20they%20do%2C%20their%20inference%20platform%2C%20and%20how%20I%20can%20get%20started.)[![Gemini](https://cdn.sanity.io/images/pv37i0yn/production/dd68ce93ce87469673a672ab7acedebf8f2474f7-24x24.svg "Gemini")Gemini](https://gemini.google.com/?q=Tell%20me%20about%20Fireworks%20AI%2C%20what%20they%20do%2C%20their%20inference%20platform%2C%20and%20how%20I%20can%20get%20started.)
+
 ### Platform
 
 [AI Native](https://fireworks.ai/ai-native)[Enterprise](https://fireworks.ai/enterprise)[Customers](https://fireworks.ai/customers)
