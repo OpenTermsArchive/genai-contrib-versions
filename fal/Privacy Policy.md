@@ -184,6 +184,10 @@ Ready to transform your enterprise with AI?
 
 Models[GPT Image 2](https://fal.ai/gpt-image-2)[Seedance 2.0](https://fal.ai/seedance-2.0)[Flux 2](https://fal.ai/models/fal-ai/flux-2-flex)[Kling 3.0](https://fal.ai/models/fal-ai/kling-video/o3/standard/image-to-video)[Veo 3.1](https://fal.ai/models/fal-ai/veo3.1)[Nano Banana Pro](https://fal.ai/models/fal-ai/nano-banana-pro/edit)[Ideogram 4](https://fal.ai/ideogram-4)[Krea 2](https://fal.ai/krea-2)[Explore More](https://fal.ai/models)
 
+#### Labs
+
+[Black Forest Labs](https://fal.ai/explore/black-forest-labs)[Google](https://fal.ai/explore/google)[OpenAI](https://fal.ai/explore/openai)[xAI](https://fal.ai/explore/xai)[Alibaba](https://fal.ai/explore/alibaba)[Kling](https://fal.ai/explore/kling)[ByteDance](https://fal.ai/explore/bytedance)[ElevenLabs](https://fal.ai/explore/elevenlabs)
+
 #### Playgrounds
 
 [Sandbox](https://fal.ai/sandbox)[Workflows](https://fal.ai/workflows)[Training](https://fal.ai/models/fal-ai/flux-lora-fast-training)[Background Remover](https://fal.ai/tools/background-remover)
