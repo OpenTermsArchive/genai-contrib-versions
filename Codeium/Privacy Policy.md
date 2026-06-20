@@ -3,7 +3,7 @@ Privacy Policy
 
 Last updated: March 9, 2026
 
-This Privacy Policy explains how Cognition AI, Inc (“**we**”, “**our**” or “**us**”) collect, use, disclose, and safeguard your information when you use visit our website (www.cognition.ai), our software-as-a-service offerings that we make available to individuals and enterprise customers (e.g., Devin and Windsurf), along with any associated software, apps and websites (collectively, the “**Services**”).
+This Privacy Policy explains how Cognition AI, Inc (“**we**”, “**our**” or “**us**”) collect, use, disclose, and safeguard your information when you use visit our website (cognition.com), our software-as-a-service offerings that we make available to individuals and enterprise customers (e.g., Devin and Windsurf), along with any associated software, apps and websites (collectively, the “**Services**”).
 
 It is important that you understand how we use your information. You should read this page in full, but below are key highlights and some helpful links:
 
