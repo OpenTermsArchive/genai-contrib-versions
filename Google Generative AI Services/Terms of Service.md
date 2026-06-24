@@ -571,6 +571,8 @@ Things that you create, upload, submit, store, send, receive or share using our 
 
 _close_
 
+_close_
+
 - - -
 
 We updated the [Google Terms of Service](https://policies.google.com/terms?hl=en-GB&gl=IE) on 22 May 2024 to cover AI-related topics. As of that date, these Generative AI Additional Terms of Service no longer apply, unless you’re a business partner with a signed agreement that references these terms.
