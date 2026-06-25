@@ -4,21 +4,15 @@
 
 [fal logo](https://fal.ai/)
 
-Products[Explore](https://fal.ai/models)[Documentation](https://docs.fal.ai/)[Pricing](https://fal.ai/pricing)[Enterprise](https://fal.ai/enterprise)Resources
-
-[Contact Sales](https://fal.ai/enterprise#contact-sales)[Login](https://fal.ai/login)
-
-[](https://fal.ai/)
-
 Products
 
-[Model APIs](https://fal.ai/models)[Serverless](https://fal.ai/serverless)[Compute](https://fal.ai/docs/documentation/compute)
+[Documentation](https://docs.fal.ai/)[Pricing](https://fal.ai/pricing)[Enterprise](https://fal.ai/enterprise)
 
-[Model Gallery](https://fal.ai/models)[Documentation](https://docs.fal.ai/)[Pricing](https://fal.ai/pricing)[Enterprise](https://fal.ai/enterprise)Resources
+Resources
 
-[Blog](https://blog.fal.ai/)[Learn](https://fal.ai/learn)[Events](https://fal.ai/events)[Research Grants](https://fal.ai/grants)[Careers](https://fal.ai/careers)
+[Contact Sales](https://fal.ai/enterprise#contact-sales)[Get Started](https://fal.ai/login)
 
-[Get started](https://fal.ai/login)[Contact Sales](https://fal.ai/enterprise#contact-sales)
+[fal logo](https://fal.ai/)
 
 Legal
 =====
