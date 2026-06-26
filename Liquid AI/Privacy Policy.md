@@ -159,7 +159,7 @@ We have sold or shared the foregoing categories of Personal Data for the followi
 You have the right to opt-out of the sale or share of your Personal Data by:
 
 *   Emailing us at [legal@liquid.ai](mailto:legal@liquid.ai)
-*   [Accessing your cookie consent mechanism by accessing your "Cookie Settings" at the bottom of our website.](#)
+*   Accessing your cookie consent mechanism by accessing your "Cookie Settings" at the bottom of our website.
 *   Implementing the Global Privacy Control or similar universal privacy control that is legally recognized by a government agency or industry standard and that complies with applicable State Privacy Laws. The signal issued by the control must be initiated by your browser and applies to the specific device and browser you use at the time you cast the signal. Please note this does not include Do Not Track signals.
 
 Once you have submitted an opt-out request, we will not ask you to reauthorize the sale of your Personal Data for at least 12 months.
