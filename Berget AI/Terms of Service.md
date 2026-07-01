@@ -59,9 +59,7 @@ When used in these Terms of Service, the definitions below have the following me
 
 (4) Acceptable Use Policy (“AUP”) and
 
-(5) the Service Descriptions
-
-1-5 together are the “Terms”. All agreement documents are available on Berget AI website: [https://berget.ai](https://berget.ai/)
+1–4 together are the “Terms”. All agreement documents are available on Berget AI website: [https://berget.ai](https://berget.ai/)
 
 3.2. In case of a conflict or ambiguity between the agreement documents, the order of precedence shall be: (1.) DPA, (2.) the main body of Terms of Service, (3.) SLA, (4.) AUP, (5.) Service Descriptions.
 
@@ -206,7 +204,7 @@ Unless otherwise required by law, we will retain your Customer Data for a period
 
 (iv) create an Account on behalf of someone else without their authorisation;
 
-(v) use, sell, rent, transfer, license or otherwise provide anybody with the Service, except as provided herein;
+(v) use, sell, rent, transfer, license or otherwise provide anybody with the Service, except as provided herein - unless explicitly having signed a partner reseller agreement with Berget AI AB
 
 (vi) interfere with other customers’ use and enjoyment of the Service;
 
@@ -231,7 +229,12 @@ Unless otherwise required by law, we will retain your Customer Data for a period
 
 16.2. At any time, if Berget reasonably deems that any part of the Service infringes the intellectual property rights of a third party, Berget has the right, at its own expense and sole discretion, to: (i) modify the Service or any part of it to eliminate the infringement in such a manner that the modified Service complies with the Agreement; or (ii) procure to the Customer the needed licence to allow for continued use of the Service. If neither of the aforementioned alternatives are reasonably possible, Berget has the right to terminate the Agreement and Berget will refund the service fees paid for the Service by the Customer less the proportion of the service fees corresponding to the time the Customer has been able to use the Service in accordance with the Agreement.
 
-16.3. Berget shall not, however, be liable for any infringement of third-party intellectual property rights or claim thereof if the claim: (i) is made by an Affiliate of the Customer; (ii) results from a modification of or an addition to the Service done by the Customer, a User, or any third-party at the Customer’s request; (iii) results from the use of the Service in combination with any product or service not provided or approved by Berget; (iv) could have been avoided by using the latest available version of the Service provided by Berget; or (v) is not related to the Service, or is related to a part of the Service for which Berget is not responsible for pursuant to the Agreement.
+16.3. Berget shall not, however, be liable for any infringement of third-party intellectual property rights or claim thereof if the claim:  
+(i) is made by an Affiliate of the Customer;  
+(ii) results from a modification of or an addition to the Service done by the Customer, a User, or any third-party at the Customer’s request;  
+(iii) results from the use of the Service in combination with any product or service not provided or approved by Berget;  
+(iv) could have been avoided by using the latest available version of the Service provided by Berget; or  
+(v) is not related to the Service, or is related to a part of the Service for which Berget is not responsible for pursuant to the Agreement.
 
 16.4. If the third-party claimant is adjudged liable or agrees in a settlement to pay a compensation to the Customer, then the Customer shall remit such compensation to Berget immediately after receiving it from the third-party claimant.
 
