@@ -172,11 +172,13 @@ Ready to transform your enterprise with AI?
 
 [Contact Sales](https://fal.ai/enterprise#contact-sales)
 
-#### Learn More
+#### Learn more
 
 [Status](https://status.fal.ai/)[About Us](https://fal.ai/about)[Documentation](https://docs.fal.ai/)[Trust & Safety](https://fal.ai/legal/trust-and-safety)[Careers](https://fal.ai/careers)[Pricing](https://fal.ai/pricing)[Blog](https://blog.fal.ai/)[Enterprise](https://fal.ai/enterprise)[Get in touch](mailto:support@fal.ai)[Report Content](https://fal.ai/report-content)[Grants](https://fal.ai/grants)[Events](https://fal.ai/events)[Legal](https://fal.ai/legal)Your Privacy Choices![California Consumer Privacy Act (CCPA) Opt-Out Icon](/privacy-options.svg)[Learn](https://fal.ai/learn)[Gen Media Report 2026](https://fal.ai/gen-media-report-volume-1)
 
-Models[GPT Image 2](https://fal.ai/gpt-image-2)[Seedance 2.0](https://fal.ai/seedance-2.0)[Flux 2](https://fal.ai/models/fal-ai/flux-2-flex)[Kling 3.0](https://fal.ai/models/fal-ai/kling-video/o3/standard/image-to-video)[Veo 3.1](https://fal.ai/models/fal-ai/veo3.1)[Nano Banana Pro](https://fal.ai/models/fal-ai/nano-banana-pro/edit)[Ideogram 4](https://fal.ai/ideogram-4)[Krea 2](https://fal.ai/krea-2)[Explore More](https://fal.ai/models)
+#### Models
+
+[GPT Image 2](https://fal.ai/gpt-image-2)[Seedance 2.0](https://fal.ai/seedance-2.0)[Flux 2](https://fal.ai/models/fal-ai/flux-2-flex)[Kling 3.0](https://fal.ai/models/fal-ai/kling-video/o3/standard/image-to-video)[Veo 3.1](https://fal.ai/models/fal-ai/veo3.1)[Nano Banana Pro](https://fal.ai/models/fal-ai/nano-banana-pro/edit)[Ideogram 4](https://fal.ai/ideogram-4)[Krea 2](https://fal.ai/krea-2)[Explore More](https://fal.ai/models)
 
 #### Labs
 
@@ -190,4 +192,4 @@ Models[GPT Image 2](https://fal.ai/gpt-image-2)[Seedance 2.0](https://fal.ai/see
 
 [Discord](https://discord.gg/fal-ai)[GitHub](https://github.com/fal-ai)[Reddit](https://www.reddit.com/r/fal/)[Twitter](https://twitter.com/fal)[LinkedIn](https://www.linkedin.com/company/features-and-labels/)[YouTube](https://www.youtube.com/@Fal.AI.Official)[Instagram](https://www.instagram.com/madeonfal)[TikTok](https://www.tiktok.com/@madeonfal)
 
-features and labels, 2026. All Rights Reserved. [Terms of Service](https://fal.ai/legal/terms-of-service) and [Privacy Policy](https://fal.ai/legal/privacy-policy)
+Features and Labels, 2026. All Rights Reserved. [Terms of Service](https://fal.ai/legal/terms-of-service) and [Privacy Policy](https://fal.ai/legal/privacy-policy).
