@@ -1608,7 +1608,7 @@ How to contact Meta with questions
 
 You can learn more about how privacy works on [Facebook](https://mbasic.facebook.com/privacy/policy/printable/https%3A%2F%2Fwww.facebook.com%2Fhelp%2F238318146535333%3Fentry_point=POLICY_SECTION%3A13-HowToContactMeta) and on [Instagram](https://mbasic.facebook.com/privacy/policy/printable/https%3A%2F%2Flm.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fhelp.instagram.com%2F196883487377501%3Fref%3Ddp%26entry_point%3DPOLICY_SECTION%253A13-HowToContactMeta), and in the [Facebook Help Centre](https://mbasic.facebook.com/privacy/policy/printable/https%3A%2F%2Fwww.facebook.com%2Fhelp%2F%3Fentry_point=POLICY_SECTION%3A13-HowToContactMeta). If you have any questions about this policy or have any questions, complaints or requests regarding your information, you can contact us as described below.
 
-You can contact us [online](https://mbasic.facebook.com/privacy/policy/printable/https%3A%2F%2Flm.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fhelp.meta.com%2Fsupport%2Fprivacy%3Fentry_point%3DPOLICY_SECTION%253A13-HowToContactMeta) or by post at:
+You can contact us [online](https://mbasic.facebook.com/privacy/policy/printable/https%3A%2F%2Fhelp.meta.com%2Fsupport%2Fprivacy%3Fentry_point=POLICY_SECTION%3A13-HowToContactMeta) or by post at:
 
 Meta Platforms, Inc.
 
