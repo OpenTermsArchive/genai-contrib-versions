@@ -10,7 +10,7 @@ Products
 
 Resources
 
-[Contact Sales](https://fal.ai/enterprise#contact-sales)[Get Started](https://fal.ai/login)
+[Contact Sales](https://fal.ai/enterprise#contact-sales)[Login](https://fal.ai/login)
 
 [fal logo](https://fal.ai/)
 
@@ -248,9 +248,13 @@ Ready to transform your enterprise with AI?
 
 [Status](https://status.fal.ai/)[About Us](https://fal.ai/about)[Documentation](https://docs.fal.ai/)[Trust & Safety](https://fal.ai/legal/trust-and-safety)[Careers](https://fal.ai/careers)[Pricing](https://fal.ai/pricing)[Blog](https://blog.fal.ai/)[Enterprise](https://fal.ai/enterprise)[Get in touch](mailto:support@fal.ai)[Report Content](https://fal.ai/report-content)[Grants](https://fal.ai/grants)[Events](https://fal.ai/events)[Legal](https://fal.ai/legal)Your Privacy Choices![California Consumer Privacy Act (CCPA) Opt-Out Icon](/privacy-options.svg)[Learn](https://fal.ai/learn)[Gen Media Report 2026](https://fal.ai/gen-media-report-volume-1)
 
-#### Models
+#### Image Models
 
-[GPT Image 2](https://fal.ai/gpt-image-2)[Seedance 2.0](https://fal.ai/seedance-2.0)[Flux 2](https://fal.ai/models/fal-ai/flux-2-flex)[Kling 3.0](https://fal.ai/models/fal-ai/kling-video/o3/standard/image-to-video)[Veo 3.1](https://fal.ai/models/fal-ai/veo3.1)[Nano Banana Pro](https://fal.ai/models/fal-ai/nano-banana-pro/edit)[Ideogram 4](https://fal.ai/ideogram-4)[Krea 2](https://fal.ai/krea-2)[Explore More](https://fal.ai/models)
+[Seedream 5.0](https://fal.ai/seedream-5.0)[GPT Image 2](https://fal.ai/gpt-image-2)[Flux 2](https://fal.ai/models/fal-ai/flux-2-flex)[Nano Banana 2](https://fal.ai/nano-banana-2)[Ideogram 4](https://fal.ai/ideogram-4)[Krea 2](https://fal.ai/krea-2)[Nano Banana Pro](https://fal.ai/models/fal-ai/nano-banana-pro/edit)[Qwen Image 2.0](https://fal.ai/qwen-image-2.0)[Explore More](https://fal.ai/explore)
+
+#### Video Models
+
+[Seedance 2.0](https://fal.ai/seedance-2.0)[Gemini Omni](https://fal.ai/gemini-omni)[Kling 3.0](https://fal.ai/models/fal-ai/kling-video/o3/standard/image-to-video)[Veo 3.1](https://fal.ai/models/fal-ai/veo3.1)[Grok Imagine 1.5](https://fal.ai/grok-imagine-video-1.5)[HappyHorse 1.0](https://fal.ai/happyhorse-1.0)[Wan 2.7](https://fal.ai/wan-2.7)[LTX 2.3](https://fal.ai/ltx-2.3)[PixVerse V6](https://fal.ai/pixverse-v6)
 
 #### Labs
 
