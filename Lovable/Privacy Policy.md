@@ -493,6 +493,7 @@ Lovable will not discriminate against you for exercising your privacy rights. If
 *   [People](https://lovable.dev/people)
 *   [Prototyping](https://lovable.dev/prototypes)
 *   [Internal Tools](https://lovable.dev/tools)
+*   [Download apps](https://lovable.dev/download)
 *   [Connections](https://docs.lovable.dev/integrations/introduction)
 *   [Changelog](https://docs.lovable.dev/changelog)
 *   [Status](https://status.lovable.dev/)
