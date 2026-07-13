@@ -725,6 +725,7 @@ If you have any questions about these Terms or the Services, you can contact us 
 *   [People](https://lovable.dev/people)
 *   [Prototyping](https://lovable.dev/prototypes)
 *   [Internal Tools](https://lovable.dev/tools)
+*   [Download apps](https://lovable.dev/download)
 *   [Connections](https://docs.lovable.dev/integrations/introduction)
 *   [Changelog](https://docs.lovable.dev/changelog)
 *   [Status](https://status.lovable.dev/)
