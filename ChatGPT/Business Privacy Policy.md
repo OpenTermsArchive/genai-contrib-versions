@@ -100,11 +100,11 @@ Your workspace admins control how long your data is retained. Any deleted conver
 
 ### What is ChatGPT Business?
 
-Built for small and growing businesses, ChatGPT Business offers collaborative tools and self-serve access to the power of ChatGPT in a dedicated workspace for your team. [Learn more about ChatGPT Business⁠](https://chatgpt.com/business/business-plan).
+Built for small and growing businesses, ChatGPT Business offers collaborative tools and self-serve access to the power of ChatGPT in a dedicated workspace for your team. [Learn more about ChatGPT Business⁠](https://chatgpt.com/business/business-plan?openaicom-did=9ea5a996-7435-42d0-9df2-d4da998431b2&openaicom_referred=true).
 
 ### Who can view conversations and chat history in ChatGPT Business?
 
-Within your organization, only end users can view their conversations. Workspace admins have control over workspaces and access. Our access to conversations stored on our systems is limited to (1) authorized employees that require access for engineering support, investigating potential platform abuse, and legal compliance and (2) specialized third-party contractors who are bound by confidentiality and security obligations, solely to review for abuse and misuse.
+Within your organization, end users can view their own conversations. Workspace admins have control over workspaces and can view, access, export, and delete end user conversations in the workspace. Our access to conversations stored on our systems is limited to (1) authorized employees that require access for engineering support, investigating potential platform abuse, and legal compliance and (2) specialized third-party contractors who are bound by confidentiality and security obligations, solely to review for abuse and misuse.
 
 ### What compliance standards does ChatGPT Business meet?
 
@@ -112,7 +112,7 @@ ChatGPT Business successfully completed a SOC 2 Type 2 audit. Read more in our [
 
 ### What is OpenAI’s policy on data retention for ChatGPT Business?
 
-Each of your end users controls whether their conversations are retained. Any deleted or unsaved conversations are removed from our systems within 30 days, unless we are legally required to retain them. Note that retention enables features like conversation history, and shorter retention periods may compromise product experience.
+Your workspace admins control how long your workspace data is retained. Any deleted or unsaved conversations are removed from our systems within 30 days, unless longer retention is required by law, or is reasonably necessary to protect our services or any third party from harm. Note that retention enables features like conversation history, and shorter retention periods may compromise product experience.
 
 #### ChatGPT for Teachers FAQ
 
