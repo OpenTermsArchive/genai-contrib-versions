@@ -1,7 +1,7 @@
 DeepSeek Cookies Policy
 =======================
 
-> Last Update: December 22, 2025
+> Last Update: 16 July, 2026
 
 Welcome to DeepSeek!
 
@@ -41,12 +41,9 @@ These cookies are essential in order to enable you to browse and use related fun
 | --- | --- | --- | --- | --- |
 | **Cookie Name** | **Domain** | **Purpose** | **First or Third Party** | **Duration** |
 | ds\_session\_id | [chat.deepseek.com](http://chat.deepseek.com/) | Security | First | end of browsing session |
+| aws-waf-token | [chat.deepseek.com](http://chat.deepseek.com/); [platform.deepseek.com](http://platform.deepseek.com/) | Security | AWS | 3 days |
 | .thumbcache\_\* | [chat.deepseek.com](http://chat.deepseek.com/) | Security | ishumei | 400 days |
 | smidV2 | [chat.deepseek.com](http://chat.deepseek.com/) | Security | ishumei | 400 days |
-| \_\_cf\_bm | .[deepseek.com](http://deepseek.com/) | Security | Cloudflare | 30 minutes |
-| cf\_clearance | .[deepseek.com](http://deepseek.com/) | Security | Cloudflare | 1 year |
-| intercom-device-id-\* | .[deepseek.com](http://deepseek.com/) | Support | Intercom Messenger | 9 months |
-| intercom-session-\* | .[deepseek.com](http://deepseek.com/) | Support | Intercom Messenger | 1 week |
 | ds\_cookie\_preference | www.deepseek.com | Support | First | 1 year |
 | _\_gc\_s\__ | chat.deepseek.com | Support | First | 15 minutes |
 | _\_gc\_usr\__ | chat.deepseek.com | Support | First | 60 days |
