@@ -3,7 +3,7 @@ Terms of Service
 
 [![](/hc/theming_assets/01JKC02DQ6GK34RZNHWBRSDN2G)](https://docs.midjourney.com/hc/theming_assets/01JKC02DQ6GK34RZNHWBRSDN2G)
 
-**Version Effective Date: February 12, 2026**
+**Version Effective Date: May 27, 2026**
 
 Thank you for using the Midjourney platform. These Terms of Service (“Terms”) govern the relationship between Midjourney, Inc. (“Midjourney”,”we”,”our”) and the entity or person (“Customer, “You”, “Your”) using or accessing our services, applications, or platform through our website available at midjourney.com (the “Site”), through any of our Discord servers, or by any other means (together, the “Services”). These Terms explain what rights you have with respect to images, videos, and other assets which you might generate with the Service (the "Assets"), or prompts you might enter into the Service (the “Inputs”), your use of the Services, and other important topics like arbitration. Our privacy policy outlines how we handle your data [here](https://docs.midjourney.com/hc/en-us/articles/32083472637453). Please carefully read these Terms, along with our privacy policy, and all other documents referenced in these Terms, including the Subscription Plans page and the Community Guidelines below. Together with the Terms, these documents form a single binding agreement between us (the “Agreement”).
 
@@ -164,7 +164,22 @@ You are responsible for all content, including any images, videos, and prompts, 
 
 You represent and warrant that you have all necessary rights and permissions to provide, edit, generate, and share such content, including obtaining necessary permission from anyone who may be depicted in the content that you upload and edit using Editor, or input and generate using Video. You will not upload content, enter prompts, or use Editor or Video in any way that infringes or violates any third-party intellectual property or privacy rights.
 
-12\. Miscellaneous[](#h_01JD8H155E28E3XYNMYQAMZ3WD)
+12\. Community Localization[](#h_01JD8H155E28E3XYNMYQAMZ3WD)
+------------------------------------------------------------
+
+Midjourney may make available certain programs or features that allow users to submit translations relating to the Midjourney Site and Services (“Community Localization”). The translations, localization suggestions, updates, and other language-related content that You submit as part of the Community Localization program are the “Translations”. By submitting any Translations to Midjourney, You agree to the terms and conditions set forth in this Section 12. If You do not agree to these terms and conditions, You must not submit any Translations to the Community Localization program. 
+
+#### Participating in Community Localization
+
+By submitting Translations to the Community Localization program, You represent and warrant: (i) that You have all rights necessary to submit the Translations and to grant the rights to Midjourney as described below, (ii) that Your Translations do not and will not violate any third party intellectual property rights, privacy rights, publicity rights, or applicable law, and (iii) Midjourney’s exercise of its rights in the Translations as contemplated by this Section 12 will not violate any applicable law or contractual obligation. 
+
+Midjourney may use, host, store, publicly display, create derivative works of, copy, adapt, modify, reject, remove, or stop use of any Translations at any time and for any reason, and may suspend or terminate Your participation in the Community Localization program at any time for any reason. You understand that Translations are provided voluntarily, and without expectation of any compensation or attribution. 
+
+#### Right to Translations
+
+You hereby irrevocably assign, transfer, and convey to Midjourney and Midjourney accepts, all rights, title, and interest (including all intellectual property and proprietary rights) in and to the Translations, and waive any moral rights you may have therein. To the extent any rights in any Translations cannot be assigned to Midjourney under applicable law, You grant to Midjourney a perpetual, irrevocable, exclusive, worldwide, sublicensable, transferable, royalty-free, and fully paid-up license to host, store, adapt, monetize, reproduce, copy, modify, prepare derivative works of, publicly display, publicly perform, and distribute the Translations for any purpose. This Section 12 survives the termination of this Agreement by any party, for any reason.
+
+13\. Miscellaneous[](#h_01KSNX823CXS325Y5EGQ4WCDFD)
 ---------------------------------------------------
 
 1.  Force Majeure. Neither party will be liable for failure or delay in performance to the extent caused by circumstances beyond its reasonable control, including acts of God, natural disasters, terrorism, riots, or war.
