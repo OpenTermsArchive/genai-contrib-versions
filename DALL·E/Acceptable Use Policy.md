@@ -2,7 +2,7 @@ Usage policies | OpenAI
 
 Select language
 
-Effective: October 29, 2025
+Effective: 29 October 2025
 
 Usage policies
 ==============
