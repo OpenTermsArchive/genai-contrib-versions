@@ -1,4 +1,4 @@
-Updated: January 1, 2026
+Updated: 1 January 2026
 
 Service credit terms
 ====================
