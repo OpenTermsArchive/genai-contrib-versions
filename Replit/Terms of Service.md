@@ -1,4 +1,4 @@
-Last updated: August 8, 2025
+Last updated: February 23, 2026
 
 A. Terms of Service
 ===================
@@ -15,7 +15,7 @@ You are responsible for maintaining the confidentiality of your account and pass
 
 **3\. Personal and non-commercial use**
 
-Unless otherwise specified, the Service is for your personal and non-commercial use. If you are planning to use the Service for commercial purposes, Replit requests that you subscribe to Replit Teams and agree to the [Teams Product Agreement](https://replit.com/site/teams-agreement), which will then apply.
+Unless otherwise specified, the Service is for your personal and non-commercial use. If you use our commercial product, the Replit [Commercial Agreement](https://replit.com/commercial-agreement) will apply and govern your use of our services.
 
 **4\. Minimum Age**
 
