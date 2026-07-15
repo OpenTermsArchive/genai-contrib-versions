@@ -1,10 +1,8 @@
-OpenAI
+Europe Terms of Use | OpenAI
 
 Select language
 
-…
-
-Updated: January 16, 2026
+Updated: 16 January 2026
 
 Europe Terms of Use
 ===================
@@ -84,9 +82,9 @@ Content
 
 **Our use of content.** We can use your Content worldwide to provide, maintain, develop, and improve our Services, comply with applicable law, enforce our terms and policies and keep our Services safe. If you're using ChatGPT through Apple's integrations, see [this Help Center article⁠(opens in a new window)](https://help.openai.com/en/articles/9737562) for how we handle your Content.
 
-**Content moderation.** We use automated systems and human review to identify and address content that violates our Terms, including our Usage Policies. If we become aware of violations, we may remove or restrict content, limit your access to features, or suspend or terminate your account.For more details on our content moderation process and complaint procedures, see our [Transparency & Content Moderation page⁠⁠(opens in a new window)](https://openai-dotcom-preview.vercel.app/transparency-and-content-moderation/).
+**Content moderation.** We use automated systems and human review to identify and address content that violates our Terms, including our Usage Policies. If we become aware of violations, we may remove or restrict content, limit your access to features, or suspend or terminate your account.For more details on our content moderation process and complaint procedures, see our [Transparency & Content Moderation page⁠⁠](https://openai.com/transparency-and-content-moderation/).
 
-**Opt out.** If you do not want us to use your Content to train our models, you have the option to opt out by updating your account settings. Further information can be found in [this article⁠⁠(opens in a new window)](https://openai-dotcom-preview.vercel.app/policies/how-your-data-is-used-to-improve-model-performance/). Please note that in some cases this may limit the ability of our Services to better address your specific use case.
+**Opt out.** If you do not want us to use your Content to train our models, you have the option to opt out by updating your account settings. Further information can be found in [this article⁠](https://openai.com/policies/how-your-data-is-used-to-improve-model-performance/). Please note that in some cases this may limit the ability of our Services to better address your specific use case.
 
 **Accuracy**. Artificial intelligence and machine learning are rapidly evolving fields of study. We are constantly working to improve our Services to make them more accurate, reliable, safe, and beneficial. Given the probabilistic nature of machine learning, use of our Services may in some situations result in Output that does not accurately reflect real people, places, or facts.
 
