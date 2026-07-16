@@ -1,4 +1,4 @@
-Last updated: 23 June 2026
+Last updated: 16 July 2026
 
 Cookie policy
 =============
@@ -116,11 +116,7 @@ These cookies help us understand how our Services perform and are used, such as 
 
 | **Source** | **Cookie name** | **Duration** | **Purpose** | **Domain** |
 | --- | --- | --- | --- | --- |
-| [Swoogo](https://swoogo.events/legal/cookies/) | \_pk\_cvar | 30 minutes | Analytics | events.openai.com |
-| [Swoogo](https://swoogo.events/legal/cookies/) | \_pk\_hsr | 30 minutes | Analytics | events.openai.com |
-| [Swoogo](https://swoogo.events/legal/cookies/) | \_pk\_id | 13 months | Analytics | events.openai.com |
-| [Swoogo](https://swoogo.events/legal/cookies/) | \_pk\_ref | 6 months | Analytics | events.openai.com |
-| [Swoogo](https://swoogo.events/legal/cookies/) | \_pk\_ses | 30 minutes | Analytics | events.openai.com |
+| [OpenAI](https://openai.com/policies/privacy-policy/) | \_\_obi | 1 year | Analytics | chatgpt.com  <br>openai.com |
 
 Marketing Performance cookies
 -----------------------------
