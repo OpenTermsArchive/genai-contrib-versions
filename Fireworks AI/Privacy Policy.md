@@ -471,7 +471,7 @@ Last Modified: 11/12/2025
 
 * * *
 
-![Fireworks Logo](https://cdn.sanity.io/images/pv37i0yn/production/2095949f01e1cf9cf0841096b67d547d9dbfba2e-215x24.svg "Fireworks Logo")
+![Fireworks Logo](https://cdn.sanity.io/images/pv37i0yn/production/46d329cfd46294a5986218e94752d5d283cbe16c-343x44.svg "Fireworks Logo")
 
 Explore us in AI tools
 
