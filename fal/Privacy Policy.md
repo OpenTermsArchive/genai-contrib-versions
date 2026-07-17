@@ -262,7 +262,7 @@ Ready to transform your enterprise with AI?
 
 #### Playgrounds
 
-[Sandbox](https://fal.ai/sandbox)[Workflows](https://fal.ai/workflows)[Training](https://fal.ai/models/fal-ai/flux-lora-fast-training)[Background Remover](https://fal.ai/tools/background-remover)
+[Sandbox](https://fal.ai/sandbox)[Workflows](https://fal.ai/workflows)[Training](https://fal.ai/models/fal-ai/flux-lora-fast-training)[Background Remover](https://fal.ai/tools/background-remover)[Image Upscaler](https://fal.ai/tools/image-upscaler)
 
 #### Socials
 
