@@ -162,7 +162,7 @@ Stability AI is unlocking the power of open-source generative AI to expand human
 
 [News](https://stability.ai/news)
 
-[Brand Resources](https://drive.google.com/file/d/1Kuq2SZhSnEwGjqsGy8fYaI0LA6KNfQhu/view?usp=sharing)
+[Brand Resources](https://drive.google.com/file/d/1NUVhoPd_TavV7kMl9y3AiTJchMPz0Eao/view)
 
 #### Models
 
