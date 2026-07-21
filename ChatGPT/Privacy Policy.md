@@ -6,62 +6,34 @@ Europe privacy policy
 1\. Personal Data we collect
 
 *   [1\. Personal Data we collect](#personal-data-we-collect)
-    
 *   [2\. How we use Personal Data](#how-we-use-personal-data)
-    
 *   [3\. Disclosure of Personal Data](#disclosure-of-personal-data)
-    
 *   [4\. Retention](#retention)
-    
 *   [5\. Data controls](#data-controls)
-    
 *   [6\. Your rights](#your-rights)
-    
 *   [7\. Children](#children)
-    
 *   [8\. Security](#security)
-    
 *   [9\. Legal bases for processing](#legal-bases-for-processing)
-    
 *   [10\. Data transfers](#data-transfers)
-    
 *   [11\. Changes to the privacy policy](#changes-to-the-privacy-policy)
-    
 *   [12\. Data controller](#data-controller)
-    
 *   [13\. How to contact us](#how-to-contact-us)
-    
 *   [14\. Useful resources](#useful-resources)
-    
 
 *   [1\. Personal Data we collect](#personal-data-we-collect)
-    
 *   [2\. How we use Personal Data](#how-we-use-personal-data)
-    
 *   [3\. Disclosure of Personal Data](#disclosure-of-personal-data)
-    
 *   [4\. Retention](#retention)
-    
 *   [5\. Data controls](#data-controls)
-    
 *   [6\. Your rights](#your-rights)
-    
 *   [7\. Children](#children)
-    
 *   [8\. Security](#security)
-    
 *   [9\. Legal bases for processing](#legal-bases-for-processing)
-    
 *   [10\. Data transfers](#data-transfers)
-    
 *   [11\. Changes to the privacy policy](#changes-to-the-privacy-policy)
-    
 *   [12\. Data controller](#data-controller)
-    
 *   [13\. How to contact us](#how-to-contact-us)
-    
 *   [14\. Useful resources](#useful-resources)
-    
 
 ([Previous version⁠](https://openai.com/policies/eu-privacy-policy/revisions/2026-02-06/))
 
@@ -278,18 +250,12 @@ Learn more about how OpenAI uses content from our services to improve and train 
 Services for individuals, such as ChatGPT, Sora, and Operator
 
 *   [Services for individuals, such as ChatGPT, Sora, and Operator](#services-for-individuals-such-as-chatgpt-sora-and-operator)
-    
 *   [Services for businesses, such as ChatGPT Team, ChatGPT Enterprise, and our API Platform](#services-for-businesses-such-as-chatgpt-team-chatgpt-enterprise-and-our-api-platform)
-    
 *   [What the process looks like](#what-the-process-looks-like)
-    
 
 *   [Services for individuals, such as ChatGPT, Sora, and Operator](#services-for-individuals-such-as-chatgpt-sora-and-operator)
-    
 *   [Services for businesses, such as ChatGPT Team, ChatGPT Enterprise, and our API Platform](#services-for-businesses-such-as-chatgpt-team-chatgpt-enterprise-and-our-api-platform)
-    
 *   [What the process looks like](#what-the-process-looks-like)
-    
 
 One of the most useful and promising features of AI models is that they can improve over time. We continuously improve our models through research breakthroughs as well as exposure to real-world problems and data. When you share your content with us, it helps our models become more accurate and better at solving your specific problems and it also helps improve their general capabilities and safety. ChatGPT, for instance, improves by further training on the conversations people have with it, unless you [opt out⁠](https://help.openai.com/en/articles/7730893-data-controls-faq).
 
