@@ -10,62 +10,34 @@ Europe privacy policy
 1\. Personal Data we collect
 
 *   [1\. Personal Data we collect](#personal-data-we-collect)
-    
 *   [2\. How we use Personal Data](#how-we-use-personal-data)
-    
 *   [3\. Disclosure of Personal Data](#disclosure-of-personal-data)
-    
 *   [4\. Retention](#retention)
-    
 *   [5\. Data controls](#data-controls)
-    
 *   [6\. Your rights](#your-rights)
-    
 *   [7\. Children](#children)
-    
 *   [8\. Security](#security)
-    
 *   [9\. Legal bases for processing](#legal-bases-for-processing)
-    
 *   [10\. Data transfers](#data-transfers)
-    
 *   [11\. Changes to the privacy policy](#changes-to-the-privacy-policy)
-    
 *   [12\. Data controller](#data-controller)
-    
 *   [13\. How to contact us](#how-to-contact-us)
-    
 *   [14\. Useful resources](#useful-resources)
-    
 
 *   [1\. Personal Data we collect](#personal-data-we-collect)
-    
 *   [2\. How we use Personal Data](#how-we-use-personal-data)
-    
 *   [3\. Disclosure of Personal Data](#disclosure-of-personal-data)
-    
 *   [4\. Retention](#retention)
-    
 *   [5\. Data controls](#data-controls)
-    
 *   [6\. Your rights](#your-rights)
-    
 *   [7\. Children](#children)
-    
 *   [8\. Security](#security)
-    
 *   [9\. Legal bases for processing](#legal-bases-for-processing)
-    
 *   [10\. Data transfers](#data-transfers)
-    
 *   [11\. Changes to the privacy policy](#changes-to-the-privacy-policy)
-    
 *   [12\. Data controller](#data-controller)
-    
 *   [13\. How to contact us](#how-to-contact-us)
-    
 *   [14\. Useful resources](#useful-resources)
-    
 
 ([Previous version⁠](https://openai.com/policies/eu-privacy-policy/revisions/2026-02-06/))
 
