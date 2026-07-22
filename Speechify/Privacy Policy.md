@@ -3,7 +3,7 @@ Privacy Policy
 
   
 
-_Updated June 10, 2024_
+_Updated July 22, 2026_
 
   
 
@@ -309,6 +309,11 @@ Your browser may offer “Do Not Track” or similar signals. We honor choices m
 ### Third-Party Links/Integrations
 
 Speechify’s platforms may contain links to third-party websites, applications, or services that are not operated or controlled by Speechify. This Privacy Policy applies solely to information collected by Speechify through its platforms and does not apply to the privacy practices of these third-party services. We encourage you to review the privacy policies of any third-party services you access through our platforms.
+
+#### Google User Data
+
+Speechify offers an optional Google Drive integration that lets you import your own documents to be read aloud and used with in-app features such as text-to-speech and AI-assisted summarization. When you connect your Google account, we request Google Drive access solely so you can browse and import the files you choose, and you may revoke it anytime from your Google Account settings.  
+Speechify’s use of information received from Google APIs adheres to the Google API Services User Data Policy, including the Limited Use requirements. Data from Google Workspace APIs, including the Google Drive API (and any such data used with AI or machine learning features), is used only to provide user-facing features in Speechify. We do not use it to train generalized AI/ML models, sell it, use it for advertising, or transfer it except as needed to provide these features, for security, or to comply with law, and it is not read by humans except with your consent, for security purposes, or as required by law.
 
 ### Third-Party Disclaimer
 
