@@ -33,7 +33,7 @@ Privacy Policy
 
 **FAL PRIVACY POLICY**
 
-**Last Updated:** **July 9, 2026**
+**Last Updated:** **July 22, 2026**
 
 This Privacy Policy describes how fal - Features & Labels Inc. ("**fal**," "**we**," or "**us**") collects, uses, discloses, and otherwise processes information about you when you access or use our website and other online products and services that link to this Privacy Policy (collectively, our "**Services**") and when you otherwise interact with us, such as through our customer support channels.
 
@@ -55,7 +55,7 @@ We may change this Privacy Policy from time to time. If we make changes, we will
 
 [Your Choices](#your-choices)
 
-[Additional Information for Specific Jurisdictions](#additional-information-for-individuals-in-europe)
+[Additional Information for Specific Jurisdictions](#additional-information-for-specific-jurisdictions)
 
 [Contact Us](#contact-us)
 
@@ -157,14 +157,6 @@ Our Privacy Policy explains how we [collect](#collection-of-information), [use](
 
 **_Use and Disclosure of Personal Information for Business Purposes_**
 
-| _Category of Personal Information_ | _Use of Personal Information_ | _Categories of Recipients_ |
-| --- | --- | --- |
-| Identifiers (such as name, email address, phone number, billing address, IP address, device identifiers, and account credentials); Commercial information (such as transaction and purchase information); Internet or other network activity information (such as browsing and usage data); Professional or employment-related information (such as the name of your employer); and Inferences (such as your approximate location based on your IP address). | Providing, maintaining, and improving the Services; Processing and fulfilling orders; Personalizing your experience; Communicating with you; Monitoring and analyzing trends, usage, and activities; Detecting, investigating, responding to, prosecuting, and protecting against security incidents, fraud, and other illegal activity; Complying with legal and financial obligations; Creating de-identified or aggregated information; and Any other purpose described to you at the time of collection. | Vendors and service providers; Other users of the Services (for members of a Team Account); Professional advisors; Parties to corporate transactions; Law enforcement and parties involved in legal proceedings; and Other parties to whom you have consented or directed us to disclose your personal information. |
-
-We do not knowingly collect information that is considered “sensitive” under State Privacy Laws and we do not use or disclose sensitive personal information for the purpose of inferring characteristics about you.
-
-As described in the [Collection of Information](#collection-of-information) section above, we collect personal information from various sources, including directly from you, automatically when you use our Services, and from third-party sources.
-
 We retain personal information as described above in the Data Retention section above.
 
 **_Sales, Sharing, and Targeted Advertising Activities_**
@@ -229,11 +221,11 @@ You have the right to (1) access your personal data, including in a portable for
 
 If you have a concern about our processing of personal data, we encourage you to contact us in the first instance. However, if we are not able to resolve it, you have the right to lodge a complaint with the Data Protection Authority where you reside. Contact details for your Data Protection Authority can be found using the links below:
 
-For individuals in the European Union: [https://edpb.europa.eu/about-edpb/board/members\_en](https://edpb.europa.eu/about-edpb/board/members_en)
+For individuals in the European Union: [https://www.edpb.europa.eu/contact/contact-dpas\_en](https://www.edpb.europa.eu/contact/contact-dpas_en)
 
 For individuals in the UK: [https://ico.org.uk/global/contact-us/](https://ico.org.uk/global/contact-us/)
 
-For individuals in Switzerland: [https://www.edoeb.admin.ch/edoeb/en/home/the-fdpic/contact.html](https://www.edoeb.admin.ch/edoeb/en/home/the-fdpic/contact.html)
+For individuals in Switzerland: [https://www.edoeb.admin.ch/en/contact-2](https://www.edoeb.admin.ch/en/contact-2)
 
 ##### [](#contact-us)CONTACT US
 
