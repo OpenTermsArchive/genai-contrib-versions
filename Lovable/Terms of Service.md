@@ -709,7 +709,7 @@ If you have any questions about these Terms or the Services, you can contact us 
 *   [Press & media](https://lovable.dev/brand)
 *   [Enterprise](https://lovable.dev/enterprise-landing)
 *   [Security](https://lovable.dev/security)
-*   [Trust center](https://trust.lovable.dev/)
+*   [Trust center(opens in new window)](https://trust.lovable.dev/)
 *   [Partnerships](https://lovable.dev/partners)
 
 ### Product
@@ -726,13 +726,13 @@ If you have any questions about these Terms or the Services, you can contact us 
 *   [Prototyping](https://lovable.dev/prototypes)
 *   [Internal Tools](https://lovable.dev/tools)
 *   [Download apps](https://lovable.dev/download)
-*   [Connections](https://docs.lovable.dev/integrations/introduction)
-*   [Changelog](https://docs.lovable.dev/changelog)
-*   [Status](https://status.lovable.dev/)
+*   [Connections(opens in new window)](https://docs.lovable.dev/integrations/introduction)
+*   [Changelog(opens in new window)](https://docs.lovable.dev/changelog)
+*   [Status(opens in new window)](https://status.lovable.dev/)
 
 ### Resources
 
-*   [Learn](https://docs.lovable.dev/introduction/welcome)
+*   [Learn(opens in new window)](https://docs.lovable.dev/introduction/welcome)
 *   [Templates](https://lovable.dev/templates)
 *   [Guides](https://lovable.dev/guides)
 *   [Connectors](https://lovable.dev/connect)
@@ -745,18 +745,18 @@ If you have any questions about these Terms or the Services, you can contact us 
 
 ### Legal
 
-*   [Privacy policy](https://lovable.dev/privacy)
+*   [Privacy policy(opens in new window)](https://lovable.dev/privacy)
 *   [Do not sell or share my personal information](https://lovable.dev/do-not-sell-or-share-my-personal-information)
 *   [Cookie settings](https://lovable.dev/cookie-policy)
-*   [Enterprise terms](https://lovable.dev/legal)
-*   [General terms](https://lovable.dev/terms)
-*   [Desktop app terms](https://lovable.dev/desktop-app-terms)
-*   [Domain registration terms](https://lovable.dev/domain-registration-terms)
-*   [DMCA copyright policy](https://lovable.dev/dmca)
-*   [Platform rules](https://rules.lovable.dev/)
-*   [Report abuse](https://lovable.dev/abuse)
-*   [Report security concerns](https://lovable.dev/security-issues)
-*   [DPA](https://lovable.dev/data-processing-agreement)
+*   [Enterprise terms(opens in new window)](https://lovable.dev/legal)
+*   [General terms(opens in new window)](https://lovable.dev/terms)
+*   [Desktop app terms(opens in new window)](https://lovable.dev/desktop-app-terms)
+*   [Domain registration terms(opens in new window)](https://lovable.dev/domain-registration-terms)
+*   [DMCA copyright policy(opens in new window)](https://lovable.dev/dmca)
+*   [Platform rules(opens in new window)](https://rules.lovable.dev/)
+*   [Report abuse(opens in new window)](https://lovable.dev/abuse)
+*   [Report security concerns(opens in new window)](https://lovable.dev/security-issues)
+*   [DPA(opens in new window)](https://lovable.dev/data-processing-agreement)
 
 ### Community
 
@@ -764,10 +764,10 @@ If you have any questions about these Terms or the Services, you can contact us 
 *   [Hire a Lovable expert](https://lovable.dev/experts)
 *   [Affiliates](https://lovable.dev/partners/affiliates)
 *   [Code of conduct](https://lovable.dev/community-code-of-conduct)
-*   [Discord](https://discord.com/invite/lovable-dev)
-*   [Reddit](https://reddit.com/r/lovable)
-*   [X / Twitter](https://twitter.com/Lovable)
-*   [YouTube](https://www.youtube.com/@lovable)
-*   [LinkedIn](https://www.linkedin.com/company/lovable-dev/)
+*   [Discord(opens in new window)](https://discord.com/invite/lovable-dev)
+*   [Reddit(opens in new window)](https://reddit.com/r/lovable)
+*   [X / Twitter(opens in new window)](https://twitter.com/Lovable)
+*   [YouTube(opens in new window)](https://www.youtube.com/@lovable)
+*   [LinkedIn(opens in new window)](https://www.linkedin.com/company/lovable-dev/)
 
 EN
