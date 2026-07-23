@@ -471,7 +471,8 @@ Lovable will not discriminate against you for exercising your privacy rights. If
 
 [](https://lovable.dev/home)
 
-### Company
+Company
+-------
 
 *   [Careers](https://lovable.dev/careers)
 *   [Press & media](https://lovable.dev/brand)
@@ -480,7 +481,8 @@ Lovable will not discriminate against you for exercising your privacy rights. If
 *   [Trust center(opens in new window)](https://trust.lovable.dev/)
 *   [Partnerships](https://lovable.dev/partners)
 
-### Product
+Product
+-------
 
 *   [Pricing](https://lovable.dev/pricing)
 *   [Student discount](https://lovable.dev/students)
@@ -498,7 +500,8 @@ Lovable will not discriminate against you for exercising your privacy rights. If
 *   [Changelog(opens in new window)](https://docs.lovable.dev/changelog)
 *   [Status(opens in new window)](https://status.lovable.dev/)
 
-### Resources
+Resources
+---------
 
 *   [Learn(opens in new window)](https://docs.lovable.dev/introduction/welcome)
 *   [Templates](https://lovable.dev/templates)
@@ -511,7 +514,8 @@ Lovable will not discriminate against you for exercising your privacy rights. If
 *   [Reviews](https://lovable.dev/reviews)
 *   [Sitemap](https://lovable.dev/sitemap)
 
-### Legal
+Legal
+-----
 
 *   [Privacy policy(opens in new window)](https://lovable.dev/privacy)
 *   [Do not sell or share my personal information](https://lovable.dev/do-not-sell-or-share-my-personal-information)
@@ -526,7 +530,8 @@ Lovable will not discriminate against you for exercising your privacy rights. If
 *   [Report security concerns(opens in new window)](https://lovable.dev/security-issues)
 *   [DPA(opens in new window)](https://lovable.dev/data-processing-agreement)
 
-### Community
+Community
+---------
 
 *   [Become a partner](https://lovable.dev/partners)
 *   [Hire a Lovable expert](https://lovable.dev/experts)
