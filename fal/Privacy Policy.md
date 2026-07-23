@@ -246,7 +246,7 @@ Ready to transform your enterprise with AI?
 
 #### Video Models
 
-[Seedance 2.0](https://fal.ai/seedance-2.0)[Gemini Omni](https://fal.ai/gemini-omni)[Kling 3.0](https://fal.ai/models/fal-ai/kling-video/o3/standard/image-to-video)[Veo 3.1](https://fal.ai/models/fal-ai/veo3.1)[Grok Imagine 1.5](https://fal.ai/grok-imagine-video-1.5)[HappyHorse 1.0](https://fal.ai/happyhorse-1.0)[Wan 2.7](https://fal.ai/wan-2.7)[LTX 2.3](https://fal.ai/ltx-2.3)[PixVerse V6](https://fal.ai/pixverse-v6)
+[AI Video Generator](https://fal.ai/ai-video-generator)[Seedance 2.0](https://fal.ai/seedance-2.0)[Gemini Omni](https://fal.ai/gemini-omni)[Kling 3.0](https://fal.ai/models/fal-ai/kling-video/o3/standard/image-to-video)[Veo 3.1](https://fal.ai/models/fal-ai/veo3.1)[Grok Imagine 1.5](https://fal.ai/grok-imagine-video-1.5)[HappyHorse 1.0](https://fal.ai/happyhorse-1.0)[Wan 2.7](https://fal.ai/wan-2.7)[LTX 2.3](https://fal.ai/ltx-2.3)[PixVerse V6](https://fal.ai/pixverse-v6)
 
 #### Labs
 
