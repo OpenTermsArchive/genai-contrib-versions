@@ -703,7 +703,8 @@ If you have any questions about these Terms or the Services, you can contact us 
 
 [](https://lovable.dev/home)
 
-### Company
+Company
+-------
 
 *   [Careers](https://lovable.dev/careers)
 *   [Press & media](https://lovable.dev/brand)
@@ -712,7 +713,8 @@ If you have any questions about these Terms or the Services, you can contact us 
 *   [Trust center(opens in new window)](https://trust.lovable.dev/)
 *   [Partnerships](https://lovable.dev/partners)
 
-### Product
+Product
+-------
 
 *   [Pricing](https://lovable.dev/pricing)
 *   [Student discount](https://lovable.dev/students)
@@ -730,7 +732,8 @@ If you have any questions about these Terms or the Services, you can contact us 
 *   [Changelog(opens in new window)](https://docs.lovable.dev/changelog)
 *   [Status(opens in new window)](https://status.lovable.dev/)
 
-### Resources
+Resources
+---------
 
 *   [Learn(opens in new window)](https://docs.lovable.dev/introduction/welcome)
 *   [Templates](https://lovable.dev/templates)
@@ -743,7 +746,8 @@ If you have any questions about these Terms or the Services, you can contact us 
 *   [Reviews](https://lovable.dev/reviews)
 *   [Sitemap](https://lovable.dev/sitemap)
 
-### Legal
+Legal
+-----
 
 *   [Privacy policy(opens in new window)](https://lovable.dev/privacy)
 *   [Do not sell or share my personal information](https://lovable.dev/do-not-sell-or-share-my-personal-information)
@@ -758,7 +762,8 @@ If you have any questions about these Terms or the Services, you can contact us 
 *   [Report security concerns(opens in new window)](https://lovable.dev/security-issues)
 *   [DPA(opens in new window)](https://lovable.dev/data-processing-agreement)
 
-### Community
+Community
+---------
 
 *   [Become a partner](https://lovable.dev/partners)
 *   [Hire a Lovable expert](https://lovable.dev/experts)
