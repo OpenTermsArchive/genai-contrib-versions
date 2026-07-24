@@ -26,7 +26,7 @@ Legal Documents
 
 [API Services](https://fal.ai/legal/api-services)[Compute Infrastructure](https://fal.ai/legal/compute-infrastructure)
 
-[Privacy Policy](https://fal.ai/legal/privacy-policy)[Acceptable Use Policy](https://fal.ai/legal/acceptable-use-policy)[Trust & Safety](https://fal.ai/legal/trust-and-safety)
+[Data Processing Addendum](https://fal.ai/legal/data-processing-addendum)[Privacy Policy](https://fal.ai/legal/privacy-policy)[Acceptable Use Policy](https://fal.ai/legal/acceptable-use-policy)[Trust & Safety](https://fal.ai/legal/trust-and-safety)
 
 Privacy Policy
 --------------
