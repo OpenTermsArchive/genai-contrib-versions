@@ -266,7 +266,7 @@ When you use our services for individuals such as ChatGPT, Sora, or Operator, we
 
 You can opt out of training through our [privacy portal⁠](https://privacy.openai.com/policies?modal=take-control) by clicking on “do not train on my content.” To turn off training for your ChatGPT and Operator conversations, follow the instructions in our [Data Controls FAQ⁠](https://help.openai.com/en/articles/7730893-data-controls-faq). Once you opt out, new conversations will not be used to train our models.
 
-When you use ChatGPT, you can also use Temporary Chat from the dropdown. Chats from Temporary Chat won't appear in history, use or create memories, or be used to train our models.
+When you use ChatGPT, you can also use Temporary Chat from the dropdown. Chats from Temporary Chat won’t appear in history, use or create memories, or be used to train our models.
 
 Sora has separate controls, and you can similarly turn off training in the [Sora Settings ⁠](https://help.openai.com/en/articles/10249777-sora-data-controls-faq)menu. Additionally, if you opt out of training through our [privacy porta⁠](https://privacy.openai.com/policies?modal=take-control)l, this will apply to Sora too. (Note that adjusting your settings in the ChatGPT interface will not affect your Sora settings, however.)
 
