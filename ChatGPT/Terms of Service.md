@@ -76,7 +76,7 @@ Content
 
 **Similarity of content.** Due to the nature of our Services and artificial intelligence generally, Output may not be unique and other users may receive similar output from our Services. Our assignment above does not extend to other users’ output or any Third Party Output.
 
-**Our use of content.** We can use your Content worldwide to provide, maintain, develop, and improve our Services, comply with applicable law, enforce our terms and policies and keep our Services safe. If you're using ChatGPT through Apple's integrations, see [this Help Center article⁠](https://help.openai.com/en/articles/9737562) for how we handle your Content.
+**Our use of content.** We can use your Content worldwide to provide, maintain, develop, and improve our Services, comply with applicable law, enforce our terms and policies and keep our Services safe. If you’re using ChatGPT through Apple's integrations, see [this Help Center article⁠](https://help.openai.com/en/articles/9737562) for how we handle your Content.
 
 **Content moderation.** We use automated systems and human review to identify and address content that violates our Terms, including our Usage Policies. If we become aware of violations, we may remove or restrict content, limit your access to features, or suspend or terminate your account.For more details on our content moderation process and complaint procedures, see our [Transparency & Content Moderation page⁠⁠](https://openai.com/transparency-and-content-moderation/).
 
