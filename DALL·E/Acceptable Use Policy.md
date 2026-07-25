@@ -70,11 +70,11 @@ We aim for our tools to be used safely and responsibly, while maximizing your co
 Changelog
 ---------
 
-*   2025-10-29: We've updated our Usage Policies to reflect a universal set of policies across OpenAI products and services.
-*   2025-01-29: We've updated our Universal Policies to clarify prohibitions under applicable laws.
-*   2024-01-10: We've updated our Usage Policies to be clearer and provide more service-specific guidance.
+*   2025-10-29: We’ve updated our Usage Policies to reflect a universal set of policies across OpenAI products and services.
+*   2025-01-29: We’ve updated our Universal Policies to clarify prohibitions under applicable laws.
+*   2024-01-10: We’ve updated our Usage Policies to be clearer and provide more service-specific guidance.
 *   2023-02-15: We’ve combined our use case and content policies into a single set of usage policies, and have provided more specific guidance on what activity we disallow in industries we’ve considered high risk.
-*   2022-11-09: We no longer require you to register your applications with OpenAI. Instead, we'll be using a combination of automated and manual methods to monitor for policy violations.
+*   2022-11-09: We no longer require you to register your applications with OpenAI. Instead, we’ll be using a combination of automated and manual methods to monitor for policy violations.
 *   2022-10-25: Updated App Review process (devs no longer need to wait for approval after submitting as long as they comply with our policies). Moved to an outcomes-based approach and updated Safety Best Practices.
 *   2022-06-07: Refactored into categories of applications and corresponding requirements.
 *   2022-03-09: Refactored into “App Review”.
