@@ -184,9 +184,9 @@ Stability AI is unlocking the power of open-source generative AI to expand human
 
 [Cloud Platforms](https://stability.ai/partners)
 
-#### ResourceS
+#### LEARN
 
-[Learning Hub](https://stability.ai/learning-hub)
+[Guides](https://stability.ai/guides)
 
 [Customer Stories](https://stability.ai/customer-stories)
 
