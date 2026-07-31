@@ -32,7 +32,7 @@ Terms of Service
 ----------------
 
 **TERMS OF SERVICE**  
-**_Last Updated: March 03, 2026_**
+**_Last Updated: July 31, 2026_**
 
 These Terms of Service (“**Terms**”) apply to your access to, and use of, the websites and generative artificial intelligence (“**AI**”) media platform provided by fal – Features & Labels, Inc. (“**Company**,” “**we**,” “**us**,” or “**our**”). By checking a box to accept or by using the Services (as defined below), you agree to these Terms. These Terms form a binding legal contract between Company and you as a customer (“**Customer**,” “**you**,” or “**your**”) governing your use of (i) any websites or other online products or services provided by Company that link to these Terms, including [www.fal.ai](http://www.fal.ai/) (“**Sites**”), and (ii) the Company platform as made available to customers as a cloud-hosted service (collectively with the Sites, and as applicable, the “**Services**”).
 
@@ -120,6 +120,8 @@ We may make changes to these Terms. The “_Last Updated_” date above indicate
     7.  Your or your End Users’ use our API services is governed by our API Services Supplemental Terms located at [https://fal.ai/legal/api-services](https://fal.ai/legal/api-services).
         
     8.  Your or your End Users’ use of our compute infrastructure services is governed by our Compute Infrastructure Supplemental Terms located at [https://fal.ai/legal/compute-infrastructure](https://fal.ai/legal/compute-infrastructure).
+        
+    9.  To the extent applicable, Company's Data Processing Addendum located at [https://fal.ai/legal/data-processing-addendum](https://fal.ai/legal/data-processing-addendum) is incorporated by reference into these Terms of Service.
         
 7.  **Acceptable Use** You agree to use our Services in the manner authorized by these Terms of Service and our Acceptable Use Policy located at [https://fal.ai/legal/acceptable-use-policy](https://fal.ai/legal/acceptable-use-policy). You agree that you will not use our Services other for their intended purpose, and that you will not use our Services in any manner that violates applicable laws or regulations.
     
