@@ -13,7 +13,7 @@ Get started
 
 Log inGet started
 
-Version:April 14, 2026 (Latest)
+Version:April 14, 2026 (current)
 
 Privacy Policy
 ==============
