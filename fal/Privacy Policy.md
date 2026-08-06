@@ -1,4 +1,4 @@
-[fal Assets is now live!](https://fal.ai/assets)
+[MiniMax H3 open weights is live](https://fal.ai/models/minimax/h3/image-to-video)
 
 ![](/landing/bg-side-page.svg)![](/landing/bg-mobile-side-page.svg)
 
@@ -6,7 +6,7 @@
 
 Products
 
-[Documentation](https://docs.fal.ai/)[Pricing](https://fal.ai/pricing)[Enterprise](https://fal.ai/enterprise)
+[Documentation](https://fal.ai/docs/documentation)[Pricing](https://fal.ai/pricing)[Enterprise](https://fal.ai/enterprise)
 
 Resources
 
@@ -238,7 +238,7 @@ Ready to transform your enterprise with AI?
 
 #### Learn more
 
-[Status](https://status.fal.ai/)[About Us](https://fal.ai/about)[Documentation](https://docs.fal.ai/)[Trust & Safety](https://fal.ai/legal/trust-and-safety)[Careers](https://fal.ai/careers)[Pricing](https://fal.ai/pricing)[Blog](https://blog.fal.ai/)[Enterprise](https://fal.ai/enterprise)[Get in touch](mailto:support@fal.ai)[Report Content](https://fal.ai/report-content)[Grants](https://fal.ai/grants)[Events](https://fal.ai/events)[Legal](https://fal.ai/legal)Your Privacy Choices![California Consumer Privacy Act (CCPA) Opt-Out Icon](/privacy-options.svg)[Learn](https://fal.ai/learn)[Gen Media Report 2026](https://fal.ai/gen-media-report-volume-1)
+[Status](https://status.fal.ai/)[About Us](https://fal.ai/about)[Documentation](https://fal.ai/docs/documentation)[Trust & Safety](https://fal.ai/legal/trust-and-safety)[Careers](https://fal.ai/careers)[Pricing](https://fal.ai/pricing)[Blog](https://blog.fal.ai/)[Enterprise](https://fal.ai/enterprise)[Get in touch](mailto:support@fal.ai)[Report Content](https://fal.ai/report-content)[Grants](https://fal.ai/grants)[Events](https://fal.ai/events)[Legal](https://fal.ai/legal)Your Privacy Choices![California Consumer Privacy Act (CCPA) Opt-Out Icon](/privacy-options.svg)[Learn](https://fal.ai/learn)[Gen Media Report 2026](https://fal.ai/gen-media-report-volume-1)
 
 #### Image Models
 
