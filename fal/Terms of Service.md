@@ -1,4 +1,4 @@
-[MiniMax H3 open weights is live](https://fal.ai/models/minimax/h3/image-to-video)
+[Seedance 2.5 is live!](https://fal.ai/models/bytedance/seedance-2.5/image-to-video)
 
 ![](/landing/bg-side-page.svg)![](/landing/bg-mobile-side-page.svg)
 
