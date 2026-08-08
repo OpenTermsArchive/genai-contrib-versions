@@ -1,4 +1,4 @@
-[Seedance 2.5 is live!](https://fal.ai/models/bytedance/seedance-2.5/image-to-video)
+[Try Seedance 2.5 in fal Agent](https://fal.ai/agent?endpoint=bytedance%2Fseedance-2.5%2Fimage-to-video)
 
 ![](/landing/bg-side-page.svg)![](/landing/bg-mobile-side-page.svg)
 
