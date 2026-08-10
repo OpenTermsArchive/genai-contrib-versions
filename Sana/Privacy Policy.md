@@ -337,7 +337,7 @@ UTM Content
 
 **Sana**
 
-*   [Overview](https://sanalabs.com/products/sana)
+*   [Overview](https://sanalabs.com/products/sana/)
 *   [AI agents](https://sanalabs.com/products/sana/ai-agents)
 *   [Enterprise search](https://sanalabs.com/products/sana/enterprise-search)
 *   [Solutions](#)
@@ -367,7 +367,7 @@ UTM Content
 
 **Sana Learn**
 
-*   [Overview](https://sanalabs.com/products/sana-learn)
+*   [Overview](https://sanalabs.com/products/sana-learn/)
 *   [Learning management](https://sanalabs.com/products/sana-learn/learning-management)
 *   [Content creation](https://sanalabs.com/products/sana-learn/content-creation)
 *   [Solutions](#)
@@ -388,7 +388,7 @@ UTM Content
 **Company**
 
 *   [Sana AI Summit 2026](https://sanalabs.com/events/sana-ai-summit-2026)
-*   [Strange Loop Podcast](https://sanalabs.com/strange-loop)
+*   [Strange Loop Podcast](https://sanalabs.com/strange-loop/)
 *   [Swedish AI Reform](https://sanalabs.com/ai-reform)
 *   [Mission](https://sanalabs.com/about)
 *   [Careers](https://sanalabs.com/careers)
