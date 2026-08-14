@@ -1,4 +1,4 @@
-Last updated: 30 July 2026
+Last updated: 14 August 2026
 
 Cookie policy
 =============
@@ -138,6 +138,8 @@ These cookies help us support and understand the efficacy of our marketing effor
 | [Google](https://policies.google.com/technologies/partner-sites)⁠⁠⁠ | ANID | 13 months | Marketing measurement | openai.com  <br>chatgpt.com  <br>ads.openai.com |
 | [Google](https://policies.google.com/technologies/partner-sites)⁠⁠⁠ | NID | 6 months | Marketing measurement | openai.com  <br>chatgpt.com  <br>ads.openai.com |
 | [Google](https://policies.google.com/technologies/partner-sites)⁠⁠⁠ | gclid | 24 hours | Marketing measurement | openai.com  <br>chatgpt.com  <br>ads.openai.com |
+| [Google](https://policies.google.com/technologies/partner-sites)⁠⁠⁠ | GBRAID | 24 hours | Marketing measurement | chatgpt.com  <br>ads.openai.com |
+| [Google](https://policies.google.com/technologies/partner-sites)⁠⁠⁠ | WBRAID | 24 hours | Marketing measurement | chatgpt.com  <br>ads.openai.com |
 | [Google](https://policies.google.com/technologies/partner-sites)⁠⁠ | \_glc\_de | 90 days | Marketing measurement | openai.com |
 | [Google](https://policies.google.com/technologies/partner-sites)⁠⁠ | \_glc\_dc | 90 days | Marketing measurement | openai.com |
 | [Reddit⁠⁠](https://www.reddit.com/policies/cookies?rdt=52789) | rdt\_cid | 24 hours | Marketing measurement | chatgpt.com  <br>ads.openai.com |
