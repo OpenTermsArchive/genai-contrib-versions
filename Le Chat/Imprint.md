@@ -7,14 +7,10 @@ Mistral, a simplified joint stock company with capital of EUR 15,000, listed on 
 
 Contact email address: [contact@mistral.ai](mailto:contact@mistral.ai).
 
-* * *
-
 Publication owner
 -----------------
 
 The publication director of the website at [https://mistral.ai/](https://mistral.ai/) is Arthur Mensch, Chief Executive Officer of Mistral.
-
-* * *
 
 Hosting
 -------
@@ -66,14 +62,10 @@ Mistral, a simplified joint stock company with capital of EUR 15,000, listed on 
 
 Contact email address: [contact@mistral.ai](mailto:contact@mistral.ai).
 
-* * *
-
 Publication owner
 -----------------
 
 The publication director of the website at [https://mistral.ai/](https://mistral.ai/) is Arthur Mensch, Chief Executive Officer of Mistral.
-
-* * *
 
 Hosting
 -------
