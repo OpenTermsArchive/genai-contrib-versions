@@ -238,7 +238,7 @@ Ready to transform your enterprise with AI?
 
 #### Learn more
 
-[Status](https://status.fal.ai/)[About Us](https://fal.ai/about)[Documentation](https://fal.ai/docs/documentation)[Trust & Safety](https://fal.ai/legal/trust-and-safety)[Careers](https://fal.ai/careers)[Pricing](https://fal.ai/pricing)[Blog](https://blog.fal.ai/)[Enterprise](https://fal.ai/enterprise)[Get in touch](mailto:support@fal.ai)[Report Content](https://fal.ai/report-content)[Grants](https://fal.ai/grants)[Events](https://fal.ai/events)[Legal](https://fal.ai/legal)Your Privacy Choices![California Consumer Privacy Act (CCPA) Opt-Out Icon](/privacy-options.svg)[Learn](https://fal.ai/learn)[Gen Media Report 2026](https://fal.ai/gen-media-report-volume-1)
+[Status](https://status.fal.ai/)[About Us](https://fal.ai/about)[Documentation](https://fal.ai/docs/documentation)[Trust & Safety](https://fal.ai/legal/trust-and-safety)[Verify fal-Generated Content](https://fal.ai/verify)[Careers](https://fal.ai/careers)[Pricing](https://fal.ai/pricing)[Blog](https://blog.fal.ai/)[Enterprise](https://fal.ai/enterprise)[Get in touch](mailto:support@fal.ai)[Report Content](https://fal.ai/report-content)[Grants](https://fal.ai/grants)[Events](https://fal.ai/events)[Legal](https://fal.ai/legal)Your Privacy Choices![California Consumer Privacy Act (CCPA) Opt-Out Icon](/privacy-options.svg)[Learn](https://fal.ai/learn)[Gen Media Report 2026](https://fal.ai/gen-media-report-volume-1)
 
 #### Image Models
 
