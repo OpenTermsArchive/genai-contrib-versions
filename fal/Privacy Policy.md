@@ -242,11 +242,11 @@ Ready to transform your enterprise with AI?
 
 #### Image Models
 
-[Seedream 5.0](https://fal.ai/seedream-5.0)[GPT Image 2](https://fal.ai/gpt-image-2)[Flux 2](https://fal.ai/models/fal-ai/flux-2-flex)[Nano Banana 2](https://fal.ai/nano-banana-2)[Ideogram 4](https://fal.ai/ideogram-4)[Krea 2](https://fal.ai/krea-2)[Nano Banana Pro](https://fal.ai/models/fal-ai/nano-banana-pro/edit)[Qwen Image 2.0](https://fal.ai/qwen-image-2.0)[Explore More](https://fal.ai/explore)
+[Seedream 5.0](https://fal.ai/seedream-5.0)[GPT Image 2](https://fal.ai/gpt-image-2)[Flux 2](https://fal.ai/models/fal-ai/flux-2-flex)[Nano Banana 2](https://fal.ai/nano-banana-2)[Ideogram 4](https://fal.ai/ideogram-4)[Krea 2](https://fal.ai/krea-2)[Nano Banana Pro](https://fal.ai/models/fal-ai/nano-banana-pro/edit)[Qwen Image 3](https://fal.ai/qwen-image-3)[Explore More](https://fal.ai/explore)
 
 #### Video Models
 
-[AI Video Generator](https://fal.ai/tools/ai-video-generator)[Text to Video](https://fal.ai/tools/text-to-video)[Seedance 2.5](https://fal.ai/seedance-2.5)[Seedance 2.0](https://fal.ai/seedance-2.0)[Gemini Omni](https://fal.ai/gemini-omni)[MiniMax H3](https://fal.ai/minimax-h3)[Kling 3.0](https://fal.ai/models/fal-ai/kling-video/o3/standard/image-to-video)[Veo 3.1](https://fal.ai/models/fal-ai/veo3.1)[Grok Imagine 1.5](https://fal.ai/grok-imagine-video-1.5)[HappyHorse 1.0](https://fal.ai/happyhorse-1.0)[Happy Oyster](https://fal.ai/happy-oyster)[Wan 2.7](https://fal.ai/wan-2.7)[LTX 2.3](https://fal.ai/ltx-2.3)[PixVerse V6](https://fal.ai/pixverse-v6)
+[AI Video Generator](https://fal.ai/tools/ai-video-generator)[Text to Video](https://fal.ai/tools/text-to-video)[Seedance 2.5](https://fal.ai/seedance-2.5)[Seedance 2.0](https://fal.ai/seedance-2.0)[Gemini Omni](https://fal.ai/gemini-omni)[MiniMax H3](https://fal.ai/minimax-h3)[Kling 3.0](https://fal.ai/models/fal-ai/kling-video/o3/standard/image-to-video)[Veo 3.1](https://fal.ai/models/fal-ai/veo3.1)[Grok Imagine 1.5](https://fal.ai/grok-imagine-video-1.5)[Happy Horse 1.1](https://fal.ai/models/alibaba/happy-horse/v1.1/text-to-video)[Happy Oyster](https://fal.ai/happy-oyster)[Wan 3.0](https://fal.ai/wan-3)[LTX 2.3](https://fal.ai/ltx-2.3)[PixVerse V6](https://fal.ai/pixverse-v6)
 
 #### Labs
 
