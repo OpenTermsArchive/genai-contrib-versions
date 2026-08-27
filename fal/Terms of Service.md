@@ -1,4 +1,4 @@
-[Try Seedance 2.5 in fal Agent](https://fal.ai/agent?endpoint=bytedance%2Fseedance-2.5%2Fimage-to-video)
+[Try MiniMax H3 Max](https://fal.ai/models/minimax/h3-max/image-to-video)
 
 ![](/landing/bg-side-page.svg)![](/landing/bg-mobile-side-page.svg)
 
