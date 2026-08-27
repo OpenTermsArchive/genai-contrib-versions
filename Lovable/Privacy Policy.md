@@ -299,7 +299,7 @@ Legal
 *   [Domain registration terms(opens in new window)](https://lovable.dev/domain-registration-terms)
 *   [DMCA copyright policy(opens in new window)](https://lovable.dev/dmca)
 *   [Accessibility(opens in new window)](https://lovable.dev/accessibility)
-*   [Platform rules(opens in new window)](https://rules.lovable.dev/)
+*   [Platform rules(opens in new window)](https://lovable.dev/platform-rules)
 *   [Report abuse(opens in new window)](https://lovable.dev/abuse)
 *   [Report security concerns(opens in new window)](https://lovable.dev/security-issues)
 *   [DPA(opens in new window)](https://lovable.dev/data-processing-agreement)
