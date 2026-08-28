@@ -13,12 +13,12 @@ Get started
 
 Log inGet started
 
-Version:June 16, 2026 (Latest)
+Version:August 28, 2026 (Latest)
 
 **Terms of Service**
 ====================
 
-_Last Updated:_ _**June 16, 2026**_  
+_Last Updated:_ _**August 28, 2026**_  
 _Effective Date\*:_ _**August 15, 2026**_
 
 **Introduction**
@@ -276,7 +276,7 @@ We respect intellectual property rights and comply with the Digital Millennium C
 
 ### Illegal Content and DSA Contact Points
 
-If you believe content hosted through the Services is illegal or violates these Terms, you may report it to us at [abuse@lovable.dev](mailto:abuse@lovable.dev). For the purposes of Articles 11 and 12 of the EU Digital Services Act, our electronic point of contact for users and authorities is [dsa-contact@lovable.dev](mailto:dsa-contact@lovable.dev). Communications may be made in English.
+If you believe content hosted through the Services is illegal or violates these Terms, you may report it to us at [lovable.dev/abuse](https://lovable.dev/abuse). For the purposes of Articles 11 and 12 of the EU Digital Services Act, our electronic point of contact for users and authorities is [dsa-contact@lovable.dev](mailto:dsa-contact@lovable.dev). Communications may be made in English.
 
 **Miscellaneous**
 -----------------
