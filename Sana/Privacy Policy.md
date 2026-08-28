@@ -361,6 +361,7 @@ UTM Content
 *   [Integrations](https://sanalabs.com/products/sana/integrations)
 *   [Events](https://sanalabs.com/products/sana/events)
 *   [Security](https://sanalabs.com/products/sana/security)
+*   [Resources](https://sanalabs.com/products/sana/resources)
 *   [Stories](https://sanalabs.com/products/sana/stories)
 *   [Pricing](https://sanalabs.com/products/sana/pricing)
 *   [Help Center](https://support.sana.ai/en/)
@@ -382,6 +383,7 @@ UTM Content
 *   [Integrations](https://sanalabs.com/products/sana-learn/integrations)
 *   [Events](https://sanalabs.com/products/sana-learn/events)
 *   [Pricing](https://sanalabs.com/products/sana-learn/pricing)
+*   [Resources](https://sanalabs.com/products/sana-learn/resources)
 *   [Help Center](https://help.sana.ai/en/)
 *   [Changelog](https://sanalabs.com/sana-learn-changelog)
 
