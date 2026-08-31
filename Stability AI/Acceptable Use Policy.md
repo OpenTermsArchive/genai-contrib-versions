@@ -1,9 +1,9 @@
 Acceptable Use Policy
 =====================
 
-Effective: July 31, 2025 (see [previous version](https://stability.ai/prior-aup))
+Effective: September 30, 2026 (see [previous version](https://stability.ai/2025-acceptable-use-policy))
 
-Our Acceptable Use Policy is intended to promote the safe and responsible use of Stability AI (“Stability”) models, products and services, application programming interfaces (“APIs”), software, or other materials (“Stability Technology”). Our technology is created for use by adults, and as such, you must be 18 years of age or the minimum age required to use Stability AI Technology in your location, whichever is higher. 
+Our Acceptable Use Policy is intended to promote the safe and responsible use of Stability AI (“Stability”) models, products and services, application programming interfaces (“APIs”), software, or other materials (“Stability Technology”). 
 
 If you access, use, or distribute any Stability AI Technology, you agree to this Acceptable Use Policy (“Policy”).  This includes non-commercial, research, and commercial uses of Stability AI Technology, including self-hosting Stability AI code or weights under the terms of our Non-Commercial Research, Community or Enterprise Licenses and includes accessing Stability Technology via third-party hosted platforms. If we learn that you have violated this Policy, we may suspend or terminate your access to our products and services.  
 
@@ -15,24 +15,22 @@ This includes using Stability Technology to facilitate: 
     
 *   violations of AI laws, such as by:
     
-
-*   using subliminal, manipulative, or deceptive techniques that can distort a person’s ability to make informed decisions and is likely to cause harm.
-    
-*   exploiting vulnerabilities due to age, disability, or socio-economic situations.
-    
-*   evaluating or classifying persons based on their social behavior, personal characteristics, or the use of social scoring leading to detrimental or unfavorable treatment.
-    
-*   assessing or predicting the risk of a person committing a crime, based solely on profiling or personal traits.
-    
-*   creating or expanding facial recognition databases without consent.
-    
-*   inferring emotions in the workplace or education institution, except for medical or safety reasons.
-    
-*   categorizing people based on their biometric data to infer their race, political opinion, trade union membership, religious or philosophical beliefs, sex life or sexual orientation.
-    
-*   using real-time biometric identification systems in public spaces for law enforcement purposes. 
-    
-
+    *   using subliminal, manipulative, or deceptive techniques that can distort a person’s ability to make informed decisions and is likely to cause harm.
+        
+    *   exploiting vulnerabilities due to age, disability, or socio-economic situations.
+        
+    *   evaluating or classifying persons based on their social behavior, personal characteristics, or the use of social scoring leading to detrimental or unfavorable treatment.
+        
+    *   assessing or predicting the risk of a person committing a crime, based solely on profiling or personal traits.
+        
+    *   creating or expanding facial recognition databases without consent.
+        
+    *   inferring emotions in the workplace or education institution, except for medical or safety reasons.
+        
+    *   categorizing people based on their biometric data to infer their race, political opinion, trade union membership, religious or philosophical beliefs, sex life or sexual orientation.
+        
+    *   using real-time biometric identification systems in public spaces for law enforcement purposes. 
+        
 *   sharing of personal information without consent.
     
 *   provision of advice on essential services, including in the medical or health field, without review by a qualified professional and disclosure of the use of AI assistance and its potential limitations.
