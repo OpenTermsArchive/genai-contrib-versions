@@ -1,7 +1,7 @@
 Terms of Use
 ============
 
-Updated: December 23, 2025
+Updated: August 31, 2026
 
 Our [Business Terms](https://www.wordtune.com/business/terms-of-use) govern use of Wordtune Business, our product for businesses and teams
 
@@ -203,9 +203,9 @@ Patent Notices
 
 AI21 Labs Ltd’s products, including but not restricted to Wordtune, are protected by issued patents in several countries, including the United States of America. This website satisfies the virtual patent marking provisions of those various jurisdictions, including _inter alia_ the US virtual patent marking provisions of 35 § 287(a). AI21 Labs Ltd’s and its subsidiaries’ products are protected by one or more of the following patents:
 
-*   In the United States: US11574120, US11610055, US11610056, US11636256,US11699033, US11636257, US11636258, US11610057, US12032921, US12061867, US12124813, US12204871, US12229525, US12277384, _US12346668, US12353465._
-*   In Australia: 2020326435, 2023222905, 2023241291, 2023258365, 2021309651.
-*   In Canada: No. 3150031.
+*   In the United States: US11574120, US11610055, US11610056, US11636256,US11699033, US11636257, US11636258, US11610057, US12032921, US12061867, US12124813, US12204871, US12229525, US12277384, _US12346668, US12353465, US 12613900._
+*   In Australia: 2020326435, 2023222905, 2023241291, 2023258365, 2021309651, 2024204869.
+*   In Canada: 3150031, 3176443, 3239449.
 
 The contents of the aforementioned lists are subject to change due to issuance, licensing or expiration of patent rights, product changes or launches and other circumstances. The absence of a product or a patent number from these lists does not constitute a waiver of AI21 Labs’s patent, trademark, or other intellectual property rights concerning that product or patent in the relevant country or region.
 
