@@ -1,6 +1,6 @@
 [](https://lovable.dev/home)
 
-Get started
+[Get started](https://lovable.dev/signup?redirect=%2Fterms)
 
 [](https://lovable.dev/home)
 
@@ -11,7 +11,7 @@ Get started
 *   [Pricing](https://lovable.dev/pricing)
 *   [Security](https://lovable.dev/security)
 
-Log inGet started
+[Log in](https://lovable.dev/login?redirect=%2Fterms)[Get started](https://lovable.dev/signup?redirect=%2Fterms)
 
 Version:August 28, 2026 (Latest)
 
