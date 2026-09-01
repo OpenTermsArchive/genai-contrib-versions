@@ -3,7 +3,7 @@ Terms of Service
 
 Effective: September 30, 2026 (see [previous versions](https://stability.ai/2025-terms-of-service))
 
-Welcome to Stability AI! By accessing or using our Services, you agree to these Terms of Service (“Terms”), which govern your access to and use of Brand Studio, Stable Audio, Stability’s Application Programming Interface (“API”) and our websites, and any associated software applications, and any underlying technologies, along with any future apps or services that link to these Terms (together, our “Services”). These Terms include our Acceptable Use Policy. Please also read our Privacy Policy, which describes how we process personal data.
+Welcome to Stability AI! By accessing or using our Services, you agree to these Terms of Service (“Terms”), which govern your access to and use of Brand Studio, Stable Audio, Stability’s Application Programming Interface (“API”) and our websites, and any associated software applications, and any underlying technologies, along with any future apps or services that link to these Terms (together, our “Services”). These Terms include our [Acceptable Use Policy](https://stability.ai/use-policy). Please also read our [P](https://stability.ai/privacypolicy)[rivacy Policy](https://stability.ai/use-policy), which describes how we [process perso](https://stability.ai/privacypolicy)nal data.
 
 If you access or use the Services on behalf of a business or other entity, you represent and warrant that you have authority to bind that entity to these Terms and accept these Terms on its behalf. In that case, “you” and “your” refer to that entity.
 
