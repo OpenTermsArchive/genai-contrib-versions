@@ -3,7 +3,7 @@ Terms of Service
 
 Effective: September 30, 2026 (see [previous versions](https://stability.ai/2025-terms-of-service))
 
-Welcome to Stability AI! By accessing or using our Services, you agree to these Terms of Service (“Terms”), which govern your access to and use of Brand Studio, Stable Audio, Stability’s Application Programming Interface (“API”) and our websites, and any associated software applications, and any underlying technologies, along with any future apps or services that link to these Terms (together, our “Services”). These Terms include our [Acceptable Use Policy](https://stability.ai/use-policy). Please also read our [P](https://stability.ai/privacypolicy)[rivacy Policy](https://stability.ai/use-policy), which describes how we [process perso](https://stability.ai/privacypolicy)nal data.
+Welcome to Stability AI! By accessing or using our Services, you agree to these Terms of Service (“Terms”), which govern your access to and use of Brand Studio, Stable Audio, Stability’s Application Programming Interface (“API”) and our websites, and any associated software applications, and any underlying technologies, along with any future apps or services that link to these Terms (together, our “Services”). These Terms include our [Acceptable Use Policy](https://stability.ai/use-policy). Please also read our [Privacy Policy](https://stability.ai/privacypolicy), which describes how we process personal data.
 
 If you access or use the Services on behalf of a business or other entity, you represent and warrant that you have authority to bind that entity to these Terms and accept these Terms on its behalf. In that case, “you” and “your” refer to that entity.
 
@@ -72,7 +72,7 @@ As between you and Stability, and to the extent permitted by applicable law, you
 
 **b. Reliance on Outputs.** Generative artificial intelligence is technology that is still developing and Outputs may not always contain accurate information or be as you intended. You are solely responsible for verifying the accuracy, legality, and appropriateness of any Outputs or actions by the AI before using or sharing them. Outputs should not be used for any critical decisions without independent human review. Please also note that Outputs are not created by Stability and do not reflect Stability’s views.
 
-**c. Our use of Content.** As described in our [Privacy Policy](https://stability.ai/privacypolicy), we may use Content to improve and develop our Services (but you can opt-out to prevent us from using your Inputs and Outputs to train our models,[learn more](https://stability.ai/privacy-center#optout)), comply with applicable law, enforce our terms and policies, and to keep our Services safe.
+**c. Our use of Content.** As described in our [Privacy Policy](https://stability.ai/privacypolicy), we may use Content to improve and develop our Services (but you can opt-out to prevent us from using your Inputs and Outputs to train our models, [learn more](https://stability.ai/privacy-center#optout)), comply with applicable law, enforce our terms and policies, and to keep our Services safe.
 
 ### **5\. Supplementary Resources (e.g., LoRAs).**
 
@@ -91,7 +91,7 @@ To the extent you use Services that support custom training, creation, or sharin
     c. you must ensure that any information you publish about your LoRA is complete, accurate, and not misleading.
     
 
-3\. Removal. Stability may remove your LoRA from our Services at any time, for any reason, without notice.
+3\. **Removal**. Stability may remove your LoRA from our Services at any time, for any reason, without notice.
 
 **b. For Users of LoRAs.** You should only use LoRAs that you trust. These LoRAs are user-generated and may be removed by either the trainer or Stability at any time without notice. If you encounter a LoRA that appears to violate our policies or applicable law, please report it to us.
 
