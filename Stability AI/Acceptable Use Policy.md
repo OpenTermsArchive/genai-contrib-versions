@@ -147,6 +147,8 @@ Stability AI is unlocking the power of open-source generative AI to expand human
 
 [Customer Stories](https://stability.ai/customer-stories)
 
+[Knowledge Base](https://kb.stability.ai/knowledge-base)
+
 #### Contact Us
 
 [press@stability.ai](mailto:mailto:press@stability.ai?)
