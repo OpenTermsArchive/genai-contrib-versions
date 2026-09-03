@@ -294,7 +294,7 @@ Customer Data: All data, including personal information, context, prompts, files
 
 **Parties:** Intric and the Customer in conjunction.
 
-**SLA:** The Service Level Agreement governing the availability of the Services as set out here.
+**[SLA](https://intric.ai/en/service-level-agreement):** The Service Level Agreement governing the availability of the Services as set out here.
 
 **Services:** Refer to the contracted software, and fully or partially integrated Additional Services, defined in the Agreement.
 
