@@ -100,7 +100,7 @@ Your workspace admins control how long your data is retained. Any deleted conver
 
 ### What is ChatGPT Business?
 
-Built for small and growing businesses, ChatGPT Business offers collaborative tools and self-serve access to the power of ChatGPT in a dedicated workspace for your team. [Learn more about ChatGPT Business⁠](https://chatgpt.com/business/business-plan?openaicom-did=adcb48a0-98b2-433d-ba99-1f5a9091c6e4&openaicom_referred=true).
+Built for small and growing businesses, ChatGPT Business offers collaborative tools and self-serve access to the power of ChatGPT in a dedicated workspace for your team. [Learn more about ChatGPT Business⁠](https://chatgpt.com/business/business-plan?openaicom-did=dd4fa667-f436-4f10-80ff-12eb97cb8ad5&openaicom_referred=true).
 
 ### Who can view conversations and chat history in ChatGPT Business?
 
