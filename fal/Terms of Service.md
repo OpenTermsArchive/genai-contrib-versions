@@ -1,4 +1,4 @@
-[Try MiniMax H3 Max](https://fal.ai/models/minimax/h3-max/image-to-video)
+[Try H3 Max Director](https://fal.ai/models/minimax/h3-max/director)
 
 ![](/landing/bg-side-page.svg)![](/landing/bg-mobile-side-page.svg)
 
