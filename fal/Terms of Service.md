@@ -232,7 +232,7 @@ Ready to transform your enterprise with AI?
 
 #### Image Models
 
-[Seedream 5.0](https://fal.ai/seedream-5.0)[GPT Image 2](https://fal.ai/gpt-image-2)[Flux 2](https://fal.ai/models/fal-ai/flux-2-flex)[Nano Banana 2](https://fal.ai/nano-banana-2)[Ideogram 4](https://fal.ai/ideogram-4)[Krea 2](https://fal.ai/krea-2)[Nano Banana Pro](https://fal.ai/models/fal-ai/nano-banana-pro/edit)[Qwen Image 3](https://fal.ai/qwen-image-3)[Explore More](https://fal.ai/explore)
+[Seedream 5.0](https://fal.ai/seedream-5.0)[GPT Image 2.5](https://fal.ai/gpt-image-2.5)[GPT Image 2](https://fal.ai/gpt-image-2)[Flux 2](https://fal.ai/models/fal-ai/flux-2-flex)[Nano Banana 2](https://fal.ai/nano-banana-2)[Ideogram 4](https://fal.ai/ideogram-4)[Krea 2](https://fal.ai/krea-2)[Nano Banana Pro](https://fal.ai/models/fal-ai/nano-banana-pro/edit)[Qwen Image 3](https://fal.ai/qwen-image-3)[Explore More](https://fal.ai/explore)
 
 #### Video Models
 
