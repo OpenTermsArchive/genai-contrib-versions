@@ -393,7 +393,7 @@ Community
 ---------
 
 *   [Become a partner](https://lovable.dev/partners)
-*   [Hire a Lovable expert](https://lovable.dev/experts)
+*   [Hire a Lovable partner(opens in new window)](https://lovable-partner-directory.lovable.app/)
 *   [Affiliates](https://lovable.dev/partners/affiliates)
 *   [Code of conduct](https://lovable.dev/community-code-of-conduct)
 *   [Discord(opens in new window)](https://discord.com/invite/lovable-dev)
