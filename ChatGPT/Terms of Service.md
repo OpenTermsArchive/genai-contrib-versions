@@ -215,7 +215,7 @@ OPENAI’S AFFILIATES, SUPPLIERS, LICENSORS, AND DISTRIBUTORS ARE INTENDED THIRD
 
 - - -
 
-Updated: 12 June 2026
+Updated: 10 September 2026
 
 Service terms
 =============
@@ -323,3 +323,12 @@ OpenAI Academy is a free learning hub and community for users of OpenAI products
 For users with accounts associated with a business or enterprise workspace, the OpenAI Services Agreement or other business or enterprise terms do not apply to use of OpenAI Academy, even if a user uses Sign in with ChatGPT with their workspace account.
 
 If you use an email address or account associated with an organization, including through Sign in with ChatGPT, OpenAI may share information about your OpenAI Academy activity, such as enrollment, engagement, progress, and completion status, with your organization’s owners or administrators.
+
+13\. Financial Plugins and ChatGPT for Financial Services
+---------------------------------------------------------
+
+OpenAI’s financial plugins and ChatGPT for Financial Services (together, “Financial Services”) and their Output are for informational purposes only. OpenAI does not provide financial or investment advice through Financial Services.
+
+Data and Output may be inaccurate, delayed, or outdated. Review important information and exercise independent professional judgment before relying on it. Seek advice from a qualified financial advisor where appropriate. You remain responsible for decisions made using Financial Services.
+
+Your use of Financial Services, including third-party data and content, is subject to the [Financial Services Terms⁠](https://openai.com/policies/financial-services-terms/), including applicable data partner terms, disclaimers, and restrictions on use and redistribution.
