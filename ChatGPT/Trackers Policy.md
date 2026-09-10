@@ -1,4 +1,4 @@
-Last updated: 14 August 2026
+Last updated: 10 September 2026
 
 Cookie policy
 =============
@@ -82,6 +82,8 @@ These cookies are required to operate our Services. For example, they allow us t
 | [OpenAI](https://openai.com/policies/privacy-policy/) | personalized\_marketing\_consent | 6 months | Personalized marketing consent\* | openai.com  <br>ads.openai.com |
 | [OpenAI](https://openai.com/policies/privacy-policy/) | sofaLastAdAccountId | 2 years | Service functionality | ads.openai.com |
 | [OpenAI](https://openai.com/policies/privacy-policy/) | tapestry-theme | 1 year | Service functionality | ads.openai.com |
+| [OpenAI](https://openai.com/policies/privacy-policy/) | oai-form-submissions | 180 days | Service functionality | openai.com |
+| [OpenAI](https://openai.com/policies/privacy-policy/) | \_\_oailb | 1 hour | Service functionality | chatgpt.com |
 | [Auth0](https://www.okta.com/legal/privacy-policy/) | did | 1 year | User authentication | platform.openai.com |
 | [Auth0](https://www.okta.com/legal/privacy-policy/) | did\_compat | 1 year | User authentication | platform.openai.com |
 | [Auth0](https://www.okta.com/legal/privacy-policy/) | auth0 | 14 days | User authentication | platform.openai.com |
@@ -168,6 +170,15 @@ These cookies help us support and understand the efficacy of our marketing effor
 | [Bing](https://learn.microsoft.com/en-us/answers/questions/2289901/purposes-of-bing-cookies) | \_uetvid | 13 months | Marketing measurement | openai.com  <br>chatgpt.com |
 | [Bing](https://learn.microsoft.com/en-us/answers/questions/2289901/purposes-of-bing-cookies) | \_uetsid | 24 hours | Marketing measurement | openai.com  <br>chatgpt.com |
 | [Bing](https://learn.microsoft.com/en-us/answers/questions/2289901/purposes-of-bing-cookies) | msclkid | 24 hours | Marketing measurement | openai.com  <br>chatgpt.com |
+| [Snapchat](https://www.snap.com/cookie-policy) | ScCid | 24 hours | Marketing measurement | chatgpt.com |
+| [Snapchat](https://www.snap.com/cookie-policy) | \_scid | 13 months | Marketing measurement | chatgpt.com |
+| [Snapchat](https://www.snap.com/cookie-policy) | \_scid\_r | 13 months | Marketing measurement | chatgpt.com |
+| [Snapchat](https://www.snap.com/cookie-policy) | \_sctr | 13 months | Marketing measurement | chatgpt.com |
+| [Snapchat](https://www.snap.com/cookie-policy) | sc\_at | 390 days | Marketing measurement | chatgpt.com |
+| [Snapchat](https://www.snap.com/cookie-policy) | u\_sclid | 13 months | Marketing measurement | chatgpt.com |
+| [Snapchat](https://www.snap.com/cookie-policy) | u\_sclid\_r | 13 months | Marketing measurement | chatgpt.com |
+| [Snapchat](https://www.snap.com/cookie-policy) | u\_scsid | Session | Marketing measurement | chatgpt.com |
+| [Snapchat](https://www.snap.com/cookie-policy) | u\_scsid\_r | Session | Marketing measurement | chatgpt.com |
 
 Managing cookies
 ----------------
