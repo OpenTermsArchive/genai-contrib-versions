@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-Effective July 8, 2026[Previous Version](https://www.anthropic.com/legal/archive/d254257b-3920-4d8c-842d-b193c7372ba9)
+Effective September 10, 2026[Previous Version](https://www.anthropic.com/legal/archive/21d66aa9-68f6-4356-ba01-2825b0f81805)
 
 English
 
@@ -115,11 +115,11 @@ We will respond to your request within the period required by the data protectio
 *   Correction: the right to request that we correct inaccurate personal data Anthropic retains about you, subject to certain exceptions. Please note that we cannot guarantee the factual accuracy of Outputs. If Outputs contain factually inaccurate personal data relating to you, you can submit a correction request and we will make a reasonable effort to correct this information—but due to the technical complexity of our large language models, it may not always be possible for us to do so.
 *   Objection: the right to object to processing of your personal data, including profiling conducted on grounds of public or legitimate interest. In places where such a right applies, we will no longer process the personal data in case of such objection unless we demonstrate compelling legitimate grounds for the processing which override your interests, rights, and freedoms, or for the establishment, exercise or defense of legal claims. If we use your information for direct marketing, you can object and opt out of future direct marketing messages using the unsubscribe link in such communications.
 *   Restriction: the right to restrict our processing of your personal data in certain circumstances.
-*   Withdrawal of consent: Where Anthropic’s processing of your personal data is based on consent, you have the right to withdraw your consent. For example, you can disconnect your health app integration and withdraw your consent in your [settings](https://claude.ai/redirect/website.v1.ee64e18e-602b-4b7b-8246-8cd495e0fa6e/settings/connectors). The withdrawal of consent will not affect the lawfulness of processing based on consent before its withdrawal.
+*   Withdrawal of consent: Where Anthropic’s processing of your personal data is based on consent, you have the right to withdraw your consent. For example, you can disconnect your health app integration and withdraw your consent in your [settings](https://claude.ai/redirect/website.v1.1ea23ec9-5fee-421a-b026-b3b684c68ee6/settings/connectors). The withdrawal of consent will not affect the lawfulness of processing based on consent before its withdrawal.
 *   Automated decision-making: Anthropic does not engage in decision making based solely on automated processing or profiling in a manner which produces a legal effect (i.e., impacts your legal rights) or significantly affects you in a similar way (e.g., significantly affects your financial circumstances or ability to access essential goods or services).
 *   Sale & targeted Anthropic marketing of its products and services: Anthropic does not “sell” your personal data as that term is defined by applicable laws and regulations. You can opt-out of sharing your personal data for targeted advertising to promote our products and services, and we will honor global privacy controls. To learn more, [click here](https://www.anthropic.com/legal/cookies).
 
-Anthropic gives you access to a variety of tools to help you manage your data. You can access these in your [Privacy Settings](https://claude.ai/redirect/website.v1.ee64e18e-602b-4b7b-8246-8cd495e0fa6e/new#settings/data-privacy-controls).
+Anthropic gives you access to a variety of tools to help you manage your data. You can access these in your [Privacy Settings](https://claude.ai/redirect/website.v1.1ea23ec9-5fee-421a-b026-b3b684c68ee6/new#settings/data-privacy-controls).
 
 5\. Data Transfers
 ------------------
@@ -235,7 +235,37 @@ International Data Transfers. You acknowledge that Anthropic is a company based 
 
 ### Supplemental Disclosures for Residents of the Republic of Korea
 
-Domestic Representative in the Republic of Korea
+This section applies to the extent that Anthropic is subject to the Personal Information Protection Act (“PIPA”), and supplements the information in the Privacy Policy. This is an addendum to the Privacy Policy and should be read in conjunction with the Privacy Policy. In case of any inconsistency between the Privacy Policy and this Addendum, this Addendum prevails for users in the Republic of Korea. This Addendum may be amended or updated from time to time.
+
+**Items of Personal Data Collected and Purpose of Use**
+
+In addition to “1. Collection of Personal Data”, we collect and use your information as follows:
+
+*   **Purpose:** Identity verification, Fraud and abuse monitoring
+*   **Items of Data:** Name, birthdate, sex, native-foreigner-code, and DI (duplication information)
+*   **Period of retention and use:** Until account deletion
+
+**Delegation of Processing of Personal Data**
+
+Anthropic delegates the processing of personal data as described [here](https://trust.anthropic.com/subprocessors) and below, and the delegatees may process personal data according to the purpose of the delegation.
+
+*   **Korea Credit Bureau:** Fraud and abuse detection and identity verification
+*   **Kim & Chang:** Assisting with the domestic representative related duties
+
+**Overseas Transfer of Personal Data**
+
+Anthropic delegates the processing of personal data to [affiliates](https://trust.anthropic.com/faq?search=Which+Anthropic+affiliates%2Fentities+may+have+access+to+customer+data%3F) and [third parties](https://trust.anthropic.com/subprocessors), all of whom are located overseas. In addition, Anthropic transfers personal data overseas as follows:
+
+*   **Recipient’s Name (Contact Information):** Persona (privacy@withpersona.com)
+*   **Country to which Personal Data to be Transferred:** United States
+*   **Items of Personal Data to be Transferred:** Name, birthdate, sex, native-foreigner-code, and DI (duplication information)
+*   **Recipient’s Purpose of Use:** Fraud and abuse detection and identity verification
+*   **Period of Retention and Use by Recipient:** 3 years
+*   **Legal Basis for Overseas Transfer:** PIPA Article 28-8(1)(iii) delegation
+
+Following collection, personal data is transferred to the overseas recipients listed below from time to time, as necessary, via a dedicated network. You may have the right to request that your personal data not be transferred overseas as described above. If so, you may request this by email us at [privacy@anthropic.com](mailto:privacy@anthropic.com) and contact our Data Protection Officer at [dpo@anthropic.com](mailto:dpo@anthropic.com). However, in doing so, Anthropic may not be able to provide you with all or any of the services we make available through our website.
+
+**Domestic Representative in the Republic of Korea**
 
 The domestic representative of Anthropic PBC for data protection and related regulatory purposes under Article 31-2 of the Personal Information Protection Act and Article 32-5 of the Act on Promotion of Information and Communications Network Utilization and Data Protection, Etc. in the Republic of Korea is as follows:
 
@@ -243,20 +273,9 @@ Entity Name and Representative: Anthropic Korea, Limited (Representative Patrick
 
 Registered Address: (Yeoksam-dong), 41F, 152 Teheran-ro, Gangnam-gu, Seoul, South Korea
 
-Telephone: \[+82-2-6252-2080\]
+Telephone: +82 2 734 0940
 
-Email: \[anthropicprivacy@bkl.co.kr\]
-
-Data Processors:
-
-|     |     |
-| --- | --- |
-| **Trustees and Contacts** | Bae, Kim & Lee LLC (02-3404-0001) |
-| **Entrusted Data** | Name, ID, phone number, email, address, and other information that you may provide to the domestic representative |
-| **Purpose** | Assisting with the domestic representative duties |
-| **Recipient Location** | South Korea |
-| **Retention period** | The period necessary to process your request |
-| **Times and methods of transfer** | Telephone, text, or email |
+Email: anthropic\_privacy@kimchang.com
 
 - - -
 
