@@ -1,7 +1,7 @@
 Data Processing Agreement
 -------------------------
 
-**Last updated:** 2026-04-08
+**Last updated:** 2026-09-10
 
 1\. Scope
 ---------
@@ -158,12 +158,12 @@ Therefore Berget considers some of its Affiliates as subprocessors regardless of
 
 The following list describes in which cases Berget Affiliates will be utilised in the provision of the Services:
 
-*   6G AI Sweden AB (Org nr: 559130-5098), provides services to Berget AI AB with regards to GPU baremetal infrastructure
-    
 *   Acebit AB (Org nr: 559265-3538), provides services to Berget AI AB with regards to network and server design and operations and support
     
-*   Toriv AB (Org nr: 559052-0937), provides services to Berget AI AB with regards to network and server design and operations and support
+*   AI Iron AB (Org nr: 559490-8054), provides services to Berget AI AB with regards to GPU bare-metal infrastructure
     
 *   Obenet AB (Org nr: 556898-6763), provides colocation services to Berget AI AB
     
 *   Stripe Payments Europe, Limited (“SPEL”), processes payments for customers using card payments
+    
+*   Toriv AB (Org nr: 559052-0937), provides services to Berget AI AB with regards to network and server design and operations and support
