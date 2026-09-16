@@ -1,28 +1,45 @@
 GitHub General Privacy Statement
 ================================
 
-Copy as Markdown
+Copy markdown
 
 In this article
 ---------------
 
 *   [GitHub Privacy Statement](#github-privacy-statement)
+    
 *   [Personal Data We Collect](#personal-data-we-collect)
+    
 *   [Processing Purposes: How We Use Your Personal Data](#processing-purposes-how-we-use-your-personal-data)
+    
 *   [Sharing of Personal Data](#sharing-of-personal-data)
+    
 *   [Private repositories: GitHub Access](#private-repositories-github-access)
+    
 *   [Lawful Bases for Processing Personal Data (Applicable to EEA and UK End Users)](#lawful-bases-for-processing-personal-data-applicable-to-eea-and-uk-end-users)
+    
 *   [Your Privacy Rights](#your-privacy-rights)
+    
 *   [International data transfers](#international-data-transfers)
+    
 *   [Data Privacy Framework (DPF)](#data-privacy-framework-dpf)
+    
 *   [Security and Retention](#security-and-retention)
+    
 *   [Security](#security)
+    
 *   [Contact Us](#contact-us)
+    
 *   [Information for Minors](#information-for-minors)
+    
 *   [Changes to Our Privacy Statement](#changes-to-our-privacy-statement)
+    
 *   [Translations](#translations)
+    
 *   [Our use of cookies and tracking technologies](#our-use-of-cookies-and-tracking-technologies)
+    
 *   [US State Specific Information](#us-state-specific-information)
+    
 
 [GitHub Privacy Statement](#github-privacy-statement)
 -----------------------------------------------------
