@@ -15,40 +15,59 @@ By creating an App or by explicitly agreeing to these Terms, you agree to be bou
 --------
 
 *   1.1 Access. We may: (a) access and use your API to enable your App within the Services; and (b) allow end users of the Services (“Users”) and our employees and contractors to access and use your App to retrieve information or take action on your website or application through the Services.
+    
 *   1.2 App Requests. The Services may send a request to your API (“App Request”) on behalf of a User. You may only collect, use, store, transmit, and process App Requests: (a) in accordance with applicable laws; and (b) as necessary to respond to or follow the instructions of the App Requests or to comply with applicable law. We are not responsible for content or information from any App Requests sent to your API.
+    
 *   1.3 App Responses. When your API receives an App Request, it may send information or content back to the Services (“App Response”). You grant a worldwide, nonexclusive, royalty-free license: (a) to OpenAI to use, store, copy, translate, display, modify, and distribute the App Responses; and (b) if you publish or share your App as described in Section 7, to Users of your App to use, store, copy, display, distribute, prepare derivative works of, and otherwise use your App Responses. OpenAI’s use of App Requests and App Responses contained in a User’s conversations and interactions with the Services will be governed by the terms between OpenAI and that User or that User’s workspace, which may include use of such content to provide, maintain, develop, and improve our Services, comply with applicable law, enforce our terms and policies, and keep our Services safe. Upon termination of the Terms, or if you remove an App from the Services, we may continue to use prior App Responses in accordance with our terms with our Users. 
+    
 *   1.4 Representations and Warranties. You represent and warrant that: (a) your App, App Responses, and API comply with all applicable laws and the Terms and Policies; and (b) you have obtained and will maintain all rights, licenses, and consents, and will provide all notices and disclosures, necessary for us to provide your App Responses and to otherwise provide access to your App through the Services.
+    
 *   1.5 Reviews. While we are not obligated to monitor Apps or their content, we may at any time: (a) review or test an App to ensure quality and compliance with these Terms, the Usage Policies, and the Submission Guidelines (if applicable); or (b) remove or refuse to display any App Responses or other content that violates these Terms or the Policies. We may refuse to make Apps available through the Services and may remove any App from the Services at any time for any reason.
+    
 *   1.6 Restrictions. Your API, App, and App Responses must not: (a) pose a security vulnerability or threat to Users, us, or any third party; (b) interact with Users in a manner that is deceptive, false, misleading, or harassing; (c) violate the Policies; (d) include any malware, viruses, surveillance, or other malicious programs or code; (e) interfere with, damage, or access in any unauthorized manner any OpenAI software, technology or services, or those of any third party; (f) use App Requests to develop models that compete with OpenAI; (g) send us any personal information of children under 13 or the applicable age of digital consent; or (h) initiate, execute, or otherwise facilitate money transfers, cryptocurrency transfers, or other financial or investment transactions through the Services. 
+    
 *   1.7 Feedback. If you provide feedback or suggestions about Apps SDK, Apps, or the Services, we may freely use that feedback without any obligation to you.
+    
 
 2\. Security and Privacy
 ------------------------
 
 *   2.1 Developer Security Measures. You are responsible for the privacy, security, and integrity of your API and any App Requests that you receive. You will maintain at least reasonable and appropriate organizational, administrative, physical, and technical security measures to keep your API and App Requests secure. If you discover vulnerabilities or breaches related to your API or an App Request, you must promptly contact us and provide details of the vulnerability or breach.
+    
 *   2.2 OpenAI Security Measures. We will maintain reasonable and appropriate organizational, administrative, physical, and technical security measures designed to keep the Services secure. 
+    
 *   2.3 Privacy. To the extent your app processes personal data or users are required to authenticate to your website or application, you will only process personal data (i) in accordance with applicable privacy laws, (ii) as authorized by the User and (iii) in accordance with a legally adequate privacy notice that is presented to the User prior to processing their data. You may not collect personal data beyond what is reasonably necessary for the disclosed purposes. Both parties will be separate and independent controllers or processors of personal data with respect to their end users or customers as set forth in each party’s respective current terms with such end users or customers. The parties agree that neither party is processing personal data on behalf of the other or acting as a service provider of the other.
+    
 *   2.4 Sensitive Personal Data. You agree that your App will not create, receive, maintain, transmit, or otherwise process: (a) Protected Health Information as defined under the HIPAA Privacy Rule (45 C.F.R. Section 160.103), or (b) payment card data or other information regulated under the PCI DSS. To the extent you process other sensitive personal data as defined by applicable laws, including the California Consumer Privacy Act of 2018, you must ensure that your processing of the data is within the reasonable expectation of the user of the tool and receive express opt-in consent when required by applicable laws.
+    
 
 3\. Publicity
 -------------
 
 *   3.1 Brand Guidelines. We may make available to you, for your usage in connection with the promotion of your Apps, certain names, logos, product names, service names, or other brand identifiers owned or used by us to identify the Services (the “OpenAI Assets”). Your usage of the OpenAI Assets is subject in all events to the OpenAI branding guidelines found at [https://openai.com/brand⁠](https://openai.com/brand/) and any other marketing guidelines we make available (the “Brand Guidelines”).
+    
 *   3.2 No Implied Endorsement. You may not make, publish, or permit any statement or design choice that could reasonably lead a third party to believe that your Apps are created, supported, certified or endorsed by OpenAI, or that you are partnering or working with OpenAI on a joint product, feature, or business initiative, unless we have otherwise agreed in writing to such a statement or design choice.
+    
 
 4\. Trademarks
 --------------
 
 *   4.1 OpenAI License. Subject to Section 3 and the Brand Guidelines, we grant you a term-limited, non-exclusive, non-transferable, non-sublicensable (except as provided in Section 11.4) license to use the OpenAI Assets solely to promote your Apps. All goodwill derived from your use of OpenAI Assets will inure to OpenAI’s sole benefit. You may not otherwise use OpenAI Assets without our prior written consent.
+    
 *   4.2 Developer License. You grant us a non-exclusive, non-transferable, non-sublicensable (except as provided in Section 11.4) license to use the names, logos, product names, service names, and other brand identifiers that you provide us to promote your App (the “App Assets”) to display your Apps in the Services and to promote your Apps. All goodwill derived from our use of App Assets will inure to your sole benefit. We may not otherwise use the App Assets without your prior written consent. 
+    
 *   4.3 Representation. Each party represents and warrants they have the necessary rights to grant the licenses and consents in this Section.
+    
 
 5\. Term and Termination
 ------------------------
 
 *   5.1 Term. These Terms are effective on the earlier of: (a) your explicit agreement to the Terms; or (b) when you first create your App. These Terms will remain in effect until terminated.
+    
 *   5.2 Termination. Either party can terminate these Terms by: (a) removing Apps from the Services; or (b) by providing at least 30 days’ prior notice. You may also terminate immediately by written notice if you determine that our use of your Apps exposes you or others to risk of liability or harm. We may suspend or terminate immediately if: (x) you materially breach the Terms; (y) we determine an App exposes us or others to risk of liability or harm; or (z) to comply with law or government requests. 
+    
 *   5.3 Survival. The sections of these Terms which by their nature should survive termination or expiration should survive, including Sections 1.2, 1.3, 1.4, 1.7, and 5-10. 
+    
 
 6\. Indemnification; Disclaimer, Limitation of Liability
 --------------------------------------------------------
@@ -91,11 +110,17 @@ _San Francisco, CA 94158_
 8.2 Written claims concerning copyright infringement must include the following information:
 
 *   A physical or electronic signature of the person authorized to act on behalf of the owner of the copyright interest
+    
 *   A description of the copyrighted work that you claim has been infringed upon
+    
 *   A description of where the allegedly infringing material is located on our site so we can find it
+    
 *   Your address, telephone number, and e-mail address
+    
 *   A statement by you that you have a good-faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law
+    
 *   A statement by you that the above information in your notice is accurate and, under penalty of perjury, that you are the copyright owner or authorized to act on the copyright owner’s behalf.
+    
 
 9\. Dispute Resolution
 ----------------------
