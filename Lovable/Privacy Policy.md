@@ -13,14 +13,14 @@
 
 [Log in](https://lovable.dev/login?redirect=%2Fprivacy)[Get started](https://lovable.dev/signup?redirect=%2Fprivacy)
 
-Version:September 9, 2026 (Latest)
+Version:September 15, 2026 (Latest)
 
 Lovable Privacy Policy
 ======================
 
-_Effective Date:_ _**September 9th, 2026**_
+_Effective Date:_ _**September 15th, 2026**_
 
-_Last Updated:_ _**August 5th, 2026**_
+_Last Updated:_ _**September 15th, 2026**_
 
 1.  Introduction and Scope
 
@@ -153,7 +153,8 @@ Where the law requires us to have a legal basis for using your Personal Data, th
 
 *   **To provide the Services** — processing necessary to give you the Services you signed up for, including support and billing.
 *   **Our legitimate interests** — securing the platform, preventing fraud and abuse, aggregate analytics, service improvement, AI model training subject to Section 5's opt-out, and establishing, exercising, or defending legal claims — in each case where our interests are not outweighed by your rights.
-*   **Your consent** — non-essential cookies, marketing emails, the advertising uses described in Section 6, and taking part in surveys or research. You can withdraw consent at any time, which does not affect processing that already took place.
+*   **Direct marketing about our own services** — if you have an account with us or have bought from us, we may email you about similar Lovable products, services, and offers on the basis of the electronic-marketing rules that apply to you and our legitimate interest in telling our users about our services. You can say no when you sign up or buy, and every such email carries an unsubscribe link. Where those rules require your consent instead, we ask for it. In Brazil we rely on legitimate interest for this. Once you opt out we stop, whatever the basis.
+*   **Your consent** — non-essential cookies, invitations to Lovable events, webinars and contests, marketing emails where the law requires your consent, the advertising uses described in Section 6, and taking part in surveys or research. You can withdraw consent at any time, which does not affect processing that already took place.
 *   **Complying with legal obligations** — bookkeeping, tax, sanctions and export controls, mandatory safety reporting, and responses to lawful process.
 *   **Protecting life** — rare emergencies where processing is needed to protect someone's life or physical safety.
 
@@ -195,7 +196,7 @@ Current information about our security certifications and audit status is publis
 
 15.  Your Privacy Rights and How to Exercise Them
 
-You can ask us to provide a copy of your personal data, including in a portable, machine-readable format, to correct it, or to delete it along with your account. You can also object to or restrict certain processing, withdraw any consent you have given, opt out of model training (Section 5), and opt out of advertising-related sharing (Section 6). Use your account settings or email [privacy@lovable.dev](mailto:privacy@lovable.dev). We respond within the period your local law requires, and we will tell you if we need longer and why. If you are in the EEA, UK, or Switzerland you may complain to your supervisory authority (for us: Integritetsskyddsmyndigheten in Sweden, the UK ICO, or the FDPIC); in Brazil, to the ANPD; in Canada, to the OPC; in the US, see Section 17.
+You can ask us to provide a copy of your personal data, including in a portable, machine-readable format, to correct it, or to delete it along with your account. You can also object to or restrict certain processing, including objecting at any time to direct marketing, withdraw any consent you have given, opt out of model training (Section 5), and opt out of advertising-related sharing (Section 6). Use your account settings or email [privacy@lovable.dev](mailto:privacy@lovable.dev). We respond within the period your local law requires, and we will tell you if we need longer and why. If you are in the EEA, UK, or Switzerland you may complain to your supervisory authority (for us: Integritetsskyddsmyndigheten in Sweden, the UK ICO, or the FDPIC); in Brazil, to the ANPD; in Canada, to the OPC; in the US, see Section 17.
 
 **If you used an app or website someone built with Lovable.** The person or organization that built it decides what data it collects and why, so they are responsible for that data. Send your privacy requests to them; their own privacy notice should say how to reach them.
 
