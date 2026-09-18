@@ -1,6 +1,6 @@
 [](https://lovable.dev/home)
 
-[Get started](https://lovable.dev/signup?redirect=%2Fprivacy)
+[Log in](https://lovable.dev/login?redirect=%2Fprivacy)[Get started](https://lovable.dev/signup?redirect=%2Fprivacy)
 
 [](https://lovable.dev/home)
 
@@ -278,6 +278,7 @@ Product
 *   [Ops](https://lovable.dev/ops)
 *   [People](https://lovable.dev/people)
 *   [App builder](https://lovable.dev/build/app-builder)
+*   [Website builder](https://lovable.dev/build/website-builder)
 *   [Prototyping](https://lovable.dev/prototypes)
 *   [Internal Tools](https://lovable.dev/tools)
 *   [Download apps](https://lovable.dev/download)
