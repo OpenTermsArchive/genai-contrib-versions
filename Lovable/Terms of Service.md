@@ -351,6 +351,7 @@ Product
 *   [Sales](https://lovable.dev/sales)
 *   [Ops](https://lovable.dev/ops)
 *   [People](https://lovable.dev/people)
+*   [App builder](https://lovable.dev/build/app-builder)
 *   [Prototyping](https://lovable.dev/prototypes)
 *   [Internal Tools](https://lovable.dev/tools)
 *   [Download apps](https://lovable.dev/download)
