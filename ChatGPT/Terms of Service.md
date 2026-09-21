@@ -251,7 +251,7 @@ OPENAI’S AFFILIATES, SUPPLIERS, LICENSORS, AND DISTRIBUTORS ARE INTENDED THIRD
 
 - - -
 
-Updated: 10 September 2026
+Updated: 21 September 2026
 
 Service terms
 =============
@@ -367,4 +367,4 @@ OpenAI’s financial plugins and ChatGPT for Financial Services (together, “Fi
 
 Data and Output may be inaccurate, delayed, or outdated. Review important information and exercise independent professional judgment before relying on it. Seek advice from a qualified financial advisor where appropriate. You remain responsible for decisions made using Financial Services.
 
-Your use of Financial Services, including third-party data and content, is subject to the [Financial Services Terms⁠](https://openai.com/policies/financial-services-terms/), including applicable data partner terms, disclaimers, and restrictions on use and redistribution.
+Your use of Financial Services, including third-party data and content, is subject to the [Financial Services Terms⁠](https://openai.com/policies/financial-services-terms/), including applicable data partner terms, disclaimers, and restrictions on use and redistribution. Your use of credit score services, such as connecting to and accessing credit scores, reports, monitoring, and personalized insights, is also subject to the [Credit Score Terms](https://openai.com/policies/credit-score-terms/).
