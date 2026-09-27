@@ -1,6 +1,6 @@
-[Legal Home](https://forwork.meta.com/ie/legal/)
+[Legal Home](https://forwork.meta.com/legal/)
 
-[Meta for Work Legal](https://forwork.meta.com/ie/legal/meta-for-work/)
+[Meta for Work Legal](https://forwork.meta.com/legal/meta-for-work/)
 
 Meta Horizon managed solutions list of sub-processors and subcontractors
 
