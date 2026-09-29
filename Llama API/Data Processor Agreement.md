@@ -1,3 +1,52 @@
-This page isn't available at the moment
+[Legal Home](https://forwork.meta.com/ie/legal/)
 
-This may be because of a technical error that we're working to fix. Please try reloading this page.
+[Meta for Work Legal](https://forwork.meta.com/ie/legal/meta-for-work/)
+
+Meta Horizon managed solutions list of sub-processors and subcontractors
+
+Meta Horizon managed solutions list of sub-processors and subcontractors
+========================================================================
+
+Effective from 13 November 2023
+
+Data centre infrastructure
+
+| Entity | Processing location |
+| --- | --- |
+| Andale, Inc. | United States |
+| Cassin Networks Aps | Denmark |
+| Greater Kudu LLC | United States |
+| Goldframe LLC | United States |
+| Morning Hornet LLC | United States |
+| Offprints LLC | United States |
+| Omanyte LLC | United States |
+| Paile LLC | United States |
+| Pinnacle Sweden AB | Sweden |
+| Raven Northbrook LLC | United States |
+| Runways Information Services Limited | Ireland |
+| Scout Development LLC | United States |
+| Siculus Inc. | United States |
+| Sidecat LLC | United States |
+| Stadion LLC | United States |
+| Starbelt LLC | United States |
+| Vitesse, LLC | United States |
+| Winner LLC d/b/a Ernst LLC | United States |
+| Woolhawk LLC | United States |
+
+Meta Affiliates
+
+| Entity | Processing location |
+| --- | --- |
+| Meta Canada Ltd | Canada |
+| Meta France Sarl | France |
+| Meta Germany GmbH | Germany |
+| Meta Italy S.R.L. | Italy |
+| Meta Netherlands B.V. | Netherlands |
+| Meta Poland Sp. zoo | Poland |
+| Meta Singapore Pte. Ltd. | Singapore |
+| Meta Spain SL | Spain |
+| Meta UK Limited | United Kingdom |
+| Meta Operations, LLC | United States |
+| Meta Platforms, Inc. | United States |
+| Meta Platforms Ireland Limited | Ireland |
+| Meta Platforms International Operations Philippines | Philippines |
