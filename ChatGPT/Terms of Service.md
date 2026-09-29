@@ -251,7 +251,7 @@ OPENAI’S AFFILIATES, SUPPLIERS, LICENSORS, AND DISTRIBUTORS ARE INTENDED THIRD
 
 - - -
 
-Updated: 21 September 2026
+Updated: 29 September 2026
 
 Service terms
 =============
@@ -368,3 +368,19 @@ OpenAI’s financial plugins and ChatGPT for Financial Services (together, “Fi
 Data and Output may be inaccurate, delayed, or outdated. Review important information and exercise independent professional judgment before relying on it. Seek advice from a qualified financial advisor where appropriate. You remain responsible for decisions made using Financial Services.
 
 Your use of Financial Services, including third-party data and content, is subject to the [Financial Services Terms⁠](https://openai.com/policies/financial-services-terms/), including applicable data partner terms, disclaimers, and restrictions on use and redistribution. Your use of credit score services, such as connecting to and accessing credit scores, reports, monitoring, and personalized insights, is also subject to the [Credit Score Terms](https://openai.com/policies/credit-score-terms/).
+
+14\. Dots and Agentic Features
+------------------------------
+
+(a) **Responsibility.** You decide how to use dots and related agentic features, including what access, authority, and instructions you give them. You are responsible for actions they take and content they share on your behalf. 
+
+(b) **Oversight.** You are responsible for providing oversight appropriate to the task and its potential consequences. This includes setting clear instructions and appropriate limits and reviewing actions and communications. 
+
+(c) **Purchases and payments.** You must have permission to use any account or payment method you provide. You are responsible for transactions made on your behalf. You must provide appropriate purchase guidance, monitor your accounts, and promptly raise any errors with the relevant financial institution or payment provider. Third-party terms may also apply to these transactions.
+
+15\. Sign in with ChatGPT
+-------------------------
+
+Sign in with ChatGPT (“SIWC”) allows developers to enable users to connect their ChatGPT accounts, including certain features or functionality within those accounts, to their tool, application, or website. If you use SIWC in your services, the [Sign in with ChatGPT Terms](https://openai.com/policies/sign-in-with-chatgpt-terms/) apply.
+
+If you are a user connecting your account to a service using SIWC, you agree to share information necessary to authenticate you (including name, email, and/or profile photo) and, where relevant, your ChatGPT usage. The information you share with another service will be subject to that service’s terms, policies, and configuration.
