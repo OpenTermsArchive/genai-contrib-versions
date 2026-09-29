@@ -2,7 +2,7 @@ App Developer Terms | OpenAI
 
 Select language
 
-Updated: 9 July 2026
+Updated: 28 September 2026
 
 App Developer Terms
 ===================
@@ -18,11 +18,11 @@ By creating an App or by explicitly agreeing to these Terms, you agree to be bou
 1\. Apps
 --------
 
-*   1.1 Access. We may: (a) access and use your API to enable your App within the Services; and (b) allow end users of the Services (“Users”) and our employees and contractors to access and use your App to retrieve information or take action on your website or application through the Services.
+*   1.1 Access. We may: (a) access and use your API to enable your App within the Services; and (b) allow end users of the Services (“Users”) and our employees and contractors to access and use your App to retrieve information or take action on your website or application through the Services. For clarity, such access and use may include ongoing or proactive interactions, such as subscribing to updates to help carry out a user’s ongoing tasks, or requesting information to provide relevant suggestions or personalize a user's experience.
     
-*   1.2 App Requests. The Services may send a request to your API (“App Request”) on behalf of a User. You may only collect, use, store, transmit, and process App Requests: (a) in accordance with applicable laws; and (b) as necessary to respond to or follow the instructions of the App Requests or to comply with applicable law. We are not responsible for content or information from any App Requests sent to your API.
+*   1.2 App Requests. The Services may send requests to your API (“App Requests”) to enable or operate your App within the Services, including on behalf of a User. You may only collect, use, store, transmit, and process App Requests: (a) in accordance with applicable laws; and (b) as necessary to respond to or follow the instructions of the App Requests or to comply with applicable law. We are not responsible for content or information from any App Requests sent to your API.
     
-*   1.3 App Responses. When your API receives an App Request, it may send information or content back to the Services (“App Response”). You grant a worldwide, nonexclusive, royalty-free license: (a) to OpenAI to use, store, copy, translate, display, modify, and distribute the App Responses; and (b) if you publish or share your App as described in Section 7, to Users of your App to use, store, copy, display, distribute, prepare derivative works of, and otherwise use your App Responses. OpenAI’s use of App Requests and App Responses contained in a User’s conversations and interactions with the Services will be governed by the terms between OpenAI and that User or that User’s workspace, which may include use of such content to provide, maintain, develop, and improve our Services, comply with applicable law, enforce our terms and policies, and keep our Services safe. Upon termination of the Terms, or if you remove an App from the Services, we may continue to use prior App Responses in accordance with our terms with our Users. 
+*   1.3 App Responses. Your API may provide information or content to the Services in connection with your App, including in response to App Requests (“App Responses”). You grant a worldwide, nonexclusive, royalty-free license: (a) to OpenAI to use, store, copy, translate, display, modify, and distribute the App Responses; and (b) if you publish or share your App as described in Section 7, to Users of your App to use, store, copy, display, distribute, prepare derivative works of, and otherwise use your App Responses. OpenAI’s use of App Requests and App Responses contained in a User’s conversations and interactions with the Services will be governed by the terms between OpenAI and that User or that User’s workspace, which may include use of such content to provide, maintain, develop, and improve our Services, comply with applicable law, enforce our terms and policies, and keep our Services safe. Upon termination of the Terms, or if you remove an App from the Services, we may continue to use prior App Responses in accordance with our terms with our Users. 
     
 *   1.4 Representations and Warranties. You represent and warrant that: (a) your App, App Responses, and API comply with all applicable laws and the Terms and Policies; and (b) you have obtained and will maintain all rights, licenses, and consents, and will provide all notices and disclosures, necessary for us to provide your App Responses and to otherwise provide access to your App through the Services.
     
