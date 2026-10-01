@@ -1,5 +1,5 @@
-Terms & Conditions
-==================
+Terms of Service
+================
 
 - - -
 
