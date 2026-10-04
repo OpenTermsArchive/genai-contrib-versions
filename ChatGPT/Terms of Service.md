@@ -349,7 +349,7 @@ Some OpenAI Services may involve Customer downloading and installing software, p
 11\. ChatGPT Sites
 ------------------
 
-ChatGPT Sites is a feature that enables users to create, publish, and maintain websites or web applications. The use of ChatGPT Sites is subject to the [ChatGPT Sites Terms](https://openai.com/policies/chatgpt-sites-terms/)[⁠⁠](https://openai-dotcom-preview.vercel.app/policies/chatgpt-sites-terms/).
+ChatGPT Sites is a feature that enables users to create, publish, and maintain websites or web applications. The use of ChatGPT Sites is subject to the [ChatGPT Sites Terms](https://openai.com/policies/chatgpt-sites-terms/)[⁠⁠](https://openai.com/policies/chatgpt-sites-terms/).
 
 12\. OpenAI Academy
 -------------------
