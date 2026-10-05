@@ -217,7 +217,7 @@ When we process your personal data as described in this Privacy Policy, we do so
 
 **_Data Subject Requests_**
 
-You have the right to (1) access your personal data, including in a portable format, (2) request erasure of your personal data, and (3) request correction of inaccurate personal data. In addition, you may have the right to object to certain processing or request we restrict certain processing. To exercise any of these rights, please email us at [support@fal.ai](mailto:support@fal.ai).
+You have the right to (1) access your personal data, including in a portable format, (2) request erasure of your personal data, and (3) request correction of inaccurate personal data. In addition, you may have the right to object to certain processing or request we restrict certain processing. To exercise any of these rights, please visit our [Privacy Center](https://privacy.fal.ai/).
 
 If you have a concern about our processing of personal data, we encourage you to contact us in the first instance. However, if we are not able to resolve it, you have the right to lodge a complaint with the Data Protection Authority where you reside. Contact details for your Data Protection Authority can be found using the links below:
 
