@@ -151,6 +151,8 @@ Except for a party's indemnification obligations, gross negligence, willful misc
 15\. Third-Party Notices
 ------------------------
 
+https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B/blob/main/LICENSE.md
+
 https://ai.meta.com/llama/license/
 
 https://ai.google.dev/gemma/terms[‍](https://www.cartesia.ai/legal/terms.html)‍
