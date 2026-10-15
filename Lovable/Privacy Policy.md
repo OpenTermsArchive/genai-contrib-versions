@@ -279,6 +279,7 @@ Product
 *   [People](https://lovable.dev/people)
 *   [App builder](https://lovable.dev/build/app-builder)
 *   [Website builder](https://lovable.dev/build/website-builder)
+*   [AI-powered apps](https://lovable.dev/use-cases/ai-apps)
 *   [Prototyping](https://lovable.dev/prototypes)
 *   [Internal Tools](https://lovable.dev/tools)
 *   [Download apps](https://lovable.dev/download)
