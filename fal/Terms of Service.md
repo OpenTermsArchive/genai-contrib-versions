@@ -244,7 +244,7 @@ Ready to transform your enterprise with AI?
 
 #### Playgrounds
 
-[fal Agent](https://fal.ai/agent)[Sandbox](https://fal.ai/sandbox)[Workflows](https://fal.ai/workflows)[Training](https://fal.ai/models/fal-ai/flux-lora-fast-training)[Free Tools](https://fal.ai/tools)[Background Remover](https://fal.ai/tools/background-remover)[Image Upscaler](https://fal.ai/tools/image-upscaler)[Image Extender](https://fal.ai/tools/image-extender)[Image Resizer](https://fal.ai/tools/resize-image)
+[fal Agent](https://fal.ai/agent)[Worlds](https://fal.ai/explore/worlds)[Sandbox](https://fal.ai/sandbox)[Workflows](https://fal.ai/workflows)[Training](https://fal.ai/models/fal-ai/flux-lora-fast-training)[Free Tools](https://fal.ai/tools)[Background Remover](https://fal.ai/tools/background-remover)[Image Upscaler](https://fal.ai/tools/image-upscaler)[Image Extender](https://fal.ai/tools/image-extender)[Image Resizer](https://fal.ai/tools/resize-image)
 
 #### Socials
 
