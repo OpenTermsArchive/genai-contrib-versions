@@ -1,7 +1,7 @@
 Terms of Service
 ================
 
-**Latest updated:** 2025-10-16
+**Latest updated:** 2026-10-16
 
 1.  Scope
     -----
@@ -68,7 +68,7 @@ When used in these Terms of Service, the definitions below have the following me
 4\. Service Account
 -------------------
 
-4.1. To use the Service you have to register and create a service account (“Account”). When registering to the Service, and at any time during the term of the Agreement, you must provide true, accurate and complete information as required by Berget, and keep your information up-to-date. If you provide inaccurate, incomplete or fraudulent information, we have the right to suspend and/or terminate your access to and use of the Service in accordance with Section 13 below.
+4.1. To use the Service you have to register and create a service account (“Account”). When registering to the Service, and at any time during the term of the Agreement, you must provide true, accurate and complete information as required by Berget, and keep your information up-to-date. If you provide inaccurate, incomplete or fraudulent information, we have the right to suspend and/or terminate your access to and use of the Service in accordance with Section 14 below.
 
 4.2. After you have created the Account, you and the Users can setup and provision services - such actions are considered Orders. You will be responsible for all Orders made under your Account, whether by you, the Users, or your systems automatically. You will be responsible for the payment of all service fees based on the Orders made under your Account. Berget will be deemed to have accepted the Order if Berget supplies the ordered Service. We reserve the right to limit or restrict your ability to place Orders. We can also reject any order, impose qoutas and throttle usage. We may also delay provisioning for risk. compliance, capacity or security reasons.
 
