@@ -251,7 +251,7 @@ OPENAI’S AFFILIATES, SUPPLIERS, LICENSORS, AND DISTRIBUTORS ARE INTENDED THIRD
 
 - - -
 
-Updated: 29 September 2026
+Updated: 16 October 2026
 
 Service terms
 =============
@@ -261,9 +261,13 @@ These Service Terms govern your use of the Services. Capitalized terms not defin
 1\. API
 -------
 
-OpenAI’s indemnification obligations to API customers under the Agreement include any third party claim that Customer’s use or distribution of Output infringes a third party’s intellectual property right. This indemnity does not apply where: (i) Customer or Customer’s End Users knew or should have known the Output was infringing or likely to infringe, (ii) Customer or Customer’s End Users disabled, ignored, or did not use any relevant citation, filtering or safety features or restrictions provided by OpenAI, (iii) Output was modified, transformed, or used in combination with products or services not provided by or on behalf of OpenAI, (iv) Customer or its End Users did not have the right to use the Input or fine-tuning files to generate the allegedly infringing Output, (v) the claim alleges violation of trademark or related rights based on Customer’s or its End Users’ use of Output in trade or commerce, and (vi) the allegedly infringing Output is from content from a Third Party Offering.
+(a) **General.** OpenAI’s indemnification obligations to API customers under the Agreement include any third party claim that Customer’s use or distribution of Output infringes a third party’s intellectual property right. This indemnity does not apply where: (i) Customer or Customer’s End Users knew or should have known the Output was infringing or likely to infringe, (ii) Customer or Customer’s End Users disabled, ignored, or did not use any relevant citation, filtering or safety features or restrictions provided by OpenAI, (iii) Output was modified, transformed, or used in combination with products or services not provided by or on behalf of OpenAI, (iv) Customer or its End Users did not have the right to use the Input or fine-tuning files to generate the allegedly infringing Output, (v) the claim alleges violation of trademark or related rights based on Customer’s or its End Users’ use of Output in trade or commerce, and (vi) the allegedly infringing Output is from content from a Third Party Offering.
 
-Customer will only, and will ensure that its End Users only, use APIs in accordance with the applicable documentation at [https://platform.openai.com/docs⁠⁠⁠](https://platform.openai.com/docs).
+Customer will only, and will ensure that its End Users only, use APIs in accordance with the applicable documentation at [https://platform.openai.com/docs⁠⁠⁠⁠](https://platform.openai.com/docs)
+
+(b) **Prompt-to-Voice.** Prompt-to-Voice allows Customers to create synthetic voices from text prompts for use in generating speech. You may not use Prompt-to-Voice to reproduce any person’s voice without express consent and all necessary rights. Customer must clearly disclose that generated speech is AI-generated, must not intentionally remove or alter OpenAI-provided indicators of AI origin, and must require End Users to comply with these requirements.
+
+OpenAI’s indemnification obligations under these Service Terms and the Agreement do not apply to Prompt-to-Voice or its Output.
 
 2\. Beta Services
 -----------------
