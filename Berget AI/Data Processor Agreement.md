@@ -1,7 +1,7 @@
 Data Processing Agreement
 -------------------------
 
-**Last updated:** 2026-10-17
+**Last updated:** 2026-10-19
 
 1\. Scope
 ---------
@@ -17,9 +17,11 @@ Unless otherwise defined, the capitalised terms defined in the Terms of Service 
 
 **“Berget AI”** means Berget AI AB, a Swedish limited liability company with corporate identity number 559504-7522;
 
+**“Control Panel”** means Berget AI’s web-based customer console, currently available at [https://console.berget.ai](https://console.berget.ai/), together with the corresponding functionality of the Service’s API;
+
 **“End-Customer”** means an end-customer of the Customer, who has engaged the Customer to process personal data regarding which the End-Customer is data controller, in which case the Customer acts as a data processor towards the End-Customer and Berget AI acts as a subprocessor of the Customer;
 
-**“Data Breach”** means a breach of security attributable to the acts or omissions of Berget AI leading to the accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to, the Relevant Personal Data;
+**“Data Breach”** means a breach of security attributable to the acts or omissions of Berget AI or its subprocessors leading to the accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to, the Relevant Personal Data;
 
 **“Data Protection Laws”** means the data protection and privacy laws and regulations applicable to the processing of Relevant Personal Data under this DPA, including EU Regulation 2016/679 of the European Parliament and of the Council (“GDPR”);
 
@@ -99,7 +101,7 @@ The Customer is fully responsible for ensuring that the transfer of all personal
 
 **6.2.** Berget AI shall further provide the Customer with reasonable assistance as required under Article 28(3)(f) GDPR in enabling compliance with the Customer’s, and where applicable, End-Customer’s (as a data controller in each case), obligations to perform data protection impact assessments, breach notifications and prior consultations of the competent Supervisory Authority, as set out in the applicable Data Protection Laws, taking into account the nature of the processing and the information available to Berget AI.
 
-**6.3.** If the Customer requires assistance from Berget AI, Berget AI shall be entitled to a reasonable remuneration for providing the assistance. The amount of remuneration will be agreed upon between the Parties in advance. No remuneration shall apply where the requested assistance forms part of Berget AI’s mandatory obligations under Article 28 GDPR and does not exceed the ordinary level of support reasonably expected under this DPA.
+**6.3.** If the Customer requires assistance from Berget AI, Berget AI shall be entitled to a reasonable remuneration for providing the assistance. The amount of remuneration will be agreed upon between the Parties in advance. No remuneration shall apply where the requested assistance forms part of Berget AI’s mandatory obligations under Article 28 GDPR and does not exceed the ordinary level of support reasonably expected under this DPA. Costs relating to audits are governed exclusively by Section 11.3.
 
 7\. Berget AI’s Personnel
 -------------------------
@@ -138,7 +140,7 @@ Any remote access by Berget AI personnel (including home office) shall only be p
 
 **10.1.** For Berget AI’s compute and storage services (not including serverless inference), the Customer may choose in which Berget AI data centre(s) the Relevant Personal Data will be processed. All Berget AI data centres are within the European Economic Area (“EEA”). Berget AI shall not move the Relevant Personal Data from the selected data centre unless explicitly instructed to do so by the Customer.
 
-**10.2.** If Berget AI intends to transfer Relevant Personal Data outside the EEA, such transfer shall only take place subject to an appropriate transfer mechanism under Chapter V GDPR, including the EU Standard Contractual Clauses where applicable.
+**10.2.** Berget AI shall not transfer Relevant Personal Data outside the EEA unless explicitly instructed to do so by the Customer in writing. Any such transfer shall only take place subject to an appropriate transfer mechanism under Chapter V GDPR, including the EU Standard Contractual Clauses where applicable.
 
 11\. Audits
 -----------
@@ -156,9 +158,11 @@ Any remote access by Berget AI personnel (including home office) shall only be p
 
 (i) describe the nature of the Data Breach, including where possible, the categories and approximate number of data subjects concerned and the categories and approximate number of Relevant Personal Data records concerned;
 
-(ii) communicate the name and contact details of Berget AI’s contact point where more information can be obtained; and
+(ii) communicate the name and contact details of Berget AI’s contact point where more information can be obtained;
 
-(iii) describe the measures taken by Berget AI to address the Data Breach, including, where appropriate, measures to mitigate its possible adverse effects.
+(iii) describe the likely consequences of the Data Breach; and
+
+(iv) describe the measures suggested and taken by Berget AI to address the Data Breach, including, where appropriate, measures to mitigate its possible adverse effects.
 
 **12.2.** Berget AI shall cooperate with the Customer and, where relevant, the End-Customer, and take commercially reasonable steps to assist in the investigation, mitigation and remediation of the Data Breach.
 
@@ -167,7 +171,7 @@ Any remote access by Berget AI personnel (including home office) shall only be p
 
 **13.1.** For deletion and return of the Relevant Personal Data, the Customer shall primarily use the functionalities of the Service through the Control Panel.
 
-**13.2.** The Customer agrees that within a reasonable time after the termination or expiry of the Agreement, or after the Customer has permanently ceased to use the Services, Berget AI shall delete and procure deletion of all copies of the Relevant Personal Data processed by Berget AI or any subprocessor, unless Berget AI is obliged to retain copies of the Relevant Personal Data pursuant to applicable laws or orders of Governmental Authority.
+**13.2.** The Customer agrees that within thirty (30) days after the termination or expiry of the Agreement, or after the Customer has permanently ceased to use the Services, Berget AI shall, at the Customer’s choice, return or delete and procure deletion of all copies of the Relevant Personal Data processed by Berget AI or any subprocessor, unless Berget AI is obliged to retain copies of the Relevant Personal Data pursuant to applicable laws or orders of Governmental Authority. Upon the Customer’s written request, Berget AI shall provide written confirmation that deletion has been completed.
 
 14\. Liability
 --------------
@@ -198,7 +202,7 @@ The following list describes Berget AI subprocessors:
 Appendix 2 – Inference Data Retention Policy
 --------------------------------------------
 
-Berget AI applies a true Zero Data Retention policy on its serverless inference endpoint services.
+Berget AI applies a true Zero Data Retention policy on its serverless inference services, including Berget Code.
 
 Berget AI does not store any of the below after completed inference calls, and none of it is stored on persisted disks even during inference processing, for all of its completion, transcription, embedding, re-ranker and other inference endpoints:
 
