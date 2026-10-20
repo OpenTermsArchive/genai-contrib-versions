@@ -1,4 +1,4 @@
-[Try H3 Max Director](https://fal.ai/models/minimax/h3-max/director)
+[Try FLUX 3 Max, post-trained by fal](https://fal.ai/flux-3-max)
 
 ![](/landing/bg-side-page.svg)![](/landing/bg-mobile-side-page.svg)
 
