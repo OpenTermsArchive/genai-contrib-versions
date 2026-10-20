@@ -1,9 +1,46 @@
+### Section 01: Who we are.
+
+[Legal center](https://www.anthropic.com/legal)
+
 Consumer Terms of Service
 =========================
 
-Effective October 8, 2025[Previous Version](https://www.anthropic.com/legal/archive/1c3ea439-f9b9-435d-9180-3148ab923fbe)
+[Download PDF](https://cdn.sanity.io/files/4zrzovbb/website/399b2834d66aef85393d3c0ebe02a68c58dd59a3.pdf)
 
-English
+*   [01Who we are.](#1-who-we-are)
+*   [02Account creation and access.](#2-account-creation-and-access)
+*   [03Use of our Services.](#3-use-of-our-services)
+*   [04Inputs, Outputs, Actions, and Materials.](#4-inputs-outputs-actions-and-materials)
+*   [05Feedback](#5-feedback)
+*   [06Subscriptions, fees and payment.](#6-subscriptions-fees-and-payment)
+*   [07Third-party services and links](#7-third-party-services-and-links)
+*   [08Content Moderation](#8-content-moderation)
+*   [09Software](#9-software)
+*   [10Ownership of the Services](#10-ownership-of-the-services)
+*   [11Disclaimer of warranties, limitations of liability, and indemnity](#11-disclaimer-of-warranties-limitations-of-liability-and-indemnity)
+*   [12Data Switching and Portability](#12-data-switching-and-portability)
+*   [13General terms](#13-general-terms)
+*   [14In case of disputes](#14-in-case-of-disputes)
+*   [15Appendix 1](#appendix-1)
+
+*   Effective
+    
+    Oct 8, 2025
+    
+*   Type
+    
+    Terms
+    
+*   Audience
+    
+    Individual
+    
+*   Language
+    
+    English
+    
+*   See version history
+    
 
 **Welcome to Anthropic! Before you access our services, please read these User Terms of Service.**
 
@@ -17,13 +54,11 @@ Please read our [Privacy Policy](https://anthropic.com/privacy), which describes
 
 **Please note: Our [Commercial Terms of Service](https://www.anthropic.com/legal/commercial-terms) govern your use of any Anthropic API key, the [Anthropic Console](https://console.anthropic.com/login?returnTo=%2F), or any other Anthropic offerings that reference the Commercial Terms of Service. For clarity, this does not include Claude.ai or Claude Pro use for individuals or entities.**
 
-**1\. Who we are.**
--------------------
+### **1\. Who we are.**
 
 Anthropic is an AI safety and research company working to build reliable, interpretable, and steerable AI systems. We conduct frontier research, develop and apply a variety of safety techniques, and deploy the resulting systems via a set of partnerships and products.
 
-**2\. Account creation and access.**
-------------------------------------
+### **2\. Account creation and access.**
 
 **Minimum age.** You must be at least 18 years old to use the Services.
 
@@ -39,8 +74,7 @@ You may close your Account at any time by contacting us at [support@anthropic.c
 
 You may need to accept additional terms to use certain Services. These additional terms will supplement our Terms for those Services and may change your rights or obligations for those Services, including your obligations to pay fees.
 
-**3\. Use of our Services.**
-----------------------------
+### **3\. Use of our Services.**
 
 You may access and use our Services only in compliance with our Terms, including our [Acceptable Use Policy](https://anthropic.com/aup), the policy governing [the countries and regions Anthropic currently supports](https://www.anthropic.com/supported-countries) (“Supported Regions Policy”), and any guidelines or supplemental terms we may post on the Services (the “**Permitted Use**”). You are responsible for all activity under the account through which you access the Services.
 
@@ -58,8 +92,7 @@ You may not access or use, or help another person to access or use, our Services
 
 You also must not abuse, harm, interfere with, or disrupt our Services, including, for example, introducing viruses or malware, spamming or DDoSing Services, or bypassing any of our systems or protective measures.
 
-**4\. Inputs, Outputs, Actions, and Materials.**
-------------------------------------------------
+### **4\. Inputs, Outputs, Actions, and Materials.**
 
 **Generally.** You may be allowed to interact with our Services in a variety of formats (we call these “**Inputs**”). Our Services may generate responses (we call these “**Outputs**”) or enable the Services to take actions on your behalf, such as software manipulation, data processing, and system interactions (we call these **"Actions"**), based on your Inputs. Inputs and Outputs collectively are “**Materials**.”
 
@@ -77,13 +110,11 @@ You also must not abuse, harm, interfere with, or disrupt our Services, includin
 
 **Limitations.** Different types of Service (including paid-for Services under a Subscription) may have technical restrictions associated with them, for example, the number of Inputs you may submit to the Service or the number of Outputs you may receive within a certain period of time (“**Technical Limitation**”). For more information about the Technical Limitations for each type of Service offering, see the relevant purchase page on our website.
 
-**5\. Feedback**
-----------------
+### **5\. Feedback**
 
 We appreciate feedback, including ideas and suggestions for improvement or rating an Output in response to an Input (“**Feedback**”). If you rate an Output in response to an Input—for example, by using the thumbs up/thumbs down icon—we will store the related conversation as part of your Feedback. You have no obligation to give us Feedback, but if you do, you agree that we may use the Feedback however we choose without any obligation or other payment to you.
 
-**6\. Subscriptions, fees and payment.**
-----------------------------------------
+### **6\. Subscriptions, fees and payment.**
 
 **Fees and billing.** You may be required to pay fees to access or use our Services or certain features of our Services. You are responsible for paying any applicable fees listed on the Services. The fees applicable to our Services (including information on how we calculate our fees) are set out on the [Model Pricing Page](https://www.anthropic.com/pricing) unless otherwise communicated to you by Anthropic in writing.
 
@@ -121,13 +152,11 @@ You agree that we will not be held liable for any errors caused by third-party p
 
 **Additional fees.** We may also increase the fees for access to our Services that do not require a Subscription. If we charge additional fees in connection with those Services, we will give you an opportunity to review and accept the additional fees before you are charged. Also, additional fees may apply for additional Services or features of the Services that we may make available. If you do not accept any such additional fees, we may discontinue your access to those Services or features.
 
-**7\. Third-party services and links**
---------------------------------------
+### **7\. Third-party services and links**
 
 Our Services may use or be used in connection with third-party content (**"Third-Party Content"**), services, or integrations. We do not control or accept responsibility for any loss or damage that may arise from your use of any Third-Party Content, services, and integrations, for which we make no representations or warranties. Your use of any Third-Party Content, services, and integrations is at your own risk and subject to any terms, conditions, or policies (including privacy policies) applicable to such third-party content, services, and integrations.
 
-**8\. Content Moderation**
---------------------------
+### **8\. Content Moderation**
 
 Third-Party Content is the responsibility of the person or entity that provides it to our Services. Anthropic is under no obligation to host or serve Third-Party Content. Third-Party Content may appear in Inputs or Outputs and become part of Materials. If you see any Third-Party Content you believe does not comply with these Terms, including by violating the Acceptable Use Policy or the law, you can [report](https://docs.google.com/forms/d/e/1FAIpQLSeO9Hzkyf_hQ2fYkfP_cqAcJG5kdlkg1wF4drQEFK9Z6db7jg/viewform) it to us.
 
@@ -137,18 +166,15 @@ You can learn more about our monitoring and enforcement, including how to appeal
 
 If you posted the Third-Party Content or own it, we will use reasonable efforts to notify you with the reason for our action unless we reasonably believe that to do so: (a) would breach the law or the direction of a legal enforcement authority or would otherwise risk legal liability for Anthropic; (b) would compromise an investigation or the integrity or operation of the Services; or (c) would cause harm to any user, other third party, or Anthropic. You can appeal a takedown of Third-Party Content by responding to the notice you receive from us.
 
-**9\. Software**
-----------------
+### **9\. Software**
 
 We may offer manual or automatic updates to our software including our apps (“**Anthropic Software**”), without advance notice to you. Anthropic Software may include open source software. In the event of any conflict between these Terms and any other Anthropic or third-party terms applicable to any portion of Anthropic Software, such as open-source license terms, such other terms will control as to that portion of the Anthropic Software and to the extent of the conflict.
 
-**10\. Ownership of the Services**
-----------------------------------
+### **10\. Ownership of the Services**
 
 The Services are owned, operated, and provided by us and, where applicable, our **Providers**. We and our Providers retain all our respective rights, title, and interest, including intellectual property rights, in and to the Services. Other than the rights of access and use expressly granted in our Terms, our Terms do not grant you any right, title, or interest in or to our Services.
 
-**11\. Disclaimer of warranties, limitations of liability, and indemnity**
---------------------------------------------------------------------------
+### **11\. Disclaimer of warranties, limitations of liability, and indemnity**
 
 Our team works hard to provide great services, and we’re continuously working on improvements. However, there are certain aspects we can’t guarantee.
 
@@ -170,8 +196,7 @@ Our team works hard to provide great services, and we’re continuously working 
 
 **Beneficiaries.** Our Providers may benefit from, and enforce, their rights under this Section 10.
 
-12\. Data Switching and Portability
------------------------------------
+### 12\. Data Switching and Portability
 
 You may write to us in accordance with your legal rights and ask to switch to another service provider or port all your exportable data and digital assets to an on-premise ICT infrastructure (“Switching Request”). You shall provide two months’ written notice for any Switching Request (“Notice Period”). Within one month before the end of the Notice Period you shall notify us, where applicable, of details of the new service provider, the on-premise ICT infrastructure, or your decision to erase your exportable data and digital assets.
 
@@ -186,8 +211,7 @@ These Terms shall automatically terminate upon the successful completion of the 
 
 Without prejudice to your rights under applicable law: after the end of the Transitional Period, you shall have 30 calendar days to retrieve all exportable data and digital assets (“Retrieval Period”) and after the switching process is complete and unless otherwise agreed, at the end of the Retrieval Period we shall erase all exportable data and digital assets generated by you or data relating to you directly except to the extent that other laws requires or permits us to retain data.
 
-**13\. General terms**
-----------------------
+### **13\. General terms**
 
 **Changes to Services.** Our Services are novel and will change. We may sometimes add or remove features, increase or decrease capacity limits, offer new Services, or stop offering old ones. We may modify, suspend, or discontinue the Services or your access to the Services. Where those actions will materially impact your use of the Services, we will endeavor to notify you in accordance with this section. This includes taking such action as we consider appropriate to address any security, performance or trust and safety issue.
 
@@ -230,8 +254,7 @@ Upon termination of these Terms, a Subscription, or your access to the Services,
 
 **Legal Compliance.** We may comply with governmental, court, and law enforcement requests or requirements relating to provision or use of the Services, or to information provided to or collected under our Terms. We reserve the right, at our sole discretion, to report information from or about you, including but not limited to Inputs or Outputs, to law enforcement.
 
-**14\. In case of disputes**
-----------------------------
+### **14\. In case of disputes**
 
 **Governing Law and Jurisdiction.** These Terms are governed by Irish law. This means that your access to and use of our Services, and any dispute or claim arising out of or in connection therewith (including non-contractual disputes or claims) will be governed by Irish law, and must be brought in a competent court in Ireland. However, if you are a consumer within the European Economic Area or Switzerland, you may also file legal disputes in your local courts, based on your local laws.
 
@@ -243,8 +266,7 @@ Address: 27/29 Orwell Road, Rathgar, Dublin 6, Ireland and/or 548 Market Street,
 
 Email address: [support@anthropic.com](mailto:support@anthropic.com)
 
-**Appendix 1**
---------------
+### **Appendix 1**
 
 **Model Cancellation Form**
 
