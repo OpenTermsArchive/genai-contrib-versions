@@ -1,12 +1,55 @@
+### Section A: Definitions
+
+[Legal center](https://www.anthropic.com/legal)
+
 Data Processing Addendum
 ========================
 
-Effective February 24, 2025
+[Download PDF](https://cdn.sanity.io/files/4zrzovbb/website/d16e60156ee20e9a1c5cfff5c0cabfba39b7c9bf.pdf)
+
+*   [ADefinitions](#a-definitions)
+*   [BProcessing of Customer Data](#b-processing-of-customer-data)
+*   [CSubprocessors](#c-subprocessors)
+*   [DData Subject Requests](#d-data-subject-requests)
+*   [ESecurity](#e-security)
+*   [FCompliance and Audits](#f-compliance-and-audits)
+*   [GSecurity Breaches](#g-security-breaches)
+*   [HDeletion and Return](#h-deletion-and-return)
+*   [IStandard Contractual Clauses](#i-standard-contractual-clauses)
+*   [AList of Parties](#a-list-of-parties)
+*   [BDescription of Processing](#b-description-of-processing)
+*   [CCompetent Supervisory Authority](#c-competent-supervisory-authority)
+*   [ASecurity Program and Policies](#a-security-program-and-policies)
+*   [BAccess Controls](#b-access-controls)
+*   [CPersonnel Management](#c-personnel-management)
+*   [DAudits and Certifications](#d-audits-and-certifications)
+*   [EEncryption Standards](#e-encryption-standards)
+*   [FEndpoint Protection](#f-endpoint-protection)
+*   [GVulnerability Management](#g-vulnerability-management)
+*   [HData Management](#h-data-management)
+*   [ILogging, Monitoring, and Incident Response](#i-logging-monitoring-and-incident-response)
+*   [JThird Party Vendors](#j-third-party-vendors)
+*   [AEU SCCs](#a-eu-sccs)
+*   [BUK Addendum](#b-uk-addendum)
+*   [CSwiss Addendum](#c-swiss-addendum)
+*   [26Schedule 4 - Subprocessors](#schedule-4---subprocessors)
+
+*   Effective
+    
+    Feb 24, 2025
+    
+*   Type
+    
+    Terms
+    
+*   Audience
+    
+    Business
+    
 
 This Data Processing Addendum (**“DPA”**) is incorporated into and forms part of the Anthropic Commercial Terms of Service or other agreement between Customer and Anthropic that references this DPA and governs Customer’s use of the Services (the **“Agreement”**), and applies to Anthropic’s processing of Customer Data (defined below). Capitalized terms used but not otherwise defined in this DPA will have the meaning set forth in the Agreement. Anthropic may amend this DPA from time to time on reasonable notice to Customer to the extent such changes are required due to changes in Applicable Data Protection Laws. If there is any conflict between the terms of this DPA and the Agreement, the conflicting terms in this DPA will govern.
 
-A. Definitions
---------------
+### A. Definitions
 
 A.1. **"Applicable Data Protection Laws"** means all applicable privacy or data protection laws and regulations relating to the processing of personal data, as may be amended from time to time.
 
@@ -32,8 +75,7 @@ A.11. The terms **“personal data”**, **“data subject”**, **“processing
 
 A.12. The terms **“controller”** and **“processor”** include **“business”**, and **“service provider”**, respectively, as required by Applicable Data Protection Laws.
 
-B. Processing of Customer Data
-------------------------------
+### B. Processing of Customer Data
 
 B.1. With respect to Customer Personal Data, Customer is the controller and Anthropic is Customer’s processor. Each party will comply with its respective obligations under Applicable Data Protection Laws in connection with the Services and the Customer Personal Data.
 
@@ -55,8 +97,7 @@ B.6. Anthropic will cooperate with and provide reasonable assistance to Customer
 
 B.7. Anthropic will ensure that each person it authorizes to process Customer Personal Data is subject to an appropriate duty of confidentiality.
 
-C. Subprocessors
-----------------
+### C. Subprocessors
 
 C.1. Customer grants Anthropic general authorization to engage the Subprocessors listed in Schedule 4, and any additional Subprocessors in accordance with Section C.3. below.
 
@@ -64,22 +105,19 @@ C.2. Anthropic will: (a) enter into a contractual agreement with each Subprocess
 
 C.3. In the event that Anthropic wishes to appoint an additional Subprocessor: (a) Anthropic will provide Customer reasonable notice of the new Subprocessor prior to giving the Subprocessor access to Customer Personal Data; and (b) Customer may, on the basis of reasonable data privacy or data security concerns, object to Anthropic’s use of such Subprocessor by providing Anthropic with written notice of the objection within fifteen (15) days of the date of such notice, or Customer is deemed to consent to the new Subprocessor. In the event Customer objects to Anthropic’s use of a new Subprocessor, Customer and Anthropic will work together in good faith to find a mutually acceptable resolution to address any objection raised by Customer.
 
-D. Data Subject Requests
-------------------------
+### D. Data Subject Requests
 
 D.1. Anthropic will forward to Customer promptly any Data Subject Request received by Anthropic relating to the Customer Personal Data and may advise the Data Subject to submit their request directly to Customer.
 
 D.2. Anthropic will, taking into account the nature of the processing, provide Customer with reasonable and timely assistance as necessary for Customer to fulfill its obligation under Applicable Data Protection Laws to respond to Data Subject Requests.
 
-E. Security
------------
+### E. Security
 
 E.1. Anthropic will comply with the data security obligations of Applicable Data Protection Laws, and will implement and maintain reasonable and appropriate technical and organizational data protection and security measures designed to ensure a level of security for the Customer Data (including the Customer Personal Data) appropriate to the risk of the relevant processing, as summarized in Schedule 2. Anthropic may update these measures from time to time, provided that such updates do not materially reduce the overall security of the Services.
 
 E.2. The parties agree that the measures set out in Schedule 2 provide an appropriate level of security for the Customer Data (including the Customer Personal Data Data), accounting for the risks presented by the processing outlined in the Agreement and this DPA.
 
-F. Compliance and Audits
-------------------------
+### F. Compliance and Audits
 
 F.1. Anthropic is audited annually against known, established industry standards performed by external auditors. Upon Customer’s written request, and subject to the confidentiality obligations set forth in the Agreement, Anthropic will provide Customer with such audit reports or certificates applicable to the Services (_e.g._, SOC 2 report), to the extent available, or such other information reasonably necessary to demonstrate compliance with this DPA. Anthropic’s current certifications are available for Customer’s review at [trust.anthropic.com](http://trust.anthropic.com/).
 
@@ -89,15 +127,13 @@ F.3. Customer will pay any reasonably incurred costs and expenses incurred by An
 
 F.4. Customer may use the results of an Audit only for the purposes of meeting Customer’s regulatory audit requirements and/or confirming compliance with the requirements of the DPA.
 
-G. Security Breaches
---------------------
+### G. Security Breaches
 
 G.1. Anthropic will notify Customer in writing without undue delay, but in any event within 48 hours, after becoming aware of any Security Breach, and will assist Customer in complying with Customer’s obligations under Applicable Data Protection laws by reasonably cooperating with Customer’s investigation of the Security Breach. Anthropic’s notification of, or response to, a Security Breach will not be construed as an acknowledgement by Anthropic of any fault or liability with respect to the Security Breach.
 
 G.2. Upon becoming aware of a Security Breach, Anthropic will (a) investigate the Security Breach, and (b) provide timely information relating to the nature of the Security Breach, such as, where reasonably possible, the categories and approximate number of data subjects concerned and the categories and approximate number of Customer Personal Data records concerned, the likely consequences of the Security Breach, and the measures taken or proposed to be taken by Anthropic to address the Security Breach, including, where appropriate, measures to mitigate its possible adverse effects.
 
-H. Deletion and Return
-----------------------
+### H. Deletion and Return
 
 H.1. Within thirty (30) days of the date of termination or expiration of the Agreement, Anthropic will:
 
@@ -105,8 +141,7 @@ H.1.a. if requested to do so by Customer within that period, return a copy of al
 
 H.1.b. delete all copies of Customer Data (including Customer Personal Data) processed by Anthropic or any Subprocessors, except to the extent (i) Applicable Data Protection Laws or other applicable legal or regulatory requirements requires storage of the Customer Data, (ii) retention of the Customer Data by Anthropic is necessary to resolve a dispute between the parties, or (iii) retention of the Customer Data is necessary to combat harmful use of the Services.
 
-I. Standard Contractual Clauses
--------------------------------
+### I. Standard Contractual Clauses
 
 I.1. The parties agree that, to the extent required by Applicable Data Protection Laws, the terms of the SCCs Module Two (controller to processor) and/or Module Three (processor to processor), as completed as described in Schedule 3 of this DPA, are hereby incorporated by reference and will be deemed to have been executed by the parties.
 
@@ -118,8 +153,7 @@ I.4. Anthropic will provide Customer reasonable support to enable Customer’s c
 
 **Schedule 1 - Details of Processing and Transfers**
 
-A. List of Parties
-------------------
+### A. List of Parties
 
 The parties are set out in the preamble to this DPA. With regard to any transfers of Customer Personal Data falling within the scope of Applicable Data Protection Laws, additional information regarding the data exporter and data importer is set out below.
 
@@ -127,8 +161,7 @@ A.1. **Data Exporter**: The data exporter is the Customer and/or Customer Affili
 
 A.2. **Data Importer**: The data importer is the Anthropic entity that executed the Agreement. The data importer’s contact person and contact details are included in the Agreement or will be disclosed to Customer upon request.
 
-B. Description of Processing
-----------------------------
+### B. Description of Processing
 
 B.1. **Categories of data subjects**: Determined by Customer (in accordance with the Agreement).
 
@@ -146,8 +179,7 @@ B.7. **Storage Limitation**: The duration is the term of the Agreement.
 
 B.8. **Subprocessors (where applicable)**: May be used by Anthropic to assist in the provision of the Services (more details in Schedule 4).
 
-C. Competent Supervisory Authority
-----------------------------------
+### C. Competent Supervisory Authority
 
 Identify the competent supervisory authority/ies in accordance with clause 13 of the SCCs:
 
@@ -161,8 +193,7 @@ Where the data exporter is not established in an EU Member State, but falls with
 
 Anthropic has implemented and will maintain technical and organizational measures designed in accordance with industry standard practices to protect the security, confidentiality, and integrity of the Customer Data, as set out below. Anthropic may review and update these measures from time to time, provided that any such update will not materially diminish the overall security of the Customer Data during the term of the Agreement. Additional information about Anthropic’s information security program can be found at [https://trust.anthropic.com](https://trust.anthropic.com/).
 
-A. Security Program and Policies
---------------------------------
+### A. Security Program and Policies
 
 A.1. Anthropic maintains organizational management and dedicated staff responsible for the development, implementation, and maintenance of Anthropic’s information security program, and a qualified security team of a size sufficient to ensure compliance with this DPA.
 
@@ -200,8 +231,7 @@ A.6. Anthropic maintains a robust suite of internal security policies that are c
 
 • Cryptography
 
-B. Access Controls
-------------------
+### B. Access Controls
 
 B.1. All Anthropic personnel are assigned unique identifiers for interacting with systems managing Customer Data.
 
@@ -229,8 +259,7 @@ B.9. Anthropic reviews privileged access to systems managing Customer Data on a 
 
 B.10. All users with privileged access to Customer Data have all access revoked promptly following termination of employment.
 
-C. Personnel Management
------------------------
+### C. Personnel Management
 
 C.1. All personnel engaged by Anthropic are properly trained and obligated to comply with the requirements of Anthropic's security program, including with respect to the confidentiality and security of the Customer Data.
 
@@ -240,8 +269,7 @@ C.3. As a part of pre-employment, all candidates complete a rigorous interview p
 
 C.4. Upon termination, Anthropic removes personnel access authorization without undue delay and in accordance with standard industry practices.
 
-D. Audits and Certifications
-----------------------------
+### D. Audits and Certifications
 
 D.1. Anthropic defines audit and risk assessment procedures for the purposes of: (a) periodic review and assessment of risks to Anthropic’s organization, assets, and data, (b) monitoring and maintaining compliance with Anthropic’s policies and procedures, and (c) reporting the condition of its information security and compliance to internal senior management.
 
@@ -249,18 +277,15 @@ D.2. Anthropic’s information security program is assessed annually by independ
 
 D.3. To request access to any of our reports and certifications, please go to [https://trust.anthropic.com.](https://trust.anthropic.com/)
 
-E. Encryption Standards
------------------------
+### E. Encryption Standards
 
 Anthropic utilizes industry standard encryption methods for protection of Customer Data, including a minimum of AES-256 for data at rest, and TLS1.2+ for data in transit over public networks.
 
-F. Endpoint Protection
-----------------------
+### F. Endpoint Protection
 
 All Anthropic personnel workstations, and cloud endpoints (where applicable), are protected via EDR (endpoint detection and response) systems that include, but are not limited to: (a) anti-virus and anti-malware protections; (b) active real-time system monitoring; and (c) alerting to internal security teams.
 
-G. Vulnerability Management
----------------------------
+### G. Vulnerability Management
 
 G.1. Anthropic’s vulnerability assessment, patch management, threat protection technologies, and scheduled monitoring procedures are designed to identify, assess, mitigate, and protect against identified security threats, viruses, and other malicious code. Anthropic utilizes a multi-faceted approach to vulnerability management, including: automated code vulnerability scanning; automated artifact vulnerability scanning; automated code review; manual peer code review; endpoint detection and response; automated log analysis; and manual log analysis.
 
@@ -268,13 +293,11 @@ G.2. Anthropic engages qualified external assessors for the completion of annual
 
 G.3. Anthropic applies updates to mitigate vulnerabilities based on risk level and in alignment with industry-accepted timelines.
 
-H. Data Management
-------------------
+### H. Data Management
 
 All Customer Data stored by Anthropic is logically separated such that no customer is able to access the data of any other customer without authorization. Customer Data associated with a specific customer is easily identifiable. Further, Anthropic maintains reasonable and appropriate network-level segmentation to separate environments processing Customer Data from the internet, from development and testing environments, and from office workspaces.
 
-I. Logging, Monitoring, and Incident Response
----------------------------------------------
+### I. Logging, Monitoring, and Incident Response
 
 I.1. Anthropic’s incident management procedures are designed to allow Anthropic to investigate, respond to, mitigate, and notify of events related to Anthropic’s technology and information assets that process Customer Data. These incident response procedures are tested annually.
 
@@ -286,15 +309,13 @@ I.4. System audit or event logging and related monitoring procedures are proacti
 
 I.5. Security-related logs are retained for appropriate timeframes to aid in the investigation of security incidents.
 
-J. Third Party Vendors
-----------------------
+### J. Third Party Vendors
 
 Anthropic maintains a third-party information security risk management program, which includes the execution of periodic risk assessments to evaluate the security posture of Anthropic’s third-party vendors.
 
 **Schedule 3 - International Data Transfers**
 
-A. EU SCCs
-----------
+### A. EU SCCs
 
 A.1. Elections for the purposes of Module Two and Module Three of the Standard Contractual Clauses:
 
@@ -316,8 +337,7 @@ A.2.a. Clause 9 (Use of subprocessors) – Option 2 (General written authorizati
 
 A.2.b. For the purpose of Annex III of the Standard Contractual Clauses, the list of Subprocessors are set out in Schedule 4 or as otherwise determined by Section C.3. of this DPA. The Subprocessor’s contact person’s name, position and contact details will be provided by Anthropic upon request.
 
-B. UK Addendum
---------------
+### B. UK Addendum
 
 This UK Addendum will apply to any processing of Customer Personal Data that is subject to the UK GDPR or both the UK GDPR and the GDPR. For the purposes of this UK Addendum:
 
@@ -337,8 +357,7 @@ B.1.c. for the purposes of Table 2 of Part 1 of the Approved Addendum, the versi
 
 B.1.d. for the purposes of Table 4 of Part 1 of the Approved Addendum, Anthropic (as data importer) may end the Approved Addendum.
 
-C. Swiss Addendum
------------------
+### C. Swiss Addendum
 
 This Swiss Addendum will apply to any processing of Customer Personal Data that is subject to Swiss Data Protection Laws (as defined below) or to both Swiss Data Protection Laws and the GDPR.
 
@@ -392,8 +411,7 @@ To the extent that any processing of personal data is subject to both Swiss Data
 
 Customer warrants that it and/or Customer Affiliates have made any notifications to the FDPIC which are required under Swiss Data Protection Laws.
 
-Schedule 4 - Subprocessors
---------------------------
+### Schedule 4 - Subprocessors
 
 Anthropic’s list of subprocessors is available at [https://www.anthropic.com/subprocessors](https://www.anthropic.com/subprocessors).
 
