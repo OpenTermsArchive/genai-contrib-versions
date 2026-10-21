@@ -31,7 +31,7 @@ Legal Documents
 Privacy Policy
 --------------
 
-**FAL PRIVACY POLICY**
+**fal privacy policy**
 
 **Last Updated:** **July 22, 2026**
 
