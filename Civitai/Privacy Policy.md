@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-**Last Updated**: February 1, 2024
+**Last Updated**: October 20, 2026
 
 Civit AI, Inc. (**"Civitai**," "**we**," "**our**," and/or "**us**") values the privacy of individuals who use our application, websites and related services (collectively, our "**Services**"). This privacy policy (the "**Privacy Policy**") explains how we collect, use, and disclose information from users of our Services ("**Users**" "**you**," and/or "**your**") to enable creators to share content with other creators and to continue to improve our Services. By using our Services, you agree to the collection, use, disclosure, and procedures this Privacy Policy describes. Beyond the Privacy Policy, your use of our Services is also subject to our [Terms of Service](https://civitai.com/content/tos).
 
@@ -100,7 +100,7 @@ We make reasonable efforts to protect your information by using physical and ele
 Children's Privacy
 ------------------
 
-We do not knowingly collect, maintain, or use personal information from children under 13 years of age, and no part of our Services is directed to children. If you learn that a child has provided us with personal information in violation of this Privacy Policy, then you may alert us at [hello@civitai.com](mailto:hello@civitai.com).
+We do not knowingly collect, maintain, or use personal information from children under 13 years of age, and no part of our Services is directed to children. If you learn that a child has provided us with personal information in violation of this Privacy Policy, then you may alert us at [compliance@civitai.com](mailto:compliance@civitai.com).
 
 International Visitors
 ----------------------
@@ -115,4 +115,4 @@ We will post any adjustments to the Privacy Policy on this page, and the revised
 Contact Information
 -------------------
 
-If you have any questions, comments, or concerns about our processing activities, please email us at [hello@civitai.com](mailto:hello@civitai.com).
+If you have any questions, comments, or concerns about our processing activities, or want to make a request about your personal information (such as access or deletion), please email us at [compliance@civitai.com](mailto:compliance@civitai.com).
