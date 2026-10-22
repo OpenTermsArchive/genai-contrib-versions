@@ -5,7 +5,7 @@ Last updated: June 30, 2026
 
 This update may include material changes to your prior Terms of Service, and in such case, the prior terms shall control until 30 days from the posting of these Terms. You agree that by accessing the Services thereafter, these Terms shall govern your use of the Services.
 
-[Previous version](https://codeium.com/platform-terms-of-service-april-2025)
+[Previous version](https://old.cognition.ai/terms-of-service)
 
 These Terms of Service (“Terms”) govern your use of the Cognition Platform, and other software offerings (“Services”) that Cognition AI, Inc. (“Cognition,” “we,” “us,” or “our”) may offer to individuals or entities who register for and use our Services (each a “Customer”, “you” or “your”). Please carefully read these Terms, along with our [Privacy Policy](https://codeium.com/legal/privacy-policy), which outlines how we handle your data. These Terms and the Privacy Policy form a single binding agreement between you and Cognition (the “Agreement”). Throughout these Terms, Authorized User means your employees, consultants, and agents (i) who are expressly authorized by you to access and use the Services under and in accordance with the rights granted to you pursuant to this Agreement; and (ii) for whom access to the Services has been purchased.
 
