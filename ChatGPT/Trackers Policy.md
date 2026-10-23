@@ -1,4 +1,4 @@
-Last updated: 7 October 2026
+Last updated: 22 October 2026
 
 Cookie policy
 =============
@@ -23,13 +23,9 @@ These cookies are required to operate our Services. For example, they allow us t
 | [OpenAI](https://openai.com/policies/privacy-policy/) | oai\_disallow\_onboarding | 12 hours | Onboarding | platform.openai.com |
 | [OpenAI](https://openai.com/policies/privacy-policy/) | oai\_age\_verification\_token | 12 hours | Onboarding | platform.openai.com |
 | [OpenAI](https://openai.com/policies/privacy-policy/) | oai-allow-ne | 6 months | Cookie consent | chatgpt.com |
-| [OpenAI](https://openai.com/policies/privacy-policy/) | oai-logged-out-consent-chosen | 180 days | Cookie consent | chatgpt.com |
-| [OpenAI](https://openai.com/policies/privacy-policy/) | oai\_pl\_permission\_state | Session | Service functionality | chatgpt.com |
 | [OpenAI](https://openai.com/policies/privacy-policy/) | oai-sc | 1 year | Security | chatgpt.com |
 | [OpenAI](https://openai.com/policies/privacy-policy/) | \_account\_residency\_region | 90 days | Service functionality | chatgpt.com |
-| [OpenAI](https://openai.com/policies/privacy-policy/) | oai-did | 2 years | Service functionality | chatgpt.com  <br>openai.com  <br>deploymentsafety.openai.com |
-| [OpenAI](https://openai.com/policies/privacy-policy/) | oai-did | 2 years | Service functionality | ads.openai.com |
-| [OpenAI](https://openai.com/policies/privacy-policy/) | oai-anon-id | 2 years | Service functionality | ads.openai.com |
+| [OpenAI](https://openai.com/policies/privacy-policy/) | oai-did | 2 years | Service functionality | chatgpt.com  <br>openai.com  <br>deploymentsafety.openai.com  <br>ads.openai.com  <br>help.openai.com |
 | [OpenAI](https://openai.com/policies/privacy-policy/) | country | 1 year | Service functionality | openai.com |
 | [OpenAI](https://openai.com/policies/privacy-policy/) | analytics\_consent | 1 year | Cookie consent | openai.com  <br>ads.openai.com |
 | [OpenAI](https://openai.com/policies/privacy-policy/) | marketing\_consent | 1 year | Cookie consent | openai.com  <br>ads.openai.com |
@@ -59,9 +55,6 @@ These cookies are required to operate our Services. For example, they allow us t
 | [OpenAI](https://openai.com/policies/privacy-policy/) | temp-oai-compliance | 1 month | Service functionality | chatgpt.com |
 | [OpenAI](https://openai.com/policies/privacy-policy/) | ui-show-payment-modal | Session | Service functionality | chatgpt.com |
 | [OpenAI](https://openai.com/policies/privacy-policy/) | oai-model-sticky-for-new-chats | 1 month | Service functionality | chatgpt.com |
-| [OpenAI](https://openai.com/policies/privacy-policy/) | country | 1 year | Service functionality | openai.com |
-| [OpenAI](https://openai.com/policies/privacy-policy/) | analytics\_consent | 6 months | Cookie consent | openai.com |
-| [OpenAI](https://openai.com/policies/privacy-policy/) | marketing\_consent | 6 months | Cookie consent | openai.com |
 | [OpenAI](https://openai.com/policies/privacy-policy/) | locale | Session | Service functionality | openai.com |
 | [OpenAI](https://openai.com/policies/privacy-policy/) | oai\_consent\_analytics | 6 months | Cookie consent | chatgpt.com |
 | [OpenAI](https://openai.com/policies/privacy-policy/) | oai\_consent\_marketing | 6 months | Cookie consent | chatgpt.com |
@@ -89,6 +82,15 @@ These cookies are required to operate our Services. For example, they allow us t
 | [OpenAI](https://openai.com/policies/privacy-policy/) | tapestry-theme | 1 year | Service functionality | ads.openai.com |
 | [OpenAI](https://openai.com/policies/privacy-policy/) | oai-form-submissions | 180 days | Service functionality | openai.com |
 | [OpenAI](https://openai.com/policies/privacy-policy/) | \_\_oailb | 1 hour | Service functionality | chatgpt.com |
+| [OpenAI](https://openai.com/policies/privacy-policy/) | oai-anon-id | 2 years | Service functionality | ads.openai.com |
+| [OpenAI](https://openai.com/policies/privacy-policy/) | oai-logged-out-consent-chosen | 180 days | Cookie consent | chatgpt.com |
+| [OpenAI](https://openai.com/policies/privacy-policy/) | oai\_pl\_permission\_state | Session | Service functionality | chatgpt.com |
+| [OpenAI](https://openai.com/policies/privacy-policy/) | \_\_Host-oai-sib | 365 days | Service functionality | .chatgpt.site |
+| [OpenAI](https://openai.com/policies/privacy-policy/) | chatgpt\_sites\_siwc\_login\_<state> | 10 minutes | User authentication | .chatgpt.site |
+| [OpenAI](https://openai.com/policies/privacy-policy/) | chatgpt\_sites\_siwc\_session | 400 days | User authentication | .chatgpt.site |
+| [OpenAI](https://openai.com/policies/privacy-policy/) | \_\_Host-chatgpt\_sites\_session | 400 days | User authentication | .chatgpt.site |
+| [OpenAI](https://openai.com/policies/privacy-policy/) | sites\_preview\_token | Session | Security | .chatgpt.site |
+| [OpenAI](https://openai.com/policies/privacy-policy/) | appgen\_admin\_review\_token | Session | Security | .chatgpt.site |
 | [Auth0](https://www.okta.com/legal/privacy-policy/) | did | 1 year | User authentication | platform.openai.com |
 | [Auth0](https://www.okta.com/legal/privacy-policy/) | did\_compat | 1 year | User authentication | platform.openai.com |
 | [Auth0](https://www.okta.com/legal/privacy-policy/) | auth0 | 14 days | User authentication | platform.openai.com |
@@ -98,17 +100,17 @@ These cookies are required to operate our Services. For example, they allow us t
 | [Auth0](https://www.okta.com/legal/privacy-policy/) | \_legacy\_auth0.app\_\*.is.authenticated | 1 day | User authentication | platform.openai.com |
 | [Auth0](https://www.okta.com/legal/privacy-policy/) | auth0.app\_\*.is.authenticated | 1 day | User authentication | platform.openai.com |
 | [Cloudflare⁠⁠](https://www.cloudflare.com/privacypolicy/) | CF\_Authorization | 1 month | Security | chatgpt.com |
-| [Cloudflare⁠⁠](https://www.cloudflare.com/privacypolicy/) | \_\_cf\_bm | 30 min | Security | auth.openai.com  <br>chatgpt.com  <br>openai.com  <br>platform.openai.com  <br>devday.openai.com  <br>ads.openai.com |
-| [Cloudflare⁠⁠](https://www.cloudflare.com/privacypolicy/) | cf\_clearance | 1 year | Security | openai.com  <br>chatgpt.com  <br>platform.openai.com  <br>auth.openai.com  <br>ads.openai.com |
-| [Cloudflare⁠⁠](https://www.cloudflare.com/privacypolicy/) | \_cfuvid | Session | Security | openai.com  <br>chatgpt.com  <br>auth.openai.com  <br>platform.openai.com  <br>ads.openai.com |
-| [Cloudflare⁠⁠](https://www.cloudflare.com/privacypolicy/) | \_\_cflb | 60 minutes | Security | chatgpt.com  <br>auth.openai.com |
+| [Cloudflare⁠⁠](https://www.cloudflare.com/privacypolicy/) | \_\_cf\_bm | 30 min | Security | auth.openai.com  <br>chatgpt.com  <br>openai.com  <br>platform.openai.com  <br>devday.openai.com  <br>ads.openai.com  <br>developers.openai.com  <br>help.openai.com |
+| [Cloudflare⁠⁠](https://www.cloudflare.com/privacypolicy/) | cf\_clearance | 1 year | Security | openai.com  <br>chatgpt.com  <br>platform.openai.com  <br>auth.openai.com  <br>ads.openai.com  <br>help.openai.com |
+| [Cloudflare⁠⁠](https://www.cloudflare.com/privacypolicy/) | \_cfuvid | Session | Security | openai.com  <br>chatgpt.com  <br>auth.openai.com  <br>platform.openai.com  <br>ads.openai.com  <br>developers.openai.com  <br>help.openai.com |
+| [Cloudflare⁠⁠](https://www.cloudflare.com/privacypolicy/) | \_\_cflb | 60 minutes | Security | chatgpt.com  <br>auth.openai.com  <br>help.openai.com |
 | [Stripe⁠⁠⁠](https://stripe.com/privacy?) | \_\_stripe\_mid | 1 year | Payment | platform.openai.com |
 | [Stripe⁠⁠⁠](https://stripe.com/privacy?) | \_\_stripe\_sid | 30 min | Payment | platform.openai.com |
 | [Intercom⁠⁠⁠](https://www.intercom.com/legal/privacy) | intercom-device-id-dgkjq2bp | 270 days | Customer support | chatgpt.com  <br>openai.com  <br>platform.openai.com |
 | [Intercom⁠⁠](https://www.intercom.com/legal/privacy) | intercom-device-id-izw1u7l7 | 1 year | Customer support | chatgpt.com |
 | [Intercom⁠⁠](https://www.intercom.com/legal/privacy) | intercom-id-dgkjq2bp | 9 months | Customer support | openai.com |
-| [Datadog⁠⁠⁠](https://www.datadoghq.com/legal/privacy/) | \_dd\_s | 4 hours | Error reporting | chatgpt.com  <br>openai.com  <br>platform.openai.com |
-| [Swoogo⁠⁠](https://swoogo.events/legal/cookies/) | cookieconsent\_status | 1 year | Consent cookies | events.openai.com |
+| [Datadog⁠⁠⁠](https://www.datadoghq.com/legal/privacy/) | \_dd\_s | 4 hours | Error reporting | chatgpt.com  <br>openai.com  <br>platform.openai.com  <br>ads.openai.com |
+| [Swoogo⁠⁠](https://swoogo.events/legal/cookies/) | cookieconsent\_status | 1 year | Cookie consent | events.openai.com |
 | [Swoogo⁠⁠](https://swoogo.events/legal/cookies/) | PHPSESSID | Session | Service functionality | events.openai.com |
 | [Swoogo⁠⁠](https://swoogo.events/legal/cookies/) | \_csrf | Session | Security | events.openai.com |
 | [Swoogo⁠⁠](https://swoogo.events/legal/cookies/https://swoogo.events/legal/cookies/) | AWSALB | 7 days | Security | events.openai.com |
@@ -124,6 +126,7 @@ These cookies help us understand how our Services perform and are used, such as 
 | **Source** | **Cookie name** | **Duration** | **Purpose** | **Domain** |
 | --- | --- | --- | --- | --- |
 | [OpenAI](https://openai.com/policies/privacy-policy/) | \_\_obi | 1 year | Analytics | chatgpt.com  <br>openai.com |
+| [OpenAI](https://openai.com/policies/privacy-policy/) | \_\_Host-appgarden-visitor | 90 days | Analytics | .chatgpt.site |
 
 Marketing Performance cookies
 -----------------------------
