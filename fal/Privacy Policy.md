@@ -1,39 +1,67 @@
-[Try FLUX 3 Max, post-trained by fal](https://fal.ai/flux-3-max)
-
-![](/landing/bg-side-page.svg)![](/landing/bg-mobile-side-page.svg)
-
-[fal logo](https://fal.ai/)
+[](https://fal.ai/)
 
 Products
 
-[Documentation](https://fal.ai/docs/documentation)[Pricing](https://fal.ai/pricing)[Enterprise](https://fal.ai/enterprise)
+![](https://cdn.prod.website-files.com/6a72ef21c470312422dea9b3/6a73788845146d16f6cd8390_Union.svg)
+
+[Model APIs](https://fal.ai/explore)[Serverless](https://fal.ai/serverless)[Compute](https://fal.ai/docs/documentation/compute)
+
+[Docs](https://fal.ai/docs/documentation)[Pricing](https://fal.ai/pricing)[Enterprise](https://fal.ai/enterprise-hub)
 
 Resources
 
-[Contact Sales](https://fal.ai/enterprise#contact-sales)[Login](https://fal.ai/login)
+![](https://cdn.prod.website-files.com/6a72ef21c470312422dea9b3/6a73ad9ca14711f5050e1e60_bg%20shape%20large.svg)
 
-[fal logo](https://fal.ai/)
+[Blog](https://fal.ai/blog)[Learn](https://fal.ai/learn)[Events](https://fal.ai/events)[Grants](https://fal.ai/grants)[Careers](https://fal.ai/careers)[GenMedia Report v2](https://fal.ai/gen-media-report-volume-2)
+
+[Contact Sales](https://fal.ai/contact-sales)[Get Started](https://fal.ai/dashboard)
+
+[](#)
+
+Products
+
+![](https://cdn.prod.website-files.com/6a72ef21c470312422dea9b3/6a73788845146d16f6cd8390_Union.svg)
+
+[Model APIs](https://fal.ai/explore)[Serverless](https://fal.ai/serverless)[Compute](https://fal.ai/docs/documentation/compute)
+
+[Model APIs](https://fal.ai/explore)[Serverless](https://fal.ai/serverless)[Compute](https://fal.ai/docs/documentation/compute)
+
+[Documentation](https://fal.ai/docs/documentation)
+
+[Pricing](https://fal.ai/pricing)
+
+[Enterprise](https://fal.ai/enterprise-hub)
+
+Resources
+
+![](https://cdn.prod.website-files.com/6a72ef21c470312422dea9b3/6a73ad9ca14711f5050e1e60_bg%20shape%20large.svg)
+
+[Blog](https://fal.ai/blog)[Learn](https://fal.ai/learn)[Events](https://fal.ai/events)[Grants](https://fal.ai/grants)[Careers](https://fal.ai/careers)[GenMedia Report v2](https://fal.ai/gen-media-report-volume-2)
+
+[Blog](https://fal.ai/blog)[Learn](https://fal.ai/learn)[Events](https://fal.ai/events)[Grants](https://fal.ai/grants)[Careers](https://fal.ai/careers)[GenMedia Report v2](https://fal.ai/gen-media-report-volume-2)
+
+[Get Started](https://fal.ai/dashboard)[Contact Sales](https://fal.ai/contact-sales)
+
+Privacy Policy
 
 Legal
-=====
+-----
 
-Legal Documents
----------------
+Legal documents
 
 [Terms of Service](https://fal.ai/legal/terms-of-service)
 
-### Supplemental Terms
+Supplemental Terms
 
 [API Services](https://fal.ai/legal/api-services)[Compute Infrastructure](https://fal.ai/legal/compute-infrastructure)
 
 [Data Processing Addendum](https://fal.ai/legal/data-processing-addendum)[Privacy Policy](https://fal.ai/legal/privacy-policy)[Acceptable Use Policy](https://fal.ai/legal/acceptable-use-policy)[Trust & Safety](https://fal.ai/legal/trust-and-safety)
 
 Privacy Policy
---------------
 
-**fal privacy policy**
+fal Privacy Policy
 
-**Last Updated:** **July 22, 2026**
+Last Updated: July 22, 2026
 
 This Privacy Policy describes how fal - Features & Labels Inc. ("**fal**," "**we**," or "**us**") collects, uses, discloses, and otherwise processes information about you when you access or use our website and other online products and services that link to this Privacy Policy (collectively, our "**Services**") and when you otherwise interact with us, such as through our customer support channels.
 
@@ -43,23 +71,16 @@ We may change this Privacy Policy from time to time. If we make changes, we will
 
 **CONTENTS**
 
-[Collection of Information](#collection-of-information)
+[**Collection of Information**](https://fal.ai/legal/privacy-policy#collection-of-information)[**  
+Use of Information**](https://fal.ai/legal/privacy-policy#use-of-information)[**  
+Targeted Advertising and Analytics**](https://fal.ai/legal/privacy-policy#targeted-advertising-and-analytics)[**  
+Disclosure of Information**](https://fal.ai/legal/privacy-policy#disclosure-of-information)[**  
+Data Retention**](https://fal.ai/docs/documentation/model-apis/media-expiration)[**  
+Your Choices**](https://fal.ai/legal/privacy-policy#your-choices)[**  
+Additional Information for Specific Jurisdictions**](https://fal.ai/legal/privacy-policy#additional-information-for-specific-jurisdictions)[**  
+Contact Us**](https://fal.ai/legal/privacy-policy#contact-us)
 
-[Use of Information](#use-of-information)
-
-[Targeted Advertising and Analytics](#targeted-advertising-and-analytics)
-
-[Disclosure of Information](#disclosure-of-information)
-
-[Data Retention](https://fal.ai/docs/documentation/model-apis/media-expiration)
-
-[Your Choices](#your-choices)
-
-[Additional Information for Specific Jurisdictions](#additional-information-for-specific-jurisdictions)
-
-[Contact Us](#contact-us)
-
-##### [](#collection-of-information)COLLECTION OF INFORMATION
+##### COLLECTION OF INFORMATION
 
 The information we collect about you depends on how you use our Services or otherwise interact with us. In this section, we describe the categories of information we collect and the sources of this information.
 
@@ -77,7 +98,7 @@ We automatically collect information about your interactions with or us or our S
 
 *   **Transactional Information:** When you make a purchase, we collect information about the transaction, such as product details, purchase price, and the date and location of the transaction.
 *   **Device, Usage, and Activity Information:** We collect information about how you access our Services, including data about the device and network you use, such as your hardware model, operating system version, mobile network, IP address, unique device identifiers, and browser type. We also collect information about your activity on our Services, such as the route by which you access our Services, access dates and times and, browsing behavior (such as pages viewed and links clicked), and information about your activity on specific pages (such as mouse movements and keystrokes).
-*   **Information Collected by Cookies and Similar Tracking Technologies:** We use tracking technologies, such as cookies, pixels, and session replay technology to collect information about your interactions with the Services and our marketing communications. These technologies help us improve our Services and marketing communications, personalize your experience, and analyze your interactions with us, including to see which areas and features of our Services are popular and count visits. For more information about the cookies and similar tracking technologies we use, and the choices available to you, see the [Targeted Advertising and Analytics](#targeted-advertising-and-analytics) and the [Your Choices](#your-choices) sections below.
+*   **Information Collected by Cookies and Similar Tracking Technologies:** We use tracking technologies, such as cookies, pixels, and session replay technology to collect information about your interactions with the Services and our marketing communications. These technologies help us improve our Services and marketing communications, personalize your experience, and analyze your interactions with us, including to see which areas and features of our Services are popular and count visits. For more information about the cookies and similar tracking technologies we use, and the choices available to you, see the [**Targeted Advertising and Analytics**](https://fal.ai/legal/privacy-policy#targeted-advertising-and-analytics) and the [**Your Choices**](https://fal.ai/legal/privacy-policy#your-choices) sections below.
 
 **Information We Collect from Other Sources**
 
@@ -89,35 +110,35 @@ Additionally, when you create or log into your fal account through a third-party
 
 We may derive information or draw inferences about you based on the information we collect. For example, we may infer your approximate location based on your IP address.
 
-##### [](#use-of-information)USE OF INFORMATION
+##### USE OF INFORMATION
 
 We use the information we collect to provide, maintain, and improve the Services. We also use the information we collect to:
 
 *   Process and fulfill your orders;
 *   Personalize your experience with us;
 *   Send you technical notices, security alerts, support messages, and other transactional or relationship messages;
-*   Send you marketing communications such as newsletters, promotional materials, and other information that may interest you (see the [Your Choices](#your-choices) section below for information about how to opt out of these communications at any time);
+*   Send you marketing communications such as newsletters, promotional materials, and other information that may interest you (see the [**Your Choices**](https://fal.ai/legal/privacy-policy#your-choices) section below for information about how to opt out of these communications at any time);
 *   Respond to your comments, questions, and requests and provide customer support;
 *   Monitor and analyze trends, usage, and activities in connection with our products and services;
-*   Target advertisements to you on third-party platforms and websites (for more information and to opt out, see the [Targeted Advertising and Analytics](#targeted-advertising-and-analytics) section below);
+*   Target advertisements to you on third-party platforms and websites (for more information and to opt out, see the [**Targeted Advertising and Analytics**](https://fal.ai/legal/privacy-policy#targeted-advertising-and-analytics) section below);
 *   Detect, investigate, respond to, prosecute, and help protect against security incidents and other malicious, deceptive, fraudulent, or illegal activity, and help protect the rights and property of fal and others;
 *   Comply with our legal and financial obligations;
 *   Create de-identified and aggregated information that cannot reasonably be linked to you; and
 *   Carry out any other purpose described to you at the time the information was collected.
 
-##### [](#targeted-advertising-and-analytics)TARGETED ADVERTISING AND ANALYTICS
+##### TARGETED ADVERTISING AND ANALYTICS
 
 We engage others to provide analytics services, serve advertisements, and perform related services such as advertising fal to you on third-party sites and services. To do this, fal and these partners may use cookies, web beacons, pixels, SDKs, and other technologies to collect information about your use of our Services and other websites and mobile apps, including your device identifiers, IP address, web browser and mobile network information, pages viewed, time spent on pages, links clicked, order information, and conversion information. This information is used to deliver advertising targeted to you on other companies' sites and mobile apps, understand the effectiveness of this advertising, analyze and track data, determine the popularity of certain content, and better understand your activity.
 
 Depending on where you reside, you can opt out of ad targeting through cookies and similar technologies on our website by following the prompts behind the Your Privacy Choices link in the site footer. Your opt-out choice will be linked to your browser only; therefore, you will need to renew your opt-out choice if you visit our website from a new device or browser, or if you clear your browser’s cookies.
 
-The activities described in this section may constitute “targeted advertising,” “sharing,” or “selling” under certain privacy laws. See the [Additional Information for Specific Jurisdictions](#additional-information-for-specific-jurisdictions) section below for details.
+The activities described in this section may constitute “targeted advertising,” “sharing,” or “selling” under certain privacy laws. See the [**Additional Information for Specific Jurisdictions**](https://fal.ai/legal/privacy-policy#additional-information-for-specific-jurisdictions) section below for details.
 
-You can also learn more about interest-based ads, or opt out of having your web browsing information used for behavioral advertising purposes by companies that participate in the Digital Advertising Alliance, by visiting [www.aboutads.info/choices](https://www.aboutads.info/choices).
+You can also learn more about interest-based ads, or opt out of having your web browsing information used for behavioral advertising purposes by companies that participate in the Digital Advertising Alliance, by visiting [**www.aboutads.info/choices**](https://www.aboutads.info/choices).
 
-##### [](#disclosure-of-information)DISCLOSURE OF INFORMATION
+##### DISCLOSURE OF INFORMATION
 
-We disclose information about you as described in the [Targeted Advertising and Analytics](#targeted-advertising-and-analytics) section above and in the following scenarios:
+We disclose information about you as described in the [**Targeted Advertising and Analytics**](https://fal.ai/legal/privacy-policy#targeted-advertising-and-analytics) section above and in the following scenarios:
 
 *   **Vendors and Service Providers**. We make personal information available to our vendors, service providers, contractors, and consultants who perform services on our behalf, such as companies that assist us with web hosting, GPU hosting, infrastructure, internal and external communication, payment processing, fraud prevention and security, customer service, analytics, service monitoring, and marketing.
 *   **Other Users of the Services**. If you are a member of a Team Account, other members of the Team Account may view billing information, API keys, and AI model requests (including any input and output data) associated with the Team Account.
@@ -129,11 +150,11 @@ We disclose information about you as described in the [Targeted Advertising and 
 
 We also disclose aggregated or de-identified information that cannot reasonably be used to identify you. We maintain and use this information only in a de-identified fashion and will not attempt to re-identify such information, except as permitted by law.
 
-##### [](#data-retention)DATA RETENTION
+##### DATA RETENTION
 
 We store personal information associated with your account for as long as your account remains active. If you close your account, we will delete personal information related to your account within 30 days; otherwise, we will delete this information after two years of account inactivity. We store other personal information for as long as necessary to carry out the purposes for which we originally collected it and for other business purposes explained in this Privacy Policy.
 
-##### [](#your-choices)YOUR CHOICES
+##### YOUR CHOICES
 
 **Account Information**
 
@@ -141,19 +162,19 @@ You can access, correct, and delete certain information stored within your fal a
 
 **Cookies and Similar Tracking Technologies**
 
-We use cookies and similar tracking technologies, as [described above](#targeted-advertising-and-analytics). You can usually adjust your browser settings to remove or reject browser cookies. You can also adjust certain cookie settings by clicking on Your Privacy Choices at the bottom of this page. Please note that removing or rejecting cookies could affect some of the functionality of our Services.
+We use cookies and similar tracking technologies, as [**described above**](https://fal.ai/legal/privacy-policy#targeted-advertising-and-analytics). You can usually adjust your browser settings to remove or reject browser cookies. You can also adjust certain cookie settings by clicking on Your Privacy Choices at the bottom of this page. Please note that removing or rejecting cookies could affect some of the functionality of our Services.
 
 **Communications Preferences**
 
 You may opt out of receiving promotional emails from fal by following the instructions in those communications. If you opt out, we may still send you non-promotional emails, such as those about your account or purchases.
 
-##### [](#additional-information-for-specific-jurisdictions)ADDITIONAL INFORMATION FOR SPECIFIC JURISDICTIONS
+##### ADDITIONAL INFORMATION FOR SPECIFIC JURISDICTIONS
 
 **Individuals Residing in Certain U.S. States**
 
 Some U.S. states have enacted privacy laws that grant their residents certain rights and require specific disclosures (“**State Privacy Laws**”). If you reside in California, Nebraska, or Texas, this section applies to you. This section also serves as our California “notice at collection.”
 
-Our Privacy Policy explains how we [collect](#collection-of-information), [use](#use-of-information), and [disclose](#disclosure-of-information) information about you, as well as our [targeted advertising and analytics](#targeted-advertising-and-analytics) practices. As required by certain State Privacy Laws, we use the tables below to explain this same information.
+Our Privacy Policy explains how we [**collect**](https://fal.ai/legal/privacy-policy#collection-of-information), [**use**](https://fal.ai/legal/privacy-policy#use-of-information), and [**disclose**](https://fal.ai/legal/privacy-policy#disclosure-of-information) information about you, as well as our [**targeted advertising and analytics**](https://fal.ai/legal/privacy-policy#targeted-advertising-and-analytics) practices. As required by certain State Privacy Laws, we use the tables below to explain this same information.
 
 **_Use and Disclosure of Personal Information for Business Purposes_**
 
@@ -182,7 +203,7 @@ _Access, Correction, and Deletion_
 
 You have the right to (1) request to know more about and access your personal information, including in a portable format, (2) request deletion of your personal information, and (3) request correction of inaccurate personal information.
 
-To make any of these requests, you can email us at [support@fal.ai](mailto:support@fal.ai). To authenticate your request, we may ask you for additional information to verify your identity. Any additional information you provide will be used only to verify your identity and not for any other purpose.
+To make any of these requests, you can email us at [**support@fal.ai**](mailto:support@fal.ai). To authenticate your request, we may ask you for additional information to verify your identity. Any additional information you provide will be used only to verify your identity and not for any other purpose.
 
 _Nondiscrimination_
 
@@ -190,13 +211,13 @@ We will not discriminate against you for exercising your privacy rights.
 
 _Appeals_
 
-If we deny your request, you may appeal our decision by replying to the email in which we communicated our decision or by emailing us at [support@fal.ai](mailto:support@fal.ai). If you have concerns about the result of an appeal, you may contact the attorney general in the state where you reside.
+If we deny your request, you may appeal our decision by replying to the email in which we communicated our decision or by emailing us at [**support@fal.ai**](mailto:support@fal.ai). If you have concerns about the result of an appeal, you may contact the attorney general in the state where you reside.
 
 _Authorized Agents_
 
-If you are an authorized agent seeking to make a request to opt out of sales, sharing, or targeted advertising on behalf of a consumer, please email us at [support@fal.ai](mailto:support@fal.ai).
+If you are an authorized agent seeking to make a request to opt out of sales, sharing, or targeted advertising on behalf of a consumer, please email us at [**support@fal.ai**](mailto:support@fal.ai).
 
-If you reside in California, you may also designate an authorized agent to submit an access, deletion, or correction request on your behalf. We may ask authorized agents to submit proof of their authority to make a request, such as a valid power of attorney or proof that they have signed permission from the consumer who is the subject of the request. In some cases, we may contact the individual who is the subject of the request to verify such individual’s own identity or confirm the authorized agent has permission to submit the request. If you are an authorized agent seeking to make an access, correction, or deletion request on behalf of a California resident, please email us at [support@fal.ai](mailto:support@fal.ai).
+If you reside in California, you may also designate an authorized agent to submit an access, deletion, or correction request on your behalf. We may ask authorized agents to submit proof of their authority to make a request, such as a valid power of attorney or proof that they have signed permission from the consumer who is the subject of the request. In some cases, we may contact the individual who is the subject of the request to verify such individual’s own identity or confirm the authorized agent has permission to submit the request. If you are an authorized agent seeking to make an access, correction, or deletion request on behalf of a California resident, please email us at [**support@fal.ai**](mailto:support@fal.ai).
 
 **Individuals in Europe**
 
@@ -217,47 +238,50 @@ When we process your personal data as described in this Privacy Policy, we do so
 
 **_Data Subject Requests_**
 
-You have the right to (1) access your personal data, including in a portable format, (2) request erasure of your personal data, and (3) request correction of inaccurate personal data. In addition, you may have the right to object to certain processing or request we restrict certain processing. To exercise any of these rights, please visit our [Privacy Center](https://privacy.fal.ai/).
+You have the right to (1) access your personal data, including in a portable format, (2) request erasure of your personal data, and (3) request correction of inaccurate personal data. In addition, you may have the right to object to certain processing or request we restrict certain processing. To exercise any of these rights, please email us at [**support@fal.ai**](mailto:support@fal.ai).
 
 If you have a concern about our processing of personal data, we encourage you to contact us in the first instance. However, if we are not able to resolve it, you have the right to lodge a complaint with the Data Protection Authority where you reside. Contact details for your Data Protection Authority can be found using the links below:
 
-For individuals in the European Union: [https://www.edpb.europa.eu/contact/contact-dpas\_en](https://www.edpb.europa.eu/contact/contact-dpas_en)
+For individuals in the European Union: [**https://www.edpb.europa.eu/contact/contact-dpas\_en**](https://www.edpb.europa.eu/contact/contact-dpas_en)
 
-For individuals in the UK: [https://ico.org.uk/global/contact-us/](https://ico.org.uk/global/contact-us/)
+For individuals in the UK: [**https://ico.org.uk/global/contact-us/**](https://ico.org.uk/global/contact-us/)
 
-For individuals in Switzerland: [https://www.edoeb.admin.ch/en/contact-2](https://www.edoeb.admin.ch/en/contact-2)
+For individuals in Switzerland: [**https://www.edoeb.admin.ch/en/contact-2**](https://www.edoeb.admin.ch/en/contact-2)
 
-##### [](#contact-us)CONTACT US
+##### CONTACT US
 
-If you have questions about this Privacy Policy, please contact us at [support@fal.ai](mailto:support@fal.ai).
+If you have questions about this Privacy Policy, please contact us at [**support@fal.ai**](mailto:support@fal.ai).
 
-Ready to transform your enterprise with AI?
--------------------------------------------
+Learn More
 
-[Contact Sales](https://fal.ai/enterprise#contact-sales)
+[Status](https://status.fal.ai/)[Documentation](https://fal.ai/docs/documentation)[Pricing](https://fal.ai/pricing)[Serverless](https://fal.ai/serverless)[Enterprise](https://fal.ai/enterprise-hub)[Genmedia CLI](https://genmedia.sh/)[Events](https://fal.ai/events)[Verify fal-Generated Content](https://fal.ai/verify)[Report Content](https://fal.ai/report-content)[Gen Media Report 2026](https://fal.ai/gen-media-report-volume-2)
 
-#### Learn more
+[Trust & Safety](https://fal.ai/legal/trust-and-safety)[Careers](https://fal.ai/careers)[Blog](https://fal.ai/blog)[Get in touch](mailto:support@fal.ai)[Grants](https://fal.ai/grants)[Legal](https://fal.ai/legal)[Your Privacy Choices](#your-privacy-choices)[Learn](https://fal.ai/learn)
 
-[Status](https://status.fal.ai/)[About Us](https://fal.ai/about)[Documentation](https://fal.ai/docs/documentation)[Trust & Safety](https://fal.ai/legal/trust-and-safety)[Verify fal-Generated Content](https://fal.ai/verify)[Careers](https://fal.ai/careers)[Pricing](https://fal.ai/pricing)[Inference Platform](https://fal.ai/inference)[Blog](https://blog.fal.ai/)[Enterprise](https://fal.ai/enterprise)[Get in touch](mailto:support@fal.ai)[Report Content](https://fal.ai/report-content)[Grants](https://fal.ai/grants)[Events](https://fal.ai/events)[Legal](https://fal.ai/legal)[Site Directory](https://fal.ai/directory)[Press](mailto:press@fal.ai)Your Privacy Choices![California Consumer Privacy Act (CCPA) Opt-Out Icon](/privacy-options.svg)[Learn](https://fal.ai/learn)[Gen Media Report Vol. 2](https://fal.ai/gen-media-report-volume-2)
+Image Models
 
-#### Image Models
+[Seedream 5.0](https://fal.ai/seedream-5.0)[GPT Image 2.5](https://fal.ai/gpt-image-2.5)[GPT Image 2](https://fal.ai/gpt-image-2)[Flux 2](https://fal.ai/models/fal-ai/flux-2-flex)[Nano Banana 2](https://fal.ai/nano-banana-2)[Ideogram 4](https://fal.ai/ideogram-4)[Krea 2](https://fal.ai/krea-2)[Nano Banana Pro](https://fal.ai/models/fal-ai/nano-banana-pro/edit)[Qwen Image 3](https://fal.ai/qwen-image-3)[Explore More](https://fal.ai/explore)
 
-[Seedream 5.0](https://fal.ai/seedream-5.0)[GPT Image 2.5](https://fal.ai/gpt-image-2.5)[GPT Image 2](https://fal.ai/gpt-image-2)[Flux 2](https://fal.ai/models/fal-ai/flux-2-flex)[Nano Banana 2.1](https://fal.ai/nano-banana-2.1)[Nano Banana 2](https://fal.ai/nano-banana-2)[Ideogram 4](https://fal.ai/ideogram-4)[Krea 3](https://fal.ai/krea-3)[Krea 2](https://fal.ai/krea-2)[Nano Banana Pro](https://fal.ai/models/fal-ai/nano-banana-pro/edit)[Qwen Image 3](https://fal.ai/qwen-image-3)[Explore More](https://fal.ai/explore)
-
-#### Video Models
+Video Models
 
 [AI Video Generator](https://fal.ai/tools/ai-video-generator)[Text to Video](https://fal.ai/tools/text-to-video)[Seedance 2.5](https://fal.ai/seedance-2.5)[Seedance 2.0](https://fal.ai/seedance-2.0)[Gemini Omni](https://fal.ai/gemini-omni)[MiniMax H3](https://fal.ai/minimax-h3)[Kling 3.0](https://fal.ai/models/fal-ai/kling-video/o3/standard/image-to-video)[Veo 3.1](https://fal.ai/models/fal-ai/veo3.1)[Grok Imagine 1.5](https://fal.ai/grok-imagine-video-1.5)[Happy Horse 1.1](https://fal.ai/models/alibaba/happy-horse/v1.1/text-to-video)[Happy Oyster](https://fal.ai/happy-oyster)[Wan 3.0](https://fal.ai/wan-3)[LTX 2.3](https://fal.ai/ltx-2.3)[PixVerse V6](https://fal.ai/pixverse-v6)
 
-#### Labs
+Labs
 
 [Black Forest Labs](https://fal.ai/explore/black-forest-labs)[Google](https://fal.ai/explore/google)[OpenAI](https://fal.ai/explore/openai)[xAI](https://fal.ai/explore/xai)[Alibaba](https://fal.ai/explore/alibaba)[Kling](https://fal.ai/explore/kling)[ByteDance](https://fal.ai/explore/bytedance)[ElevenLabs](https://fal.ai/explore/elevenlabs)
 
-#### Playgrounds
+Playgrounds
 
-[fal Agent](https://fal.ai/agent)[Worlds](https://fal.ai/explore/worlds)[Sandbox](https://fal.ai/sandbox)[Workflows](https://fal.ai/workflows)[Training](https://fal.ai/models/fal-ai/flux-lora-fast-training)[Free Tools](https://fal.ai/tools)[Background Remover](https://fal.ai/tools/background-remover)[Image Upscaler](https://fal.ai/tools/image-upscaler)[Image Extender](https://fal.ai/tools/image-extender)[Image Resizer](https://fal.ai/tools/resize-image)
+[fal Agent](https://fal.ai/agent)[Sandbox](https://fal.ai/sandbox)[Workflows](https://fal.ai/login?returnTo=%2Fworkflows)[Training](https://fal.ai/models/fal-ai/flux-lora-fast-training)[Free Tools](https://fal.ai/tools)[Background Remover](https://fal.ai/tools/background-remover)[Image Upscaler](https://fal.ai/tools/image-upscaler)[Image Extender](https://fal.ai/tools/image-extender)[Image Resizer](https://fal.ai/tools/resize-image)
 
-#### Socials
+Social
 
-[Discord](https://discord.gg/fal-ai)[GitHub](https://github.com/fal-ai)[Reddit](https://www.reddit.com/r/fal/)[Twitter](https://twitter.com/fal)[LinkedIn](https://www.linkedin.com/company/features-and-labels/)[YouTube](https://www.youtube.com/@Fal.AI.Official)[Instagram](https://www.instagram.com/madeonfal)[TikTok](https://www.tiktok.com/@madeonfal)
+[Discord](https://discord.com/invite/fal-ai)[Github](https://github.com/fal-ai)[Reddit](https://www.reddit.com/r/fal/)[X](https://x.com/fal)[LinkedIn](https://www.linkedin.com/company/features-and-labels/)[YouTube](https://www.youtube.com/@Fal.AI.Official)[Instagram](https://www.instagram.com/madeonfal)[TikTok](https://www.tiktok.com/@madeonfal)
 
-Features and Labels, 2026. All Rights Reserved. [Terms of Service](https://fal.ai/legal/terms-of-service) and [Privacy Policy](https://fal.ai/legal/privacy-policy).
+features and labels, 2026. All Rights Reserved. [Terms of Service](https://fal.ai/legal/terms-of-service) and [Privacy Policy](https://fal.ai/legal/privacy-policy).
+
+[](https://fal.ai/)
+
+[![](https://d3e54v103j8qbb.cloudfront.net/img/webflow-badge-icon-d2.89e12c322e.svg)![Made in Webflow](https://d3e54v103j8qbb.cloudfront.net/img/webflow-badge-text-d2.c82cec3b78.svg)](https://webflow.com/?utm_campaign=brandjs)
+
+Copy logo as SVG
