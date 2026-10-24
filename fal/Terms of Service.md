@@ -300,7 +300,7 @@ Learn More
 
 [Status](https://status.fal.ai/)[Documentation](https://fal.ai/docs/documentation)[Pricing](https://fal.ai/pricing)[Serverless](https://fal.ai/serverless)[Enterprise](https://fal.ai/enterprise-hub)[Genmedia CLI](https://genmedia.sh/)[Events](https://fal.ai/events)[Verify fal-Generated Content](https://fal.ai/verify)[Report Content](https://fal.ai/report-content)[Gen Media Report 2026](https://fal.ai/gen-media-report-volume-2)
 
-[Trust & Safety](https://fal.ai/legal/trust-and-safety)[Careers](https://fal.ai/careers)[Blog](https://fal.ai/blog)[Get in touch](mailto:support@fal.ai)[Grants](https://fal.ai/grants)[Legal](https://fal.ai/legal)[Your Privacy Choices](#your-privacy-choices)[Learn](https://fal.ai/learn)
+[Trust & Safety](https://fal.ai/legal/trust-and-safety)[Careers](https://fal.ai/careers)[Blog](https://fal.ai/blog)[Grants](https://fal.ai/grants)[Legal](https://fal.ai/legal)[Your Privacy Choices](#your-privacy-choices)[Learn](https://fal.ai/learn)[Get in touch](mailto:support@fal.ai)
 
 Image Models
 
