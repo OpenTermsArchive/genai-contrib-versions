@@ -1,7 +1,7 @@
 Data Processing Agreement
 -------------------------
 
-**Last updated:** 2026-10-19
+**Last updated:** 2026-10-22
 
 1\. Scope
 ---------
@@ -145,7 +145,7 @@ Any remote access by Berget AI personnel (including home office) shall only be p
 11\. Audits
 -----------
 
-**11.1.** Upon written request of the Customer, Berget AI agrees to make available to the Customer and, where relevant, to the End-Customer, the information necessary to demonstrate compliance with this DPA, and allow for and contribute to audits by the Customer or an established third-party auditor approved by Berget AI (such approval not to be unreasonably withheld) and agreed by both Parties (“Mandated Auditor”), of Berget AI’s systems and premises where the processing of Relevant Personal Data takes place, in order to assess Berget AI’s compliance with this DPA. Berget AI shall permit the Customer, or, where relevant, a Mandated Auditor to inspect and audit Berget AI’s relevant records solely pertaining to the Relevant Personal Data, and to inspect and audit processes and systems related to the processing of the Relevant Personal Data. Berget AI agrees to cooperate in respect of such audits. In cases involving a confirmed personal data breach, a request by a competent Supervisory Authority or other justified urgent circumstances, audits shall be subject to thirty (30) days’ prior written notice.
+**11.1.** Upon written request of the Customer, Berget AI agrees to make available to the Customer and, where relevant, to the End-Customer, the information necessary to demonstrate compliance with this DPA, and allow for and contribute to audits by the Customer or an established third-party auditor approved by Berget AI (such approval not to be unreasonably withheld) and agreed by both Parties (“Mandated Auditor”), of Berget AI’s systems and premises where the processing of Relevant Personal Data takes place, in order to assess Berget AI’s compliance with this DPA. Berget AI shall permit the Customer, or, where relevant, a Mandated Auditor to inspect and audit Berget AI’s relevant records solely pertaining to the Relevant Personal Data, and to inspect and audit processes and systems related to the processing of the Relevant Personal Data. Berget AI agrees to cooperate in respect of such audits. All audits under this Section 11.1 shall be subject to thirty (30) days’ prior written notice.
 
 **11.2.** Where an audit may lead to the disclosure of business or trade secrets of Berget AI (or its Affiliates or other customers) or otherwise pose a threat to intellectual property rights of Berget AI, the Customer shall employ a Mandated Auditor to carry out such audit. Whenever a Mandated Auditor is used, the Customer shall procure such Mandated Auditor’s acceptance to be bound to confidentiality to Berget AI’s benefit by way of such confidentiality undertaking as accepted by Berget AI.
 
