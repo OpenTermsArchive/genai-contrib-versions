@@ -1,30 +1,110 @@
 Service Level Agreement
 =======================
 
-**Last Updated:** 2025-10-16
+**Last updated:** 2026-10-23
 
-1\. **Scope.** This service level agreement (“SLA”) is an integral part of the Agreement between Berget and the Customer. This SLA does not apply to: (i) Free Trials; (ii) Berget website (iii) serverless inference services
+1\. Scope
+---------
 
-2\. **Service Guarantee.** Subject to the exemptions set out in Sections 1 and 8 of this SLA, we will guarantee you the availability of the Services. For all unscheduled interruptions in the provision of the Service that last longer than five (5) minutes, you will be entitled to an SLA-compensation in accordance with this SLA. The availability guarantee is applied on a per Service-item basis and is not applicable to such Service-items that are not directly affected by the interruption. For example, if you have five kubernetes clusters and one of them is unavailable, the SLA-compensation will be calculated based on that one cluster downtime and not based on your entire Service portfolio.
+This service level agreement (“SLA”) is an integral part of the Agreement between Berget and the Customer. It sets out the service levels for each of Berget’s Services:
 
-3\. **Scheduled Interruptions.** We will notify you by e-mail or by publishing a notice on Berget’s website about scheduled interruptions in the provision of the Service at least 24 hours prior to the interruption, with the exception of important security updates and patches which we may deploy without prior notice.
+| Service | Service level |
+| --- | --- |
+| Serverless Inference, including Berget Code | Best effort |
+| Dedicated Inference, single instance | Best effort, SLO 99.5% monthly uptime |
+| Dedicated Inference, HA setup | 99.5% monthly uptime |
+| Dedicated Inference, HA setup across multiple sites | Above 99.5%, agreed in the Sales Order |
+| Kubernetes Cluster | Best effort, unless agreed in the Order |
 
-4\. **Error Notifications.** If you detect an interruption in the Service, you have to notify us by sending an e-mail to [outages@berget.ai](mailto:outages@berget.ai). The interruption in the Service is deemed to begin when the failure starts to affect your use of the Service, and to end when the failure has been corrected. We will maintain a system status page at [https://status.berget.ai](https://status.berget.ai/) where we will post information about identified interruptions and their resolution status.
+“HA” (high availability) means a redundant setup that keeps the Service available even if a single instance fails, as described in Section 4.1.
 
-5\. **Payment of Compensation.** If you are eligible for an SLA-compensation under this SLA, you must claim the SLA-compensation within 15 (fifteen) days after the failure has been corrected by contacting our Support Team at [support@berget.ai](mailto:support@berget.ai) and requesting the SLA-compensation. The SLA-compensation will be deposited to your Account in the form of Credits and it may not be exchanged for cash or other forms of payment.
+This SLA does not apply to Free Trials, the Trial plan, Preview models or features, or the Berget website and Berget Console.
 
-6\. **Amount of SLA-compensation.** The amount of the SLA-compensation will be 50 (fifty) times Berget’s service fees charged for the interrupted Service-item allocated for the period of time when the use of that Service-item was interrupted. The maximum SLA-compensation for an individual interruption shall be limited to an amount equal to the service fees charged by Berget for the interrupted Service-item during 30 (thirty) calendar days immediately preceding the interruption. The total sum of aggregated SLA-compensations during any 12-month period shall be limited to an amount equal to the average monthly service fee charged by Berget for the interrupted Service during that 12-month period multiplied by 2,5.
+Where the Customer’s Sales Order specifies service levels that differ from this SLA, the Sales Order prevails.
 
-7\. **Sole Remedy.** The SLA-compensation set out above will be your sole remedy for any interruptions in the Service. In case of a disagreement over the amount of the SLA-compensation payable to the Customer, Berget’s decision on the issue will be binding on the Parties until and unless a competent court rules otherwise.
+2\. Definitions
+---------------
 
-8\. **Exemptions from Service Guarantee.** The following situations will be exempt from Berget’s service guarantee and thus not subject to SLA-compensation:
+Capitalised terms not defined in this SLA have the meaning given in the Terms of Service.
 
-1.  Scheduled interruptions and deployment of important security updates and patches.
+**Deployment** means a single Dedicated Inference deployment of a model, as specified in the Order, including all of its instances and any fallback under Section 4.1(b).
+
+**Monthly Fees** means the fees invoiced by Berget for the affected Deployment for the affected calendar month.
+
+**Unavailable.** A Deployment is Unavailable when all requests to the Customer’s endpoint(s) fail with server errors (HTTP 5xx) or receive no response, due to a failure in Berget’s infrastructure. With an HA setup, the Deployment is Unavailable only when all instances, including any fallback, are unavailable at the same time. Periods shorter than five (5) consecutive minutes are not counted.
+
+**Monthly Uptime Percentage** is calculated per Deployment as:
+
+(total minutes in the calendar month − minutes Unavailable) / total minutes in the calendar month × 100%
+
+**Response times.** Latency, time to first token and throughput are not covered by this SLA. A slow response is not Unavailability.
+
+3\. Best Effort
+---------------
+
+For Services provided on a best-effort basis, Berget uses commercially reasonable efforts to keep the Service available and to restore it promptly after an interruption, but makes no commitment regarding uptime or performance, and no compensation is payable for interruptions. Sections 5 (Scheduled Maintenance) and 6 (Incidents and Status) apply to all Services.
+
+4\. Dedicated Inference
+-----------------------
+
+Dedicated Inference runs the Customer’s model on GPUs reserved for the Customer alone. The uptime commitment depends on whether the Customer has a high-availability (“HA”) setup.
+
+### 4.1 HA setup means either:
+
+**(a) Redundant deployment.** At least two dedicated instances of the same model, each running on separate GPUs, as specified in the Order. Uptime above 99.5% requires instances in separate sites and is agreed in the Order.
+
+**(b) Public endpoint fallback.** One dedicated instance with failover to Berget’s Serverless Inference for the same model. This option qualifies only while that model has Active status under Berget’s Model Lifecycle policy. Models in Preview never qualify. If the model is Deprecated, the uptime commitment applies until its end-of-life date and then lapses, unless the Customer moves to option (a).
+
+### 4.2 Uptime commitment
+
+For a Deployment with an HA setup, Berget will use commercially reasonable efforts to maintain a Monthly Uptime Percentage of at least 99.5%. The commitment applies only for as long as the Customer maintains the HA setup specified in the Order.
+
+### 4.3 Single instance
+
+A Deployment without an HA setup is provided on a best-effort basis under Section 3.
+
+5\. Scheduled Maintenance
+-------------------------
+
+Berget will notify the Customer of scheduled maintenance at least seven (7) days in advance, by e-mail or by a notice on Berget’s website. Important security updates and patches may be deployed without prior notice.
+
+For Deployments with an HA setup, Berget performs maintenance one instance at a time where possible, so that the Deployment remains available. Scheduled maintenance notified in accordance with this Section, and important security updates and patches, are excluded from the Monthly Uptime Percentage.
+
+6\. Incidents and Status
+------------------------
+
+Berget publishes information about incidents and their resolution at [https://status.berget.ai](https://status.berget.ai/). If the Customer detects an interruption, the Customer should notify Berget at [outages@berget.ai](mailto:outages@berget.ai).
+
+7\. Compensation
+----------------
+
+If the Monthly Uptime Percentage of a Deployment with an HA setup falls below 99.5%, the Customer is entitled to a reduction of the Monthly Fees as follows:
+
+| Monthly Uptime Percentage | Reduction of Monthly Fees |
+| --- | --- |
+| Below 99.5%, but at least 99.0% | 10% of fees for impacted service |
+| Below 99.0% | 25% of fees for impacted service |
+
+Compensation is calculated per affected Deployment only. It is applied as a reduction of the Customer’s next invoice on the specific impacted service deployment and cannot be exchanged for cash.
+
+To receive compensation, the Customer must submit a claim with a description of the interruption to [support@berget.ai](mailto:support@berget.ai) within thirty (30) days after the end of the month in which it occurred.
+
+8\. Sole Remedy
+---------------
+
+The compensation in Section 7 is the Customer’s sole remedy for any interruption of the Services. If the Parties disagree about the amount of compensation, Berget’s decision is binding until a competent court rules otherwise.
+
+9\. Exclusions
+--------------
+
+The following are excluded from the Monthly Uptime Percentage and are not subject to compensation:
+
+1.  Scheduled maintenance and important security updates and patches, as set out in Section 5.
 2.  Force Majeure events.
-3.  Failures caused by errors in Third-Party Products utilised by the Customer within the Service.
-4.  Failures in products or services which are not part of the Service or provided by Berget.
-5.  Failures caused by the Customer’s actions contrary to user instructions or resulting from the Customer’s operating systems or application software used within the Service.
-6.  Interruptions in the Service relating to the Customer’s violation of or failure to comply with these Terms or a User’s violations of the Acceptable Use Policy.
+3.  Failures caused by Third-Party Products used by the Customer within the Service.
+4.  Failures in products or services that are not provided by Berget.
+5.  Failures caused by the Customer acting contrary to Berget’s instructions, or by the Customer’s own software or configuration.
+6.  Interruptions related to the Customer’s breach of the Agreement or the Acceptable Use Policy.
 7.  Failures caused by hostile actions of third parties, such as denial-of-service attacks.
-8.  Interruptions relating to actions Berget is obliged to take pursuant to applicable laws or Governmental Authority’s orders.
-9.  Interruptions resulting from the Customer not having sufficient balance of Credits on the Account for the use of the Service at the time of the interruption.
+8.  Actions Berget is obliged to take under applicable law or an order from a Governmental Authority.
+9.  Suspension of the Service due to unpaid invoices or insufficient Credits under the Agreement.
