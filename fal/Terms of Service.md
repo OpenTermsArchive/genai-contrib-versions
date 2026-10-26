@@ -327,5 +327,3 @@ features and labels, 2026. All Rights Reserved. [Terms of Service](https://fal.a
 [](https://fal.ai/)
 
 [![](https://d3e54v103j8qbb.cloudfront.net/img/webflow-badge-icon-d2.89e12c322e.svg)![Made in Webflow](https://d3e54v103j8qbb.cloudfront.net/img/webflow-badge-text-d2.c82cec3b78.svg)](https://webflow.com/?utm_campaign=brandjs)
-
-Copy logo as SVG
