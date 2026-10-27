@@ -1,9 +1,11 @@
 Privacy Policy
 ==============
 
-Last updated: March 9, 2026
+Last updated: October 26, 2026
 
-This Privacy Policy explains how Cognition AI, Inc (“**we**”, “**our**” or “**us**”) collect, use, disclose, and safeguard your information when you use visit our website (cognition.com), our software-as-a-service offerings that we make available to individuals and enterprise customers (e.g., Devin and Windsurf), along with any associated software, apps and websites (collectively, the “**Services**”).
+We updated this Privacy Policy to add detail about the opt-out choices on our Privacy Choices page, including Global Privacy Control, and to describe our sharing with advertising partners.
+
+This Privacy Policy explains how Cognition AI, Inc (“**we**”, “**our**” or “**us**”) collect, use, disclose, and safeguard your information when you visit our websites (cognition.com, cognition.ai, and devin.ai), our software-as-a-service offerings that we make available to individuals and enterprise customers (e.g., Devin), along with any associated software, apps and websites (collectively, the “**Services**”). If you use the Services through an organization that has an enterprise agreement with us, such as your employer, the personal information that the organization submits to the Services is governed by our agreement with that organization. If you use Devin EU at app.devin.eu, our [EU Privacy Notice](https://static.devin.eu/privacy) applies and Cognition AI Labs Ireland Limited is the controller of your personal information.
 
 It is important that you understand how we use your information. You should read this page in full, but below are key highlights and some helpful links:
 
@@ -25,12 +27,14 @@ We collect, and in the past 12 months have collected, the following personal inf
 | Account Information | Email address, password, GitHub/GitLab or other git provider username. |
 | Voice input | If you use voice features, we process the audio to generate transcriptions or commands. Audio is deleted after transcription unless otherwise stated. |
 
+We also collect information automatically when you use our websites and Services, such as your IP address, browser and device information, and how you interact with our websites and Services, including sign-ups and purchases. We collect some of this information using cookies and similar technologies, and our advertising partners may collect information about your online activities over time and across different websites when you use our websites.
+
 Personal information does not include information that has been de-identified, anonymized or aggregated. When data is de-identified or anonymized, we maintain it in that form and do not attempt to re-identify the information.
 
 2\. How we use your information
 -------------------------------
 
-We use your personal information to deliver, personalize, operate, improve, create, and develop our Services, to provide you with a secure, smooth, efficient and customized experience as you use our Services, and for legal compliance, and loss prevention. We only use your account password to create and maintain your account and to provide you with the Services. Learn more about how we use your personal information and our legal basis for each such use case below.
+We use your personal information to deliver, personalize, operate, improve, create, and develop our Services, to market our Services, to provide you with a secure, smooth, efficient and customized experience as you use our Services, and for legal compliance, and loss prevention. We only use your account password to create and maintain your account and to provide you with the Services. Learn more about how we use your personal information and our legal basis for each such use case below.
 
 | Why and how we use your information | Information categories used | Legal basis of processing (where applicable) |
 | --- | --- | --- |
@@ -47,9 +51,9 @@ We use your personal information to deliver, personalize, operate, improve, crea
 3\. How and why we share your information
 -----------------------------------------
 
-**We do not sell or share your personal information with third parties for targeted advertising purposes, nor have we done so in the past 12 months. We also do not have actual knowledge that we sell or share for targeted advertising purposes personal information about individuals under 16 years old.** We work with service providers and other third parties to help us provide our Services, and as a result we need to provide certain information with these third parties as described below.
+We disclose, and in the past 12 months have disclosed, identifiers, commercial information, and internet or other electronic network activity information to advertising partners to promote our Services, which may be considered a “sale,” “sharing,” or “targeted advertising” under certain US state privacy laws. You can opt out on our [Privacy Choices](https://codeium.com/privacy-choices) page or the “Your Privacy Choices” link on our websites. You can also opt out by turning on Global Privacy Control (GPC) in your browser, and we will treat the signal as a request to opt out. We do not have actual knowledge that we sell or share for targeted advertising purposes personal information about individuals under 16 years old. We work with service providers and other third parties to help us provide our Services, and as a result we need to provide certain information with these third parties as described below.
 
-We disclose, and in the past 12 months, we've disclosed, the categories of personal data set forth in Section 1 with the following categories of third parties:
+We disclose, and in the past 12 months we've disclosed, the categories of personal data set forth in Section 1 with the following categories of third parties:
 
 *   **Third Party Service Providers** — We provide personal information to third party service providers who help us provide our Services.
 *   **Other Third Parties** — Certain features allow you to display or share information with other users or third parties. For example, you may share Devin AI conversations with other users via shared links. Be sure you trust any user or third party with whom you share information.
@@ -80,7 +84,7 @@ In line with these considerations, we delete information that is no longer neede
 6\. Children's personal information
 -----------------------------------
 
-The Services are not intended for children, and we do not knowingly request or collect any personal information from children. As set out in our Terms, users must be at least 18 years old in order to access the Services.
+The Services are not intended for children, and we do not knowingly request or collect any personal information from children. Users must be at least 18 years old in order to access the Services.
 
 7\. International transfers
 ---------------------------
@@ -97,6 +101,7 @@ Depending on where you live, you may be able to exercise certain privacy rights 
 *   **Right to rectification/correction**: You may have the right to request us to rectify or update any of your personal information that is incomplete or inaccurate.
 *   **Right to object or restrict processing**: You may have the right to restrict or object to us using or transferring your personal information based on our legitimate interests, in the public interest or for direct marketing. We may continue to process your personal information where permitted or required by applicable law.
 *   **Right to withdraw your consent**: To the extent processing of your personal information is based on your consent, you may withdraw your consent at any time. The lawfulness of our processing before you withdraw your consent will not be affected by such withdrawal.
+*   **Right to opt out**: You may have the right to opt out of the “sale” or “sharing” of your personal information, or its use for “targeted advertising.” See Section 3 to learn how.
 *   **Right to Appeal**: If we deny your request, you may have the right to appeal our decision regarding your privacy request.
 *   **Right to lodge a complaint**: You have the right to lodge a complaint with your local data protection authority.
 
