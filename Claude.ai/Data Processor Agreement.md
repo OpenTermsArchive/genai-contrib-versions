@@ -5,7 +5,7 @@
 Data Processing Addendum
 ========================
 
-[Download PDF](https://cdn.sanity.io/files/4zrzovbb/website/d16e60156ee20e9a1c5cfff5c0cabfba39b7c9bf.pdf)
+[Download PDF](https://assets.claude.com/d16e60156ee20e9a1c5cfff5c0cabfba39b7c9bf.pdf)
 
 *   [ADefinitions](#a-definitions)
 *   [BProcessing of Customer Data](#b-processing-of-customer-data)
