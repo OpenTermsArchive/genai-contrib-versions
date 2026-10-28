@@ -5,7 +5,7 @@
 Commercial Terms of Service
 ===========================
 
-[Download PDF](https://cdn.sanity.io/files/4zrzovbb/website/cbc0cee5a5580ef30c81ccf745ef439aa7c47921.pdf)
+[Download PDF](https://assets.claude.com/cbc0cee5a5580ef30c81ccf745ef439aa7c47921.pdf)
 
 *   [AServices](#a-services)
 *   [BCustomer Content](#b-customer-content)
