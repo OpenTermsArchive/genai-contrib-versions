@@ -5,7 +5,7 @@
 Cookie Policy
 =============
 
-[Download PDF](https://cdn.sanity.io/files/4zrzovbb/website/a3c5a36a6df8353a5126af326ca666cc5413d9c7.pdf)
+[Download PDF](https://assets.claude.com/a3c5a36a6df8353a5126af326ca666cc5413d9c7.pdf)
 
 *   [01How Anthropic Uses Cookies](#how-anthropic-uses-cookies)
 *   [02Managing Your Cookie Settings](#managing-your-cookie-settings)
