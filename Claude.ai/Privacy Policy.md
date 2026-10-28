@@ -5,7 +5,7 @@
 Privacy Policy
 ==============
 
-[Download PDF](https://cdn.sanity.io/files/4zrzovbb/website/693a25036936f7e7bf4dd0c299a2e654f14fac01.pdf)
+[Download PDF](https://assets.claude.com/693a25036936f7e7bf4dd0c299a2e654f14fac01.pdf)
 
 *   [01Collection of Personal Data](#1-collection-of-personal-data)
 *   [02Uses of Personal Data Permitted Under Applicable Data Protection Laws](#2-uses-of-personal-data-permitted-under-applicable-data-protection-laws)
@@ -461,7 +461,7 @@ Email: anthropic\_privacy@kimchang.com
 Non-User Privacy Policy
 =======================
 
-[Download PDF](https://cdn.sanity.io/files/4zrzovbb/website/44be6d6368f2da45121099fcefb835b7f54cc6c2.pdf)
+[Download PDF](https://assets.claude.com/44be6d6368f2da45121099fcefb835b7f54cc6c2.pdf)
 
 *   [01What Claude Is](#1-what-claude-is)
 *   [02How Our Models are Trained](#2-how-our-models-are-trained)
