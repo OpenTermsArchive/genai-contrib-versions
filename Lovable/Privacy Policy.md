@@ -269,7 +269,8 @@ Product
 
 *   [Pricing](https://lovable.dev/pricing)
 *   [Student discount](https://lovable.dev/students)
-*   [For Work](https://lovable.dev/for-work)
+*   [For work](https://lovable.dev/for-work)
+*   [Small businesses](https://lovable.dev/small-business)
 *   [Founders](https://lovable.dev/founders)
 *   [Product Managers](https://lovable.dev/product-managers)
 *   [Designers](https://lovable.dev/designers)
