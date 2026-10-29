@@ -109,7 +109,7 @@ We appreciate your feedback. If you choose to provide us feedback, you agree tha
 
 1.  **Automatic renewal.** If you sign up for a paid subscription, we will automatically charge your payment method on each agreed-upon periodic renewal date until you cancel.
     
-2.  **Cancellation.** You may cancel your subscription at any time by going here.
+2.  **Cancellation.** You may cancel your subscription at any time by going [here](https://stability.ai/privacy-center#cancelsub).
     
 3.  **Fees.** We have the right to make changes to the fees applicable to your subscription from time to time, with advance notice. You agree to pay the increase in fees for Services you receive after receiving notice of the increase, unless you cancel the subscription before the renewal term to which the increase in fees will apply.
     
