@@ -6,39 +6,652 @@ We use cookies to enhance your browsing experience, serve personalised ads or co
 
 Customise Reject All Accept All
 
-Privacy Choices ![](https://cdn-cookieyes.com/assets/images/close.svg)
+Customise Consent Preferences ![](https://cdn-cookieyes.com/assets/images/close.svg)
 
 We use cookies to help you navigate efficiently and perform certain functions. You will find detailed information about all cookies under each consent category below.
 
 The cookies that are categorised as "Necessary" are stored on your browser as they are essential for enabling the basic functionalities of the site. ... Show more
 
+For more information on how Google's third-party cookies operate and handle your data, see: [Google Privacy Policy](https://business.safety.google/privacy)
+
 NecessaryAlways Active
 
 Necessary cookies are required to enable the basic features of this site, such as providing secure log-in or adjusting your consent preferences. These cookies do not store any personally identifiable data.
+
+*   Cookie
+    
+    VISITOR\_PRIVACY\_METADATA
+    
+*   Duration
+    
+    6 months
+    
+*   Description
+    
+    YouTube sets this cookie to store the user's cookie consent state for the current domain.
+    
+
+*   Cookie
+    
+    rc::a
+    
+*   Duration
+    
+    Never Expires
+    
+*   Description
+    
+    This cookie is set by the Google recaptcha service to identify bots to protect the website against malicious spam attacks.
+    
+
+*   Cookie
+    
+    rc::c
+    
+*   Duration
+    
+    session
+    
+*   Description
+    
+    This cookie is set by the Google recaptcha service to identify bots to protect the website against malicious spam attacks.
+    
+
+*   Cookie
+    
+    m
+    
+*   Duration
+    
+    1 year 1 month 4 days
+    
+*   Description
+    
+    Stripe sets this cookie for fraud prevention purposes. It identifies the device used to access the website, allowing the website to be formatted accordingly.
+    
+
+*   Cookie
+    
+    \_\_stripe\_mid
+    
+*   Duration
+    
+    1 year
+    
+*   Description
+    
+    Stripe sets this cookie to set a unique session identifier to recognize users across sessions.
+    
+
+*   Cookie
+    
+    \_\_stripe\_sid
+    
+*   Duration
+    
+    1 hour
+    
+*   Description
+    
+    Stripe sets this cookie to set a unique session identifier for a single session.
+    
+
+*   Cookie
+    
+    \_\_cf\_bm
+    
+*   Duration
+    
+    1 hour
+    
+*   Description
+    
+    This cookie, set by Cloudflare, is used to support Cloudflare Bot Management.
+    
+
+*   Cookie
+    
+    cookieyes-\*
+    
+*   Duration
+    
+    1 year
+    
+*   Description
+    
+    CookieYes sets this cookie for consent solution management.
+    
+
+*   Cookie
+    
+    euconsent
+    
+*   Duration
+    
+    1 year
+    
+*   Description
+    
+    CookieYes sets this cookie to store data when IAB TCF is enabled.
+    
 
 Functional
 
 Functional cookies help perform certain functionalities like sharing the content of the website on social media platforms, collecting feedback, and other third-party features.
 
+*   Cookie
+    
+    VISITOR\_INFO1\_LIVE
+    
+*   Duration
+    
+    6 months
+    
+*   Description
+    
+    A cookie set by YouTube to measure bandwidth that determines whether the user gets the new or old player interface.
+    
+
+*   Cookie
+    
+    li\_gc
+    
+*   Duration
+    
+    6 months
+    
+*   Description
+    
+    Linkedin set this cookie for storing visitor's consent regarding using cookies for non-essential purposes.
+    
+
+*   Cookie
+    
+    lidc
+    
+*   Duration
+    
+    1 day
+    
+*   Description
+    
+    LinkedIn sets the lidc cookie to facilitate data center selection.
+    
+
+*   Cookie
+    
+    ytidb::LAST\_RESULT\_ENTRY\_KEY
+    
+*   Duration
+    
+    Never Expires
+    
+*   Description
+    
+    The cookie ytidb::LAST\_RESULT\_ENTRY\_KEY is used by YouTube to store the last search result entry that was clicked by the user. This information is used to improve the user experience by providing more relevant search results in the future.
+    
+
 Analytics
 
 Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics such as the number of visitors, bounce rate, traffic source, etc.
+
+*   Cookie
+    
+    ph\_phc\_OQKVIlbmI9arhxBb1xjo2Wz3zJG40X4RVNPTVHS1Gej\_posthog
+    
+*   Duration
+    
+    1 year
+    
+*   Description
+    
+    PostHog uses this cookie for analytics tracking
+    
+
+*   Cookie
+    
+    \_ga\_\*
+    
+*   Duration
+    
+    1 year 1 month 4 days
+    
+*   Description
+    
+    Google Analytics sets this cookie to store and count page views.
+    
+
+*   Cookie
+    
+    \_ga
+    
+*   Duration
+    
+    1 year 1 month 4 days
+    
+*   Description
+    
+    Google Analytics sets this cookie to calculate visitor, session and campaign data and track site usage for the site's analytics report. The cookie stores information anonymously and assigns a randomly generated number to recognise unique visitors.
+    
+
+*   Cookie
+    
+    dmn\_chk\_\*
+    
+*   Duration
+    
+    Less than a minute
+    
+*   Description
+    
+    PostHog setup check
+    
+
+*   Cookie
+    
+    YSC
+    
+*   Duration
+    
+    session
+    
+*   Description
+    
+    YSC cookie is set by Youtube and is used to track the views of embedded videos on Youtube pages.
+    
+
+*   Cookie
+    
+    ajs\_anonymous\_id
+    
+*   Duration
+    
+    1 year
+    
+*   Description
+    
+    This cookie is set by Segment to count the number of people who visit a certain site by tracking if they have visited before.
+    
+
+*   Cookie
+    
+    \_\_tld\_\_
+    
+*   Duration
+    
+    session
+    
+*   Description
+    
+    Determines the website’s top-level domain so analytics cookies can be stored consistently and user activity recognized across related subdomains correctly.
+    
+
+*   Cookie
+    
+    \_\_hstc
+    
+*   Duration
+    
+    6 months
+    
+*   Description
+    
+    Hubspot set this main cookie for tracking visitors. It contains the domain, initial timestamp (first visit), last timestamp (last visit), current timestamp (this visit), and session number (increments for each subsequent session).
+    
+
+*   Cookie
+    
+    hubspotutk
+    
+*   Duration
+    
+    6 months
+    
+*   Description
+    
+    HubSpot sets this cookie to keep track of the visitors to the website. This cookie is passed to HubSpot on form submission and used when deduplicating contacts.
+    
+
+*   Cookie
+    
+    \_\_hssrc
+    
+*   Duration
+    
+    session
+    
+*   Description
+    
+    HubSpot cookie sets this cookie to determine if the visitor has restarted their browser. If this cookie does not exist when HubSpot manages cookies, it is considered a new session.
+    
+
+*   Cookie
+    
+    \_\_hssc
+    
+*   Duration
+    
+    1 hour
+    
+*   Description
+    
+    HubSpot sets this cookie to keep track of sessions. This is used to determine if HubSpot should increment the session number and timestamps in the \_\_hstc cookie. It contains the domain, viewCount (which  increments with each pageview in a session), and session start timestamp.
+    
 
 Performance
 
 Performance cookies are used to understand and analyse the key performance indexes of the website which helps in delivering a better user experience for the visitors.
 
+No cookies to display.
+
 Advertisement
 
 Advertisement cookies are used to provide visitors with customised advertisements based on the pages you visited previously and to analyse the effectiveness of the ad campaigns.
+
+*   Cookie
+    
+    \_\_Secure-YNID
+    
+*   Duration
+    
+    6 months
+    
+*   Description
+    
+    YouTube cookie used to protect user security and prevent fraud, especially during the login process.
+    
+
+*   Cookie
+    
+    \_\_Secure-ROLLOUT\_TOKEN
+    
+*   Duration
+    
+    6 months
+    
+*   Description
+    
+    YouTube sets this cookie to manage feature rollout and experimentation. It helps Google control which new features or interface changes are shown to users as part of testing and staged rollouts, ensuring consistent experience for a given user during an experiment.
+    
+
+*   Cookie
+    
+    \_\_Secure-YEC
+    
+*   Duration
+    
+    past
+    
+*   Description
+    
+    Description is currently not available.
+    
+
+*   Cookie
+    
+    \_gr
+    
+*   Duration
+    
+    6 months
+    
+*   Description
+    
+    Gravity ads pixel tracking; primary first-party visitor identifier
+    
+
+*   Cookie
+    
+    gr\_session
+    
+*   Duration
+    
+    1 day
+    
+*   Description
+    
+    Gravity ads pixen tracking.
+    
+
+*   Cookie
+    
+    \_gr\_d
+    
+*   Duration
+    
+    session
+    
+*   Description
+    
+    Gravity ads tracking local storage.
+    
+
+*   Cookie
+    
+    \_fbp
+    
+*   Duration
+    
+    3 months
+    
+*   Description
+    
+    Facebook sets this cookie to store and track interactions.
+    
+
+*   Cookie
+    
+    \_gcl\_au
+    
+*   Duration
+    
+    3 months
+    
+*   Description
+    
+    Google Tag Manager sets this cookie to experiment advertisement efficiency of websites using their services.
+    
+
+*   Cookie
+    
+    test\_cookie
+    
+*   Duration
+    
+    15 minutes
+    
+*   Description
+    
+    doubleclick.net sets this cookie to determine if the user's browser supports cookies.
+    
+
+*   Cookie
+    
+    \_rdt\_uuid
+    
+*   Duration
+    
+    3 months
+    
+*   Description
+    
+    Reddit sets this cookie to build a profile of your interests and show you relevant ads.
+    
+
+*   Cookie
+    
+    \_twsid
+    
+*   Duration
+    
+    1 year 24 days
+    
+*   Description
+    
+    Used by X advertising services to measure campaign performance, track website conversions, and support audience targeting and online remarketing activities.
+    
+
+*   Cookie
+    
+    \_twpid
+    
+*   Duration
+    
+    1 year 24 days
+    
+*   Description
+    
+    Used by Twitter advertising services to track website visits, measure campaign performance, and support conversion attribution and targeted advertising activities.
+    
+
+*   Cookie
+    
+    bcookie
+    
+*   Duration
+    
+    1 year
+    
+*   Description
+    
+    LinkedIn sets this cookie from LinkedIn share buttons and ad tags to recognize browser IDs.
+    
+
+*   Cookie
+    
+    guest\_id\_marketing
+    
+*   Duration
+    
+    1 year 1 month 4 days
+    
+*   Description
+    
+    Twitter sets this cookie to identify and track the website visitor.
+    
+
+*   Cookie
+    
+    guest\_id\_ads
+    
+*   Duration
+    
+    1 year 1 month 4 days
+    
+*   Description
+    
+    Twitter sets this cookie to identify and track the website visitor.
+    
+
+*   Cookie
+    
+    personalization\_id
+    
+*   Duration
+    
+    1 year 1 month 4 days
+    
+*   Description
+    
+    Twitter sets this cookie to integrate and share features for social media and also store information about how the user uses the website, for tracking and targeting.
+    
+
+*   Cookie
+    
+    guest\_id
+    
+*   Duration
+    
+    1 year 1 month 4 days
+    
+*   Description
+    
+    Twitter sets this cookie to identify and track the website visitor. It registers if a user is signed in to the Twitter platform and collects information about ad preferences.
+    
+
+*   Cookie
+    
+    muc\_ads
+    
+*   Duration
+    
+    1 year 1 month 4 days
+    
+*   Description
+    
+    Twitter sets this cookie to collect user behaviour and interaction data to optimize the website.
+    
 
 Uncategorised
 
 Other uncategorised cookies are those that are being analysed and have not been classified into a category as yet.
 
-Reject All Save My Preferences Accept All
+*   Cookie
+    
+    mintlify-auth-key
+    
+*   Duration
+    
+    session
+    
+*   Description
+    
+    Description is currently not available.
+    
 
-Powered by [![](https://cdn-cookieyes.com/assets/images/poweredbtcky.svg)](https://www.cookieyes.com/product/cookie-consent/?ref=cypbcyb&utm_source=cookie-banner&utm_medium=powered-by-cookieyes)
+*   Cookie
+    
+    loom\_anon\_comment
+    
+*   Duration
+    
+    1 year
+    
+*   Description
+    
+    No description available.
+    
+
+*   Cookie
+    
+    \_\_Host-psifi.analyticsTrace
+    
+*   Duration
+    
+    6 hours
+    
+*   Description
+    
+    Description is currently not available.
+    
+
+*   Cookie
+    
+    \_\_Host-psifi.analyticsTraceV2
+    
+*   Duration
+    
+    6 hours
+    
+*   Description
+    
+    Description is currently not available.
+    
+
+*   Cookie
+    
+    destination\_url
+    
+*   Duration
+    
+    session
+    
+*   Description
+    
+    No description available.
+    
+
+Reject All Save My Preferences Accept All
 
 [Home](https://fireworks.ai/)Privacy Notice
 
@@ -281,7 +894,3 @@ Last Modified: 16 SEP, 2026
 [Privacy policy](https://fireworks.ai/privacy-policy)[Terms of service](https://fireworks.ai/terms-of-service)[Security bulletins](https://fireworks.ai/security/bulletins)[Privacy choices](#do-not-sell)
 
 [](https://x.com/FireworksAI_HQ)[](https://www.youtube.com/@fireworksai)[](https://www.linkedin.com/company/fireworks-ai)[](https://discord.com/invite/fireworks-ai)
-
- 
-
-![](https://www.facebook.com/tr?id=2131318554260630&ev=PageView&noscript=1)
