@@ -872,6 +872,7 @@ Last Modified: 16 SEP, 2026
 *   [Cookbooks](https://docs.fireworks.ai/examples/introduction)
 *   [Changelog](https://docs.fireworks.ai/updates/changelog)
 *   [API](https://docs.fireworks.ai/api-reference/introduction)
+*   [Status page](https://status.fireworks.ai/)
 
 ### Resources
 
