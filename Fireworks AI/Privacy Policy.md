@@ -844,6 +844,7 @@ Last Modified: 16 SEP, 2026
 *   [Inference](https://fireworks.ai/product/inference)
 *   [Nexus](https://fireworks.ai/product/nexus)
 *   [Training](https://fireworks.ai/product/training)
+*   [Sovereign](https://fireworks.ai/product/sovereign)
 *   [Pricing](https://fireworks.ai/pricing)
 
 ### Solutions
