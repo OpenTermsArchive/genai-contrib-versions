@@ -6,7 +6,7 @@ Terms of Service
 1.  Scope
     -----
     
-2.  These Terms of Service govern the use of Services provided by Berget AI AB, a Swedish limited liability company with Organizational Number 559504-7522 with address Götgatan 18, Stockholm, Sweden (“Berget”, “we”).
+2.  These Terms of Service govern the use of Services provided by Berget AI AB, a Swedish limited liability company with Organizational Number 559504-7522 with address Urvädersgränd 5, 117 45 Stockholm, Sweden (“Berget”, “we”).
     
 3.  The Service is intended for purchase and use by entities, organisations and private entrepreneurs for their business and professional purposes. The Service is not fit or intended for use by, and Berget is not obliged to provide it for consumers or private persons for their personal use.
     
