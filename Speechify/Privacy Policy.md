@@ -3,7 +3,7 @@ Privacy Policy
 
   
 
-_Updated July 22, 2026_
+_Updated November 05, 2026_
 
   
 
@@ -119,6 +119,60 @@ No, we do not share Personal Data or User Content except in the limited circumst
 Unless your Speechify account is part of a Speechify for Education license, Speechify does not knowingly collect personal information from children under the age of 13. If we determine we have collected personal information from a child younger than 13 years of age, we will take reasonable measures to remove that information from our systems. If you are under the age of 13, please do not submit any personal information through the Site, Service, and/or Software. We encourage parents and legal guardians to monitor their children’s internet usage and to help enforce this Policy by instructing their children never to provide personal information through the Site, Service, and/or Software without their permission.
 
 Please note that in some countries the age of digital consent is older than 13. If you are in one of those countries, you must be at least that age to use the Site, Software, and/or Services.
+
+### AI features and third-party AI providers
+
+Some Speechify features use AI models run by other companies. This section explains which features use them, what data is sent, who receives it, and how you control it.
+
+#### We ask before sending your content to AI providers
+
+The first time you use a feature that relies on an outside AI provider, the Speechify app shows a permission screen. It names each provider and the data it receives. Nothing is sent to the providers below until you tap **Allow**. If you tap **Not now**, the feature doesn't run, the rest of the app keeps working, and scanning stays fully on your device.
+
+#### What we send, and to whom
+
+We send only the data a feature needs to produce the result you asked for. Requests go through Speechify's servers, which pass them to these providers:
+
+**Text, documents, images and messages you use with AI features** (Ask AI, summaries, quizzes, AI podcasts, image descriptions, image generation and scanning):
+
+*   **OpenAI.** GPT models in Ask AI and some summaries, document search in Ask AI, web search, and content moderation. Also a backup for podcast scripts and speech features.
+*   **Google.** Gemini models for summaries, quizzes, AI podcast scripts and voices, image descriptions and Ask AI. Google Cloud Vision reads the text in scanned pages and photos.
+*   **Anthropic.** Claude models in Ask AI.
+*   **fal.** Creates images in Ask AI and podcast cover art.
+
+**Voice recordings and conversations in the Voice Companion:**
+
+*   **Soniox.** Turns your speech into text.
+*   **OpenAI.** Powers the conversation.
+*   **Baseten.** Runs a backup speech recognition model when Soniox is unavailable.
+
+**Text you type or select in the Speechify Keyboard with AI autocorrect or Speak to Edit:**
+
+*   **Inception Labs**, with **Anthropic** as a backup.
+
+**Generated podcast audio:**
+
+*   **AssemblyAI.** Times the words in your AI podcast audio, as a backup.
+
+#### Providers that power listening
+
+These providers help read text aloud and are separate from the permission screen above:
+
+*   **Microsoft Azure and Amazon Polly.** Receive the text you are listening to, only when you choose one of their voices.
+*   **Baseten.** Provides computing infrastructure that runs Speechify's own text-to-speech voices.
+
+#### What we don't send
+
+Dictation in the Speechify Keyboard uses Speechify's own speech recognition model. Dictation recordings are not sent to any outside AI provider.
+
+#### How providers must protect your data
+
+Each provider is contractually required to protect your data at least as well as this Privacy Policy does. Each may use your data only to provide its service to Speechify, and none may use it to train its AI models.
+
+#### How to withdraw permission
+
+You can turn off outside AI providers at any time in the app under **Settings > Privacy Settings**. After you do, no new data is sent to the providers that need your permission. The next time you use an AI feature, the permission screen appears again, and the feature runs only if you tap **Allow**. Withdrawing permission does not affect data processed before you turned it off.
+
+For users in the EEA, Switzerland and the UK, we rely on your consent to share your content with these providers.
 
 ### Data storage, transfer, retention, and deletion
 
