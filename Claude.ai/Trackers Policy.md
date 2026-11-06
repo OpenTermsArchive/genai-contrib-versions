@@ -1,4 +1,4 @@
-### Section 01: How Anthropic Uses Cookies
+### 01How Anthropic Uses Cookies
 
 [Legal center](https://www.anthropic.com/legal)
 
