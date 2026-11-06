@@ -1,11 +1,11 @@
-### Section 01: Who we are.
+### 01Who we are.
 
 [Legal center](https://www.anthropic.com/legal)
 
 Consumer Terms of Service
 =========================
 
-[Download PDF](https://cdn.sanity.io/files/4zrzovbb/website/399b2834d66aef85393d3c0ebe02a68c58dd59a3.pdf)
+[Download PDF](https://assets.claude.com/399b2834d66aef85393d3c0ebe02a68c58dd59a3.pdf)
 
 *   [01Who we are.](#1-who-we-are)
 *   [02Account creation and access.](#2-account-creation-and-access)
