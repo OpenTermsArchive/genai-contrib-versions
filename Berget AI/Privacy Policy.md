@@ -10,7 +10,7 @@ Berget AI AB (“we,” “our,” or “us”) respects your privacy and is com
 
 Berget AI AB, org. no. 559504-7522, is responsible for the processing of The Personal Data.
 
-[gdpr@berget.ai](mailto:gdpr@berget.ai) or [dpo@berget.ai](mailto:dpo@berget.ai)
+[privacy@berget.ai](mailto:privacy@berget.ai) or [dpo@berget.ai](mailto:dpo@berget.ai)
 
 2\. What Personal Data We Collect
 ---------------------------------
@@ -99,7 +99,7 @@ As an **EU resident**, you have the following rights:
 *   **Right to Object:** Object to data processing for marketing or legitimate interests.
 *   **Right to Withdraw Consent:** If processing is based on consent, you can withdraw it anytime.
 
-**To exercise your rights**, contact us at [gdpr@berget.ai](mailto:gdpr@berget.ai). We will respond within **one month**.
+**To exercise your rights**, contact us at [privacy@berget.ai](mailto:privacy@berget.ai). We will respond within **one month**.
 
 10\. International Data Transfers
 ---------------------------------
@@ -112,7 +112,7 @@ We see no reason whatsoever to transfer data outside of the EEA, but in the case
 11\. Complaints & Supervisory Authority
 ---------------------------------------
 
-If you believe we have violated GDPR, you can contact us at [gdpr@berget.ai](mailto:gdpr@berget.ai) to resolve the issue.
+If you believe we have violated GDPR, you can contact us at [privacy@berget.ai](mailto:privacy@berget.ai) to resolve the issue.
 
 File a complaint with your local **Data Protection Authority (DPA)**, Integritetsskyddsmyndigheten (IMY) Email: [imy@imy.se](mailto:imy@imy.se) Phone: +46(0)‭8-657 61 00
 
