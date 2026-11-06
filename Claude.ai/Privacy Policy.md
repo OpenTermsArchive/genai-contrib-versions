@@ -1,4 +1,4 @@
-### Section 01: Collection of Personal Data
+### 01Collection of Personal Data
 
 [Legal center](https://www.anthropic.com/legal)
 
@@ -454,7 +454,7 @@ Email: anthropic\_privacy@kimchang.com
 
 - - -
 
-### Section 01: What Claude Is
+### 01What Claude Is
 
 [Legal center](https://www.anthropic.com/legal)
 
