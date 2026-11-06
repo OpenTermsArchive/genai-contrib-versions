@@ -1,4 +1,4 @@
-### Section A: Definitions
+### ADefinitions
 
 [Legal center](https://www.anthropic.com/legal)
 
