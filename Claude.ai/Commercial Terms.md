@@ -1,4 +1,4 @@
-### Section A: Services
+### AServices
 
 [Legal center](https://www.anthropic.com/legal)
 
