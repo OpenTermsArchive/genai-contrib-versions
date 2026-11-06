@@ -73,7 +73,7 @@ For Deployments with an HA setup, Berget performs maintenance one instance at a 
 6\. Incidents and Status
 ------------------------
 
-Berget publishes information about incidents and their resolution at [https://status.berget.ai](https://status.berget.ai/). If the Customer detects an interruption, the Customer should notify Berget at [outages@berget.ai](mailto:outages@berget.ai).
+Berget publishes information about incidents and their resolution at [https://status.berget.ai](https://status.berget.ai/). If the Customer detects an interruption, the Customer should notify Berget at [support@berget.ai](mailto:support@berget.ai).
 
 7\. Compensation
 ----------------
