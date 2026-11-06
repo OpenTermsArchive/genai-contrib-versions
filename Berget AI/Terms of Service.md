@@ -348,7 +348,7 @@ If any provision of the Agreement is ruled unenforceable by a court of competent
 
 Customer: the customer contact email provided when creating the Account.
 
-30.2. Notices of Illegal Content submitted pursuant to EU Digital Services Act (Regulation 2022/2065 of 19 October 2022) (“DSA Notice”) must be sent by email to: [abuse-reporting@berget.ai](mailto:abuse-reporting@berget.ai) or through another mechanism facilitated by Berget. The DSA Notice must contain: (i) explanation of the reasons why the information in question is considered to be Illegal Content; (ii) the electronic location of that information (e.g. URL), that allows Berget to identify the information; and (iii) the name and email address of the individual or entity submitting the DSA Notice.
+30.2. Notices of Illegal Content submitted pursuant to EU Digital Services Act (Regulation 2022/2065 of 19 October 2022) (“DSA Notice”) must be sent by email to: [abuse@berget.ai](mailto:abuse@berget.ai) or through another mechanism facilitated by Berget. The DSA Notice must contain: (i) explanation of the reasons why the information in question is considered to be Illegal Content; (ii) the electronic location of that information (e.g. URL), that allows Berget to identify the information; and (iii) the name and email address of the individual or entity submitting the DSA Notice.
 
 30.3. This Section 30 does not apply to the service of any proceedings or other documents in any legal action, arbitration or any other method of dispute resolution.
 
