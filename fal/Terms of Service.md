@@ -304,11 +304,11 @@ Learn More
 
 Image Models
 
-[Seedream 5.0](https://fal.ai/seedream-5.0)[GPT Image 2.5](https://fal.ai/gpt-image-2.5)[GPT Image 2](https://fal.ai/gpt-image-2)[Flux 2](https://fal.ai/models/fal-ai/flux-2-flex)[Nano Banana 2](https://fal.ai/nano-banana-2)[Ideogram 4](https://fal.ai/ideogram-4)[Krea 2](https://fal.ai/krea-2)[Nano Banana Pro](https://fal.ai/models/fal-ai/nano-banana-pro/edit)[Qwen Image 3](https://fal.ai/qwen-image-3)[Explore More](https://fal.ai/explore)
+[Seedream 5.0](https://fal.ai/seedream-5.0)[GPT Image 2.6](https://fal.ai/gpt-image-2.6)[FLUX 3 Image](https://fal.ai/models/blackforestlabs/flux-3/text-to-image)[Nano Banana 2.1](https://fal.ai/nano-banana-2.1)[Krea 3](https://fal.ai/krea-3)[Qwen Image 3](https://fal.ai/qwen-image-3)[Explore Image Models](https://fal.ai/explore/best-image-models)
 
 Video Models
 
-[AI Video Generator](https://fal.ai/tools/ai-video-generator)[Text to Video](https://fal.ai/tools/text-to-video)[Seedance 2.5](https://fal.ai/seedance-2.5)[Seedance 2.0](https://fal.ai/seedance-2.0)[Gemini Omni](https://fal.ai/gemini-omni)[MiniMax H3](https://fal.ai/minimax-h3)[Kling 3.0](https://fal.ai/models/fal-ai/kling-video/o3/standard/image-to-video)[Veo 3.1](https://fal.ai/models/fal-ai/veo3.1)[Grok Imagine 1.5](https://fal.ai/grok-imagine-video-1.5)[Happy Horse 1.1](https://fal.ai/models/alibaba/happy-horse/v1.1/text-to-video)[Happy Oyster](https://fal.ai/happy-oyster)[Wan 3.0](https://fal.ai/wan-3)[LTX 2.3](https://fal.ai/ltx-2.3)[PixVerse V6](https://fal.ai/pixverse-v6)
+[AI Video Generator](https://fal.ai/tools/ai-video-generator)[Seedance 2.5](https://fal.ai/seedance-2.5)[MiniMax H3 Max](https://fal.ai/minimax-h3-max)[Kling 4.0](https://fal.ai/kling-4)[FLUX 3 Max](https://fal.ai/flux-3-max)[Wan 3.0](https://fal.ai/wan-3)[LTX 2.5](https://fal.ai/ltx-2.5)[Explore video models](https://fal.ai/pixverse-v6)[PixVerse V6](https://fal.ai/pixverse-v6)
 
 Labs
 
@@ -316,7 +316,7 @@ Labs
 
 Playgrounds
 
-[fal Agent](https://fal.ai/agent)[Sandbox](https://fal.ai/sandbox)[Workflows](https://fal.ai/login?returnTo=%2Fworkflows)[Training](https://fal.ai/models/fal-ai/flux-lora-fast-training)[Free Tools](https://fal.ai/tools)[Background Remover](https://fal.ai/tools/background-remover)[Image Upscaler](https://fal.ai/tools/image-upscaler)[Image Extender](https://fal.ai/tools/image-extender)[Image Resizer](https://fal.ai/tools/resize-image)
+[fal Agent](https://fal.ai/agent)[Sandbox](https://fal.ai/sandbox)[Workflows](https://fal.ai/login?returnTo=%2Fworkflows)[Training](https://fal.ai/models/fal-ai/flux-lora-fast-training)[Free Tools](https://fal.ai/tools)[Background Remover](https://fal.ai/tools/background-remover)[Image Upscaler](https://fal.ai/tools/image-upscaler)[Image Extender](https://fal.ai/tools/image-extender)[Grok Imagine Free](https://fal.ai/grok-imagine-free)
 
 Social
 
@@ -327,5 +327,3 @@ features and labels, 2026. All Rights Reserved. [Terms of Service](https://fal.a
 [](https://fal.ai/)
 
 [![](https://d3e54v103j8qbb.cloudfront.net/img/webflow-badge-icon-d2.89e12c322e.svg)![Made in Webflow](https://d3e54v103j8qbb.cloudfront.net/img/webflow-badge-text-d2.c82cec3b78.svg)](https://webflow.com/?utm_campaign=brandjs)
-
-Copy logo as SVG
