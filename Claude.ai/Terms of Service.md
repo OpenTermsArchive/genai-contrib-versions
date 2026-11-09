@@ -23,24 +23,25 @@ Consumer Terms of Service
 *   [14In case of disputes](#14-in-case-of-disputes)
 *   [15Appendix 1](#appendix-1)
 
-*   Effective
-    
-    Oct 8, 2025
-    
-*   Type
-    
-    Terms
-    
-*   Audience
-    
-    Individual
-    
-*   Language
-    
-    English
-    
-*   See version history
-    
+Effective
+
+Oct 8, 2025
+
+Type
+
+Terms
+
+Audience
+
+Individual
+
+Language
+
+English
+
+Version history
+
+See version history
 
 **Welcome to Anthropic! Before you access our services, please read these User Terms of Service.**
 
