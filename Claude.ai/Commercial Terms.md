@@ -21,20 +21,21 @@ Commercial Terms of Service
 *   [LWarranties and Limits on Liability](#l-warranties-and-limits-on-liability)
 *   [MMiscellaneous](#m-miscellaneous)
 
-*   Effective
-    
-    Jun 17, 2025
-    
-*   Type
-    
-    Terms
-    
-*   Audience
-    
-    Business
-    
-*   See version history
-    
+Effective
+
+Jun 17, 2025
+
+Type
+
+Terms
+
+Audience
+
+Business
+
+Version history
+
+See version history
 
 **Welcome to Anthropic! Before accessing our Services, please read these Commercial Terms of Service.**
 
