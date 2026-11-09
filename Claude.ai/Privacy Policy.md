@@ -19,24 +19,25 @@ Privacy Policy
 *   [10Legal Bases for Processing](#10-legal-bases-for-processing)
 *   [11Regional Supplemental Disclosures](#11-regional-supplemental-disclosures)
 
-*   Effective
-    
-    Sep 10, 2026
-    
-*   Type
-    
-    Policy
-    
-*   Audience
-    
-    Individual
-    
-*   Language
-    
-    English
-    
-*   See version history
-    
+Effective
+
+Sep 10, 2026
+
+Type
+
+Policy
+
+Audience
+
+Individual
+
+Language
+
+English
+
+Version history
+
+See version history
 
 Anthropic is an AI safety and research company working to build reliable, interpretable, and steerable AI systems.
 
@@ -474,24 +475,25 @@ Non-User Privacy Policy
 *   [09Data Retention and Data Lifecycle](#9-data-retention-and-data-lifecycle)
 *   [10Contact Information](#10-contact-information)
 
-*   Effective
-    
-    Jul 8, 2026
-    
-*   Type
-    
-    Policy
-    
-*   Audience
-    
-    All users
-    
-*   Language
-    
-    English
-    
-*   See version history
-    
+Effective
+
+Jul 8, 2026
+
+Type
+
+Policy
+
+Audience
+
+All users
+
+Language
+
+English
+
+Version history
+
+See version history
 
 Anthropic is an AI safety and research company, building reliable, interpretable, and steerable AI systems.
 
