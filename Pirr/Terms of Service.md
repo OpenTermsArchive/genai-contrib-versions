@@ -2,8 +2,6 @@
 
 [Team](https://www.pirr.ai/team)
 
-[Events](https://pirr.as.me/schedule/82a2cfdb)
-
 [Press](https://www.pirr.ai/press-1)
 
 [Contact](https://www.pirr.ai/contact)
