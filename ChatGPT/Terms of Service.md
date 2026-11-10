@@ -251,7 +251,7 @@ OPENAI’S AFFILIATES, SUPPLIERS, LICENSORS, AND DISTRIBUTORS ARE INTENDED THIRD
 
 - - -
 
-Updated: 16 October 2026
+Updated: 10 November 2026
 
 Service terms
 =============
@@ -307,13 +307,13 @@ Users can create and share access to their own customized versions of ChatGPT ca
 
 ### For Users of GPTs:
 
-(a) **Third Party GPTs.** Except where OpenAI is identified as the builder of a GPT, GPTs are created by other users and they may rely on content or third party applications that are not controlled by OpenAI. Use of “GPT” in the name of a GPT created by other users does not imply that OpenAI created, supports or endorses the GPT. Only use GPTs that you know and trust.
+(a) **Third Party GPTs and Business Agents.** Except where OpenAI is identified as the builder of a GPT or Business Agent (as defined in the Businesses with ChatGPT Terms in Section 16 below), GPTs and Business Agents are created by other users and they may rely on content or third party applications that are not controlled by OpenAI. Use of “GPT” in the name of a GPT or Business Agent created by other users does not imply that OpenAI created, supports or endorses the GPT or Business Agent. Only use GPTs and Business Agents that you know and trust.
 
-(b) **Abuse Reporting.** You can report GPTs that violate our [Usage Policies⁠⁠⁠](https://openai.com/policies/usage-policies/) using our reporting feature within ChatGPT.
+(b) **Abuse Reporting.** You can report GPTs or Business Agents that violate our [Usage Policies⁠⁠⁠](https://openai.com/policies/usage-policies/) using our reporting feature within ChatGPT.
 
-(c) **Actions.** GPTs may allow you to interact with Actions. Those Actions are subject to our terms for Apps and Actions below.
+(c) **Actions.** GPTs and Business Agents may allow you to interact with Actions. Those Actions are subject to our terms for Apps and Actions below.
 
-(d) **Changes and Removal.** OpenAI and creators of GPTs can remove GPTs at any time for any reason without prior notice.
+(d) **Changes and Removal.** OpenAI and creators of GPTs and Business Agents can remove GPTs and Business Agents at any time for any reason without prior notice.
 
 6\. Image and Video Capabilities
 --------------------------------
@@ -388,3 +388,8 @@ Your use of Financial Services, including third-party data and content, is subje
 Sign in with ChatGPT (“SIWC”) allows developers to enable users to connect their ChatGPT accounts, including certain features or functionality within those accounts, to their tool, application, or website. If you use SIWC in your services, the [Sign in with ChatGPT Terms](https://openai.com/policies/sign-in-with-chatgpt-terms/) apply.
 
 If you are a user connecting your account to a service using SIWC, you agree to share information necessary to authenticate you (including name, email, and/or profile photo) and, where relevant, your ChatGPT usage. The information you share with another service will be subject to that service’s terms, policies, and configuration.
+
+16\. Businesses in ChatGPT
+--------------------------
+
+Businesses in ChatGPT allows businesses to claim and manage their business listings, configure Business Agents, and access related tools and insights. If you access or use Businesses in ChatGPT, the [Businesses in ChatGPT Terms](https://openai.com/policies/businesses-in-chatgpt-terms/) apply.
