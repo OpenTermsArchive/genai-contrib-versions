@@ -335,65 +335,35 @@ UTM Medium
 
 UTM Content
 
-**Sana**
-
-*   [Overview](https://sanalabs.com/products/sana/)
-*   [AI agents](https://sanalabs.com/products/sana/ai-agents)
-*   [Enterprise search](https://sanalabs.com/products/sana/enterprise-search)
-*   [Solutions](#)
-    
-    Industries
-    
-    *   [Financial services](https://sanalabs.com/products/sana/solutions/industries/financial-services)
-    *   [Consulting firms](https://sanalabs.com/products/sana/solutions/industries/consulting-firms)
-    *   [Law firms](https://sanalabs.com/products/sana/solutions/industries/law-firms)
-    *   [Tech companies](https://sanalabs.com/products/sana/solutions/industries/tech-companies)
-    *   [Private equity](https://sanalabs.com/products/sana/solutions/industries/private-equity)
-    *   [Industrial companies](https://sanalabs.com/products/sana/solutions/industries/industrial-companies)
-    
-    Teams
-    
-    *   [Sales & GTM](https://sanalabs.com/products/sana/solutions/teams/sales-gtm)
-    *   [Marketing](https://sanalabs.com/products/sana/solutions/teams/marketing)
-    *   [Operations](https://sanalabs.com/products/sana/solutions/teams/in-house-operations)
-    *   [Customer support](https://sanalabs.com/products/sana/solutions/teams/customer-support)
-    
-*   [Integrations](https://sanalabs.com/products/sana/integrations)
-*   [Events](https://sanalabs.com/products/sana/events)
-*   [Security](https://sanalabs.com/products/sana/security)
-*   [Resources](https://sanalabs.com/products/sana/resources)
-*   [Stories](https://sanalabs.com/products/sana/stories)
-*   [Pricing](https://sanalabs.com/products/sana/pricing)
-*   [Help Center](https://support.sana.ai/en/)
-
 **Sana Learn**
 
 *   [Overview](https://sanalabs.com/products/sana-learn/)
 *   [Learning management](https://sanalabs.com/products/sana-learn/learning-management)
 *   [Content creation](https://sanalabs.com/products/sana-learn/content-creation)
-*   [Solutions](#)
-    
-    *   [Sales enablement](https://sanalabs.com/products/sana-learn/solutions/sales-enablement)
-    *   [Compliance training](https://sanalabs.com/products/sana-learn/solutions/compliance-training)
-    *   [Employee onboarding](https://sanalabs.com/products/sana-learn/solutions/employee-onboarding)
-    *   [External training](https://sanalabs.com/products/sana-learn/solutions/external-training)
-    *   [Leadership development](https://sanalabs.com/products/sana-learn/solutions/leadership-development)
-    
-*   [Customer stories](https://sanalabs.com/products/sana-learn/customer-stories)
 *   [Integrations](https://sanalabs.com/products/sana-learn/integrations)
-*   [Events](https://sanalabs.com/products/sana-learn/events)
+*   [Customer stories](https://sanalabs.com/products/sana-learn/customer-stories)
 *   [Pricing](https://sanalabs.com/products/sana-learn/pricing)
-*   [Resources](https://sanalabs.com/products/sana-learn/resources)
+*   [Events](https://sanalabs.com/products/sana-learn/events)
 *   [Help Center](https://help.sana.ai/en/)
 *   [Changelog](https://sanalabs.com/sana-learn-changelog)
 
-**Company**
+**Sana from Workday**
 
-*   [Sana AI Summit 2026](https://sanalabs.com/events/sana-ai-summit-2026)
-*   [Strange Loop Podcast](https://sanalabs.com/strange-loop/)
-*   [Swedish AI Reform](https://sanalabs.com/ai-reform)
-*   [Mission](https://sanalabs.com/about)
+*   [Overview](https://sanalabs.com/products/sana/)
+*   [AI agents](https://sanalabs.com/products/sana/ai-agents)
+*   [Enterprise search](https://sanalabs.com/products/sana/enterprise-search)
+*   [Integrations](https://sanalabs.com/products/sana/integrations)
+*   [Security](https://sanalabs.com/products/sana/security)
+*   [Pricing](https://sanalabs.com/products/sana/pricing)
+*   [Events](https://sanalabs.com/products/sana/events)
+*   [Help Center](https://support.sana.ai/en/)
+
+**Mission**
+
+*   [Our story](https://sanalabs.com/about)
 *   [Careers](https://sanalabs.com/careers)
+*   [Sana, a Workday company](https://sanalabs.com/workday)
+*   [Strange Loop](https://sanalabs.com/strange-loop/)
 *   [Press](https://sanalabs.com/press)
 *   [Legal](https://sanalabs.com/legal)
 *   [Cookie settings](https://sanalabs.com/legal/cookie-settings)
