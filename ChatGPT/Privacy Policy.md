@@ -6,34 +6,62 @@ Europe privacy policy
 1\. Personal Data we collect
 
 *   [1\. Personal Data we collect](#personal-data-we-collect)
+    
 *   [2\. How we use Personal Data](#how-we-use-personal-data)
+    
 *   [3\. Disclosure of Personal Data](#disclosure-of-personal-data)
+    
 *   [4\. Retention](#retention)
+    
 *   [5\. Data controls](#data-controls)
+    
 *   [6\. Your rights](#your-rights)
+    
 *   [7\. Children](#children)
+    
 *   [8\. Security](#security)
+    
 *   [9\. Legal bases for processing](#legal-bases-for-processing)
+    
 *   [10\. Data transfers](#data-transfers)
+    
 *   [11\. Changes to the privacy policy](#changes-to-the-privacy-policy)
+    
 *   [12\. Data controller](#data-controller)
+    
 *   [13\. How to contact us](#how-to-contact-us)
+    
 *   [14\. Useful resources](#useful-resources)
+    
 
 *   [1\. Personal Data we collect](#personal-data-we-collect)
+    
 *   [2\. How we use Personal Data](#how-we-use-personal-data)
+    
 *   [3\. Disclosure of Personal Data](#disclosure-of-personal-data)
+    
 *   [4\. Retention](#retention)
+    
 *   [5\. Data controls](#data-controls)
+    
 *   [6\. Your rights](#your-rights)
+    
 *   [7\. Children](#children)
+    
 *   [8\. Security](#security)
+    
 *   [9\. Legal bases for processing](#legal-bases-for-processing)
+    
 *   [10\. Data transfers](#data-transfers)
+    
 *   [11\. Changes to the privacy policy](#changes-to-the-privacy-policy)
+    
 *   [12\. Data controller](#data-controller)
+    
 *   [13\. How to contact us](#how-to-contact-us)
+    
 *   [14\. Useful resources](#useful-resources)
+    
 
 ([Previous version⁠](https://openai.com/policies/eu-privacy-policy/revisions/2026-06-04/))
 
@@ -67,7 +95,7 @@ We collect personal data relating to you (“Personal Data”) as follows:
 
 *   _Log Data_: We collect information that your browser or device automatically sends when you use our Services. Log data includes your Internet Protocol address, browser type and settings, the date and time of your request, and how you interact with our Services. 
     
-*   _Usage Data_: We collect information about your use and activity across the Services, such as the types of content that you view or engage with, the features you use and the actions you take, when you submit feedback to a model response, the people with whom you interact, as well as your time zone, country, the dates and times of access, user agent and version, type of computer or mobile device, and your computer connection. For [Free⁠](https://chatgpt.com/plans/free/?openaicom-did=6384b076-8d6d-4c0a-af8c-149e24cf37b8&openaicom_referred=true) and [Go⁠](https://help.openai.com/articles/11989085-what-is-chatgpt-go) users, we also collect information about your ads history and interests, such as the types of ad content that you view or engage with. If you use the in-app browser we may also collect your browser data according to your controls and use of the service.  
+*   _Usage Data_: We collect information about your use and activity across the Services, such as the types of content that you view or engage with, the features you use and the actions you take, when you submit feedback to a model response, the people with whom you interact, as well as your time zone, country, the dates and times of access, user agent and version, type of computer or mobile device, and your computer connection. For [Free⁠](https://chatgpt.com/plans/free/?openaicom-did=3aac4e74-b86d-489b-ae90-ced3eba6cb4b&openaicom_referred=true) and [Go⁠](https://help.openai.com/articles/11989085-what-is-chatgpt-go) users, we also collect information about your ads history and interests, such as the types of ad content that you view or engage with. If you use the in-app browser we may also collect your browser data according to your controls and use of the service.  
     
 *   _Device Information_: We collect information about the device you use to access the Services, such as the name of the device, operating system, device identifiers, and browser you are using. Information collected depends on the type of device you use and its settings.
     
@@ -317,12 +345,18 @@ Learn more about how OpenAI uses content from our services to improve and train 
 Services for individuals, such as ChatGPT, Sora, and Operator
 
 *   [Services for individuals, such as ChatGPT, Sora, and Operator](#services-for-individuals-such-as-chatgpt-sora-and-operator)
+    
 *   [Services for businesses, such as ChatGPT Team, ChatGPT Enterprise, and our API Platform](#services-for-businesses-such-as-chatgpt-team-chatgpt-enterprise-and-our-api-platform)
+    
 *   [What the process looks like](#what-the-process-looks-like)
+    
 
 *   [Services for individuals, such as ChatGPT, Sora, and Operator](#services-for-individuals-such-as-chatgpt-sora-and-operator)
+    
 *   [Services for businesses, such as ChatGPT Team, ChatGPT Enterprise, and our API Platform](#services-for-businesses-such-as-chatgpt-team-chatgpt-enterprise-and-our-api-platform)
+    
 *   [What the process looks like](#what-the-process-looks-like)
+    
 
 One of the most useful and promising features of AI models is that they can improve over time. We continuously improve our models through research breakthroughs as well as exposure to real-world problems and data. When you share your content with us, it helps our models become more accurate and better at solving your specific problems and it also helps improve their general capabilities and safety. ChatGPT, for instance, improves by further training on the conversations people have with it, unless you [opt out⁠](https://help.openai.com/en/articles/7730893-data-controls-faq).
 
