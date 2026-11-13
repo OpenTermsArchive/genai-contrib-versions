@@ -1,9 +1,9 @@
-Updated: 1 January 2026
+Updated: 12 November 2026
 
 Service credit terms
 ====================
 
-These OpenAI Service Credit Terms (“Terms”) are an agreement between you and OpenAI OpCo, LLC (or our affiliates) and govern your purchase, receipt, or use of any credit redeemable for our Services (“Service Credit”). Capitalized terms used but not defined in these Terms will have the meanings set forth in the agreement between you and OpenAI governing your use of the applicable Services (the “Agreement”).
+These OpenAI Service Credit Terms (“Terms”) are an agreement between you and OpenAI OpCo, LLC (or our affiliates) and govern your purchase, receipt, or use of any credit redeemable for our Services (“Service Credit”). These Terms supplement the [OpenAI Terms of Use⁠](https://openai.com/policies/terms-of-use/), [OpenAI Services Agreement⁠](https://openai.com/policies/services-agreement/), or other agreement between you and OpenAI governing your use of the applicable Services, as applicable (the “Agreement”). Capitalized terms used but not defined in these Terms will have the meanings set forth in the Agreement.
 
 1.  We may offer the option to prepay for certain Services through the purchase of credits (“Prepaid Service Credits”). Prepaid Service Credits represent the amount you have paid in advance for use of the respective Services. Additional terms may apply to specific Services.
     
@@ -11,7 +11,7 @@ These OpenAI Service Credit Terms (“Terms”) are an agreement between you and
     
 3.  Service Credits are not legal tender or currency; are not redeemable, refundable, or exchangeable for any sum of money or monetary value (except where required by law); have no equivalent value in fiat currency; do not act as a substitute for fiat currency; and do not constitute or confer upon you any personal property right. Service Credits are non-transferable and may be used only in connection with the applicable Service for which they were issued.
     
-4.  All sales of Services, including sales of prepaid Services, are final. Service Credits are not refundable except where required by law, and expire one year after the date of purchase or issuance if not used, unless otherwise specified at the time of purchase.
+4.  All sales of Services, including sales of prepaid Services, are final. Service Credits are not refundable except where required by law, and expire one year\* after the date of purchase or issuance if not used, unless otherwise specified at the time of purchase. \*In Japan only, all Service Credits issued on or after November 13, 2026 will expire 180 days after purchase or issuance.
     
 5.  Your available Service Credit balance may be reviewed in your applicable OpenAI account or workspace, depending on the specific Service. You are solely responsible for verifying that the proper amount of Service Credits has been added to or deducted from your balance. Your Service Credit balance is not a bank account, digital wallet, stored value account, or other payment device.
     
