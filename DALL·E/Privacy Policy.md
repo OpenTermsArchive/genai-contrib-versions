@@ -10,34 +10,62 @@ Europe privacy policy
 1\. Personal Data we collect
 
 *   [1\. Personal Data we collect](#personal-data-we-collect)
+    
 *   [2\. How we use Personal Data](#how-we-use-personal-data)
+    
 *   [3\. Disclosure of Personal Data](#disclosure-of-personal-data)
+    
 *   [4\. Retention](#retention)
+    
 *   [5\. Data controls](#data-controls)
+    
 *   [6\. Your rights](#your-rights)
+    
 *   [7\. Children](#children)
+    
 *   [8\. Security](#security)
+    
 *   [9\. Legal bases for processing](#legal-bases-for-processing)
+    
 *   [10\. Data transfers](#data-transfers)
+    
 *   [11\. Changes to the privacy policy](#changes-to-the-privacy-policy)
+    
 *   [12\. Data controller](#data-controller)
+    
 *   [13\. How to contact us](#how-to-contact-us)
+    
 *   [14\. Useful resources](#useful-resources)
+    
 
 *   [1\. Personal Data we collect](#personal-data-we-collect)
+    
 *   [2\. How we use Personal Data](#how-we-use-personal-data)
+    
 *   [3\. Disclosure of Personal Data](#disclosure-of-personal-data)
+    
 *   [4\. Retention](#retention)
+    
 *   [5\. Data controls](#data-controls)
+    
 *   [6\. Your rights](#your-rights)
+    
 *   [7\. Children](#children)
+    
 *   [8\. Security](#security)
+    
 *   [9\. Legal bases for processing](#legal-bases-for-processing)
+    
 *   [10\. Data transfers](#data-transfers)
+    
 *   [11\. Changes to the privacy policy](#changes-to-the-privacy-policy)
+    
 *   [12\. Data controller](#data-controller)
+    
 *   [13\. How to contact us](#how-to-contact-us)
+    
 *   [14\. Useful resources](#useful-resources)
+    
 
 ([Previous version⁠](https://openai.com/policies/eu-privacy-policy/revisions/2026-06-04/))
 
@@ -71,7 +99,7 @@ We collect personal data relating to you (“Personal Data”) as follows:
 
 *   _Log Data_: We collect information that your browser or device automatically sends when you use our Services. Log data includes your Internet Protocol address, browser type and settings, the date and time of your request, and how you interact with our Services. 
     
-*   _Usage Data_: We collect information about your use and activity across the Services, such as the types of content that you view or engage with, the features you use and the actions you take, when you submit feedback to a model response, the people with whom you interact, as well as your time zone, country, the dates and times of access, user agent and version, type of computer or mobile device, and your computer connection. For [Free⁠(opens in a new window)](https://chatgpt.com/plans/free/?openaicom-did=4baf1149-f25e-4a2f-bf51-e7065ed1496f&openaicom_referred=true) and [Go⁠(opens in a new window)](https://help.openai.com/articles/11989085-what-is-chatgpt-go) users, we also collect information about your ads history and interests, such as the types of ad content that you view or engage with. If you use the in-app browser we may also collect your browser data according to your controls and use of the service.  
+*   _Usage Data_: We collect information about your use and activity across the Services, such as the types of content that you view or engage with, the features you use and the actions you take, when you submit feedback to a model response, the people with whom you interact, as well as your time zone, country, the dates and times of access, user agent and version, type of computer or mobile device, and your computer connection. For [Free⁠(opens in a new window)](https://chatgpt.com/plans/free/?openaicom-did=90e86da1-8914-47ea-b0ae-9ebfcc41116d&openaicom_referred=true) and [Go⁠(opens in a new window)](https://help.openai.com/articles/11989085-what-is-chatgpt-go) users, we also collect information about your ads history and interests, such as the types of ad content that you view or engage with. If you use the in-app browser we may also collect your browser data according to your controls and use of the service.  
     
 *   _Device Information_: We collect information about the device you use to access the Services, such as the name of the device, operating system, device identifiers, and browser you are using. Information collected depends on the type of device you use and its settings.
     
