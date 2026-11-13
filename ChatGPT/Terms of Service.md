@@ -251,7 +251,7 @@ OPENAI’S AFFILIATES, SUPPLIERS, LICENSORS, AND DISTRIBUTORS ARE INTENDED THIRD
 
 - - -
 
-Updated: 10 November 2026
+Updated: 12 November 2026
 
 Service terms
 =============
@@ -380,7 +380,7 @@ Your use of Financial Services, including third-party data and content, is subje
 
 (b) **Oversight.** You are responsible for providing oversight appropriate to the task and its potential consequences. This includes setting clear instructions and appropriate limits and reviewing actions and communications. 
 
-(c) **Purchases and payments.** You must have permission to use any account or payment method you provide. You are responsible for transactions made on your behalf. You must provide appropriate purchase guidance, monitor your accounts, and promptly raise any errors with the relevant financial institution or payment provider. Third-party terms may also apply to these transactions.
+(c) **Purchases and payments.** You must have permission to use any account or payment method you provide. You are responsible for transactions made on your behalf. You must provide appropriate purchase guidance, monitor your accounts, and promptly raise any errors with the relevant financial institution or payment provider. Third-party terms may also apply to these transactions. If you are paying using ChatGPT Wallet, [ChatGPT Wallet Terms of Service](https://openai.com/policies/chatgpt-wallet-terms/) and [ChatGPT Wallet Privacy Notice](https://openai.com/policies/chatgpt-wallet-privacy-notice/) apply.
 
 15\. Sign in with ChatGPT
 -------------------------
