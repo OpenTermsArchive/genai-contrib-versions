@@ -251,7 +251,7 @@ OPENAI’S AFFILIATES, SUPPLIERS, LICENSORS, AND DISTRIBUTORS ARE INTENDED THIRD
 
 - - -
 
-Updated: 12 November 2026
+Updated: 13 November 2026
 
 Service terms
 =============
@@ -283,7 +283,7 @@ OpenAI makes no representations or warranties for Beta Services, including any w
 
 (b) **Output indemnity.** OpenAI’s indemnification obligations to Enterprise customers under the Agreement include claims that Customer’s use or distribution of Output infringes a third party’s intellectual property right. This indemnity does not apply where: (i) Customer or Customer’s End Users knew or should have known the Output was infringing or likely to infringe, (ii) Customer or Customer’s End Users disabled, ignored, or did not use any relevant citation, filtering or safety features or restrictions provided by OpenAI, (iii) Output was modified, transformed, or used in combination with products or services not provided by or on behalf of OpenAI, (iv) Customer or its End Users did not have the right to use the Input or fine-tuning files to generate the allegedly infringing Output, (v) the claim alleges violation of trademark or related rights based on Customer’s or its End Users’ use of Output in trade or commerce, and (vi) the allegedly infringing Output is from content from a Third Party Offering.
 
-(c) **ChatGPT for Healthcare.** (i) You should always verify the information provided by ChatGPT for Healthcare and exercise independent professional judgment in decision-making about a patient without relying primarily or solely on the output. Do not use ChatGPT for Healthcare to analyze medical images or patterns/signals from signal acquisition systems or in vitro diagnostic devices (such as an ECG waveforms or genomic sequences). (ii) Customer’s Business Associate and Healthcare Addendum applies to Customer’s use of ChatGPT for Healthcare.
+(c) **ChatGPT for Healthcare.** (i) You should always verify the information provided by ChatGPT for Healthcare and exercise independent professional judgment in decision-making about a patient without relying primarily or solely on the output. Do not use ChatGPT for Healthcare to analyze medical images or patterns/signals from signal acquisition systems or in vitro diagnostic devices (such as an ECG waveforms or genomic sequences). (ii) Customer’s Business Associate and Healthcare Addendum applies to Customer’s use of ChatGPT for Healthcare to the extent that Customer transmits and discloses PHI through the Service.
 
 4\. Codex and Code Generation
 -----------------------------
