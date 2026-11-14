@@ -899,3 +899,5 @@ Last Modified: 16 SEP, 2026
 [Privacy policy](https://fireworks.ai/privacy-policy)[Terms of service](https://fireworks.ai/terms-of-service)[Security bulletins](https://fireworks.ai/security/bulletins)[Privacy choices](#do-not-sell)
 
 [](https://x.com/FireworksAI_HQ)[](https://www.youtube.com/@fireworksai)[](https://www.linkedin.com/company/fireworks-ai)[](https://discord.com/invite/fireworks-ai)
+
+Fireworks - Privacy Policy
