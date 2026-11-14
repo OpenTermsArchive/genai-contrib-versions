@@ -655,6 +655,9 @@ Reject All Save My Preferences Accept All
 
 [Home](https://fireworks.ai/)Privacy Notice
 
+Privacy Notice
+==============
+
 Welcome! We are Fireworks.ai, Inc. This Privacy Notice explains how Fireworks., and its affiliates and subsidiaries (collectively “**Fireworks**”, “**we**”, “**us**” or “**our**”) collects, uses, discloses, and otherwise processes personal data (as defined below) in connection with our website [https://fireworks.ai](https://fireworks.ai/) (the “**Site**”), and related content, services, products, and other functionalities offered on or through our services (collectively, the “**Services**”). This Privacy Notice is not a contract and does not create any legal obligations.
 
 **1\. KEY PRIVACY COMMITMENTS**
