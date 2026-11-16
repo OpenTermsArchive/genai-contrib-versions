@@ -1,7 +1,7 @@
 Terms of Use
 ============
 
-Updated: August 31, 2026
+Updated: November 16, 2026
 
 Our [Business Terms](https://www.wordtune.com/business/terms-of-use) govern use of Wordtune Business, our product for businesses and teams
 
@@ -205,11 +205,11 @@ AI21 Labs Ltd’s products, including but not restricted to Wordtune, are protec
 
 *   In the United States: US11574120, US11610055, US11610056, US11636256,US11699033, US11636257, US11636258, US11610057, US12032921, US12061867, US12124813, US12204871, US12229525, US12277384, _US12346668, US12353465, US 12613900._
 *   In Australia: 2020326435, 2023222905, 2023241291, 2023258365, 2021309651, 2024204869.
-*   In Canada: 3150031, 3176443, 3239449.
+*   In Canada: 3150031, 3176443, 3239449, 3231830.
 
 The contents of the aforementioned lists are subject to change due to issuance, licensing or expiration of patent rights, product changes or launches and other circumstances. The absence of a product or a patent number from these lists does not constitute a waiver of AI21 Labs’s patent, trademark, or other intellectual property rights concerning that product or patent in the relevant country or region.
 
-Last updated: _October 15, 2025_
+Last updated: _November 16, 2026_
 
 ‍
 
