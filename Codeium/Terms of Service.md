@@ -1,11 +1,9 @@
 Platform Terms of Service
 =========================
 
-Last updated: June 30, 2026
+Last updated: November 16, 2026
 
-This update may include material changes to your prior Terms of Service, and in such case, the prior terms shall control until 30 days from the posting of these Terms. You agree that by accessing the Services thereafter, these Terms shall govern your use of the Services.
-
-[Previous version](https://old.cognition.ai/terms-of-service)
+[Previous version](https://codeium.com/legal/platform-terms-of-service/june-2026)
 
 These Terms of Service (“Terms”) govern your use of the Cognition Platform, and other software offerings (“Services”) that Cognition AI, Inc. (“Cognition,” “we,” “us,” or “our”) may offer to individuals or entities who register for and use our Services (each a “Customer”, “you” or “your”). Please carefully read these Terms, along with our [Privacy Policy](https://codeium.com/legal/privacy-policy), which outlines how we handle your data. These Terms and the Privacy Policy form a single binding agreement between you and Cognition (the “Agreement”). Throughout these Terms, Authorized User means your employees, consultants, and agents (i) who are expressly authorized by you to access and use the Services under and in accordance with the rights granted to you pursuant to this Agreement; and (ii) for whom access to the Services has been purchased.
 
@@ -48,6 +46,10 @@ You must be at least 13 years old to use the Services. By agreeing to these Term
 **2.5 Availability:** The Services are subject to modification and change, in Cognition's sole discretion. There are no guarantees made with respect to the quality, stability, availability, or reliability of the Services.
 
 **2.6 Acceptable Use Policy:** Your use of the Services is subject to Cognition's Acceptable Use Policy (“AUP”), available at cognition.ai/aup or such other URL as Cognition may designate. Violation of the AUP may result in suspension or termination of your access to the Services in Cognition's sole discretion.
+
+**2.7 Beta Products.** If Cognition gives you access to an early or prerelease feature or version of the Services or a component or feature of the Services that is identified as beta, preview, or similar (“Beta Product”), the Beta Product is provided “AS IS” with no representations or warranties from Cognition, and Section 9 (Indemnification) does not apply to any Beta Products. Customer acknowledges that Beta Products are experimental in nature and may be modified or removed at Licensor's discretion with or without notice.
+
+**2.8 Customer Integrations.** Certain features and functionalities within the Services may allow Customer or your Authorized Users to interface or interact with, access, or use compatible third-party services, products, software, technology, integration, content, or add-ons not licensed or provided by Licensor that Customer elects to integrate or enable for use with the Services (e.g., IDEs, IDE Plugins not provided by Licensor, GitHub, Web Search, MCP Servers, APIs, payment gateways, payment services) (collectively “Customer Integrations”). Use of Customer Integrations is subject to Customer's agreement with the relevant provider and any additional terms applicable to Customer's use of the Customer Integration. Licensor does not control and is not responsible or liable for Customer Integrations, including their security, functionality, operation, availability, compatibility, or interoperability with the Services or how the Customer Integrations or their providers use Customer Data. By enabling a Customer Integration to interact with the Services, Customer permits the Services to exchange Customer Data with such Customer Integrations. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, LICENSOR DISCLAIMS ALL RESPONSIBILITY AND LIABILITY FOR ANY ACTION, ERROR, OMISSION, LOSS, DATA DISCLOSURE, OR OTHER MATTER ARISING FROM OR RELATING TO A CUSTOMER INTEGRATION, AND NO CLAIM MAY BE BROUGHT AGAINST LICENSOR IN RESPECT THEREOF.
 
 3\. Content rights; intellectual property
 -----------------------------------------
