@@ -1,18 +1,3 @@
-[](https://lovable.dev/home)
-
-[Log in](https://lovable.dev/login?redirect=%2Fterms)[Get started](https://lovable.dev/signup?redirect=%2Fterms)
-
-[](https://lovable.dev/home)
-
-*   Solutions
-*   Resources
-*   [Community](https://lovable.dev/community)
-*   [Enterprise](https://lovable.dev/enterprise-landing)
-*   [Pricing](https://lovable.dev/pricing)
-*   [Security](https://lovable.dev/security)
-
-[Log in](https://lovable.dev/login?redirect=%2Fterms)[Get started](https://lovable.dev/signup?redirect=%2Fterms)
-
 Version:August 28, 2026 (Latest)
 
 **Terms of Service**
