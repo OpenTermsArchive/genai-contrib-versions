@@ -325,5 +325,3 @@ Social
 features and labels, 2026. All Rights Reserved. [Terms of Service](https://fal.ai/legal/terms-of-service) and [Privacy Policy](https://fal.ai/legal/privacy-policy).
 
 [](https://fal.ai/)
-
-Copy logo as SVG
