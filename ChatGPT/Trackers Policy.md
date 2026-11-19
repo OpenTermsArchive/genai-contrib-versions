@@ -1,4 +1,4 @@
-Last updated: 22 October 2026
+Last updated: 19 November 2026
 
 Cookie policy
 =============
@@ -91,6 +91,10 @@ These cookies are required to operate our Services. For example, they allow us t
 | [OpenAI](https://openai.com/policies/privacy-policy/) | \_\_Host-chatgpt\_sites\_session | 400 days | User authentication | .chatgpt.site |
 | [OpenAI](https://openai.com/policies/privacy-policy/) | sites\_preview\_token | Session | Security | .chatgpt.site |
 | [OpenAI](https://openai.com/policies/privacy-policy/) | appgen\_admin\_review\_token | Session | Security | .chatgpt.site |
+| OpenAI | oai-mweb-route | 7 days | Service functionality | chatgpt.com |
+| OpenAI | oai-mweb-origin | Session | Service functionality | chatgpt.com |
+| OpenAI | analytics\_consent\_source | 180 days | Cookie consent | ads.openai.com |
+| OpenAI | \_\_session | 365 days | Customer support | help.openai.com |
 | [Auth0](https://www.okta.com/legal/privacy-policy/) | did | 1 year | User authentication | platform.openai.com |
 | [Auth0](https://www.okta.com/legal/privacy-policy/) | did\_compat | 1 year | User authentication | platform.openai.com |
 | [Auth0](https://www.okta.com/legal/privacy-policy/) | auth0 | 14 days | User authentication | platform.openai.com |
@@ -113,8 +117,8 @@ These cookies are required to operate our Services. For example, they allow us t
 | [Swoogo⁠⁠](https://swoogo.events/legal/cookies/) | cookieconsent\_status | 1 year | Cookie consent | events.openai.com |
 | [Swoogo⁠⁠](https://swoogo.events/legal/cookies/) | PHPSESSID | Session | Service functionality | events.openai.com |
 | [Swoogo⁠⁠](https://swoogo.events/legal/cookies/) | \_csrf | Session | Security | events.openai.com |
-| [Swoogo⁠⁠](https://swoogo.events/legal/cookies/https://swoogo.events/legal/cookies/) | AWSALB | 7 days | Security | events.openai.com |
-| [Google](https://policies.google.com/technologies/partner-sites/) | g\_state | 6 months | Service functionality | chatgpt.com |
+| [Swoogo⁠⁠](https://swoogo.events/legal/cookies/) | AWSALB | 7 days | Security | events.openai.com |
+| [Google](https://policies.google.com/technologies/partner-sites) | g\_state | 6 months | Service functionality | chatgpt.com |
 
 \*Please note that the specific cookies and similar technologies we use may vary depending on your region, the Services you use, and your privacy choices.
 
@@ -127,6 +131,7 @@ These cookies help us understand how our Services perform and are used, such as 
 | --- | --- | --- | --- | --- |
 | [OpenAI](https://openai.com/policies/privacy-policy/) | \_\_obi | 1 year | Analytics | chatgpt.com  <br>openai.com |
 | [OpenAI](https://openai.com/policies/privacy-policy/) | \_\_Host-appgarden-visitor | 90 days | Analytics | .chatgpt.site |
+| OpenAI | oai-did-first-seen | 365 days | Analytics | chatgpt.com |
 
 Marketing Performance cookies
 -----------------------------
