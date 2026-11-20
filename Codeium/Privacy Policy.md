@@ -12,6 +12,7 @@ It is important that you understand how we use your information. You should read
 *   Our goal is to simplify your experience. If you do not wish for your personal information to be collected, used, or disclosed as described in this Privacy Policy, or you are under 18 years of age, you should stop accessing our Services.
 *   We collect and use your information in order to provide and improve our Services and your experience, protect the security and integrity of our platform, and meet our legal obligations. To learn more, explore **Section 1. Information We Collect** and **Section 2. How We Use Your Information**.
 *   We share your information with trusted third parties and service providers in order to offer our Services, fulfill legal requirements and for the purposes set out more fully below.
+*   To learn how we crawl the public web and how site owners may opt out, see our [Crawling Policy](https://codeium.com/legal/bot-policy).
 *   If you have any questions, or to exercise any available rights, please contact us at [privacy@cognition.ai](mailto:privacy@cognition.ai).
 
 1\. Information we collect
