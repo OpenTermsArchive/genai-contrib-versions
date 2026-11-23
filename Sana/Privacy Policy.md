@@ -325,6 +325,16 @@ Sweden
 
 [](https://sanalabs.com/)
 
+UTM Term
+
+UTM Source
+
+UTM Campaign
+
+UTM Medium
+
+UTM Content
+
 **Sana Learn**
 
 *   [Overview](https://sanalabs.com/products/sana-learn/)
