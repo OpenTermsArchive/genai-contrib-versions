@@ -190,7 +190,7 @@ Appendix 1 – Berget AI Subprocessors
 
 The following list describes Berget AI subprocessors:
 
-*   Airon AB (Org nr: 556808-8594), provides services to Berget AI AB with regards to GPU bare-metal infrastructure
+*   AI Iron AB (Org nr: 559490-8054), provides services to Berget AI AB with regards to GPU bare-metal infrastructure
     
 *   Acebit AB (Org nr: 559265-3538), provides services to Berget AI AB with regards to network and server design and operations and support
     
