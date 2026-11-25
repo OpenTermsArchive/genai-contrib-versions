@@ -264,7 +264,7 @@ Image Models
 
 Video Models
 
-[AI Video Generator](https://fal.ai/tools/ai-video-generator)[Seedance 2.5](https://fal.ai/seedance-2.5)[MiniMax H3 Max](https://fal.ai/minimax-h3-max)[Kling 4.0](https://fal.ai/kling-4)[FLUX 3 Max](https://fal.ai/flux-3-max)[Wan 3.0](https://fal.ai/wan-3)[LTX 2.5](https://fal.ai/ltx-2.5)[Explore video models](https://fal.ai/pixverse-v6)[PixVerse V6](https://fal.ai/pixverse-v6)
+[AI Video Generator](https://fal.ai/tools/ai-video-generator)[Seedance 2.5 API](https://fal.ai/seedance-2.5)[MiniMax H3 Max](https://fal.ai/minimax-h3-max)[Kling 4.0](https://fal.ai/kling-4)[FLUX 3 Max](https://fal.ai/flux-3-max)[Wan 3.0](https://fal.ai/wan-3)[LTX 2.5](https://fal.ai/ltx-2.5)[Explore video models](https://fal.ai/pixverse-v6)[PixVerse V6](https://fal.ai/pixverse-v6)
 
 Labs
 
